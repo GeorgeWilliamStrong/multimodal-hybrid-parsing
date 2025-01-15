@@ -67,14 +67,10 @@ parser = HybridParser(
     openai_api_key="your-api-key"  # optional, can use environment variable
 )
 
-# Parse document with GPT-4V refinement
+# Parse document with VLM refinement
 markdown = parser.parse_document(
     "path/to/document.pdf",
     "output.md",  # output path is optional
     "temp/images"  # temporary image directory is optional
 )
 ```
-
-## License
-
-MIT
