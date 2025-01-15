@@ -8,7 +8,7 @@ from PIL import Image
 class PageImageConverter:
     """Converts PDF documents to page images."""
     
-    def __init__(self, dpi: int = 200):
+    def __init__(self, dpi: int = 300):
         """Initialize the converter with specified DPI for image conversion.
         
         Args:
