@@ -18,7 +18,7 @@ Before installing this package, you need the following system dependencies:
 3. Follow these steps
 ```bash
 git clone https://github.com/georgewilliamstrong/multimodal-hybrid-parsing.git
-cd multimodal-hybrid-parsing.git
+cd multimodal-hybrid-parsing
 pip install -e .
 ```
 
