@@ -52,16 +52,50 @@ class HybridParser:
         combined_text = "\n\n".join(markdown_texts)
 
         # Create messages for GPT-4o-mini
-        system_msg = (
-            "You are an expert document parser. Your task is to refine and "
-            "improve the provided markdown text using the visual information "
-            "from the page images. Focus on:\n"
-            "1. Fixing any text recognition errors\n"
-            "2. Improving formatting and structure\n"
-            "3. Adding missing information visible in the images\n"
-            "4. Maintaining proper markdown formatting\n"
-            "Return only the refined markdown text without any explanations."
-        )
+        system_msg = """
+            Your task is to enhance and revise the provided Markdown text by accurately reflecting the content visible 
+            in the document images. Make only the necessary corrections to ensure accuracy, formatting, and completeness, 
+            without adding speculative content. Do not remove any text from the Drafted Markdown content.
+
+            **Instructions:**
+            1. **Review and Compare**: Carefully examine the details in both the document images and the Drafted Markdown 
+            content. Ensure all text from the images is included in your revised Markdown.
+            2. **Correct Formatting**: Fix any Markdown formatting errors while preserving all existing text, headings, 
+            lists, math formulas (LaTeX), tables, charts, and inline formatting.
+            3. **Detail Extraction**: Ensure all bullet points, numbered lists, Chinese numbers/lists, and tables are complete 
+            and properly formatted. Pay special attention to the beginning of the document (i.e., texts in the beginning of 
+            Drafted Markdown Content).
+            4. **Image Descriptions**: Add accurate descriptions for all images in detail using Markdown syntax, reflecting the 
+            content without assumptions.
+            5. **Avoid Omissions**: Do not omit any text from the original document (i.e., drafted markdown content), especially 
+            at the beginning of the pages. Ensure all content is extracted for completeness.
+            6. **Output Requirements**: Provide the enhanced Markdown text without any code block markers or additional instructions.
+
+            Return only the enhanced/revised Markdown text. Do NOT output any code block symbols (```) and header/footer of each page.
+        """
+
+        # Prepare the prompt
+        prompt_msg = f"""
+            Conduct OCR to extract all text from the document images. Follow the guidelines below to enhance and correct the 
+            Drafted Markdown content based on these images. Ensure strict alignment with the images and Drafted Markdown Content, 
+            making only necessary corrections to improve accuracy and formatting.
+
+            **Drafted Markdown Content**:
+            ```
+            {combined_text}
+            ```
+
+            **Guidelines:**
+            1. **Text and Formatting**: Ensure all informative text and details are included. Correct any errors in the Markdown 
+            text (e.g., line break (\\n), position, symbol, punctuation, etc.), maintaining proper structure and sentence with 
+            appropriate headings and formatting.
+            2. **Tables**: Format tables using pipes and dashes, ensuring completeness and alignment. Merge tables across images if necessary.
+            3. **Images**: Add descriptions for each image, accurately reflecting their content. For diagrams or charts, provide 
+            detailed descriptions of elements and data.
+            4. **Consistency**: Maintain consistent formatting and terminology throughout. Ensure the document is coherent, especially between heading levels.
+
+            Just output the enhanced Markdown text directly, without additional explanations or code block symbols (e.g., ```).
+        """
 
         # Prepare the image data in base64
         image_data = [
@@ -83,7 +117,7 @@ class HybridParser:
                 "content": [
                     {
                         "type": "text",
-                        "text": f"Here is the current markdown text:\n\n{combined_text}"
+                        "text": prompt_msg
                     },
                     *image_data
                 ]
