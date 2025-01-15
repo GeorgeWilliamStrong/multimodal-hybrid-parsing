@@ -14,10 +14,12 @@ Before installing this package, you need the following system dependencies:
 ## Installation
 
 1. Install system dependencies (see above)
-
-2. Install the Python package:
+2. Activate the environment you wish to install this library in
+3. Follow these steps
 ```bash
-pip install multimodal-hybrid-parsing
+git clone https://github.com/georgewilliamstrong/multimodal-hybrid-parsing.git
+cd multimodal-hybrid-parsing.git
+pip install -e .
 ```
 
 ## Usage
@@ -45,7 +47,7 @@ To extract page images from a document:
 from multimodal_hybrid_parsing import PageImageConverter
 
 # Create converter
-converter = PageImageConverter(dpi=200)  # adjust DPI as needed
+converter = PageImageConverter(dpi=300)  # adjust DPI as needed
 
 # Convert document to images
 images = converter.convert_to_images(
