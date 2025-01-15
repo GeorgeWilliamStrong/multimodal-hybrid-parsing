@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=64.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "multimodal-hybrid-parsing"
+version = "0.1.0"
+description = "A library for multimodal hybrid document parsing"
+authors = [
+    {name = "George Strong", email = "geowstrong@gmail.com"},
+]
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = [
+    "docling==2.15.1",
+    "pytest==7.0.0",
+    "pdf2image==1.16.0",
+    "reportlab==4.2.5",
+    "Pillow==10.4.0",
+]
+
+[tool.setuptools]
+packages = ["multimodal_hybrid_parsing"]
