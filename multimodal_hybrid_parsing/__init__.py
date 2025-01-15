@@ -2,6 +2,7 @@ import subprocess
 import sys
 from .page_images import PageImageConverter
 from .heuristic_parser import DocumentParser
+from .hybrid_parser import HybridParser
 
 
 def _check_system_dependencies():
@@ -39,4 +40,4 @@ def _check_system_dependencies():
 # Run dependency check on import
 _check_system_dependencies()
 
-__all__ = ['PageImageConverter', 'DocumentParser']
+__all__ = ['PageImageConverter', 'DocumentParser', 'HybridParser']
