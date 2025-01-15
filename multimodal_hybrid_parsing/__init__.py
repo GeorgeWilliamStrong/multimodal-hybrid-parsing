@@ -9,16 +9,6 @@ def _check_system_dependencies():
     """Check if required system dependencies are installed."""
     missing = []
     
-    # Check LibreOffice
-    try:
-        subprocess.run(
-            ['soffice', '--version'],
-            capture_output=True,
-            check=True
-        )
-    except (subprocess.CalledProcessError, FileNotFoundError):
-        missing.append("LibreOffice (soffice)")
-    
     # Check Poppler (pdf2image dependency)
     try:
         subprocess.run(
