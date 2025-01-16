@@ -4,7 +4,7 @@ from multimodal_hybrid_parsing.page_images import PageImageConverter
 
 def test_document_to_images():
     # Create a converter instance
-    converter = PageImageConverter(dpi=200)
+    converter = PageImageConverter(dpi=150)
 
     # Get all files from samples directory
     samples_dir = Path("tests/samples")

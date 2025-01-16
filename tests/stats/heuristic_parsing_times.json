@@ -1,0 +1,98 @@
+{
+  "[2-page-table] Understanding RAG.pdf": [
+    {
+      "timestamp": "2025-01-16 22:36:12",
+      "processing_time": 5.49609112739563,
+      "file_size": 170738,
+      "success": true
+    }
+  ],
+  "[scanned] sv600_m_excellent.pdf": [
+    {
+      "timestamp": "2025-01-16 22:36:20",
+      "processing_time": 7.95635199546814,
+      "file_size": 641447,
+      "success": true
+    }
+  ],
+  "[quarterly-release] aapl-20240629.pdf": [
+    {
+      "timestamp": "2025-01-16 22:36:39",
+      "processing_time": 19.489258289337158,
+      "file_size": 1370585,
+      "success": true
+    }
+  ],
+  "[scanned] PublicWaterMassMailing.pdf": [
+    {
+      "timestamp": "2025-01-16 22:37:14",
+      "processing_time": 34.89219403266907,
+      "file_size": 2681358,
+      "success": true
+    }
+  ],
+  "[maths-and-diagrams] ey-gen-ai-report.pdf": [
+    {
+      "timestamp": "2025-01-16 22:38:00",
+      "processing_time": 46.278149127960205,
+      "file_size": 9701634,
+      "success": true
+    }
+  ],
+  "[table] Black White Minimalist Simple Creative Freelancer Invoice (1).pdf": [
+    {
+      "timestamp": "2025-01-16 22:38:04",
+      "processing_time": 3.613100051879883,
+      "file_size": 34413,
+      "success": true
+    }
+  ],
+  "[complex-chart] generative-ai-global-research-report-113914.pdf": [
+    {
+      "timestamp": "2025-01-16 22:38:35",
+      "processing_time": 31.517688989639282,
+      "file_size": 4047699,
+      "success": true
+    }
+  ],
+  "[research-paper] 1312.6114v11.pdf": [
+    {
+      "timestamp": "2025-01-16 22:38:45",
+      "processing_time": 10.025468826293945,
+      "file_size": 3926758,
+      "success": true
+    }
+  ],
+  "[handwritten] Deloitte.pdf": [
+    {
+      "timestamp": "2025-01-16 22:38:52",
+      "processing_time": 6.26178503036499,
+      "file_size": 300295,
+      "success": true
+    }
+  ],
+  "[form-data] uniform_residential_loan_application.pdf": [
+    {
+      "timestamp": "2025-01-16 22:38:57",
+      "processing_time": 5.2718260288238525,
+      "file_size": 506407,
+      "success": true
+    }
+  ],
+  "[red-line-doc] Dummy employee contract.pdf": [
+    {
+      "timestamp": "2025-01-16 22:39:00",
+      "processing_time": 3.406913995742798,
+      "file_size": 112065,
+      "success": true
+    }
+  ],
+  "[low-quality-scan]cia-rdp74-00005r000200080057-3 (dragged).pdf": [
+    {
+      "timestamp": "2025-01-16 22:39:07",
+      "processing_time": 6.792115926742554,
+      "file_size": 748149,
+      "success": true
+    }
+  ]
+}

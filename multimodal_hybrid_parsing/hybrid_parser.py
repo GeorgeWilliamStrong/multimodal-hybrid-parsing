@@ -12,20 +12,25 @@ from tqdm.asyncio import tqdm
 
 
 class HybridParser:
-    """Parser class that combines heuristic parsing with GPT-4V refinement"""
+    """Parser class that combines heuristic parsing with VLM refinement"""
 
     def __init__(
-        self, batch_size: int = 3, openai_api_key: Optional[str] = None
+        self,
+        batch_size: int = 4,
+        model: str = "gpt-4o-mini",
+        openai_api_key: Optional[str] = None
     ):
         """
         Initialize the hybrid parser
 
         Args:
-            batch_size: Number of pages to process in each GPT-4V batch
+            batch_size: Number of pages to process in each VLM batch
+            model: OpenAI model to use
             openai_api_key: OpenAI API key. If not provided, will try to use
                 environment variable.
         """
         self.batch_size = batch_size
+        self.model = model
         self.heuristic_parser = DocumentParser()
         self.image_converter = PageImageConverter()
         self.client = OpenAI(api_key=openai_api_key)
@@ -65,12 +70,15 @@ class HybridParser:
             3. **Detail Extraction**: Ensure all bullet points, numbered lists, Chinese numbers/lists, and tables are complete 
             and properly formatted. Pay special attention to the beginning of the document (i.e., texts in the beginning of 
             Drafted Markdown Content).
-            4. **Image Descriptions**: Add accurate descriptions for all images in detail using Markdown syntax, reflecting the 
-            content without assumptions.
+            4. **Image Descriptions**: Add accurate descriptions for all figures, images, and graphics contained in the document 
+            images in detail using Markdown syntax, reflecting the content of these images. Where image tags (e.g., <!-- image -->) 
+            and their corresponding images are present in the drafted markdown content, add detailed descriptions of the contents 
+            of these images based on the corresponding figure in the document images.
             5. **Avoid Omissions**: Do not omit any text from the original document (i.e., drafted markdown content), especially 
             at the beginning of the pages. Ensure all content is extracted for completeness.
             6. **Output Requirements**: Provide the enhanced Markdown text without any code block markers or additional instructions.
 
+            Ensure that all figures, images, and graphics contained in the document images are described in detail.
             Return only the enhanced/revised Markdown text. Do NOT output any code block symbols (```) and header/footer of each page.
         """
 
@@ -90,10 +98,12 @@ class HybridParser:
             text (e.g., line break (\\n), position, symbol, punctuation, etc.), maintaining proper structure and sentence with 
             appropriate headings and formatting.
             2. **Tables**: Format tables using pipes and dashes, ensuring completeness and alignment. Merge tables across images if necessary.
-            3. **Images**: Add descriptions for each image, accurately reflecting their content. For diagrams or charts, provide 
-            detailed descriptions of elements and data.
+            3. **Images**: Add descriptions for each figure, images, or graphic, accurately reflecting their content. For diagrams or charts, provide 
+            detailed descriptions of elements and data. Where image tags (e.g., <!-- image -->) and their corresponding images are present in the drafted 
+            markdown content, add detailed descriptions of the contents of these images based on the corresponding figure in the document images.
             4. **Consistency**: Maintain consistent formatting and terminology throughout. Ensure the document is coherent, especially between heading levels.
-
+            
+            Ensure that all figures, images, and graphics contained in the document images are described in detail.
             Just output the enhanced Markdown text directly, without additional explanations or code block symbols (e.g., ```).
         """
 
@@ -128,9 +138,9 @@ class HybridParser:
         async with session.post(
             'https://api.openai.com/v1/chat/completions',
             json={
-                "model": "gpt-4o-mini",
+                "model": self.model,
                 "messages": messages,
-                "max_tokens": 4096,
+                "max_tokens": 8192,
                 "temperature": 0
             },
             headers={"Authorization": f"Bearer {self.client.api_key}"}
