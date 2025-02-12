@@ -1,6 +1,8 @@
 import time
 import json
 from pathlib import Path
+import psutil
+import torch
 from multimodal_hybrid_parsing import DocumentParser
 
 
@@ -16,12 +18,12 @@ def test_pdf_parsing():
     # Create timing stats directory
     stats_dir = Path("tests/stats")
     stats_dir.mkdir(parents=True, exist_ok=True)
-    timing_file = stats_dir / "heuristic_parsing_cuda_times.json"
+    benchmark_file = stats_dir / "heuristic_parsing_cuda_stats.json"
 
     # Load existing timing data if available
-    timing_data = {}
-    if timing_file.exists():
-        timing_data = json.loads(timing_file.read_text())
+    benchmark_data = {}
+    if benchmark_file.exists():
+        benchmark_data = json.loads(benchmark_file.read_text())
 
     # Get all PDF files
     supported_extensions = [".pdf"]
@@ -41,31 +43,51 @@ def test_pdf_parsing():
     for sample_file in sample_files:
         try:
             start_time = time.time()
+            
+            # Record initial memory states
+            initial_gpu_memory = torch.cuda.memory_allocated() / (1024 * 1024)  # Convert to MB
+            initial_cpu_memory = psutil.Process().memory_info().rss / (1024 * 1024)  # Convert to MB
 
             # Load and convert the document
             parser.load_document(sample_file)
-
+            
             # Create output path with same name but .md extension
             output_path = output_dir / f"{sample_file.stem}.md"
 
             # Convert to markdown
             markdown_content = parser.to_markdown(output_path)
 
+            # Calculate memory usage
+            peak_gpu_memory = torch.cuda.max_memory_allocated() / (1024 * 1024)  # Convert to MB
+            final_gpu_memory = torch.cuda.memory_allocated() / (1024 * 1024)  # Convert to MB
+            final_cpu_memory = psutil.Process().memory_info().rss / (1024 * 1024)  # Convert to MB
+            
             # Calculate processing time
             processing_time = time.time() - start_time
 
-            # Update timing data
-            if sample_file.name not in timing_data:
-                timing_data[sample_file.name] = []
-            timing_data[sample_file.name].append({
+            # Update timing data with memory metrics
+            if sample_file.name not in benchmark_data:
+                benchmark_data[sample_file.name] = []
+            benchmark_data[sample_file.name].append({
                 'timestamp': time.strftime('%Y-%m-%d %H:%M:%S'),
                 'processing_time': processing_time,
                 'file_size': sample_file.stat().st_size,
-                'success': True
+                'success': True,
+                'memory_metrics': {
+                    'initial_gpu_memory_mb': round(initial_gpu_memory, 2),
+                    'peak_gpu_memory_mb': round(peak_gpu_memory, 2),
+                    'final_gpu_memory_mb': round(final_gpu_memory, 2),
+                    'gpu_memory_increase_mb': round(final_gpu_memory - initial_gpu_memory, 2),
+                    'initial_cpu_memory_mb': round(initial_cpu_memory, 2),
+                    'final_cpu_memory_mb': round(final_cpu_memory, 2),
+                    'cpu_memory_increase_mb': round(final_cpu_memory - initial_cpu_memory, 2)
+                }
             })
 
             print(f"✓ Successfully converted {sample_file.name}")
             print(f"  Processing time: {processing_time:.2f} seconds")
+            print(f"  GPU Memory: {final_gpu_memory - initial_gpu_memory:.2f}MB increase (Peak: {peak_gpu_memory:.2f}MB)")
+            print(f"  CPU Memory: {final_cpu_memory - initial_cpu_memory:.2f}MB increase")
             print(f"  Output saved to {output_path}")
             print(f"  Preview (first 200 chars):")
             print(f"  {markdown_content[:200]}...")
@@ -73,9 +95,9 @@ def test_pdf_parsing():
 
         except Exception as e:
             # Record failed attempt
-            if sample_file.name not in timing_data:
-                timing_data[sample_file.name] = []
-            timing_data[sample_file.name].append({
+            if sample_file.name not in benchmark_data:
+                benchmark_data[sample_file.name] = []
+            benchmark_data[sample_file.name].append({
                 'timestamp': time.strftime('%Y-%m-%d %H:%M:%S'),
                 'error': str(e),
                 'file_size': sample_file.stat().st_size,
@@ -87,7 +109,7 @@ def test_pdf_parsing():
             print("-" * 50)
 
     # Save timing data
-    timing_file.write_text(json.dumps(timing_data, indent=2))
+    benchmark_file.write_text(json.dumps(benchmark_data, indent=2))
 
 
 if __name__ == "__main__":
