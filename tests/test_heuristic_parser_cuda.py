@@ -6,17 +6,17 @@ from multimodal_hybrid_parsing import DocumentParser
 
 def test_pdf_parsing():
     # Create a parser instance
-    parser = DocumentParser()
+    parser = DocumentParser(device="cuda")
 
     # Get all files from samples directory
     samples_dir = Path("tests/samples")
-    output_dir = Path("tests/output/markdown/heuristic")
+    output_dir = Path("tests/output/markdown/heuristic_cuda")
     output_dir.mkdir(parents=True, exist_ok=True)
 
     # Create timing stats directory
     stats_dir = Path("tests/stats")
     stats_dir.mkdir(parents=True, exist_ok=True)
-    timing_file = stats_dir / "heuristic_parsing_times.json"
+    timing_file = stats_dir / "heuristic_parsing_cuda_times.json"
 
     # Load existing timing data if available
     timing_data = {}
