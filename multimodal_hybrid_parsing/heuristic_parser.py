@@ -6,14 +6,8 @@ from docling.datamodel.pipeline_options import (
     AcceleratorDevice,
     AcceleratorOptions,
     PdfPipelineOptions,
+    smolvlm_picture_description
 )
-
-
-# Configure the pipeline options
-pipeline_options = PdfPipelineOptions()
-pipeline_options.images_scale = 300 / 72.0
-pipeline_options.generate_page_images = True
-pipeline_options.generate_picture_images = True
 
 
 class DocumentParser:
@@ -53,6 +47,21 @@ class DocumentParser:
             device=device_map[self.device]
         )
 
+        # Configure pipeline options with picture description
+        self.pipeline_options = PdfPipelineOptions()
+        self.pipeline_options.images_scale = 300 / 72.0
+        self.pipeline_options.generate_page_images = True
+        self.pipeline_options.generate_picture_images = True
+
+        # Enable picture description
+        self.pipeline_options.do_picture_description = True
+        self.pipeline_options.picture_description_options = smolvlm_picture_description
+
+        # Optionally customize the prompt
+        self.pipeline_options.picture_description_options.prompt = (
+            "Describe the image in three sentences. Be concise and accurate."
+        )
+
     def load_document(self, file_path: Union[str, Path]) -> None:
         """
         Load a document from a file path
@@ -65,12 +74,12 @@ class DocumentParser:
         )
 
         # Update pipeline options with accelerator
-        pipeline_options.accelerator_options = self.accelerator_options
+        self.pipeline_options.accelerator_options = self.accelerator_options
 
         converter = DocumentConverter(
             format_options={
                     InputFormat.PDF: PdfFormatOption(
-                        pipeline_options=pipeline_options
+                        pipeline_options=self.pipeline_options
                     )
             }
         )
