@@ -101,7 +101,10 @@ class DocumentParser:
             raise ValueError("No document loaded. Call load_document() first.")
 
         markdown_pages = [
-            self.doc.document.export_to_markdown(page_no=i + 1)
+            self.doc.document.export_to_markdown(
+                page_no=i + 1,
+                image_mode=ImageRefMode.EMBEDDED  # Ensure images and annotations are included
+            )
             for i in range(self.doc.document.num_pages())
         ]
 
