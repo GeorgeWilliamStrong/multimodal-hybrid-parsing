@@ -1,6 +1,15 @@
-from docling.document_converter import DocumentConverter
 from pathlib import Path
 from typing import Union, Optional
+from docling.document_converter import DocumentConverter, PdfFormatOption
+from docling.datamodel.base_models import InputFormat
+from docling.datamodel.pipeline_options import PdfPipelineOptions
+
+
+# Configure the pipeline options
+pipeline_options = PdfPipelineOptions()
+pipeline_options.images_scale = 300 / 72.0
+pipeline_options.generate_page_images = True
+pipeline_options.generate_picture_images = True
 
 
 class DocumentParser:
@@ -17,7 +26,13 @@ class DocumentParser:
             file_path: Path to the document file
         """
         file_path = Path(file_path) if isinstance(file_path, str) else file_path
-        converter = DocumentConverter()
+        converter = DocumentConverter(
+            format_options={
+                    InputFormat.PDF: PdfFormatOption(
+                        pipeline_options=pipeline_options
+                    )
+            }
+        )
         self.doc = converter.convert(file_path)
 
     def to_markdown(self, output_path: Optional[Union[str, Path]] = None) -> str:
