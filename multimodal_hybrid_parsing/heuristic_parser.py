@@ -8,7 +8,7 @@ from docling.datamodel.pipeline_options import (
     PdfPipelineOptions,
     smolvlm_picture_description
 )
-from docling_core.types.doc import ImageRefMode, PictureItem
+from docling_core.types.doc import PictureItem
 
 
 class DocumentParser:
@@ -116,38 +116,37 @@ class DocumentParser:
         #    for i in range(self.doc.document.num_pages())
         #]
 
-        # Get the base markdown with images
-        markdown_pages = [
-            self.doc.document.export_to_markdown(
-                page_no=i + 1
-            )
-            for i in range(self.doc.document.num_pages())
-        ]
+        # Get each page's markdown with images
+        markdown_pages = []
+        for i in range(self.doc.document.num_pages()):
+            page_md = self.doc.document.export_to_markdown(page_no=i + 1)
+            
+            # Process images on this page
+            for element, _level in self.doc.document.iterate_items():
+                if isinstance(element, PictureItem) and element.annotations:
+                    if element.prov[0].page_no == i + 1:  # Check if image is on current page
+                        img_tag = "<!-- image -->"
+                        if img_tag in page_md:
+                            descriptions = "\n".join(
+                                f"**Image Description:** {ann.text}"
+                                for ann in element.annotations
+                            )
+                            page_md = page_md.replace(
+                                img_tag,
+                                f"{img_tag}\n{descriptions}\n",
+                                1  # Replace only first occurrence
+                            )
+            
+            markdown_pages.append(page_md)
+
+        # Join pages and write if needed
         markdown_text = "\n\n".join(markdown_pages)
-
-        # Find all image tags and add descriptions after them
-        for element, _level in self.doc.document.iterate_items():
-            if isinstance(element, PictureItem) and element.annotations:
-                # Find the image tag for this picture
-                img_tag = "<!-- image -->"
-                if img_tag in markdown_text:
-                    # Add descriptions after the image tag
-                    descriptions = "\n".join(
-                        f"**Image Description:** {ann.text}"
-                        for ann in element.annotations
-                    )
-                    markdown_text = markdown_text.replace(
-                        img_tag,
-                        f"{img_tag}\n{descriptions}\n",
-                        1  # Replace only the first occurrence
-                    )
-
         if output_path:
             output_path = (
                 Path(output_path) 
                 if isinstance(output_path, str) 
                 else output_path
             )
-            output_path.write_text("\n\n".join(markdown_pages))
+            output_path.write_text(markdown_text)
 
         return markdown_pages
