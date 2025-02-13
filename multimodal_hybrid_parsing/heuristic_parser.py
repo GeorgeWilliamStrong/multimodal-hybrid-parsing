@@ -58,6 +58,14 @@ class DocumentParser:
         self.pipeline_options.do_picture_description = True
         self.pipeline_options.do_formula_enrichment = True
         self.pipeline_options.picture_description_options = smolvlm_picture_description
+        self.pipeline_options.picture_description_options.generation_config = {
+            "max_new_tokens": 1000,  # Maximum length of generated text
+            "do_sample": False,      # Enable sampling
+            "temperature": 0.7,     # Control randomness (higher = more random)
+            "top_p": 0.9,          # Nucleus sampling parameter
+            "top_k": 50,           # Top-k sampling parameter
+            "repetition_penalty": 1.2  # Penalize repetition
+        }
 
         # Optionally customize the prompt
         self.pipeline_options.picture_description_options.prompt = (
