@@ -108,35 +108,36 @@ class DocumentParser:
         if not self.doc:
             raise ValueError("No document loaded. Call load_document() first.")
 
-        # First collect all picture descriptions by page
-        picture_descriptions = {}  # page_no -> list of (self_ref, descriptions)
+        # First collect all picture descriptions by page and sequence
+        picture_descriptions = {}  # page_no -> list of descriptions in order
         for element, _level in self.doc.document.iterate_items():
             if isinstance(element, PictureItem) and element.annotations:
                 page_no = element.prov[0].page_no
                 if page_no not in picture_descriptions:
                     picture_descriptions[page_no] = []
+                
                 descriptions = "\n".join(
                     f"**Image Description:** {ann.text}"
                     for ann in element.annotations
                 )
-                picture_descriptions[page_no].append((element.self_ref, descriptions))
+                picture_descriptions[page_no].append(descriptions)
 
-        # Process each page and add descriptions after image tags
+        # Process each page
         markdown_pages = []
         for i in range(self.doc.document.num_pages()):
             page_no = i + 1
             page_md = self.doc.document.export_to_markdown(page_no=page_no)
             
             if page_no in picture_descriptions:
-                # For each image on this page, add its description after the image tag
-                for _self_ref, descriptions in picture_descriptions[page_no]:
-                    img_tag = "<!-- image -->"
-                    if img_tag in page_md:
-                        page_md = page_md.replace(
-                            img_tag,
-                            f"{img_tag}\n{descriptions}",
-                            1  # Replace only first occurrence
-                        )
+                # Replace image tags with descriptions in sequence
+                desc_index = 0
+                while "<!-- image -->" in page_md and desc_index < len(picture_descriptions[page_no]):
+                    page_md = page_md.replace(
+                        "<!-- image -->",
+                        f"<!-- image -->\n{picture_descriptions[page_no][desc_index]}",
+                        1  # Replace only first occurrence
+                    )
+                    desc_index += 1
             
             markdown_pages.append(page_md)
 
