@@ -119,11 +119,14 @@ class DocumentParser:
                 # Get description or empty string if no annotations
                 description = ""
                 if element.annotations:
-                    descriptions = "\n".join(
-                        f"**Image Description:** {ann.text}"
-                        for ann in element.annotations
-                    )
-                    description = f"{descriptions}\n<!-- end image description -->"
+                    descriptions = []
+                    for ann in element.annotations:
+                        # Check if the text already starts with "Image Description"
+                        desc_text = ann.text
+                        if not desc_text.startswith("**Image Description:**"):
+                            desc_text = f"**Image Description:** {desc_text}"
+                        descriptions.append(desc_text)
+                    description = f"{'\n'.join(descriptions)}\n<!-- end image description -->"
                 picture_descriptions[page_no].append(description)
 
         # Process each page
