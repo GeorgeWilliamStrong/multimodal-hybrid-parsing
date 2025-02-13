@@ -107,13 +107,38 @@ class DocumentParser:
         if not self.doc:
             raise ValueError("No document loaded. Call load_document() first.")
 
-        markdown_pages = [
-            self.doc.document.export_to_markdown(
+        #markdown_pages = [
+        #    self.doc.document.export_to_markdown(
+        #        page_no=i + 1
+        #        #image_mode=ImageRefMode.EMBEDDED  # Ensure images and annotations are included
+        #    )
+        #    for i in range(self.doc.document.num_pages())
+        #]
+
+        markdown_pages = []
+        for i in range(self.doc.document.num_pages()):
+            page_md = self.doc.document.export_to_markdown(
                 page_no=i + 1
-                #image_mode=ImageRefMode.EMBEDDED  # Ensure images and annotations are included
+                #image_mode=ImageRefMode.EMBEDDED
             )
-            for i in range(self.doc.document.num_pages())
-        ]
+
+            # Find all PictureItems on this page and add their descriptions
+            for element, _level in self.doc.document.iterate_items():
+                if isinstance(element, PictureItem) and element.prov[0].page_no == i + 1:
+                    # Find the image reference in the markdown
+                    img_ref = f"![{element.self_ref}]"
+                    if img_ref in page_md:
+                        # Add descriptions after the image
+                        descriptions = [
+                            f"\n\n**Image Description:** {ann.text}"
+                            for ann in element.annotations
+                        ]
+                        page_md = page_md.replace(
+                            img_ref, 
+                            img_ref + "".join(descriptions)
+                        )
+
+            markdown_pages.append(page_md)
 
         if output_path:
             output_path = (
