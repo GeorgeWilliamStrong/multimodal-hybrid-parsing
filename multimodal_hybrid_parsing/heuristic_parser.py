@@ -108,45 +108,40 @@ class DocumentParser:
         if not self.doc:
             raise ValueError("No document loaded. Call load_document() first.")
 
-        #markdown_pages = [
-        #    self.doc.document.export_to_markdown(
-        #        page_no=i + 1
-        #        #image_mode=ImageRefMode.EMBEDDED  # Ensure images and annotations are included
-        #    )
-        #    for i in range(self.doc.document.num_pages())
-        #]
+            # First collect all picture descriptions by page
+        picture_descriptions = {}  # page_no -> list of (self_ref, descriptions)
+        for element, _level in self.doc.document.iterate_items():
+            if isinstance(element, PictureItem) and element.annotations:
+                page_no = element.prov[0].page_no
+                if page_no not in picture_descriptions:
+                    picture_descriptions[page_no] = []
+                descriptions = "\n".join(
+                    f"**Image Description:** {ann.text}"
+                    for ann in element.annotations
+                )
+                picture_descriptions[page_no].append((element.self_ref, descriptions))
 
-        # Get each page's markdown with images
+        # Process each page and replace image tags with descriptions
         markdown_pages = []
         for i in range(self.doc.document.num_pages()):
-            page_md = self.doc.document.export_to_markdown(page_no=i + 1)
+            page_no = i + 1
+            page_md = self.doc.document.export_to_markdown(page_no=page_no)
             
-            # Process images on this page
-            for element, _level in self.doc.document.iterate_items():
-                if isinstance(element, PictureItem) and element.annotations:
-                    if element.prov[0].page_no == i + 1:  # Check if image is on current page
-                        img_tag = "<!-- image -->"
-                        if img_tag in page_md:
-                            descriptions = "\n".join(
-                                f"**Image Description:** {ann.text}"
-                                for ann in element.annotations
-                            )
-                            page_md = page_md.replace(
-                                img_tag,
-                                f"{img_tag}\n{descriptions}\n",
-                                1  # Replace only first occurrence
-                            )
+            if page_no in picture_descriptions:
+                # Replace each image tag with its description
+                for self_ref, descriptions in picture_descriptions[page_no]:
+                    # Replace the specific image tag with the description
+                    page_md = descriptions + "\n\n"
             
             markdown_pages.append(page_md)
 
-        # Join pages and write if needed
-        markdown_text = "\n\n".join(markdown_pages)
+        # Write to file if output path provided
         if output_path:
             output_path = (
                 Path(output_path) 
                 if isinstance(output_path, str) 
                 else output_path
             )
-            output_path.write_text(markdown_text)
+            output_path.write_text("\n\n".join(markdown_pages))
 
         return markdown_pages
