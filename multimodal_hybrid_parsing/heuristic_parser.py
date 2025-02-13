@@ -56,6 +56,7 @@ class DocumentParser:
 
         # Enable picture description
         self.pipeline_options.do_picture_description = True
+        self.pipeline_options.do_formula_enrichment = True
         self.pipeline_options.picture_description_options = smolvlm_picture_description
 
         # Optionally customize the prompt
@@ -118,8 +119,7 @@ class DocumentParser:
         # Get the base markdown with images
         markdown_pages = [
             self.doc.document.export_to_markdown(
-                page_no=i + 1,
-                image_mode=ImageRefMode.EMBEDDED
+                page_no=i + 1
             )
             for i in range(self.doc.document.num_pages())
         ]
