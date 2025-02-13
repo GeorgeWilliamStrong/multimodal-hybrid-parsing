@@ -90,7 +90,7 @@ def test_pdf_parsing():
             print(f"  CPU Memory: {final_cpu_memory - initial_cpu_memory:.2f}MB increase")
             print(f"  Output saved to {output_path}")
             print(f"  Preview (first 200 chars):")
-            print(f"  {markdown_content[:200]}...")
+            #print(f"  {markdown_content[:200]}...")
             print("-" * 50)
 
         except Exception as e:

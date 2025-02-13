@@ -1,13 +1,14 @@
 from pathlib import Path
 from typing import Union, Optional
 from docling.document_converter import DocumentConverter, PdfFormatOption
-from docling.datamodel.base_models import InputFormat, ImageRefMode
+from docling.datamodel.base_models import InputFormat
 from docling.datamodel.pipeline_options import (
     AcceleratorDevice,
     AcceleratorOptions,
     PdfPipelineOptions,
     smolvlm_picture_description
 )
+from docling_core.types.doc import ImageRefMode, PictureItem
 
 
 class DocumentParser:
@@ -84,6 +85,12 @@ class DocumentParser:
             }
         )
         self.doc = converter.convert(file_path)
+        for element, _level in self.doc.document.iterate_items():
+            if isinstance(element, PictureItem):
+                print(f"\nPicture {element.self_ref}")
+                print(f"Caption: {element.caption_text(doc=self.doc.document)}")
+                for annotation in element.annotations:
+                    print(f"Description: {annotation.text}")
 
     def to_markdown(
         self, output_path: Optional[Union[str, Path]] = None
@@ -102,8 +109,8 @@ class DocumentParser:
 
         markdown_pages = [
             self.doc.document.export_to_markdown(
-                page_no=i + 1,
-                image_mode=ImageRefMode.EMBEDDED  # Ensure images and annotations are included
+                page_no=i + 1
+                #image_mode=ImageRefMode.EMBEDDED  # Ensure images and annotations are included
             )
             for i in range(self.doc.document.num_pages())
         ]
