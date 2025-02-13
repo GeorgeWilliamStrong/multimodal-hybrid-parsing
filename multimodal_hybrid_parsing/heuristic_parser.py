@@ -119,14 +119,9 @@ class DocumentParser:
                 # Get description or empty string if no annotations
                 description = ""
                 if element.annotations:
-                    descriptions = []
-                    for ann in element.annotations:
-                        # Check if the text already starts with "Image Description"
-                        desc_text = ann.text
-                        if not desc_text.startswith("**Image Description:**"):
-                            desc_text = f"**Image Description:** {desc_text}"
-                        descriptions.append(desc_text)
-                    description = f"{'\n'.join(descriptions)}\n<!-- end image description -->"
+                    # Take only the first annotation for each image
+                    ann = element.annotations[0]
+                    description = f"**Image Description:** {ann.text}\n<!-- end image description -->"
                 picture_descriptions[page_no].append(description)
 
         # Process each page
@@ -136,18 +131,23 @@ class DocumentParser:
             page_md = self.doc.document.export_to_markdown(page_no=page_no)
             
             if page_no in picture_descriptions:
-                # Count image tags in this page's markdown
-                img_tags = page_md.count("<!-- image -->")
+                # Split the markdown by image tags to process each section
+                parts = page_md.split("<!-- image -->")
                 
-                # Replace each image tag with its corresponding description
-                for idx in range(min(img_tags, len(picture_descriptions[page_no]))):
-                    description = picture_descriptions[page_no][idx]
-                    if description:  # Only add description if it exists
-                        page_md = page_md.replace(
-                            "<!-- image -->",
-                            f"<!-- image -->\n{description}",
-                            1  # Replace only first occurrence
-                        )
+                # Reconstruct the page with descriptions
+                new_page_md = parts[0]  # Start with the first part
+                for idx, part in enumerate(parts[1:]):  # Process remaining parts
+                    # Add image tag and description (if available)
+                    if idx < len(picture_descriptions[page_no]):
+                        description = picture_descriptions[page_no][idx]
+                        if description:
+                            new_page_md += f"<!-- image -->\n{description}\n{part}"
+                        else:
+                            new_page_md += f"<!-- image -->{part}"
+                    else:
+                        new_page_md += f"<!-- image -->{part}"
+                
+                page_md = new_page_md
             
             markdown_pages.append(page_md)
 
