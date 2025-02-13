@@ -108,7 +108,7 @@ class DocumentParser:
         if not self.doc:
             raise ValueError("No document loaded. Call load_document() first.")
 
-            # First collect all picture descriptions by page
+        # First collect all picture descriptions by page
         picture_descriptions = {}  # page_no -> list of (self_ref, descriptions)
         for element, _level in self.doc.document.iterate_items():
             if isinstance(element, PictureItem) and element.annotations:
@@ -121,17 +121,22 @@ class DocumentParser:
                 )
                 picture_descriptions[page_no].append((element.self_ref, descriptions))
 
-        # Process each page and replace image tags with descriptions
+        # Process each page and add descriptions after image tags
         markdown_pages = []
         for i in range(self.doc.document.num_pages()):
             page_no = i + 1
             page_md = self.doc.document.export_to_markdown(page_no=page_no)
             
             if page_no in picture_descriptions:
-                # Replace each image tag with its description
-                for self_ref, descriptions in picture_descriptions[page_no]:
-                    # Replace the specific image tag with the description
-                    page_md = descriptions + "\n\n"
+                # For each image on this page, add its description after the image tag
+                for _self_ref, descriptions in picture_descriptions[page_no]:
+                    img_tag = "<!-- image -->"
+                    if img_tag in page_md:
+                        page_md = page_md.replace(
+                            img_tag,
+                            f"{img_tag}\n{descriptions}",
+                            1  # Replace only first occurrence
+                        )
             
             markdown_pages.append(page_md)
 
