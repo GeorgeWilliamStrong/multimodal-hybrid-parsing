@@ -108,19 +108,22 @@ class DocumentParser:
         if not self.doc:
             raise ValueError("No document loaded. Call load_document() first.")
 
-        # First collect all picture descriptions by page and sequence
-        picture_descriptions = {}  # page_no -> list of descriptions in order
+        # First collect all picture descriptions by page and position
+        picture_descriptions = {}  # page_no -> list of descriptions in order of appearance
         for element, _level in self.doc.document.iterate_items():
-            if isinstance(element, PictureItem) and element.annotations:
+            if isinstance(element, PictureItem):
                 page_no = element.prov[0].page_no
                 if page_no not in picture_descriptions:
                     picture_descriptions[page_no] = []
                 
-                descriptions = "\n".join(
-                    f"**Image Description:** {ann.text}"
-                    for ann in element.annotations
-                )
-                picture_descriptions[page_no].append(descriptions)
+                # Get description or empty string if no annotations
+                description = ""
+                if element.annotations:
+                    description = "\n".join(
+                        f"**Image Description:** {ann.text}"
+                        for ann in element.annotations
+                    )
+                picture_descriptions[page_no].append(description)
 
         # Process each page
         markdown_pages = []
@@ -129,15 +132,18 @@ class DocumentParser:
             page_md = self.doc.document.export_to_markdown(page_no=page_no)
             
             if page_no in picture_descriptions:
-                # Replace image tags with descriptions in sequence
-                desc_index = 0
-                while "<!-- image -->" in page_md and desc_index < len(picture_descriptions[page_no]):
-                    page_md = page_md.replace(
-                        "<!-- image -->",
-                        f"<!-- image -->\n{picture_descriptions[page_no][desc_index]}",
-                        1  # Replace only first occurrence
-                    )
-                    desc_index += 1
+                # Count image tags in this page's markdown
+                img_tags = page_md.count("<!-- image -->")
+                
+                # Replace each image tag with its corresponding description
+                for idx in range(min(img_tags, len(picture_descriptions[page_no]))):
+                    description = picture_descriptions[page_no][idx]
+                    if description:  # Only add description if it exists
+                        page_md = page_md.replace(
+                            "<!-- image -->",
+                            f"<!-- image -->\n{description}",
+                            1  # Replace only first occurrence
+                        )
             
             markdown_pages.append(page_md)
 
