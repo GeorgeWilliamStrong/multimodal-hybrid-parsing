@@ -6,7 +6,7 @@ from docling.datamodel.pipeline_options import (
     AcceleratorDevice,
     AcceleratorOptions,
     PdfPipelineOptions,
-    smolvlm_picture_description
+    PictureDescriptionApiOptions,
 )
 from docling_core.types.doc import PictureItem
 import os
