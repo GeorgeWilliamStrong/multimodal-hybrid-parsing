@@ -115,30 +115,32 @@ class DocumentParser:
         #    for i in range(self.doc.document.num_pages())
         #]
 
-        markdown_pages = []
-        for i in range(self.doc.document.num_pages()):
-            page_md = self.doc.document.export_to_markdown(
-                page_no=i + 1
-                #image_mode=ImageRefMode.EMBEDDED
+        # Get the base markdown with images
+        markdown_pages = [
+            self.doc.document.export_to_markdown(
+                page_no=i + 1,
+                image_mode=ImageRefMode.EMBEDDED
             )
+            for i in range(self.doc.document.num_pages())
+        ]
+        markdown_text = "\n\n".join(markdown_pages)
 
-            # Find all PictureItems on this page and add their descriptions
-            for element, _level in self.doc.document.iterate_items():
-                if isinstance(element, PictureItem) and element.prov[0].page_no == i + 1:
-                    # Find the image reference in the markdown
-                    img_ref = f"![{element.self_ref}]"
-                    if img_ref in page_md:
-                        # Add descriptions after the image
-                        descriptions = [
-                            f"\n\n**Image Description:** {ann.text}"
-                            for ann in element.annotations
-                        ]
-                        page_md = page_md.replace(
-                            img_ref, 
-                            img_ref + "".join(descriptions)
-                        )
-
-            markdown_pages.append(page_md)
+        # Find all image tags and add descriptions after them
+        for element, _level in self.doc.document.iterate_items():
+            if isinstance(element, PictureItem) and element.annotations:
+                # Find the image tag for this picture
+                img_tag = "<!-- image -->"
+                if img_tag in markdown_text:
+                    # Add descriptions after the image tag
+                    descriptions = "\n".join(
+                        f"**Image Description:** {ann.text}"
+                        for ann in element.annotations
+                    )
+                    markdown_text = markdown_text.replace(
+                        img_tag,
+                        f"{img_tag}\n{descriptions}\n",
+                        1  # Replace only the first occurrence
+                    )
 
         if output_path:
             output_path = (
