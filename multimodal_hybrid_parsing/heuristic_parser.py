@@ -6,10 +6,9 @@ from docling.datamodel.pipeline_options import (
     AcceleratorDevice,
     AcceleratorOptions,
     PdfPipelineOptions,
-    PictureDescriptionApiOptions,
+    smolvlm_picture_description
 )
 from docling_core.types.doc import PictureItem
-import os
 
 
 class DocumentParser:
@@ -50,9 +49,7 @@ class DocumentParser:
         )
 
         # Configure pipeline options with picture description
-        self.pipeline_options = PdfPipelineOptions(
-            enable_remote_services=True
-        )
+        self.pipeline_options = PdfPipelineOptions()
         self.pipeline_options.images_scale = 300 / 72.0
         self.pipeline_options.generate_page_images = True
         self.pipeline_options.generate_picture_images = True
@@ -60,18 +57,15 @@ class DocumentParser:
         # Enable picture description
         self.pipeline_options.do_picture_description = True
         self.pipeline_options.do_formula_enrichment = True
-        self.pipeline_options.picture_description_options = PictureDescriptionApiOptions(
-            url="https://api.openai.com/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {os.getenv('OPENAI_API_KEY')}"
-            },
-            params={
-                "model": "gpt-4o-mini",
-                "max_tokens": 400,
-                "temperature": 0,
-            },
-            prompt="Describe the image in three sentences. Be concise and accurate.",
-            timeout=90,
+        self.pipeline_options.picture_description_options = smolvlm_picture_description
+        self.pipeline_options.picture_description_options.generation_config = {
+            "max_new_tokens": 400,  # Maximum length of generated text
+            "do_sample": False,      # Enable sampling
+        }
+
+        # Optionally customize the prompt
+        self.pipeline_options.picture_description_options.prompt = (
+            "Describe the image in three sentences. Be concise and accurate."
         )
 
     def load_document(self, file_path: Union[str, Path]) -> None:
