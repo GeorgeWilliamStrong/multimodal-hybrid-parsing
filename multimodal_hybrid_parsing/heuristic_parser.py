@@ -6,7 +6,7 @@ from docling.datamodel.pipeline_options import (
     AcceleratorDevice,
     AcceleratorOptions,
     PdfPipelineOptions,
-    smolvlm_picture_description
+    granite_picture_description
 )
 from docling_core.types.doc import PictureItem
 
@@ -57,15 +57,27 @@ class DocumentParser:
         # Enable picture description
         self.pipeline_options.do_picture_description = True
         self.pipeline_options.do_formula_enrichment = True
-        self.pipeline_options.picture_description_options = smolvlm_picture_description
+        self.pipeline_options.picture_description_options = granite_picture_description
         self.pipeline_options.picture_description_options.generation_config = {
-            "max_new_tokens": 400,  # Maximum length of generated text
+            "max_new_tokens": 800,  # Maximum length of generated text
             "do_sample": False,      # Enable sampling
         }
 
         # Optionally customize the prompt
         self.pipeline_options.picture_description_options.prompt = (
-            "Describe the image in three sentences. Be concise and accurate."
+            """
+            You are an expert at generating accurate descriptions of images in documents.
+
+            Analyse the contents of the image.
+            Describe the image in a few sentences.
+            Focus on observations rather than interpretations.
+            Extract key statistics where possible.
+            Be accurate and concise.
+            Do not infer anything beyond what you can see in the image.
+            If you are uncertain about something, omit it from your response.
+
+            Wait! Double check your answer before responding.
+            """
         )
 
     def load_document(self, file_path: Union[str, Path]) -> None:
@@ -90,12 +102,6 @@ class DocumentParser:
             }
         )
         self.doc = converter.convert(file_path)
-        for element, _level in self.doc.document.iterate_items():
-            if isinstance(element, PictureItem):
-                print(f"\nPicture {element.self_ref}")
-                print(f"Caption: {element.caption_text(doc=self.doc.document)}")
-                for annotation in element.annotations:
-                    print(f"Description: {annotation.text}")
 
     def to_markdown(
         self, output_path: Optional[Union[str, Path]] = None
