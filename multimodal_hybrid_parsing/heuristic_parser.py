@@ -1,13 +1,12 @@
 from pathlib import Path
-from typing import Union, Optional, Literal
+from typing import Union, Optional
 from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling.datamodel.base_models import InputFormat
 from docling.datamodel.pipeline_options import (
     AcceleratorDevice,
-    AcceleratorOptions, 
+    AcceleratorOptions,
     PdfPipelineOptions,
-    granite_picture_description,
-    PictureDescriptionApiOptions
+    granite_picture_description
 )
 from docling_core.types.doc import PictureItem
 
@@ -16,12 +15,10 @@ class DocumentParser:
     """Parser class to convert documents to markdown using docling"""
 
     def __init__(
-        self,
-        device: Optional[str] = None,
+        self, 
+        device: Optional[str] = None, 
         num_threads: int = 8,
-        enable_picture_description: bool = False,
-        description_model: Literal["granite", "gpt-4o-mini"] = "granite",
-        openai_api_key: Optional[str] = None
+        enable_picture_description: bool = False
     ):
         """
         Initialize the parser
@@ -30,9 +27,6 @@ class DocumentParser:
             device: Device for processing ('cuda', 'mps', 'cpu', or 'auto'). 
                 If None, will use 'auto'.
             num_threads: Number of threads to use for processing
-            enable_picture_description: Whether to enable image description
-            description_model: Which model to use for descriptions ('granite' or 'gpt-4o-mini')
-            openai_api_key: OpenAI API key (required if using gpt-4o-mini)
         """
         self.doc = None
         self.device = device or "auto"
@@ -41,14 +35,16 @@ class DocumentParser:
         # Map string device names to AcceleratorDevice enum
         device_map = {
             "cuda": AcceleratorDevice.CUDA,
-            "mps": AcceleratorDevice.MPS, 
+            "mps": AcceleratorDevice.MPS,
             "cpu": AcceleratorDevice.CPU,
             "auto": AcceleratorDevice.AUTO,
         }
 
         if self.device not in device_map:
             raise ValueError(
-                f"Invalid device '{device}'. Must be one of: {list(device_map.keys())}"
+                "Invalid device '{}'. Must be one of: {}".format(
+                    device, list(device_map.keys())
+                )
             )
 
         # Configure accelerator options
@@ -58,58 +54,37 @@ class DocumentParser:
         )
 
         # Configure pipeline options with picture description
-        self.pipeline_options = PdfPipelineOptions(
-            enable_remote_services=(description_model == "gpt-4o-mini")  # Pass as constructor parameter
-        )
+        self.pipeline_options = PdfPipelineOptions()
         self.pipeline_options.images_scale = 300 / 72.0
         self.pipeline_options.generate_page_images = True
         self.pipeline_options.generate_picture_images = True
         self.pipeline_options.do_formula_enrichment = True
 
-        # Configure picture description if enabled
+        # Configure picture description only if enabled
         if enable_picture_description:
             self.pipeline_options.do_picture_description = True
+            self.pipeline_options.picture_description_options = granite_picture_description
+            self.pipeline_options.picture_description_options.generation_config = {
+                "max_new_tokens": 800,
+                "do_sample": False,
+            }
 
-            if description_model == "granite":
-                self.pipeline_options.picture_description_options = granite_picture_description
-                self.pipeline_options.picture_description_options.generation_config = {
-                    "max_new_tokens": 800,
-                    "do_sample": False,
-                }
-                self._set_description_prompt(self.pipeline_options.picture_description_options)
+            # Customize the prompt
+            self.pipeline_options.picture_description_options.prompt = (
+                """
+                You are an expert at generating accurate descriptions of images in documents.
 
-            elif description_model == "gpt-4o-mini":
-                if not openai_api_key:
-                    raise ValueError("OpenAI API key required when using gpt-4o-mini model")
-                
-                self.pipeline_options.picture_description_options = PictureDescriptionApiOptions(
-                    url="https://api.openai.com/v1/chat/completions",
-                    headers={"Authorization": f"Bearer {openai_api_key}"},
-                    params={
-                        "model": "gpt-4o-mini",
-                        "max_tokens": 800,
-                        "temperature": 0,
-                        "top_p": 0.95
-                    },
-                    timeout=30,
-                )
-                self._set_description_prompt(self.pipeline_options.picture_description_options)
+                Analyse the contents of the image.
+                Describe the image in a few sentences.
+                Focus on observations rather than interpretations.
+                Extract key statistics where possible.
+                Be accurate and concise.
+                Do not infer anything beyond what you can see in the image.
+                If you are uncertain about something, omit it from your response.
 
-    def _set_description_prompt(self, options):
-        """Set the custom prompt for image description"""
-        options.prompt = """
-            You are an expert at generating accurate descriptions of images in documents.
-
-            Analyse the contents of the image.
-            Describe the image in a few sentences.
-            Focus on observations rather than interpretations.
-            Extract key statistics where possible.
-            Be accurate and concise.
-            Do not infer anything beyond what you can see in the image.
-            If you are uncertain about something, omit it from your response.
-
-            Wait! Double check your answer before responding.
-            """
+                Wait! Double check your answer before responding.
+                """
+            )
 
     def load_document(self, file_path: Union[str, Path]) -> None:
         """
