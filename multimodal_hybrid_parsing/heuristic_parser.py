@@ -14,7 +14,12 @@ from docling_core.types.doc import PictureItem
 class DocumentParser:
     """Parser class to convert documents to markdown using docling"""
 
-    def __init__(self, device: Optional[str] = None, num_threads: int = 8):
+    def __init__(
+        self, 
+        device: Optional[str] = None, 
+        num_threads: int = 8,
+        enable_picture_description: bool = False
+    ):
         """
         Initialize the parser
 
@@ -53,32 +58,33 @@ class DocumentParser:
         self.pipeline_options.images_scale = 300 / 72.0
         self.pipeline_options.generate_page_images = True
         self.pipeline_options.generate_picture_images = True
-
-        # Enable picture description
-        self.pipeline_options.do_picture_description = True
         self.pipeline_options.do_formula_enrichment = True
-        self.pipeline_options.picture_description_options = granite_picture_description
-        self.pipeline_options.picture_description_options.generation_config = {
-            "max_new_tokens": 800,  # Maximum length of generated text
-            "do_sample": False,      # Enable sampling
-        }
 
-        # Optionally customize the prompt
-        self.pipeline_options.picture_description_options.prompt = (
-            """
-            You are an expert at generating accurate descriptions of images in documents.
+        # Configure picture description only if enabled
+        if enable_picture_description:
+            self.pipeline_options.do_picture_description = True
+            self.pipeline_options.picture_description_options = granite_picture_description
+            self.pipeline_options.picture_description_options.generation_config = {
+                "max_new_tokens": 800,
+                "do_sample": False,
+            }
 
-            Analyse the contents of the image.
-            Describe the image in a few sentences.
-            Focus on observations rather than interpretations.
-            Extract key statistics where possible.
-            Be accurate and concise.
-            Do not infer anything beyond what you can see in the image.
-            If you are uncertain about something, omit it from your response.
+            # Customize the prompt
+            self.pipeline_options.picture_description_options.prompt = (
+                """
+                You are an expert at generating accurate descriptions of images in documents.
 
-            Wait! Double check your answer before responding.
-            """
-        )
+                Analyse the contents of the image.
+                Describe the image in a few sentences.
+                Focus on observations rather than interpretations.
+                Extract key statistics where possible.
+                Be accurate and concise.
+                Do not infer anything beyond what you can see in the image.
+                If you are uncertain about something, omit it from your response.
+
+                Wait! Double check your answer before responding.
+                """
+            )
 
     def load_document(self, file_path: Union[str, Path]) -> None:
         """
