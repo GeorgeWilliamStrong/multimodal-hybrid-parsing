@@ -1,5 +1,3 @@
-PFU Business report
-
 <!-- image -->
 
 ## New customer's development and increasing the sale of product
@@ -41,5 +39,3 @@ The committee that aimed at the decrease of a variety of business the recognitio
 Satisfaction rating to new product
 
 <!-- image -->
-
-No.068

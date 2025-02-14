@@ -21,6 +21,9 @@ Commission File Number:
 001-36743
 
 <!-- image -->
+**Image Description:** The image contains a single, stylized representation of the Apple Inc. logo. The logo is composed of a black apple with a bite taken out of the right side, which is a common visual motif associated with the company. The apple is set against a white background, and the logo is centered in the image. The design is simple and iconic, with no additional elements or text. The image is a digital rendering, likely intended for use in branding or marketing materials.
+<!-- end image description -->
+
 
 ## Apple Inc.
 

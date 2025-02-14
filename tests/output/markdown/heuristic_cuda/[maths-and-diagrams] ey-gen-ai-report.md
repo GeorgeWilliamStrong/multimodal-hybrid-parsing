@@ -86,10 +86,6 @@ Rajiv Memani Chairman and CEO, EY India
 
 <!-- image -->
 
-5
-
-The AI dea of india
-
 <!-- image -->
 
 <!-- image -->
@@ -114,19 +110,11 @@ In the short term, enterprises will grapple with a shortage of individuals posse
 
 Amidst rapid evolution of Gen AI across various dimensions, it is by no means certain what specific path this ecosystem will take going forward. Despite this uncertainty, specific trends are emerging - cognitive interfaces are reshaping the application landscape, AI agents are transforming the nature of work, and a new general computing paradigm is emerging, signifying a fundamental shift in computational processes and capabilities.
 
-7
-
-The AI dea of India
-
 <!-- image -->
 
 Global institutions like the World Bank and the IMF recognize India's economy as the fastest-growing among major nations. Our study indicates that India could experience a substantial boost in its GDP over seven years (2023-24 to 2029-30). The cumulative impact on GDP may range from US$1.2 trillion to US$1.5 trillion, contributing an additional 0.9% to 1.1% in annual CAGR. Given the immense capability of Gen AI with respect to its productivity and efficiency enhancing effects, its adoption has the potential to accelerate India's growth trajectory. It is, therefore, necessary to increase investment in Gen AI, education and upskilling to fully capitalize on the demographic dividend.
 
 While Gen AI's positive impact is anticipated across all sectors, its level of influence in each segment will depend on factors like feasibility, adoption rates, the organized sector's share and an industry segment's contribution to India's economic activity. Approximately 69% of the overall impact is expected to be derived from business services (including IT, legal, consulting, outsourcing, rental, etc.), financial services, transportation and logistics, education, retail trade and healthcare. The expected
-
-8
-
-The AI dea of India
 
 impact encompasses improvements in employee productivity, enhanced operational efficiency and personalized customer experiences. These sectors, having rapidly embraced digitalization, are wellpositioned to capitalize on the benefits of Gen AI. The IT sector also stands to gain significantly from the development of Gen AI platforms and tools both through productivity gains and through more revenues from its clients.
 
@@ -152,10 +140,6 @@ Besides data, the government could ensure access to critical digital infrastruct
 
 The agenda for enterprises is clearly cut out. In the face of imminent digital transformation, the shift to an AIfirst approach goes beyond implementing chatbots or experimenting with trendy tools. It demands a complete reimagination of the Digital Transformation strategy, leveraging AI alongside digital, cloud, and automation capabilities. This enables the emergence of new business models, widespread personalization and accelerated product and service innovation, in addition to the integration of Gen AI co-pilots and auto-pilots for intelligent automation and decision-making across processes and personas. Unlike other emerging technologies, Gen AI is now easily accessible on demand, simplifying the establishment of the technological foundation. Development of a clear enterprise AI and Gen AI strategy is paramount.
 
-9
-
-The AI dea of India
-
 ## Sector-wise impact of Gen AI on GVA (2029-30)
 
 <!-- image -->
@@ -165,10 +149,6 @@ To regulate Gen AI, a 'light touch' approach may help establish a responsive reg
 The government can support innovation by facilitating interventions to improve access to data, chips, talent, computing resources, etc.
 
 The approach will have to facilitate innovation while managing potential risks. This may be achieved through regulatory sandboxes, similar to what the government (RBI) had done to develop regulations for the FinTech industry. New algorithms can be tested in a 'controlled environment' to address risks and help develop new regulations that may be required to deploy the tested algorithms. Other measures could include the use of watermarking of Gen AI-created content and establishing technical standards. As the understanding of the technology
-
-10
-
-The AI dea of India
 
 ## An agenda for the government
 
@@ -228,10 +208,6 @@ The preferred mode for Gen AI implementation is by partnering with external tech
 
 <!-- image -->
 
-11
-
-The AI dea of India
-
 <!-- image -->
 
 <!-- image -->
@@ -250,8 +226,6 @@ Chapter 1
 
 <!-- image -->
 
-14
-
 Foundation models will
 
 fundamentally change the nature of digital interfaces enabling richer textual, voice image and video interactions
@@ -259,8 +233,6 @@ fundamentally change the nature of digital interfaces enabling richer textual, v
 Knowledge bases will allow the development of intelligent autonomous agents that will release massive productivity gains
 
 Gen AI will be embedded into all applications enabling a move towards a new computing architecture
-
-The AI dea of India
 
 ## New battle lines on the digital front
 
@@ -302,10 +274,6 @@ The pace of innovation over the last few quarters has been stunning. Every day w
 
 There has been a significant advancement in the capabilities of foundation models. Today we take the basic capabilities of foundation models for granted. These include conversations with long running context on abstract topics, summarizing web search results, condensing text and even querying structured datastores. We think it natural to point chat bots at PDF documents, websites and
 
-15
-
-The AI dea of India
-
 <!-- image -->
 
 even structured data stores and we expect answers with simple conversational queries. We have grown accustomed to these models being able to perform tasks on which they were not specifically trained i.e., they can generalize well beyond their training data which is arguably one of the key measures of intelligence.
@@ -317,10 +285,6 @@ All this happened in a few months. It is worth taking a few minutes to record th
 Trained on more data and more compute, the release of the GPT4 model in March 2023 broke new ground. It was more creative than ChatGPT, demonstrated superior reasoning capabilities, performed better at the Unform Bar Exam (90 th percentile) and at the Biology Olympiad (99 th percentile) and also had lower hallucination rates. It accomplished some amazing tasks - summarization, question answering and even some complex programming tasks. With GPT4 vision launched in September 2023 the model now incorporates image inputs - thus moving away from the language-only capabilities of earlier models - a key frontier in AI research and development.
 
 GPT4 with vision can now glean information from complex images, recognize locations and thus enable a whole new set of use cases from healthcare to scientific analysis. It also enables a world of ambient
-
-16
-
-The AI dea of India
 
 digital interfaces - imagine smart glasses that can see what you see by feeding a stream of vision data back to a foundation model. In November 2023,  Open AI launched GPT 4 Turbo with 128K context window, which means you can pack 300 pages of a book in a single prompt. And that too at 2X to 3X lower cost of GPT 4. Open AI also launched GPTs that are no code tools to create Gen AI chat apps and also platforms to buy and sell these GPT apps on GPT store, with the aim of becoming the iOS or Android of the Gen AI ecosystem.
 
@@ -364,10 +328,6 @@ Google is aiming to make Bard the personal assistant on your phone, handling tas
 
 <!-- image -->
 
-17
-
-The AI dea of India
-
 <!-- image -->
 
 ## The trouble in paradise
@@ -383,10 +343,6 @@ Start with the hallucination issue. Despite all the recent advances, foundation 
 Foundation models are not databases - they do not have memory. They are also very bad at planning and managing long running tasks. This is inherently limiting in the context of enterprise use cases where an item, for example, a customer service request of a sales lead, needs to be taken to closure. Foundation models are also notoriously bad at reasoning, as they do not explicitly 'know' the world we live in, they can be fooled by simple misleading prompts.
 
 Last but not the least, at our current stage of technology maturity, they are very difficult and expensive to train.
-
-18
-
-The AI dea of India
 
 ## Three steps to the future
 
@@ -434,8 +390,6 @@ Foundation models are not apps by themselves. They are foundational components o
 
 <!-- image -->
 
-The AI dea of India 19
-
 As technology entrepreneurs create and tweak new foundation models - and then make them useful for everyday work and life by developing apps built on them - it will bring about a sea change in the functioning of enterprises. It is also likely to transform old business models while creating new ones. This will be an exciting, if tumultuous, journey as Gen AI becomes an integral part of business.
 
 Chapter 2
@@ -456,14 +410,10 @@ Agenda
 
 <!-- image -->
 
-22
-
     - Organizations will benefit from putting in place a Gen AI strategy that integrates with their overall approach to customer engagement, digital operations and technology architecture
     - The technology is nascent and fast evolving, hence keeping abreast of the change is critical. Proving success through agile experiments and then scaling to full functional automation is critical to realizing benefits
     - Key decisions relate to a choice of LLMs and cloud vendors, integration with digital platforms and enterprise data ecosystems and the right security architecture
     - The cost-benefit equation is also very dynamic. All along the journey, it is important to keep a keen eye on costs of training, inference and application integration of key components
-
-The AI dea of India
 
 ## The break of the AI dawn
 
@@ -509,10 +459,6 @@ Several fundamental questions have surfaced about how enterprises can effectivel
 
 As we look to address these questions, we lay out a comprehensive enterprise transformation strategy to guide Gen AI adoption.
 
-23
-
-The AI dea of India
-
 ## The agenda for enterprises
 
 <!-- image -->
@@ -537,8 +483,6 @@ Align AI priorities with overall business strategy
 
 <!-- image -->
 
-The AI dea of India
-
 CXO group to agree on a clear AI policy and deployment goals
 
 Create investment plan, get board approval and allocate
@@ -560,8 +504,6 @@ Build-BuyPartner approach
 Unlike several other emerging technologies, Gen AI is now readily accessible on demand (through Application Programming Interfaces (APIs)) making the setting up of the technological foundation a relatively straightforward task. Of paramount importance is the development of a clear AI strategy.
 
 Given the intense scrutiny from the market and board, in-depth planning and successful initiation of the AI first journey is crucial. This involves evangelizing AI with business leaders to create a shared understanding and adopting design thinking to finalize a use case roadmap. It is critical to prioritize these use cases basis potential value, complexity and associated risks. Gen AI champions among business leaders play a key role. Organizations can take a dual approach during initial Gen AI pilots. One is a Bottom-Up approach that empowers Gen AI champions for grassroot innovation
-
-24
 
 using nimble federated Gen AI Pods. The other approach, Top Down, entails utilizing a Gen AI Center of Excellence (CoE) to design, build and deploy priority, high-value and complex use cases and also centrally define the technology stack, governance, talent and risk processes.
 
@@ -601,12 +543,6 @@ What are the challenges to Gen AI adoption in your organization? (Mark all that 
 
 <!-- image -->
 
-25
-
-The AI dea of India
-
-26
-
 ## Impact area
 
 Customer experience is the single most important facet that Gen AI is expected to impact
@@ -642,8 +578,6 @@ Q
 Assess a combination of a top-down strategy using enterprise-wide Gen AI tools to enhance productivity and deploy highvalue yet complex use cases, along with a bottoms-up approach that empowers businesses to experiment and innovate.
 
 Ensure accurate value measurement and communication to drive change
-
-The AI dea of India
 
 0
 
@@ -702,8 +636,6 @@ Closed Source LLMs are exclusively available on other enterprise Cloud providers
                                 - See Annexure A for more details on RAG and fine tuning and also our suggested approach for making LLMs more contextual with enterprise's proprietary data.
                                 - 4. The fourth critical step revolves around the seamless integration of models with various enterprise applications to drive effective decision-making. This entails the build and deployment of Gen AI agents tailored for high-priority use cases and their workflows.
 
-The AI dea of India 27
-
 These require adoption of specialized tools (for example, LangChain and LlamaIndex, Vector Databases like Pinecone, and model farms like Hugging Face). These agents can help automate end-end processes with minimal human intervention. Key differentiator is the intelligence and context of Gen AI to take a decision versus the existing business rules.
 
 Gen AI agents must also be seamlessly integrated with existing enterprise applications, including SFDC, SAP, Adobe, ServiceNow. Enterprises can also assess existing enterprise software providers who are augmenting their platforms with Gen AI capabilities, such as Salesforce's Einstein and Adobe's Firefly for creative content generation. Furthermore, a plethora of specialist SaaS tools for Gen AI applications are now available, offering enterprises options for speed and costefficiency, but need to be evaluated for security.
@@ -723,10 +655,6 @@ See Annexure C for a detailed comparative analysis.
 Open Source LLMs are best leveraged for use cases at scale where the 'token' volumes are high. A 'token' is the basic unit of text that a
 
 <!-- image -->
-
-28
-
-The AI dea of India
 
 model uses to process and generate a response. A typical use case of high token volume is customer service quality analysis which require reviewing all customer call transcripts for call quality and identifying reasons for escalation. Open Source Models are also suited for use cases that need domain specific data like clinical medical research data to answer user queries or ones which need access to sensitive data. Working with these models requires enterprises to plan and build a strong foundation for effective deployment.
 
@@ -762,10 +690,6 @@ Enterprises can prioritize use cases and start development of high-value, intern
 
 Simultaneously, enterprises can finalize their enterprise Gen AI strategy, construct the enterprise Gen AI stack, cultivate a talent pool, and institute responsible AI practices.
 
-29
-
-The AI dea of India
-
 ## Phase 2: Learn
 
 Building upon the insights gained from Sprint 1 of use cases, enterprises can look to adapt and launch Sprint 2. This involves scaling existing and internal use cases and developing new ones, including those with customer-facing applications such as customer service or enhanced buying experiences, utilizing Closed Source LLMs.
@@ -779,10 +703,6 @@ The implementation of the strategy involves constructing the technology platform
 Drawing on the learnings from Phase 2, enterprises can scale use cases to achieve 100% deployment following A/B Testing. This aims to drive both productivity and revenue growth. Rigorous monitoring of ROI for each use case is essential, guiding decisions on Open Source versus Closed Source LLM deployment based on token volumes and model accuracy.
 
 <!-- image -->
-
-30
-
-The AI dea of India
 
 0
 
@@ -846,10 +766,6 @@ How can we engage external AI experts while promoting internal collaboration for
 
 ?
 
-The AI dea of India
-
-31
-
 <!-- image -->
 
 <!-- image -->
@@ -863,10 +779,6 @@ The AI dea of India
 Successful Gen AI implementation necessitates a diverse skill set embedded in either a Gen AI CoE or in Gen AI Pods. Building, deploying and governing Gen AI agents and apps demands a specialized skill set combining AI engineering, data science, and expertise in FMs, LLMs, AI orchestration, prompt engineering, RAG, fine-tuning, and model deployment. To address the scarcity of such experts,
 
 enterprises may need to recruit individuals with NLP and traditional AI/ML backgrounds, providing them with targeted training to rapidly develop Gen AIspecific skills. This approach extends to cultivating talent within existing AI and analytics teams, leveraging their foundational expertise and fostering continuous learning.
-
-32
-
-The AI dea of India
 
 <!-- image -->
 
@@ -901,10 +813,6 @@ What risk worries you the most in Gen AI adoption? (Mark all that apply)
 
 <!-- image -->
 
-33
-
-The AI dea of India
-
 Q
 
 ## Comparing classical ML and Gen AI products
@@ -924,10 +832,6 @@ Q
 <!-- image -->
 
 To implement responsible AI effectively, it is imperative to establish a robust AI governance framework featuring explicit cross-functional ownership and accountability. This entails the formation of an AI Ethics Board dedicated to overseeing AI model risk management. Additionally, comprehensive training programs must be instituted for all employees, emphasizing responsible AI practices. The success of this deployment hinges on adept change management strategies to ensure a seamless and ethical integration of AI technologies within the organizational landscape. See Annexure F for EY's approach to Responsible AI.
-
-34
-
-The AI dea of India
 
 | Area              | 'Classical' ML Products                                                                                     | Knowledge of  Risk Gen AI Products                                                                                                                                      | Knowledge of  Risk   |
 |-------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
@@ -970,10 +874,6 @@ This strategic guide aims not only to distil the complexities inherent in planni
 <!-- image -->
 
 <!-- image -->
-
-35
-
-The AI dea of India
 
 37'
 
@@ -1020,10 +920,6 @@ India's economy is recognized as the fastest-growing among major nations by glob
 
 A report from EY, titled 'India@100: Realizing the Potential of a US$26 Trillion Economy,' forecasts that by sustaining a real GDP growth of 6-6.4% during the 'Amrit Kaal', India could become a US$26 trillion economy by 2047-48 in market exchange terms, attaining a per capita income of US$15,000, putting it in the ranks of developed countries. Given the immense capability of Gen AI with respect to its productivity and efficiency enhancing effects, its adoption has the potential to accelerate India's growth trajectory, enabling it to achieve these milestones sooner. This necessitates increased investment in Gen AI, education, and upskilling to fully capitalize on the demographic dividend.
 
-38
-
-The AI dea of India
-
 ## Sector-wise impact of Gen AI on GVA (2029-30)
 
 <!-- image -->
@@ -1040,13 +936,7 @@ To realize the full potential of Gen AI, we need a proactive regulatory stance. 
 
 Generative AI survey report
 
-39
-
 39|
-
-The AI dea of India
-
-40
 
 ## Methodology employed to compute macroeconomic impact
 
@@ -1057,8 +947,6 @@ The AI dea of India
                                                                             - · While estimating the impact of Gen AI, relative shares of organized and unorganized sectors for each industry segment have also been taken into consideration.
 
 See Annexure G for technical analysis
-
-The AI dea of India
 
 ## Gen AI's boost to sectors
 
@@ -1135,8 +1023,6 @@ Generative AI survey report
 
 41|
 
-The AI dea of India 41
-
 <!-- image -->
 
 <!-- image -->
@@ -1177,10 +1063,6 @@ Gen AI algorithms can be used
 
 deployed as Public Goods
 
-44
-
-The AI dea of India
-
 AI , especially Gen AI, has been attracting the attention of policymakers globally at the highest levels. It is seen as a technology that will drive the next level of scientific discovery and economic growth but carries risks that are yet to be fully understood. While all countries emphasize that AI regulation must strike a balance between fostering innovation while managing the risks, their approach and emphasis differs widely and has been evolving with time. Some countries are putting greater focus on promotion and development, while others on mitigating the risks from the implementation of the technology. The role of the government in developing AI algorithms also differs. Annexure H provides an overview of the approach taken by some countries.
 
 For the purposes of this chapter , 'Artificial Intelligence systems' is defined to broadly comprise of a Data Component, the Software/Algorithm Component, the Hardware/Compute Platform Component and Integration/Real World Applications . Gen AI 1 has been considered as a sub-set of AI systems specifically intended to generate, with varying levels of autonomy, content such as complex text, images, audio, or video, computer code, 3D models, etc.
@@ -1210,10 +1092,6 @@ Generative AI survey report
                                                                                     - · Leading AI companies have pledged to observe voluntary safeguards
                                                                                     - · Issued an 'Executive Order on Safe, Secure and Trustworthy Artificial Intelligence'
                                                                                     - · Various US government agencies  to formulate wide range of time-bound interventions relating to: safety, security, transparency, citizen/ consumer protections, effective government usage, innovation, competition, global leadership, etc.
-
-46
-
-The AI dea of India
 
 <!-- image -->
 
@@ -1245,15 +1123,9 @@ The AI dea of India
 
 While each country is looking at safeguards to address risks, many of the risks are global in nature. It is expected that as foundational models can perform a variety of tasks, the cost of access to these models will reduce as they become more widely accessible globally. Risks may arise from either intentional or unintentional misuse and could potentially arise anywhere. The recent Bletchley declaration 2 , which 28 countries (including India, the US, the UK, Israel, and China) and the EU have signed, highlights the intention of countries to cooperate to both harness the benefits and to address the risks. This is therefore significant as it is possible that countries may look at common standards and regulatory principles in the future.
 
-2 The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023 - GOV.UK (www.gov.uk)
-
 Generative AI survey report
 
-47
-
 47|
-
-The AI dea of India
 
 ## AI and the Indian context: Government initiatives laying foundation of growth of AI
 
@@ -1278,10 +1150,6 @@ NITI Aayog released the Principles of Responsible AI, which were finalized in 20
 ## National AI Mission under PM-STIAC
 
 The Prime Minister's Science, Technology and Innovation Advisory Council (PM-STIAC) launched the
-
-48
-
-The AI dea of India
 
 National AI Mission in 2022 with a strong R&amp;D focus. It aims to bring together academia and industry on developing core AI research capability at the national level and also encourage international collaborations.
 
@@ -1346,11 +1214,7 @@ Access to data is key for the development of AI systems. Government support woul
 
 Generative AI survey report
 
-49
-
 49|
-
-The AI dea of India
 
 - · Expedite the development of indigenous training datasets (especially for local Indian languages): The government may invest in creation of structured and unstructured datasets (documents, media, etc.) which are made open to the public and contribute to Gen AI development. Setting up new data pipelines will help to capture digitization of government data/documents (especially in Indian languages) and open up existing structured non-personal or anonymized government datasets for wider consumption. Standards may appropriately be notified to facilitate integration of crowd-sourced data for faster creation of training datasets.
                                                                                                                         - · Public data commons and marketplaces: Public data commons and marketplaces, along the lines of existing government efforts such as the Indian Urban Data Exchange (IUDX) Platform (under the Ministry of Housing and Urban Affairs), could be established to support AI and Gen AI development. The data commons can facilitate greater public access to open-source datasets, while the marketplaces would make it easier for private sector entities to reasonably license proprietary training data.
@@ -1373,10 +1237,6 @@ India has a history of developing successful Digital Public Goods (DPGs) such as
 
                                                                                                                         - · Access to chips: Availability of computation infrastructure and securing the technology supply chain is imperative for the development and deployment of AI. Gen AI requires chips with high processing power such as graphics processing units (GPUs), field-programmable gate arrays (FPGAs), and application-specific integrated circuits (ASICs) that are specialized for AI. Presently, these chips are imported into India. Therefore, technology partnerships with countries like the US, Taiwan, etc. would be crucial in sourcing technology that enables the growth of AI systems in India and securing future supply chains. In addition, incentivizing the domestic manufacturing of the same may be expedited as recommended by MEITY's IndiaAI Expert Group Report 2023.
                                                                                                                         - · Access to enhanced computational capability: Development of AI requires access to specialized computational capability. Cost of access to such computing power may be extremely challenging for smaller players, especially start-ups. Building on the suggestions of NITI Aayog in May 2023 9 ,
-
-50
-
-The AI dea of India
 
 the AIRAWAT supercomputer, focused on AI computing, was established at C-DAC 10 . Such efforts can democratize access to AI compute infrastructure. The technical requirements from a compute infrastructure/Gen AI point of view will still need regular review and additional infrastructure can be established. Like in Japan, domestic start-ups may be provided subsidized access to publicly funded compute resources 11 .
 
@@ -1404,11 +1264,7 @@ the AIRAWAT supercomputer, focused on AI computing, was established at C-DAC 10 
 
 Generative AI survey report
 
-51
-
 51|
-
-The AI dea of India
 
 and private entities understand and manage emergent risks while preparing for the future. The government will have to issue standardized guidelines (for data use, processing etc.) for developers to mitigate instances of bias and other risks that arise out of deployment and use of Gen AI systems.
 
@@ -1465,10 +1321,6 @@ Fine tuning: LLMs are built using data sourced from different sources such as we
 
 <!-- image -->
 
-56
-
-The AI dea of India
-
 B
 
 enterprise's own data means changing the underlying model parameters by training it on this new domainspecific data. The resultant model is a customized enterprise version of the LLM which understands and generates content more relevant to the domain and/ or the enterprise.
@@ -1485,11 +1337,7 @@ Data Foundation in place, which involves modernizing the Data Platform. See key 
 
 Generative AI survey report
 
-57
-
 57|
-
-The AI dea of India
 
 of fine tuning, and also as AI engineers have more control on the fine tuning process, many enterprises are exploring Fine Tuning of these models to create enterprise-specific variations.
 
@@ -1512,10 +1360,6 @@ Prompt: This is the input for LLMs. Techniques like Prompt Engineering and Optim
 ## Open source LLMs with fine tuning
 
 <!-- image -->
-
-58
-
-The AI dea of India
 
                                                                                                                                                             - · Infrastructure can become a big bottleneck in Speed to Market given the shortage of talent required for self-hosting, fine tuning, GPU optimization, infra management. There is a big challenge around Training GPU availability, for example, Nvidia A100s
                                                                                                                                                             - · Lock-in to a specific LLM model given rapid evolution
@@ -1559,13 +1403,7 @@ The AI dea of India
 
 Generative AI survey report
 
-59
-
 59|
-
-The AI dea of India
-
-60
 
 ## Reference Architecture
 
@@ -1586,8 +1424,6 @@ D
 
 Rate limiting and throttling: Managing requests and API volume for better user experience, latency and costs
 
-The AI dea of India
-
 ## Compute cost management for Open Source LLMs
 
                                                                                                                                                                                         - Optimize hardware resources: Match model's needs with CPU/GPU/TPU configurations to avoid overprovisioning and cut costs
@@ -1607,11 +1443,7 @@ F
 
 Generative AI survey report
 
-61
-
 61|
-
-The AI dea of India
 
 <!-- image -->
 
@@ -1643,10 +1475,6 @@ Table 1: List of variables
 |   6 |            | Additional nominal sectoral GVA in the terminal year 2029-30 on account of  Gen AI                 |
 |   7 |            | Base GVA magnitudes for 2029-30 excluding the effect of Gen AI for each sector                     |
 |   8 |            | total additional GVA for the economy as a whole on account of Gen AI in the  terminal year 2029-30 |
-
-62
-
-The AI dea of India
 
 Using (a) cost reduction and output expansion effects (in percentage terms) captured through the survey and (b) ratio of output and intermediate inputs relative to value added estimated from KLEMS database, we have assessed the impact of Gen AI on the organized segment of sector i's GVA (in % terms) through the following equation (1) 2
 
@@ -1682,8 +1510,6 @@ Generative AI survey report
 
 63|
 
-The AI dea of India 63
-
 H
 
 The base GVA in 2029-30 has been estimated using the projected nominal GDP magnitudes in INR terms available up to 2028-29 sourced from the IMF (WEO April 2023). Base GVA during the period from 2023-24 to 2028-29 has been derived from first projecting GDP and then subtracting from it net indirect taxes (NIT). An average nominal growth of 11% (avg. over 2023-24 to 2028-29) has been applied to project the nominal (Base) GDP for 2029-30. From this, the GVA in nominal terms has been estimated by netting out the net indirect taxes 4 for 2029-30. The overall nominal GVA estimated in 2029-30 has been split across the 27 KLEMS sectors to derive the base GVA for each sector (                       ) by utilizing the average share of these sectors in GVA during 2017-18 to 2019-20.
@@ -1693,10 +1519,6 @@ Using the sectoral estimates of Gen AI induced incremental GVAs, we have calcula
 ## Global Developments with Respect to Regulations and Gen AI
 
 Countries are adopting differential approaches to promoting and regulating AI, and more specifically, Gen AI. While all countries emphasize that AI regulation must strike a balance between fostering innovation while managing the risks, however their approaches and emphasis differs widely. With some putting greater focus on promotion and development and others on mitigating the risks from the implementation of the technology. The role of the government in developing AI algorithms also differs.
-
-64
-
-The AI dea of India
 
 ## The US
 
@@ -1738,11 +1560,7 @@ Use of Artificial Intelligence | The White House
 
 Generative AI survey report
 
-65
-
 65|
-
-The AI dea of India
 
 - commissioning of a report to evaluate the impact of AI on the labor market
                                                                                                                                                                                                                             - · Promoting Competition and Innovation by catalyzing AI research through provision of resources, providing small developers/ entrepreneurs technical assistance and resources and attracting highly skilled global AI talent
@@ -1759,10 +1577,6 @@ Promoting American Leadership Abroad
 The European Union (EU) is taking a risk-based approach to the regulation of AI, through which it seeks to strike a balance between protecting people from the risks of AI while promoting innovation. The EU parliament has recently approved a set of regulations for ratification/ consideration of member countries 15 .
 
 Before an AI system can be launched for public, it must meet a set of risk-management, transparency, documentation, oversight, and quality requirements 16 . The Act defines four levels of risks that are unacceptable risk, high risk, limited risk and minimal to no risk. The models falling in the unacceptable risk category cannot be deployed in the
-
-66
-
-The AI dea of India
 
 EU 17 while the high-risk AI systems need to undergo third-party conformity assessment 18 .
 
@@ -1807,11 +1621,7 @@ State Council': http://fi.china-embassy.gov.cn/eng/kxjs/201710/ P020210628714286
 
 Generative AI survey report
 
-67
-
 67|
-
-The AI dea of India
 
 in China are taking steps to shore up local firms by providing state-sponsored computing resources to AI firms 31 , and investment in algorithmic innovation, chip development and language data sets 32 .
 
@@ -1824,10 +1634,6 @@ The UAE has launched a Gen AI guide to address the opportunities and challenges 
 The UAE government through Technology Innovation Institute (TII) has taken a path much like India's UPI and has funded its indigenous technology. It has created LLMs called FALCON-40B and FALCON-7B as a Public Good and open-sourced it. A key feature of this LLM FALCON-40B is that it has 40 billion parameters while the FALCON-7B has 7 billion parameters. A greater number of parameters in FALCON-40B allows it to display a higher level of machine intelligence enabling the application to use it in relatively complex tasks when compared to FALCON-7B.
 
 As per the UAE government, the data pipeline used for FALCON has undergone a rigorous audit. This is expected to address problems such as inherent bias
-
-68
-
-The AI dea of India
 
 in the models. Further , this enhanced data pipeline allows it to match the performance of other models with only 75% of the compute budget while training and only a fifth during inference time 35 . As per TII, this Gen AI model is expected to help Emirati companies be cost-efficient. One important public use of these domestic LLMs is that they may be extensively used for language translations, sentiment analysis and as virtual assistants 36 .
 
@@ -1881,11 +1687,7 @@ Regulatory infrastructure required, for AI systems to flourish in India and to b
 
 Generative AI survey report
 
-69
-
 69|
-
-The AI dea of India
 
 <!-- image -->
 
@@ -2045,8 +1847,6 @@ ED None
 
 This publication contains information in summary form and is therefore intended for general guidance only. It is not intended to be a substitute for detailed research or the exercise of professional judgment. Neither EYGM Limited nor any other member of the global Ernst &amp; Young organization can accept any responsibility for loss occasioned to any person acting or refraining from action as a result of any material in this publication. On any specific matter , reference should be made to the appropriate advisor.
 
-RS1
-
 <!-- image -->
 
 <!-- image -->
@@ -2054,8 +1854,6 @@ RS1
 <!-- image -->
 
 <!-- image -->
-
-EY India
 
 <!-- image -->
 

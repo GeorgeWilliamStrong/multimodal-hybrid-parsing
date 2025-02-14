@@ -130,8 +130,6 @@ Wayne
 
 Saby
 
-Approved For Release 2001/03/02
-
 Ekstrom
 
 Director

@@ -1,4 +1,7 @@
 <!-- image -->
+**Image Description:** The image is a photograph of a document with text and contact information. The document is from the Missouri Department of Health and Senior Services, as indicated by the text at the top. The address provided is "P.O. Box 570, Jefferson City, MO 65102-0570." There are multiple phone numbers listed, including a toll-free number for hearing and speech impaired individuals, and a voice number. The document also includes the name "Peter Lyskowski" and the title "Acting Director." The text is in black on a white background, and the document appears to be a formal letter or announcement.
+<!-- end image description -->
+
 
 Missouri Public Water Systems
 
@@ -30,6 +33,9 @@ Healthy Missourians for life.
 The Missouri Department of Health and Senior Services be the leader in promoting, protecting and partnering for health. will
 
 <!-- image -->
+**Image Description:** The image is a monochromatic line drawing that appears to be a seal or emblem. It features a central circular motif with a design that includes what seems to be a stylized representation of a ship or a boat, surrounded by what could be interpreted as waves or water. Above the central motif, there are two figures that resemble bears, with one bear holding a shield and the other holding a sword. The bears are depicted in a stylized manner, with the shield and sword appearing to be made of metal. The background of the image is plain white, which contrasts with the black lines used to create the image. There are no discernible texts or additional elements within the image. The overall style of the image is reminiscent of heraldic or coat-of-arms designs, which often use such symbols to represent a family, organization, or country.
+<!-- end image description -->
+
 
 Jeremiah W. (Jay) Nixon Governor
 
@@ -62,6 +68,9 @@ Ifyou have any questions; please contact the MSPHL Environmental Bacteriology Un
 Once again; thank you for your patience and understanding as we implement these changes .
 
 <!-- image -->
+**Image Description:** The image contains a handwritten signature. The signature is in cursive script and appears to be the name "Patrick R. Shannon." The handwriting is consistent and legible, with no visible smudging or erasures. The signature is the only element in the image, and there are no additional objects or background details. The style of the signature suggests it may be from a personal document or correspondence.
+<!-- end image description -->
+
 
 Patrick R. Shannon Manager, Environmental Bacteriology Unit
 
@@ -74,6 +83,9 @@ Email: Pat Shannon@health mo gov
 Web: wwwhealth mo gov/Lab
 
 <!-- image -->
+**Image Description:** The image provided is a simple, unadorned barcode with no discernible text or distinguishing features. Barcodes are typically used for inventory management, sales tracking, and other purposes where a unique identifier is required. This particular barcode is composed of black and white stripes, which are standard for such purposes. The image does not contain any additional elements that would suggest a specific context or use. Therefore, the description focuses solely on the visual elements present in the image.
+<!-- end image description -->
+
 
 Order #:
 
@@ -92,14 +104,23 @@ Containers in Order: 1
 SD 062015
 
 <!-- image -->
+**Image Description:** The image provided is a simple, unadorned barcode. Barcodes are typically used for inventory management, sales tracking, and other purposes where a unique identifier for an item is required. This particular barcode is composed of black and white stripes, which are standard for such purposes. The stripes are uniform in width and spacing, which is essential for the barcode to be read by a barcode scanner. There are no discernible features or text that would indicate a specific use or origin for this barcode. It is a generic representation of a barcode, and without additional context, it is not possible to determine its specific application or the information it might encode.
+<!-- end image description -->
+
 
 REPORT TO:
 
 65
 
 <!-- image -->
+**Image Description:** The image provided is too small and lacks clarity to make out any specific details or content. It appears to be a close-up of a barcode or a similar patterned design, but without a clearer view, it is not possible to provide a detailed description or analysis. If you have a larger or clearer image, I would be happy to assist with a description.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image provided is a simple, unadorned barcode with no discernible text or distinguishing features. Barcodes are typically used for inventory management, product tracking, and sales purposes. They consist of a series of black and white bars that can be read by a barcode scanner. In this case, the barcode is uniformly striped, which is common for such items. The image does not contain any additional elements that would suggest a specific context or use. Therefore, the description focuses solely on the visual elements present in the image.
+<!-- end image description -->
+
 
 ADRIAN
 
@@ -188,12 +209,21 @@ BUILD ID
 BUILD ID
 
 <!-- image -->
+**Image Description:** The image is a logo that represents the Missouri Department of Health and Senior Services. The logo is designed with a black and white color scheme, which is often used for its high contrast and readability. The central element of the logo is a stylized diamond shape, which is a common symbol in various forms of branding, often representing stability and strength. The text "MISSOURI DEPARTMENT OF HEALTH AND SENIOR SERVICES" is written in a serif font, which is typically used for formal and official documents. The text is positioned in a way that it is the focal point of the logo, with the diamond shape surrounding it. The logo is likely used to represent the department in various official documents, publications, and as a symbol of the department's identity.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a logo that represents the Missouri State Public Health Laboratory (SPHL). The logo is designed with a circular shape and contains text and symbols. The text "MISSOURI STATE PUBLIC HEALTH LABORATORY" is written in a bold, sans-serif font, with "MISSOURI" in a larger font size than "STATE PUBLIC HEALTH LABORATORY." The word "SPHL" is in a larger font size than the rest of the text, emphasizing its importance. Below "SPHL," there are two symbols: a microscope and a flask, which are commonly associated with science and health. The microscope symbolizes the laboratory's focus on microscopic examination, while the flask symbolizes the laboratory's involvement in chemical or biological research. The background of the logo is white, which contrasts with the black text and symbols, making them stand out. The overall design is simple and professional, reflecting the laboratory's commitment to public health and science.
+<!-- end image description -->
+
 
 ## SAMPLE COLLECTION INSTRUCTIONS PUBLIC DRINKING WATER for COLIFORM BACTERIA ANALYSIS
 
 <!-- image -->
+**Image Description:** The image is a logo consisting of a stylized representation of the state of Missouri, with the word "MISSOURI" prominently displayed in the center. The logo includes four smaller images within a square border, each representing a different aspect of the state's natural resources. From left to right, the images are a leaf, a wave, a bird, and a tree. The leaf symbolizes the state's forests, the wave represents its rivers and lakes, the bird signifies the state's avian wildlife, and the tree is indicative of the state's forests. The text "MISSOURI DEPARTMENT OF NATURAL RESOURCES" is written in a bold, sans-serif font, indicating the organization responsible for the state's natural resources. The overall design is simple and uses a limited color palette, primarily consisting of shades of gray and black.
+<!-- end image description -->
+
 
 This sample kit and collection method is for public drinking water regulatory compliance and special samples: Only samples collected in bottles supplied by the Missouri State Public Health Laboratory (MSPHL) and collected in accordance with these instructions will be accepted for testing. PLEASE READ THESE INSTRUCTIONS COMPLETELY BEFORE COLLECTING SAMPLES.
 
@@ -218,6 +248,9 @@ If the bottle is overfilled past the 120 mL line, pour off water until the sampl
 There is no longer a label to record sample information on the bottle. DO NOT WRITE ON complete a sample information form for each sample submitted for testing. DATE AND TIME OF SAMPLE COLLECTION and the BOTTLE NUMBER (from sticker on bottle) ARE REQUIRED. A form for each bottle is included in this sample kit.
 
 <!-- image -->
+**Image Description:** The image shows a clear plastic jar with a white lid. The jar appears to be empty and is placed on a dark surface. There is a small black object, possibly a piece of paper or a label, attached to the lid with a thin black line. The lid is not fully closed, as indicated by the visible gap where the lid meets the jar. The jar's transparency and the clarity of the lid suggest it is made of a material like glass or plastic. There are no other objects or text visible in the image. The focus is solely on the jar and its lid, with no additional context provided.
+<!-- end image description -->
+
 
 Max. fill line
 
@@ -248,18 +281,36 @@ Website:
 wwwhealth mo govLab
 
 <!-- image -->
+**Image Description:** The image is a simple line drawing of a faucet with water flowing from it. The faucet has a single handle, which is likely used to control the flow and temperature of the water. The water is depicted as a stream, with droplets captured in motion, suggesting the action of running water. There is a label "1" in the bottom right corner, which could indicate that this is the first item in a series or a part of a set. The image is monochromatic, using only black lines on a white background, which gives it a clean and straightforward appearance. There are no additional objects or background details, which places the entire focus on the faucet and the water flow.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a simple line drawing that depicts a bottle with a label and a tap. The bottle is labeled with the chemical formula "H2OCl," which indicates that it contains hydrogen peroxide. The tap is shown in an open position, suggesting that the bottle is being filled or emptied. The drawing is monochromatic, using only black lines on a white background. There are no additional objects or background details, which places the entire focus on the bottle and the tap. The image does not provide any context or setting, so it is not possible to determine the location or the purpose of the depicted scene.
+<!-- end image description -->
+
 
 Bottle is clcan and sterile ready for sample (Remove and discard plastic scal)
 
 <!-- image -->
+**Image Description:** The image is a simple line drawing of a faucet with water flowing from it. The faucet has a single handle, which is likely used to control the flow and temperature of the water. The water is depicted as a continuous stream, and there is no indication of the faucet's position or the direction of the flow. The image is labeled with the number "3," which could imply that it is part of a series or a sequence. There are no other objects or background details in the image, which suggests that the focus is solely on the faucet and the water flow. The image is clear and straightforward, with no additional elements or context provided.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a black and white illustration that appears to be a part of a manual or instructional guide. It shows a hand holding a bottle with a cap, with the bottle's body labeled with two lines indicating the maximum and minimum fill levels. The hand is positioned in such a way that it is holding the bottle by the neck, with the cap on top. There is a number "4" in a circle at the bottom right corner of the image, which could indicate a step or a reference number in a sequence. The image is simple and lacks color, focusing solely on the instructional content. There are no additional objects or text that provide context beyond the instructions for filling the bottle.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a simple line drawing of a hand holding a small object. The hand is depicted with a relaxed grip, and the object appears to be a cup or a small bowl. The drawing is monochromatic, using only black lines on a white background. There are no additional details or textures that would suggest a specific context or setting. The image does not contain any text or additional elements that would provide further information about the scene or the object being held. The focus is solely on the hand and the object, with no other objects or backgrounds to distract from the main subjects.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a simple line drawing that depicts a hand holding a cylindrical object, which appears to be a container, possibly a bottle or a jar. The container is shown in profile, with the top facing upwards and the body extending downwards. The hand is positioned in such a way that the thumb is on the top of the container, and the fingers are wrapped around the body, suggesting that the container is being held securely. The image is labeled with the number "5," which could indicate that this is the fifth step in a sequence, possibly related to a process or a set of instructions. There are no additional details or context provided within the image, so the interpretation of the image is limited to the visual elements presented.
+<!-- end image description -->
+
 
 ## Bacteriological Sample Collection Procedures
 
@@ -278,16 +329,28 @@ Assemble all of the sampling supplies.   Before you begin; wash your hands thoro
 Fill sample botle on the bottle lines
 
 <!-- image -->
+**Image Description:** The image is a black and white line drawing that illustrates a hand holding a bottle with a tap. The bottle appears to be a container for a liquid, possibly a cleaning solution or a personal care product. The tap is attached to a wall, and the water is flowing from the tap into the bottle. The drawing is labeled with the number "6," which could indicate that this is the sixth step in a sequence of instructions. The image does not provide any additional context or information beyond the action of pouring water into the bottle.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a simple line drawing that illustrates the action of opening a bottle. The drawing is monochromatic, using only black lines on a white background. It shows two hands, one on top and one on the bottom, holding the bottle. The bottle is depicted as being held upright, with the cap on top, suggesting that it is ready to be opened. There is a number "7" in the bottom right corner of the image, which could indicate that this is the seventh step in a sequence of instructions. The drawing does not provide any additional context or details that would suggest a specific use or purpose for the bottle.
+<!-- end image description -->
+
 
 FROST-PROOF HYDRANT
 
 <!-- image -->
+**Image Description:** The image is a simple black and white illustration that uses a prohibition sign to convey a message. The prohibition sign is a universal symbol indicating that something is not allowed. In this case, the sign is used to warn against the use of a specific tool or device, which is not clearly identifiable from the image. The text "DO NOT USE" is written below the prohibition sign, providing a clear directive against the use of the depicted item. The image does not provide any additional context or information about the prohibited item, leaving its nature to the viewer's interpretation. The use of a prohibition sign suggests that the item is potentially dangerous or inappropriate for its intended use.
+<!-- end image description -->
+
 
 Do JOT USE
 
 <!-- image -->
+**Image Description:** The image shows a simple line drawing of a kitchen sink with two faucets. The faucets are depicted as standard, with one on the left and one on the right. The sink is represented by a horizontal line at the bottom, with a vertical line crossing it, indicating the basin. The faucets are shown as vertical lines with a circular handle at the top, suggesting a push-button mechanism. There are no additional details or context provided in the image, and it appears to be a schematic or instructional drawing, possibly for plumbing or kitchen design purposes.
+<!-- end image description -->
+
 
 ## Public Drinking Water Bacterial Analysis
 

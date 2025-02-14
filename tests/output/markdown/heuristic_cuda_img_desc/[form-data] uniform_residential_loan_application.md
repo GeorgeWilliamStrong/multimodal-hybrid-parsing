@@ -806,12 +806,18 @@ Acknowledgement.  Each of the undersigned hereby acknowledges that any owner of 
 Borrower's Signature
 
 <!-- image -->
+**Image Description:** The image provided is a simple, monochromatic representation of the letter "X." It is a stylized depiction with a focus on the form and structure of the letter, rather than on any specific details or context. The image does not contain any additional elements or backgrounds, which suggests that the intent is to highlight the letter itself. The lack of color and context means that the image relies on the viewer's recognition of the letter's shape and form to convey its message. The image is a classic example of a typographic representation, often used in typography and graphic design to symbolize the letter "X."
+<!-- end image description -->
+
 
 Date
 
 Co-Borrower's Signature
 
 <!-- image -->
+**Image Description:** The image contains a single character, which is the uppercase letter "X". The character is centered and occupies the majority of the space in the image. The style of the letter is bold and sans-serif, with a high level of contrast between the letter and the background. There are no additional elements or text present in the image. The image is a simple representation of the letter "X" without any additional context or information.
+<!-- end image description -->
+
 
 ## X. INFORMATION FOR GOVERNMENT MONITORING PURPOSES
 

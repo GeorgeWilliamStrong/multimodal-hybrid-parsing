@@ -1,5 +1,3 @@
-arXiv:1312.6114v11  [stat.ML]  10 Dec 2022
-
 ## Auto-Encoding Variational Bayes
 
 Diederik P. Kingma Machine Learning Group Universiteit van Amsterdam dpkingma@gmail.com
@@ -22,8 +20,6 @@ For the case of an i.i.d. dataset and continuous latent variables per datapoint,
 
 The strategy in this section can be used to derive a lower bound estimator (a stochastic objective function) for a variety of directed graphical models with continuous latent variables. We will restrict ourselves here to the common case where we have an i.i.d. dataset with latent variables per datapoint, and where we like to perform maximum likelihood (ML) or maximum a posteriori (MAP) inference on the (global) parameters, and variational inference on the latent variables. It is, for example,
 
-1
-
 Figure 1: The type of directed graphical model under consideration. Solid lines denote the generative model p θ ( z ) p θ ( x z | ) , dashed lines denote the variational approximation q φ ( z x | ) to the intractable posterior p θ ( z x | ) . The variational parameters φ are learned jointly with the generative model parameters θ .
 
 <!-- image -->
@@ -45,8 +41,6 @@ We are interested in, and propose a solution to, three related problems in the a
 - 2. Efficient approximate posterior inference of the latent variable z given an observed value x for a choice of parameters θ . This is useful for coding or data representation tasks.
 - 3. Efficient approximate marginal inference of the variable x . This allows us to perform all kinds of inference tasks where a prior over x is required. Common applications in computer vision include image denoising, inpainting and super-resolution.
 
-2
-
 For the purpose of solving the above problems, let us introduce a recognition model q φ ( z x | ) : an approximation to the intractable true posterior p θ ( z x | ) . Note that in contrast with the approximate posterior in mean-field variational inference, it is not necessarily factorial and its parameters φ are not computed from some closed-form expectation. Instead, we'll introduce a method for learning the recognition model parameters φ jointly with the generative model parameters θ .
 
 From a coding theory perspective, the unobserved variables z have an interpretation as a latent representation or code . In this paper we will therefore also refer to the recognition model q φ ( z x | ) as a probabilistic encoder , since given a datapoint x it produces a distribution (e.g. a Gaussian) over the possible values of the code z from which the datapoint x could have been generated. In a similar vein we will refer to p θ ( x z | ) as a probabilistic decoder , since given a code z it produces a distribution over the possible corresponding values of x .
@@ -55,15 +49,15 @@ From a coding theory perspective, the unobserved variables z have an interpretat
 
 The marginal likelihood is composed of a sum over the marginal likelihoods of individual datapoints log p θ ( x (1) , · · · , x ( N ) ) = ∑ N i =1 log p θ ( x ( ) i ) , which can each be rewritten as:
 
-$$log p θ ( x ( ) i ) = D KL ( q φ ( z x | ( ) i ) || p θ ( z x | ( ) i )) + L ( θ φ , ; x ( ) i ) (1)$$
+$$\log p _ { \theta } ( x ^ { ( i ) } ) = D _ { K L } ( q _ { \phi } ( z | x ^ { ( i ) } ) | | p _ { \theta } ( z | x ^ { ( i ) } ) ) + \mathcal { L } ( \theta, \phi ; x ^ { ( i ) } ) \quad \ ( 1 )$$
 
 The first RHS term is the KL divergence of the approximate from the true posterior. Since this KL-divergence is non-negative, the second RHS term L ( θ φ , ; x ( ) i ) is called the (variational) lower bound on the marginal likelihood of datapoint i , and can be written as:
 
-$$log p θ ( x ( ) i ) ≥ L ( θ φ , ; x ( ) i ) = E q φ ( z x | ) [ -log q φ ( z x | ) + log p θ ( x z , )] (2)$$
+$$\log p _ { \theta } ( x ^ { ( i ) } ) \geq \mathcal { L } ( \theta, \phi ; x ^ { ( i ) } ) = \mathbb { E } _ { q _ { \phi } ( z | x ) } \left [ - \log q _ { \phi } ( z | x ) + \log p _ { \theta } ( x, z ) \right ] \quad ( 2 )$$
 
 which can also be written as:
 
-$$L ( θ φ , ; x ( ) i ) = -D KL ( q φ ( z x | ( ) i ) || p θ ( z )) + E q φ ( z x | ( ) i ) [ log p θ ( x ( ) i | z ) ] (3)$$
+$$\mathcal { L } ( \theta, \phi ; x ^ { ( i ) } ) = - D _ { K L } ( q _ { \phi } ( z | x ^ { ( i ) } ) | | p _ { \theta } ( z ) ) + \mathbb { E } _ { q _ { \phi } ( z | x ^ { ( i ) } ) } \left \lceil \log p _ { \theta } ( x ^ { ( i ) } | z ) \right \rceil \quad ( 3 )$$
 
 We want to differentiate and optimize the lower bound L ( θ φ , ; x ( ) i ) w.r.t. both the variational parameters φ and generative parameters θ . However, the gradient of the lower bound w.r.t. φ is a bit problematic. The usual (na¨ ıve) Monte Carlo gradient estimator for this type of problem is: ∇ φ E q φ ( z ) [ f ( z )] = E q φ ( z ) [ f ( z ) ∇ q φ ( z ) log q φ ( z ) ] glyph[similarequal] 1 L ∑ L l =1 f ( z ) ∇ q φ ( z ( ) l ) log q φ ( z ( ) l ) where z ( ) l ∼ q φ ( z x | ( ) i ) . This gradient estimator exhibits exhibits very high variance (see e.g. [BJP12]) and is impractical for our purposes.
 
@@ -73,19 +67,17 @@ In this section we introduce a practical estimator of the lower bound and its de
 
 Under certain mild conditions outlined in section 2.4 for a chosen approximate posterior q φ ( z x | ) we can reparameterize the random variable ˜ z ∼ q φ ( z x | ) using a differentiable transformation g φ ( glyph[epsilon1] , x ) of an (auxiliary) noise variable glyph[epsilon1] :
 
-$$˜ z = g φ ( glyph[epsilon1] , x ) with glyph[epsilon1] ∼ p ( glyph[epsilon1] ) (4)$$
+$$\tilde { z } = g _ { \phi } ( \epsilon, \mathbf x ) \ \text {with } \ \epsilon \sim p ( \epsilon )$$
 
 See section 2.4 for general strategies for chosing such an approriate distribution p ( glyph[epsilon1] ) and function g φ ( glyph[epsilon1] , x ) . We can now form Monte Carlo estimates of expectations of some function f ( z ) w.r.t. q φ ( z x | ) as follows:
 
-$$E q φ ( z x | ( ) i ) [ f ( z )] = E p ( glyph[epsilon1] ) [ f ( g φ ( glyph[epsilon1] , x ( ) i )) ] glyph[similarequal] 1 L L ∑ l =1 f ( g φ ( glyph[epsilon1] ( ) l , x ( ) i )) where glyph[epsilon1] ( ) l ∼ p ( glyph[epsilon1] ) (5)$$
+$$\mathbb { E } _ { q _ { \phi } ( x | x ^ { ( i ) } ) } \left [ f ( z ) \right ] = \mathbb { E } _ { p ( \epsilon ) } \left [ f ( g _ { \phi } ( \epsilon, x ^ { ( i ) } ) ) \right ] \simeq \frac { 1 } { L } \sum _ { l = 1 } ^ { L } f ( g _ { \phi } ( \epsilon ^ { ( l ) }, x ^ { ( i ) } ) ) \ \ where e \ \ \epsilon ^ { ( l ) } \sim p ( \epsilon ) \ ( 5 )$$
 
 We apply this technique to the variational lower bound (eq. (2)), yielding our generic Stochastic Gradient Variational Bayes (SGVB) estimator ˜ L A ( θ φ , ; x ( ) i ) glyph[similarequal] L ( θ φ , ; x ( ) i ) :
 
-$$˜ L A ( θ φ , ; x ( ) i ) = 1 L L ∑ l =1 log p θ ( x ( ) i , z ( i,l ) ) -log q φ ( z ( i,l ) | x ( ) i )$$
+$$\widetilde { \mathcal { L$$
 
-$$where z ( i,l ) = g φ ( glyph[epsilon1] ( i,l ) , x ( ) i ) and glyph[epsilon1] ( ) l ∼ p ( glyph[epsilon1] ) (6)$$
-
-3
+$$\quad \quad \quad \quad$$
 
 Algorithm 1 Minibatch version of the Auto-Encoding VB (AEVB) algorithm. Either of the two SGVB estimators in section 2.3 can be used. We use settings M = 100 and L = 1 in experiments.
 
@@ -104,13 +96,13 @@ until convergence of parameters ( θ φ , )
 
 Often, the KL-divergence D KL ( q φ ( z x | ( ) i ) || p θ ( z )) of eq. (3) can be integrated analytically (see appendix B), such that only the expected reconstruction error E q φ ( z x | ( ) i ) [ log p θ ( x ( ) i | z ) ] requires estimation by sampling. The KL-divergence term can then be interpreted as regularizing φ , encouraging the approximate posterior to be close to the prior p θ ( z ) . This yields a second version of the SGVB estimator ˜ L B ( θ φ , ; x ( ) i ) glyph[similarequal] L ( θ φ , ; x ( ) i ) , corresponding to eq. (3), which typically has less variance than the generic estimator:
 
-$$˜ L B ( θ φ , ; x ( ) i ) = -D KL ( q φ ( z x | ( ) i ) || p θ ( z )) + 1 L L ∑ l =1 (log p θ ( x ( ) i | z ( i,l ) ))$$
+$$\widetilde { \mathcal { L$$
 
-$$where z ( i,l ) = g φ ( glyph[epsilon1] ( i,l ) , x ( ) i ) and glyph[epsilon1] ( ) l ∼ p ( glyph[epsilon1] ) (7)$$
+$$\quad \quad \quad \quad$$
 
 Given multiple datapoints from a dataset X with N datapoints, we can construct an estimator of the marginal likelihood lower bound of the full dataset, based on minibatches:
 
-$$L ( θ φ , ; X ) glyph[similarequal] ˜ L M ( θ φ , ; X M ) = N M M ∑ ˜ i =1 L ( θ φ , ; x ( ) i ) (8)$$
+$$\mathcal { L } ( \theta$$
 
 where the minibatch X M = { x ( ) i } M i =1 is a randomly drawn sample of M datapoints from the full dataset X with N datapoints. In our experiments we found that the number of samples L per datapoint can be set to 1 as long as the minibatch size M was large enough, e.g. M = 100 . Derivatives ∇ θ φ , ˜ L ( θ ; X M ) can be taken, and the resulting gradients can be used in conjunction with stochastic optimization methods such as SGD or Adagrad [DHS10]. See algorithm 1 for a basic approach to compute the stochastic gradients.
 
@@ -121,8 +113,6 @@ A connection with auto-encoders becomes clear when looking at the objective func
 In order to solve our problem we invoked an alternative method for generating samples from q φ ( z x | ) . The essential parameterization trick is quite simple. Let z be a continuous random variable, and z ∼ q φ ( z x | ) be some conditional distribution. It is then often possible to express the random variable z as a deterministic variable z = g φ ( glyph[epsilon1] , x ) , where glyph[epsilon1] is an auxiliary variable with independent marginal p ( glyph[epsilon1] ) , and g φ ( ) . is some vector-valued function parameterized by φ .
 
 This reparameterization is useful for our case since it can be used to rewrite an expectation w.r.t q φ ( z x | ) such that the Monte Carlo estimate of the expectation is differentiable w.r.t. φ . A proof is as follows. Given the deterministic mapping z = g φ ( glyph[epsilon1] , x ) we know that q φ ( z x | ) ∏ i dz i = p ( glyph[epsilon1] ) ∏ i dglyph[epsilon1] i . Therefore 1 , ∫ q φ ( z x | ) f ( z ) d z = ∫ p ( glyph[epsilon1] ) f ( z ) d glyph[epsilon1] = ∫ p ( glyph[epsilon1] ) f ( g φ ( glyph[epsilon1] , x )) d glyph[epsilon1] . It follows
-
-4
 
 that a differentiable estimator can be constructed: ∫ q φ ( z x | ) f ( z ) d z glyph[similarequal] 1 L ∑ L l =1 f ( g φ ( x , glyph[epsilon1] ( ) l )) where glyph[epsilon1] ( ) l ∼ p ( glyph[epsilon1] ) . In section 2.3 we applied this trick to obtain a differentiable estimator of the variational lower bound.
 
@@ -142,17 +132,15 @@ In this section we'll give an example where we use a neural network for the prob
 
 Let the prior over the latent variables be the centered isotropic multivariate Gaussian p θ ( z ) = N ( z 0 I ; , ) . Note that in this case, the prior lacks parameters. We let p θ ( x z | ) be a multivariate Gaussian (in case of real-valued data) or Bernoulli (in case of binary data) whose distribution parameters are computed from z with a MLP (a fully-connected neural network with a single hidden layer, see appendix C). Note the true posterior p θ ( z x | ) is in this case intractable. While there is much freedom in the form q φ ( z x | ) , we'll assume the true (but intractable) posterior takes on a approximate Gaussian form with an approximately diagonal covariance. In this case, we can let the variational approximate posterior be a multivariate Gaussian with a diagonal covariance structure : 2
 
-$$log q φ ( z x | ( ) i ) = log N ( z ; µ ( ) i , σ 2( ) i I ) (9)$$
+$$\log q _ { \phi } ( z | \mathbf x ^ { ( i ) } ) = \log \mathcal { N } ( z ; \mu ^ { ( i ) }, \sigma ^ { 2 ( i ) } \mathbf 1 )$$
 
 where the mean and s.d. of the approximate posterior, µ ( ) i and σ ( ) i , are outputs of the encoding MLP, i.e. nonlinear functions of datapoint x ( ) i and the variational parameters φ (see appendix C).
 
 As explained in section 2.4, we sample from the posterior z ( i,l ) ∼ q φ ( z x | ( ) i ) using z ( i,l ) = g φ ( x ( ) i , glyph[epsilon1] ( ) l ) = µ ( ) i + σ ( ) i glyph[circledot] glyph[epsilon1] ( ) l where glyph[epsilon1] ( ) l ∼ N ( 0 I , ) . With glyph[circledot] we signify an element-wise product. In this model both p θ ( z ) (the prior) and q φ ( z x | ) are Gaussian; in this case, we can use the estimator of eq. (7) where the KL divergence can be computed and differentiated without estimation (see appendix B). The resulting estimator for this model and datapoint x ( ) i is:
 
-$$L ( θ φ , ; x ( ) i ) glyph[similarequal] 1 2 J ∑( j =1 1 + log(( σ ( ) i j ) 2 ) -( µ ( ) i j ) 2 -( σ ( ) i j ) 2 ) + 1 L L ∑ l =1 log p θ ( x ( ) i | z ( i,l ) ) where z ( i,l ) = µ ( ) i + σ ( ) i glyph[circledot] glyph[epsilon1] ( ) l and glyph[epsilon1] ( ) l ∼ N (0 , I ) (10)$$
+$$\mathcal { L } ( \theta, \phi ; \mathbf x ^ { ( i ) } ) \simeq \frac { 1 } { 2 } \sum _ { j = 1 } ^ { J } \left ( 1 + \log ( ( \sigma _ { j } ^ { ( i$$
 
 As explained above and in appendix C, the decoding term log p θ ( x ( ) i | z ( i,l ) ) is a Bernoulli or Gaussian MLP, depending on the type of data we are modelling.
-
-5
 
 ## 4 Related work
 
@@ -172,8 +160,6 @@ We trained generative models of images from the MNIST and Frey Face datasets 3 a
 
 The generative model (encoder) and variational approximation (decoder) from section 3 were used, where the described encoder and decoder have an equal number of hidden units. Since the Frey Face data are continuous, we used a decoder with Gaussian outputs, identical to the encoder, except that the means were constrained to the interval (0 1) , using a sigmoidal activation function at the
 
-6
-
 Figure 2: Comparison of our AEVB method to the wake-sleep algorithm, in terms of optimizing the lower bound, for different dimensionality of latent space ( N z ). Our method converged considerably faster and reached a better solution in all experiments. Interestingly enough, more latent variables does not result in more overfitting, which is explained by the regularizing effect of the lower bound. Vertical axis: the estimated average variational lower bound per datapoint. The estimator variance was small ( &lt; 1 ) and omitted. Horizontal axis: amount of training points evaluated. Computation took around 20-40 minutes per million training samples with a Intel Xeon CPU running at an effective 40 GFLOPS.
 
 <!-- image -->
@@ -188,8 +174,6 @@ Likelihood lower bound We trained generative models (decoders) and corresponding
 
 Marginal likelihood For very low-dimensional latent space it is possible to estimate the marginal likelihood of the learned generative models using an MCMC estimator. More information about the marginal likelihood estimator is available in the appendix. For the encoder and decoder we again used neural networks, this time with 100 hidden units, and 3 latent variables; for higher dimensional latent space the estimates became unreliable. Again, the MNIST dataset was used. The AEVB and Wake-Sleep methods were compared to Monte Carlo EM (MCEM) with a Hybrid Monte Carlo (HMC) [DKPR87] sampler; details are in the appendix. We compared the convergence speed for the three algorithms, for a small and large training set size. Results are in figure 3.
 
-7
-
 Figure 3: Comparison of AEVB to the wake-sleep algorithm and Monte Carlo EM, in terms of the estimated marginal likelihood, for a different number of training points. Monte Carlo EM is not an on-line algorithm, and (unlike AEVB and the wake-sleep method) can't be applied efficiently for the full MNIST dataset.
 
 <!-- image -->
@@ -203,8 +187,6 @@ We have introduced a novel estimator of the variational lower bound, Stochastic 
 ## 7 Future work
 
 Since the SGVB estimator and the AEVB algorithm can be applied to almost any inference and learning problem with continuous latent variables, there are plenty of future directions: (i) learning hierarchical generative architectures with deep neural networks (e.g. convolutional networks) used for the encoders and decoders, trained jointly with AEVB; (ii) time-series models (i.e. dynamic Bayesian networks); (iii) application of SGVB to the global parameters; (iv) supervised models with latent variables, useful for learning complicated noise distributions.
-
-8
 
 ## References
 
@@ -231,8 +213,6 @@ Since the SGVB estimator and the AEVB algorithm can be applied to almost any inf
 
 See figures 4 and 5 for visualisations of latent space and corresponding observed space of models learned with SGVB.
 
-9
-
 Figure 4: Visualisations of learned data manifold for generative models with two-dimensional latent space, learned with AEVB. Since the prior of the latent space is Gaussian, linearly spaced coordinates on the unit square were transformed through the inverse CDF of the Gaussian to produce values of the latent variables z . For each of these values z , we plotted the corresponding generative p θ ( x z | ) with the learned parameters θ .
 
 <!-- image -->
@@ -245,15 +225,13 @@ Figure 5: Random samples from learned generative models of MNIST for different d
 
 The variational lower bound (the objective to be maximized) contains a KL term that can often be integrated analytically. Here we give the solution when both the prior p θ ( z ) = N (0 , I ) and the posterior approximation q φ ( z x | ( ) i ) are Gaussian. Let J be the dimensionality of z . Let µ and σ denote the variational mean and s.d. evaluated at datapoint i , and let µ j and σ j simply denote the j -th element of these vectors. Then:
 
-$$∫ q θ ( z ) log p ( z ) d z = ∫ N ( z ; µ σ , 2 ) log N ( z 0 I ; , ) d z = -J 2 log(2 π ) -1 2 J ∑ j =1 ( µ 2 j + σ 2 j )$$
-
-10
+$$\int q _ { \theta } ( z ) \log p ( z ) \, d z = \int \mathcal { N } ( z ; \mu, \sigma ^ { 2 } ) \log \mathcal { N } ( z ; 0, \mathbf 1 ) \, d z \\ =$$
 
 And:
 
 Therefore:
 
-$$-D KL (( q φ ( z ) || p θ ( z )) = ∫ q θ ( z ) (log p θ ( z ) -log q θ ( z )) d z = 1 2 J ∑( j =1 1 + log(( σ j ) 2 ) -( µ j ) 2 -( σ j ) 2 )$$
+$$- D _ { K L } ( ( q _ { \phi } ( z ) | | p _ { \theta } ( z ) ) = \int q _ { \theta } ( z ) \left ( \log p _ { \theta } ( z ) - \log q _ { \theta }$$
 
 When using a recognition model q φ ( z x | ) then µ and s.d. σ are simply functions of x and the variational parameters φ , as exemplified in the text.
 
@@ -265,7 +243,7 @@ In variational auto-encoders, neural networks are used as probabilistic encoders
 
 In this case let p θ ( x z | ) be a multivariate Bernoulli whose probabilities are computed from z with a fully-connected neural network with a single hidden layer:
 
-$$log p ( x z | ) = D ∑ i =1 x i log y i +(1 -x i ) · log(1 -y i ) where y = f σ ( W 2 tanh( W z 1 + b 1 ) + b 2 ) (11)$$
+$$\log p ( \mathbf x | z ) = \sum _ { i = 1 } ^ { D } x _ { i } \log y _ { i } + ( 1 - x _ { i } ) \cdot \log ( 1 - y _ { i } ) \\ \quad \quad \quad$$
 
 where f σ ( ) . is the elementwise sigmoid activation function, and where θ = { W W b b 1 , 2 , 1 , 2 } are the weights and biases of the MLP.
 
@@ -273,7 +251,7 @@ where f σ ( ) . is the elementwise sigmoid activation function, and where θ = 
 
 In this case let encoder or decoder be a multivariate Gaussian with a diagonal covariance structure:
 
-$$log p ( x z | ) = log N ( x ; µ σ , 2 I ) where µ = W h 4 + b 4 log σ 2 = W h 5 + b 5 h = tanh( W z 3 + b 3 ) (12)$$
+$$\log p ( \mathbf x | z ) = \log \mathcal { N } ( \mathbf x ; \mu, \sigma ^ { 2 } \mathbf I ) \\ \quad \quad \quad$$
 
 where { W W W b b b 3 , 4 , 5 , 3 , 4 , 5 } are the weights and biases of the MLP and part of θ when used as decoder. Note that when this network is used as an encoder q φ ( z x | ) , then z and x are swapped, and the weights and biases are variational parameters φ .
 
@@ -283,23 +261,21 @@ Wederived the following marginal likelihood estimator that produces good estimat
 
 The estimation process consists of three stages:
 
-11
+$$\int q _ { \theta } ( z ) \log q _ { \theta } ( z ) \, d z = \int \mathcal { N } ( z ; \mu, \sigma ^ { 2 }$$
 
-$$∫ q θ ( z ) log q θ ( z ) d z = ∫ N ( z ; µ σ , 2 ) log N ( z ; µ σ , 2 ) d z = -J 2 log(2 π ) -1 2 J ∑ (1 + log σ 2 j )$$
-
-$$j =1$$
+$$\lambda = 1$$
 
 - 1. Sample L values { z ( ) l } from the posterior using gradient-based MCMC, e.g. Hybrid Monte Carlo, using ∇ z log p θ ( z x | ) = ∇ z log p θ ( z ) + ∇ z log p θ ( x z | ) .
                 - 2. Fit a density estimator q ( z ) to these samples { z ( ) l } .
                 - 3. Again, sample L new values from the posterior. Plug these samples, as well as the fitted q ( z ) , into the following estimator:
 
-$$p θ ( x ( ) i ) glyph[similarequal] ( 1 L L ∑ l =1 q ( z ( ) l ) p θ ( z ) p θ ( x ( ) i | z ( ) l ) ) -1 where z ( ) l ∼ p θ ( z x | ( ) i )$$
+$$p _ { \theta } ( x ^ { ( i ) } ) \simeq \left ( \frac { 1 } { L } \sum _ { l = 1 } ^ { L } \frac { q ( z ^$$
 
 Derivation of the estimator:
 
-$$1 p θ ( x ( ) i ) = ∫ q ( z ) d z p θ ( x ( ) i ) = ∫ q ( z ) p θ ( x ( ) i , z ) p θ ( x ( ) i , z ) d z p θ ( x ( ) i ) = ∫ p θ ( x ( ) i , z ) p θ ( x ( ) i ) q ( z ) p θ ( x ( ) i , z ) d z = ∫ p θ ( z x | ( ) i ) q ( z ) p θ ( x ( ) i , z ) d z glyph[similarequal] 1 L L ∑ q ( z ( ) l ) p θ ( z ) p θ ( x ( ) i | z ( ) l ) where z ( ) l ∼ p θ ( z x | ( ) i )$$
+$$\frac { 1 } { p _ { \theta } ( x ^ { ( i ) } ) } = \frac { \int q ( z ) \, d z } { p _ { \theta } ( x ^ {$$
 
-$$l =1$$
+$$\lfloor 1$$
 
 ## E Monte Carlo EM
 
@@ -313,47 +289,45 @@ As written in the paper, it is possible to perform variational inference on both
 
 Let p α ( θ ) be some hyperprior for the parameters introduced above, parameterized by α . The marginal likelihood can be written as:
 
-$$log p α ( X ) = D KL ( q φ ( θ ) || p α ( θ | X )) + L ( φ ; X ) (13)$$
+$$\log p _ { \alpha } ( \mathbf X ) = D _ { K L } ( q _ { \phi } ( \theta ) | | p _ { \alpha } ( \theta | \mathbf X ) ) + \mathcal { L } ( \phi ; \mathbf X )$$
 
 where the first RHS term denotes a KL divergence of the approximate from the true posterior, and where L ( φ ; X ) denotes the variational lower bound to the marginal likelihood:
 
-$$L ( φ ; X ) = ∫ q φ ( θ ) (log p θ ( X ) + log p α ( θ ) -log q φ ( θ )) d θ (14)$$
+$$\mathcal { L } ( \phi ; \mathbf X ) = \, \int q _ { \phi } ( \theta ) \left ( \log p _ { \theta } ( \mathbf X ) + \log p _ { \alpha } ( \theta ) - \log q _ { \phi } ( \theta ) \right ) \, d \theta \quad \quad ( 1 4 )$$
 
 Note that this is a lower bound since the KL divergence is non-negative; the bound equals the true marginal when the approximate and true posteriors match exactly. The term log p θ ( X ) is composed of a sum over the marginal likelihoods of individual datapoints log p θ ( X ) = ∑ N i =1 log p θ ( x ( ) i ) , which can each be rewritten as:
 
-$$log p θ ( x ( ) i ) = D KL ( q φ ( z x | ( ) i ) || p θ ( z x | ( ) i )) + L ( θ φ , ; x ( ) i ) (15)$$
-
-12
+$$\log p _ { \theta } ( x ^ { ( i ) } ) = D _ { K L } ( q _ { \phi } ( z | x ^ { ( i ) } ) | | p _ { \theta } ( z | x ^ { ( i ) } ) ) + \mathcal { L } ( \theta, \phi ; x ^ { ( i ) } )$$
 
 where again the first RHS term is the KL divergence of the approximate from the true posterior, and L ( θ φ , ; x ) is the variational lower bound of the marginal likelihood of datapoint i :
 
-$$L ( θ φ , ; x ( ) i ) = ∫ q φ ( z x | ) ( log p θ ( x ( ) i | z ) + log p θ ( z ) -log q φ ( z x | ) ) d z (16)$$
+$$\mathcal { L } ( \theta, \phi ; x ^ { ( i ) } ) = \int q _ { \phi } ( z | x ) \left ( \log p _ { \theta } ( x ^ { ( i ) } | z ) + \log p _ { \theta } ( z ) - \log q _ { \phi } ( z | x ) \right ) \, d z \quad ( 1 6 )$$
 
 The expectations on the RHS of eqs (14) and (16) can obviously be written as a sum of three separate expectations, of which the second and third component can sometimes be analytically solved, e.g. when both p θ ( x ) and q φ ( z x | ) are Gaussian. For generality we will here assume that each of these expectations is intractable.
 
 Under certain mild conditions outlined in section (see paper) for chosen approximate posteriors q φ ( θ ) and q φ ( z x | ) we can reparameterize conditional samples ˜ z ∼ q φ ( z x | ) as
 
-$$˜ z = g φ ( glyph[epsilon1] , x ) with glyph[epsilon1] ∼ p ( glyph[epsilon1] ) (17)$$
+$$\tilde { z } = g _ { \phi } ( \epsilon, \mathbf x ) \ \text {with } \ \epsilon \sim p ( \epsilon )$$
 
 where we choose a prior p ( glyph[epsilon1] ) and a function g φ ( glyph[epsilon1] , x ) such that the following holds:
 
-$$L ( θ φ , ; x ( ) i ) = ∫ q φ ( z x | ) ( log p θ ( x ( ) i | z ) + log p θ ( z ) -log q φ ( z x | ) ) d z = ∫ p ( glyph[epsilon1] ) ( log p θ ( x ( ) i | z ) + log p θ ( z ) -log q φ ( z x | ) ) ∣ ∣ ∣ ∣ z = g φ ( glyph[epsilon1] , x ( ) i ) d glyph[epsilon1] (18)$$
+$$\mathcal { L } ( \theta, \phi ; x ^ { ( i ) } ) = \int q _ { \phi } ( z | x ) \left ( \log p _ { \theta } ( x ^ { ( i ) } | z ) + \log p _ { \theta } ( z ) - \log q _ { \phi } ( z | x ) \right ) \, d z \\ = \int p ( \epsilon ) \left ( \log p _ { \theta } ( x ^ { ( i ) } | z ) + \log p _ { \theta } ( z ) - \log q _ { \phi } ( z | x ) \right ) \Big | _ { z = g _ { \phi } ( \epsilon, x ^ { ( i ) } ) } \, d \epsilon \quad ( 1 8 )$$
 
 The same can be done for the approximate posterior q φ ( θ ) :
 
-$$˜ θ = h φ ( ζ ) with ζ ∼ p ( ζ ) (19)$$
+$$\theta = h _ { \phi } ( \zeta ) \ \text {with } \ \zeta \sim p ( \zeta )$$
 
 where we, similarly as above, choose a prior p ( ζ ) and a function h φ ( ζ ) such that the following holds:
 
-$$L ( φ ; X ) = ∫ q φ ( θ ) (log p θ ( X ) + log p α ( θ ) -log q φ ( θ )) d θ = ∫ p ( ζ ) (log p θ ( X ) + log p α ( θ ) -log q φ ( θ )) ∣ ∣ ∣ ∣ θ = h φ ( ζ ) d ζ (20)$$
+$$\mathcal { L } ( \phi ; \mathbf X ) = \int q _ { \phi } ( \theta ) \left ( \log p _ { \theta } ( \mathbf X ) + \log p _ { \alpha } ( \theta ) - \log q _ { \phi } ( \theta ) \right ) \, d \theta \\ = \int p ( \zeta ) \left ( \log p _ { \theta } ( \mathbf X ) + \log p _ { \alpha } ( \theta ) - \log q _ { \phi } ( \theta ) \right ) \Big | _ { \theta = h _ { \phi } ( \zeta ) } \, d \zeta \quad \quad ( 2 0 )$$
 
 For notational conciseness we introduce a shorthand notation f φ ( x z , , θ ) :
 
-$$f φ ( x z , , θ ) = N · (log p θ ( x z | ) + log p θ ( z ) -log q φ ( z x | )) + log p α ( θ ) -log q φ ( θ ) (21)$$
+$$f _ { \phi } ( x, z, \theta ) = N \cdot ( \log p _ { \theta } ( x | z ) + \log p _ { \theta } ( z ) - \log q _ { \phi } ( z | x ) ) + \log p _ { \alpha } ( \theta ) - \log q _ { \phi } ( \theta ) \quad ( 2 1 )$$
 
 Using equations (20) and (18), the Monte Carlo estimate of the variational lower bound, given datapoint x ( ) i , is:
 
-$$L ( φ ; X ) glyph[similarequal] 1 L L ∑ l =1 f φ ( x ( ) l , g φ ( glyph[epsilon1] ( ) l , x ( ) l ) , h φ ( ζ ( ) l )) (22)$$
+$$\mathcal { L } ( \phi ; \mathbf X ) \simeq \frac { 1 } { L } \sum _ { l = 1 } ^$$
 
 where glyph[epsilon1] ( ) l ∼ p ( glyph[epsilon1] ) and ζ ( ) l ∼ p ( ζ ) . The estimator only depends on samples from p ( glyph[epsilon1] ) and p ( ζ ) which are obviously not influenced by φ , therefore the estimator can be differentiated w.r.t. φ . The resulting stochastic gradients can be used in conjunction with stochastic optimization methods such as SGD or Adagrad [DHS10]. See algorithm 1 for a basic approach to computing stochastic gradients.
 
@@ -361,11 +335,9 @@ where glyph[epsilon1] ( ) l ∼ p ( glyph[epsilon1] ) and ζ ( ) l ∼ p ( ζ ) 
 
 Let the prior over the parameters and latent variables be the centered isotropic Gaussian p α ( θ ) = N ( z 0 I ; , ) and p θ ( z ) = N ( z 0 I ; , ) . Note that in this case, the prior lacks parameters. Let's also assume that the true posteriors are approximatily Gaussian with an approximately diagonal covariance. In this case, we can let the variational approximate posteriors be multivariate Gaussians with a diagonal covariance structure:
 
-$$log$$
+$$\log _ { 0 }$$
 
-$$log q φ ( θ ) = log N ( θ µ ; θ , σ 2 θ I ) q φ ( z x | ) = log N ( z ; µ z , σ 2 z I ) (23)$$
-
-13
+$$\log q _ { \phi } ( \theta ) = \log \mathcal { N } ( \theta ; \mu _ { \theta },$$
 
 Algorithm 2 Pseudocode for computing a stochastic gradient using our estimator. See text for meaning of the functions f φ , g φ and h φ .
 
@@ -375,16 +347,14 @@ g ← 0 for l is 1 to L do x ← Random draw from dataset X glyph[epsilon1] ← 
 
 where µ z and σ z are yet unspecified functions of x . Since they are Gaussian, we can parameterize the variational approximate posteriors:
 
-$$q φ ( θ ) as ˜ θ = µ θ + σ θ glyph[circledot] q φ ( z x | ) as z = µ + σ z glyph[circledot] glyph[epsilon1]$$
+$$q _ { \phi } ( \theta ) \ \ a s \quad \theta = \mu _ { \theta } + \sigma _ { \$$
 
-$$ζ where ζ ∼ N ( 0 I , ) ˜ z where glyph[epsilon1] ∼ N ( 0 I , )$$
+$$\theta = \mu _ { \theta } + \sigma _ { \theta } \odot \zeta \quad \quad \quad$$
 
 With glyph[circledot] we signify an element-wise product. These can be plugged into the lower bound defined above (eqs (21) and (22)).
 
 In this case it is possible to construct an alternative estimator with a lower variance, since in this model p α ( θ ) , p θ ( z ) , q φ ( θ ) and q φ ( z x | ) are Gaussian, and therefore four terms of f φ can be solved analytically. The resulting estimator is:
 
-$$L ( φ ; X ) glyph[similarequal] 1 L L ∑ l =1 N ·   1 2 J ∑( j =1 1 + log(( σ ( ) l z ,j ) 2 ) -( µ ( ) l z ,j ) 2 -( σ ( ) l z ,j ) 2 ) +log p θ ( x ( ) i z ( ) i )   + 1 2 J ∑( j =1 1 + log(( σ ( ) l θ ,j ) 2 ) -( µ ( ) l θ ,j ) 2 -( σ ( ) l θ ,j ) 2 ) (24)$$
+$$\mathcal { L } ( \phi ; \mathbf X ) \simeq \frac { 1 } { L } \sum _ { l = 1 } ^ { L } N \cdot \left ( \frac { 1 } { 2 } \sum _ { j = 1 } ^ { J } \left ( 1 + \log ( ( \sigma _ { z, j } ^ { ( l ) } ) ^ { 2 } ) - ( \mu _ { z, j } ^ { ( l ) } ) ^ { 2 } - ( \sigma _ { z, j } ^ { ( l ) } ) ^ { 2 } \right ) + \log p _ { \theta } ( x ^ { ( i ) } z ^ { ( i ) } ) \right ) \\ + \frac { 1 } { 2 } \sum _ { j = 1 } ^ { J } \left ( 1 + \log ( ( \sigma _ { \theta, j } ^ { ( l ) } ) ^ { 2 } ) - ( \mu _ { \theta, j } ^ { ( l ) } ) ^ { 2 } - ( \sigma _ { \theta, j } ^ { ( l ) } ) ^ { 2 } \right )$$
 
 µ ( ) i j and σ ( ) i j simply denote the j -th element of vectors µ ( ) i and σ ( ) i .
-
-14

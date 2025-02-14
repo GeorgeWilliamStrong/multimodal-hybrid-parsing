@@ -1,9 +1,3 @@
-S-1 1 d781982ds1.htm S-1
-
-Table of Contents
-
-As filed with the Securities and Exchange Commission on August 14, 2019.
-
 ## UNITED STATES SECURITIES AND EXCHANGE COMMISSION
 
 Washington, D.C. 20549
@@ -81,8 +75,6 @@ Registration No. 333-
 
 ☐
 
-Table of Contents
-
 ## 1 1 1 1 2 5 8 ; 2 1 5 9 1 8 1 8 [ 1 1 9 1 6 1
 
 This
@@ -141,13 +133,13 @@ g of the corporate governa
 
 his of ering. Investing in our Clas
 
+<!-- image -->
+
 on stock involves risk
 
 roved of thes
 
 'Goldman
-
-<!-- image -->
 
 ed upon the adequacy or ac
 
@@ -291,8 +283,6 @@ joined us believe ve have helped them accelerate their growth
 
 Source: Global Impact Report commissioned by us and produced in partnership with HR&amp;A Advisors, Inc. ('Global Impact Report') and WeWork member census. See 'Market, Industry and Other Data' for more information about the Global Impact Report.
 
-1
-
 ## Our Global Platform
 
 Table of Contents
@@ -311,8 +301,6 @@ We have proven that community, flexibility and cost-efficiency can benefit the w
 
 We start by looking at space differently: as a place to bring people together, build community and enhance productivity. Philosophically, we believe in bringing comfort and happiness to the workplace. We employ over 500 designers and architects who work relentlessly to create spaces that are beautiful but simple, elevated but approachable, global yet locally unique, all delivered at a high quality without the associated expense. Next, we add a team of over 2,500 trained community managers who foster human connection through collaboration and holistically support our members both personally and professionally. Lastly, with a persistent dedication to improving the member experience, we add products and services to our platform, either by building them ourselves, acquiring them or entering into partnerships. The entire member experience is powered by technology designed to enable our members to manage their own space, make connections among each other and access products and services, all with the goal of increasing our members' productivity, happiness and success.
 
-2
-
 ## Table of Contents
 
 Technology is at the foundation of our global platform. Our purpose-built technology and operational expertise has allowed us to scale our core WeWork space-as-a-service offering quickly, while improving the quality of our solutions and decreasing the cost to find, build, fill and run our spaces. We have approximately 1,000 engineers, product designers and machine learning scientists that are dedicated to building, integrating and automating the complex systems we use to operate our business. As a result, we are able to deliver a premium experience to our members at a lower price relative to traditional alternatives.
@@ -328,8 +316,6 @@ Officc supply; opcrating and Icasc costs
 
 We have grown significantly since our inception. Our membership base has grown by over 100% every year since 2014. It took us more than seven years to achieve $1 billion of run-rate revenue, but only one additional year to reach $2 billion of run-rate revenue and just six months to reach $3 billion of run-rate revenue.
 
-3
-
 ## Table of Contents
 
 The more locations we strategically cluster in a given city, the larger and more dynamic our community becomes. This clustering effect leads to greater brand awareness for our offerings and allows us to realize economies of scale, which, in turn, drives stronger monetization of our global platform. We employ a deliberate city expansion strategy within existing and new markets to achieve global scale. We believe that operating efficiencies and the benefits of global scale have allowed us to capture a multiplying demand for our space-as-a-service offering.
@@ -342,8 +328,6 @@ We monetize our platform through a variety of means, including selling membershi
 
 <!-- image -->
 
-4
-
 ## Table of Contents
 
 We strive to operate our business so that each new location is accretive to our long-term financial performance. After an initial investment, each additional location not only adds members to our platform and revenue to our income statement, but also becomes profitable once it reaches a break-even point. As we move through the different lifecycle phases of each location, the cash flows shift from outgoing during the find and build phases, during which we invest to scale our location portfolio, to incoming during the fill and run phases, during which we seek to monetize our platform.
@@ -355,8 +339,6 @@ As we build and open more locations within existing markets, expand to new marke
 We continue to learn from our data and experiences to innovate on what drives our member success and execute using our purpose-built technology and mission-driven team. We believe that we have laid the foundation to capitalize on our significant market opportunity by continuing to reinvent the future of work.
 
 We are just getting started.
-
-5
 
 ## Table of Contents
 
@@ -379,8 +361,6 @@ Individuals and organizations turn to us directly to solve their workspace needs
 
 <!-- image -->
 
-6
-
 ## Table of Contents
 
 In the 111 cities in which we had locations as of June 1, 2019, we estimate that there are approximately 149 million potential members. For U.S. cities, we define potential members by the estimated number of desk jobs based on data from the Statistics of U.S. Businesses survey by the U.S. Census Bureau. For non-U.S. cities, we consider anyone in select occupations defined by the International Labor Organization-including managers, professionals, technicians and associate professionals and clerical support workers-to be potential members, because we assume that these individuals need workspace in which they have access to a desk and other services. We view this as our addressable market because of the broad variety of professions and industries among our members, the breadth of our solutions available to individuals and organizations of different types and our track record of developing new solutions in response to our members' needs.
@@ -396,8 +376,6 @@ We are able to deliver a premium experience to our members at a lower price rela
                     - (2) Includes existing 111 cities as of June 1, 2019.
 
 We believe these total opportunities reflect the amount employers are willing to spend and present an opportunity for us to capture greater wallet share through additional solutions and product and service offerings. We believe that we will be able to capture a portion of this existing spend per employee given our powerful brand and what we believe is a significant first-mover advantage over our competitors as the pioneer of the space-asa-service model. We believe that
-
-7
 
 ## Table of Contents
 
@@ -421,10 +399,6 @@ We integrate community technology across all of our operations to further enhanc
 
 These events are one of many ways in which we view space as a place to bring people together and build communities. Each of our spaces is designed to make our members feel welcome and at home, and to encourage a sense of belonging. We believe that individuals are more productive when they are able to express their full and authentic selves, so we aspire to be as inclusive as possible. Our design contributes to our success. We foster collaboration by providing design elements such as exposed internal staircases, open floorplans, communal meeting rooms and centrally located refreshments. Our spaces and their unique look and feel are the signature of our brand. All of our spaces follow global design guidelines but reflect freedom of expression at local level as part of our global-local playbook.
 
-8
-
-Table of Contents
-
 In Paris , our office space at Rue la Fayette incorporates the building's Art Deco style and monumental glass ceiling to combine the traditional with the modemn.
 
 <!-- image -->
@@ -434,8 +408,6 @@ In Paris , our office space at Rue la Fayette incorporates the building's Art De
 local architectural elements , artwork industnal and
 
 <!-- image -->
-
-9
 
 ## Table of Contents
 
@@ -465,8 +437,6 @@ Our membership offerings are designed to accommodate our members' distinct space
 
 <!-- image -->
 
-10
-
 ## Table of Contents
 
 ## Our Economics
@@ -481,8 +451,6 @@ As we continue to pursue rapid growth, we continue to operate in a state where t
 
                         - (1) Represents workstation capacity in our open locations plus the estimated number of workstations in our pre-opening locations and location pipeline (which includes potential locations in the find, sign and build phases) as of June 1, 2019. See 'Management's Discussion and Analysis of Financial Condition and Results of Operations-Our Business Model-Lifecycle of a Location and Factors Affecting Our Performance'.
 
-11
-
 ## Table of Contents
 
 As we continue to focus on growing our global platform, certain metrics may be impacted by the geographic mix of our locations and the costs associated with establishing stabilized occupancy levels. For example, average revenue per WeWork membership has declined, and we expect it to continue to decline, as we expand internationally into lower-priced markets. In addition, we expect to continue to invest in sales and marketing as we open new locations. As we build and open more spaces in existing and new markets, we create additional capacity that lays the foundation for incremental revenue and future profits. As a result, we intend to continue to invest in growth as we believe the timing of our future profitability depends to a significant degree on levers we control.
@@ -491,8 +459,6 @@ As we continue to focus on growing our global platform, certain metrics may be i
                             - · We can control the speed of growth of our new locations. We believe decreasing our growth increases occupancy and provides us with price elasticity because of the limit on supply. We have seen this occur where we have strategically slowed growth in certain cities. For example, following the Brexit referendum, we temporarily slowed our growth in London, resulting in an incremental 10 percentage points of occupancy. We have since resumed more rapid growth in London. As of June 1, 2019, our occupancy in London was 93%.
                             - · We are just beginning to add value-added products and services to our global platform. As we proactively seek additional partnership, acquisition and innovation opportunities, we will be able to provide additional products and services to our existing membership base by leveraging our physical spaces and our existing relationships. We expect sales of these products and services to provide incremental cash flow at higher margins than our existing revenue streams.
                             - · We expect to focus on more capital-efficient approaches to growing our global platform. We do not subsidize or incentivize our space providers. Instead, landlords generally subsidize us by providing tenant improvement allowances that help fund our build-outs, with the remainder of the build-out costs covered by us. In the future, we expect to continue to strategically focus on growth through additional capital-efficient approaches. We can do this through our Powered by We solution, in which an organization pays us for the costs associated with the build-out of their space, as well as through management agreements, participating leases and other occupancy arrangements under which the landlord pays in whole or in part for the build-out costs. We expect any increase in build-out costs resulting from the expansion of configured solutions for our growing enterprise member base to be offset with increases in the contribution margin and committed revenue backlog associated with longer-term commitments for these configured spaces.
-
-12
 
 ## Table of Contents
 
@@ -534,8 +500,6 @@ We have attractive economicsOur future impact will transform the way people work
                                 - · Our membership base has grown by over 100% every year since 2014, and over 50% of our members are located outside of the United States as of June 2019. Our 527,000 memberships include global enterprises across multiple industries and, notably, 38% of the Global Fortune 500. We expect enterprise to continue to be our fastest growing membership type, currently representing 40% of our memberships.
                                 - · As we expand, we continue to add new members at a strong pace while also strengthening our relationships with our existing members. Of the new memberships added in 2018, 35% were attributable to organizations that were already members at the end of 2017.
 
-13
-
 ## Table of Contents
 
 ## Global Platform
@@ -569,8 +533,6 @@ We intend to grow by:
 
 We aim to optimize our access to the capital markets and seek to have broad-based relationships with financial institutions. In connection with this offering, we are expanding our relationships with banks from across the globe. In particular, in August, we entered into a commitment letter for a new senior secured credit facility providing for up to $6.0 billion, which is expected to close concurrently with the closing of the offering, with JPMorgan Chase Bank, N.A., Goldman Sachs Bank USA, Goldman Sachs Lending Partners LLC, Bank of America, N.A., BofA Securities, Inc., Barclays Bank PLC, Citigroup Global Markets Inc., Credit Suisse AG, Cayman Islands Branch, Credit Suisse Loan Funding LLC, HSBC Bank USA, National Association, HSBC Securities (USA) Inc., UBS AG, Stamford Branch, UBS Securities LLC, Wells Fargo Bank, National Association and Wells Fargo Securities, LLC, who are affiliates of the underwriters. See 'Management's Discussion and Analysis of Financial Condition and Results of Operations -Recent Developments-Debt Financing Transactions'.
 
-14
-
 ## Table of Contents
 
 ## Risk Factors
@@ -598,8 +560,6 @@ Following the completion of this offering, as a result of his share ownership, t
 
 Because Adam will control a majority of our outstanding voting power, we will be a 'controlled company' under the corporate governance rules for -listed companies. Therefore, we may elect not to comply with certain corporate governance standards, such as the requirement that our board of directors have a compensation committee and nominating and corporate governance committee composed entirely of independent directors. For at least some period following completion of this offering, we intend to take advantage of these exemptions.
 
-15
-
 ## Table of Contents
 
 ## Corporate Information
@@ -616,8 +576,6 @@ The diagram below is a simplified depiction of our organizational structure imme
                                                             - (2) We own 80% of the general partner and manager of ARK, but our capital commitments to its underlying real estate acquisition vehicles and joint ventures generally represent a small percentage of the total committed capital.
                                                             - (3) Management fee based on revenue from the applicable joint venture. ChinaCo, PacificCo and JapanCo are consolidated in the consolidated financial statements included elsewhere in this prospectus. 4% of the JapanCo management fee is held by JapanCo and used to reimburse sales and marketing expenses incurred by SoftBank.
 
-16
-
 ## Table of Contents
 
 Our principal executive offices are located at 115 West 18th Street, New York, New York 10011, and our telephone number is (646) 491-9060. Our website address is www.we.co. Information contained on, or accessible through, our website is not a part of this prospectus, and the inclusion of our website address in this prospectus is an inactive textual reference.
@@ -627,8 +585,6 @@ Our principal executive offices are located at 115 West 18th Street, New York, N
 Investors, the media and others should note that, following the completion of this offering, we intend to announce material information to the public through filings with the SEC, the investor relations page on our website, press releases, public conference calls and webcasts.
 
 The information disclosed by the foregoing channels could be deemed to be material information. As such, we encourage investors, the media and others to follow the channels listed above and to review the information disclosed through such channels.
-
-17
 
 Table of Contents
 
@@ -650,8 +606,6 @@ Table of Contents
 | Class A common stock                                         | Our Class A common stock is not convertible into any other class of shares.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Class B common stock                                         | Our Class B common stock is convertible into shares of our Class A common stock on a one-for-one basis at the option of the holder. In addition, each share of Class B common stock will convert automatically                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-18
-
 Table of Contents
 
 | Class C common stock                                                                                                                                                                                                                                                      | into one share of Class A common stock upon any transfer, except for certain transfers described in our restated certificate of incorporation. See 'Description of Capital Stock- Common Stock-Conversion, Exchange and Transferability' for more information.                                                                                                                                                                                                                                                                                                                                                                     |
@@ -664,8 +618,6 @@ Table of Contents
 | offering is based on                  shares of Class A common stock,                  shares of Class B common stock and                  shares of Class C common stock to be outstanding as of             , 2019. Unless otherwise noted, these references exclude: · | shares of Class A common stock issuable upon the exercise of stock options outstanding as of                     , 2019 at a weighted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | average exercise price of $             per share;                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ·                    shares of Class B common stock issuable upon the exercise of stock options outstanding as of                     , 2019 at a weighted average exercise price of $             per share;                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-
-19
 
 ## Table of Contents
 
@@ -691,8 +643,6 @@ Unless otherwise indicated, the information contained in this prospectus is as o
                                                                 - · that the underwriters' option to purchase additional shares of our Class A common stock is not exercised.
 
 Unless otherwise indicated, the information contained in this prospectus also does not give effect to the issuance of shares of our Class A common stock pursuant to the 2019 warrant (as defined in 'Management's Discussion and Analysis of Financial Condition and Results of OperationsLiquidity and Capital Resources-Convertible Note and Warrant Agreements'). Under the terms of the 2019 warrant, we have the right to receive $1.5 billion on April 3, 2020 in exchange for the issuance of                  shares of our Class A common stock at a price of $             per share (subject to equitable adjustment in the event of any further stock split, stock dividend, reverse stock split or similar recapitalization event from the closing of this offering through April 3, 2020).
-
-20
 
 ## SUMMARY CONSOLIDATED FINANCIAL AND OPERATING INFORMATION
 
@@ -727,8 +677,6 @@ Table of Contents
 | Net loss attributable to WeWork Companies Inc.                                           | $(429,690)    $           |                           | (883,994)    $(1,610,792)    $ | (628,130)    $              | (689,676)                   |
 | Net loss per share attributable to Class A and Class B common stockholders:  (3)   Basic | $ (2.66)    $             | (5.54)    $               | (9.87)    $                    | (3.87)    $                 | (4.15)                      |
 
-21
-
 Table of Contents
 
 |                                                                                                                                                 | Year Ended December 31,   | Year Ended December 31,   | Year Ended December 31,   | Six Months Ended June 30,   | Six Months Ended June 30,   |
@@ -755,8 +703,6 @@ Table of Contents
 | Total redeemable noncontrolling interests included as temporary equity | 1,113,807                                       |                       |                                |
 | Total equity (deficit)                                                 | (2,299,404)                                     |                       |                                |
 
-22
-
 ## Key Performance Indicators
 
 In connection with the management of our WeWork space-as-a-service offering, we identify, measure and assess a variety of operational and financial metrics. The principal metrics we use in managing and evaluating our business are set forth below.
@@ -779,8 +725,6 @@ Table of Contents
 ## Contribution Margin
 
 We use contribution margin to assess the profitability and performance of our locations both in the aggregate and on a location by location basis. See 'Management's Discussion and Analysis of Financial Condition and Results of Operations-Contribution Margin' for the definition of and additional information about our contribution margin measures.
-
-23
 
 ## Table of Contents
 
@@ -806,8 +750,6 @@ As part of our growth strategy, we intend to continue expansion into additional 
 
 Our expansion efforts have required, and we expect them to continue to require, substantial resources and management attention. We spend significant time, money, energy and other resources trying to understand our members' needs and working to accommodate them, which may include exploring and negotiating for new solutions,
 
-24
-
 ## Table of Contents
 
 products and services. However, as we expand into new markets and introduce new solutions, products and services, our members may not be satisfied with our solutions, products and services, including any new offerings that we launch. The time, money, energy and other resources we dedicate to exploring and pursuing new solutions, products and services may be greater than the short-term, and potentially the total, returns from these new offerings.
@@ -825,8 +767,6 @@ Our operating costs and other expenses may be greater than we anticipate, and ou
 We may not be able to continue to retain existing members, most of whom enter into membership agreements with short-term commitments, or to attract new members in sufficient numbers or at sufficient rates to sustain and increase our memberships or at all.
 
 We principally generate revenues through the sale of memberships. We have in the past experienced, and expect to continue to experience, membership agreement terminations. In many cases, our members may terminate their membership agreements with us at any time upon as little notice as one calendar month. Members may cancel their memberships for many reasons, including a perception that they do not make sufficient use of our solutions and services, that they need to reduce their expenses or that alternative work environments may provide better value or a better experience.
-
-25
 
 ## Table of Contents
 
@@ -846,8 +786,6 @@ We currently lease real estate for the majority of our locations, and we are act
 
 Our lease renewal options are typically tied to upward-only rent reviews, whereby rent for any given lease renewal term is typically equal to the greater of the rent in effect for the period immediately prior to the rent review date and the then-prevailing net effective rent in the open market. As a result, increases in rental rates in the markets in which we
 
-26
-
 ## Table of Contents
 
 operate, particularly in those markets where initial terms under our leases are shorter, could adversely affect our business, financial condition, results of operations and prospects.
@@ -863,8 +801,6 @@ We currently lease a significant majority of our locations under long-term lease
 If we experience a prolonged reduction in revenues at a particular space, our results of operations in respect of that space would be adversely affected unless and until the lease expires or we are able to assign the lease or sublease the space to a third party. Our ability to assign a lease or sublease the space to a third party may be constrained by provisions in the lease that restrict these transfers without the prior consent of the landlord. Additionally, we could incur significant costs if we decide to assign or sublease unprofitable leases, as we may incur transaction costs associated with finding and negotiating with potential transferees, and the ultimate transferee may require upfront payments or other inducements. Moreover, our leases generally contain notice requirements in connection with certain transactions, including the reorganization transactions or the incurrence of indebtedness, as well as this offering. The failure to deliver notice or satisfy the conditions related to providing such notices to our landlords and members could result in defaults under such leases. If we default under the terms of our leases and cease operations at leased spaces, we could be exposed to breach of contract and other claims, which could result in direct and indirect costs to us and could result in operational disruptions that could harm our reputation, brand and result of operations. Additionally, we are party to a variety of lease agreements and other occupancy arrangements, including management agreements and participating leases, containing a variety of contractual rights and obligations that may be subject to interpretation. Our interpretation of such contracts may be disputed by our landlords or members, which could result in litigation, damage to our reputation or contractual or other legal remedies becoming available to such landlords and members and may impact our results of operations.
 
 While our leases are often held by special purpose entities, our consolidated financial condition and results of operations depend on the ability of our subsidiaries to perform their obligations under these leases over time. Our business, reputation, financial condition and results of operations depend on our subsidiaries' ongoing compliance with their leases. We may determine that it is necessary to fund the lease payments of our subsidiaries beyond the terms of
-
-27
 
 ## Table of Contents
 
@@ -884,8 +820,6 @@ A significant part of our international growth strategy and international operat
 
 Our international growth strategy has included entering into joint ventures in non-U.S. jurisdictions, such as in China, Japan and the broader Pacific region. Our success in these regions therefore depends on third parties whose actions we cannot control. Although in the case of certain of these joint ventures we have the right to appoint a majority of the members of the board of directors, there are many significant matters for which we require the consent of our partners in these joint ventures. Our partners in these joint ventures may have interests that are different from ours, and we may disagree with our partners as to the resolution of a particular issue to come before the joint venture or as to the
 
-28
-
 ## Table of Contents
 
 management or conduct of the business of the joint venture in general. In addition, in connection with these joint ventures and other strategic partnerships, we have entered into certain agreements that provide our partners with exclusivity or other preemptive rights that may limit our ability to pursue business opportunities in the manner that we desire. For instance, with respect to each of ChinaCo, JapanCo and PacificCo (each as defined and described under 'Business-Our Organizational Structure' and 'Certain Relationships and Related Party Transactions-Regional Joint Ventures and Strategic Partnerships'), we have agreed to conduct all or an agreed portion of our business through the relevant joint venture. We may not be able to resolve any dispute relating to our business, operations or management of the relevant joint venture, which could have a material adverse effect on our interest in the joint venture or the business of the joint venture in general.
@@ -903,8 +837,6 @@ In developing our spaces, we generally rely on the continued availability and sa
 We do not have long-term contractual commitments with general contractors, subcontractors or materials suppliers. The prices we pay for the labor or materials provided by these third parties, or other construction-related costs, could unexpectedly increase, which could have an adverse effect on the viability of the projects we pursue and on our results of operations and liquidity. Skilled parties and high-quality materials may not continue to be available at reasonable rates in the markets in which we pursue our construction activities.
 
 The people we engage in connection with a construction project are subject to the usual hazards associated with providing construction and related services on construction project sites, which can cause personal injury and loss of
-
-29
 
 ## Table of Contents
 
@@ -930,8 +862,6 @@ In addition, failure by third parties on whom we rely but whose actions we canno
 
 We receive a high degree of media coverage domestically and internationally and we believe that much of our reputation depends on word-of-mouth and other non-paid sources of opinion, including on the internet. Unfavorable
 
-30
-
 ## Table of Contents
 
 publicity or consumer perception or experience of our solutions, practices, products or services could adversely affect our reputation, resulting in difficulties in attracting and retaining members and business partners, and limiting the success of our community-building efforts and the range of solutions, products and services we are able to offer.
@@ -953,8 +883,6 @@ Our mission is integral to everything we do, and many of our strategic and inves
 We may be unable to adequately protect or prevent unauthorized use of our trademarks and other proprietary rights and we may be prevented by third parties from using or registering our trademarks or other intellectual property.
 
 To protect our trademarks and other proprietary rights, we rely and expect to continue to rely on a combination of protective agreements with our employees and third parties (including local or other strategic partners we may do business with), physical and electronic security measures and trademark, copyright, patent and trade secret protection laws. In certain jurisdictions, rights in trademarks are derived from registration of the trademark. We may not have trademark rights in a jurisdiction where our trademarks are not registered, including with respect to any new brands and existing brands associated with new offerings. We have obtained a strategic set of trademark, copyright and patent applications or registrations in the United States and other jurisdictions and have filed, and we expect to file from time to time, additional trademark, copyright and patent applications. Nevertheless, these applications may not proceed to registration or issuance and in any event may not be comprehensive (particularly with respect to non-U.S. jurisdictions), third parties may challenge any trademarks, copyrights or patents issued to or held by us, the agreements (including license agreements with local or other strategic partners) and security measures we have in place may be inadequate or otherwise fail to effectively accomplish their protective purposes, third parties may infringe or misappropriate our intellectual property rights, and we may not be successful in asserting intellectual property rights against third parties. Third parties may also take the position that we are infringing their rights, and we may not be
-
-31
 
 ## Table of Contents
 
@@ -980,8 +908,6 @@ If our proprietary information and/or data we collect and store, particularly bi
 
 We generate significant amounts of proprietary, sensitive and otherwise confidential information relating to our business and operations, and we collect, store and process confidential and personal data regarding our members, including member names and billing data. Our proprietary information and data is maintained on our own systems as well as the systems of third-party service providers.
 
-32
-
 ## Table of Contents
 
 Similar to other companies, our information technology systems face the threat of cyber-attacks, such as security breaches, phishing scams, malware and denial-of-service attacks. Our systems or the systems of our third-party service providers could experience unauthorized intrusions or inadvertent data breaches, which could result in the exposure or destruction of our proprietary information and/or members' data.
@@ -999,8 +925,6 @@ The collection, protection and use of personal data are governed by privacy laws
 For example, we are subject to the European Union's General Data Protection Regulation ('GDPR') in a number of jurisdictions. The GDPR imposes significant obligations, and compliance with these obligations depends in part on how particular regulators apply and interpret them. If we fail to comply with the GDPR, or if regulators assert we have failed to comply with the GDPR, it may lead to regulatory enforcement actions, which can result in monetary penalties of up to 4% of worldwide revenue, private lawsuits and/or reputational damage. Further, any U.K. exit from the European Union will increase uncertainty regarding applicable laws and regulations pending more clarity on the terms of that exit.
 
 Additionally, in June 2018, California passed the California Consumer Privacy Act ('CCPA'), which provides new data privacy rights for consumers and new operational requirements for companies, effective in 2020. The CCPA creates a private right of action that could lead to consumer class actions and other litigation against us, with statutory damages of up to $750 per violation. The California Attorney General will also maintain authority to enforce the CCPA and will be permitted to seek civil penalties for intentional violations of the CCPA of up to $7,500 per violation. Other U.S. states and the U.S. Congress are in the process of considering legislation similar to California's legislation. If we fail to comply
-
-33
 
 ## Table of Contents
 
@@ -1024,8 +948,6 @@ Operating in international markets requires significant resources and management
                                                                         - · difficulties in understanding and complying with local laws and regulations in foreign jurisdictions, including local labor laws, tax laws, environmental regulations and rules and regulations related to occupancy of our locations;
                                                                         - · varying local building codes and regulations relating to building design, construction, safety, environmental protection and related matters;
                                                                         - · significant reliance on third parties with whom we may engage in joint ventures, strategic alliances or ordinary course contracting relationships whose interests and incentives may be adverse to or different from ours or may be unknown to us;
-
-34
 
 ## Table of Contents
 
@@ -1052,8 +974,6 @@ The integration of acquisitions involves a number of significant risks which may
                                                                             - · accounting, tax, regulatory and compliance issues that could arise;
                                                                             - · expenses and difficulties in the transition and integration of operations and systems;
 
-35
-
 ## Table of Contents
 
                                                                                     - · unanticipated expenses incurred or charges to earnings based on unknown circumstances or liabilities;
@@ -1072,8 +992,6 @@ Additionally, ARK focuses on acquiring, developing and managing properties that 
 Our ownership interest in ARK may impact our financial condition and results of operations.
 
 ARK's financial performance is significantly correlated with the activities of real estate acquisition vehicles managed or sponsored by ARK, and a significant portion of any income to ARK is expected to be received, if at all, at the end of the holding period for one or more given assets or the term of one or more given real estate acquisition vehicles. In addition, a broad range of events or circumstances could cause any real estate acquisition vehicle managed or sponsored by ARK to fail to meet its objectives. In light of the long-dated and uncertain nature of any income to ARK, ARK's financial performance may be more variable than we expect, both from period to period and overall. Accordingly, because of our ownership interest in ARK, ARK's performance and activities, including the nature and timing of ARK transactions, may affect the comparability of our financial condition and results of operations from period to period, in each case to the extent required to be directly included in our consolidated financial statements in accordance with GAAP. For additional information regarding the ownership structure of ARK, see 'Business-Our Organizational Structure-ARK'.
-
-36
 
 ## Table of Contents
 
@@ -1097,8 +1015,6 @@ Certain of the measures we use to evaluate our financial and operating performan
 
 We track certain operational metrics, including key performance indicators such as memberships, workstation capacity and enterprise membership percentage, with internal systems and tools that are not independently verified by any third party. Certain of our operational metrics are also based on assumptions or estimates of future events. In particular, the tenant improvement reimbursement amounts used to calculate net capex per workstation added represent the full
 
-37
-
 ## Table of Contents
 
 tenant improvement allowances in our leases with landlords, rather than the amounts we have collected from landlords or submitted for reimbursement. Similarly, the number of workstations in our open locations, pre-open locations and pipeline locations is compiled from a number of data sources depending on the phase of the location within the lifecycle that we attribute to our locations. For open locations, workstation capacity for shared workspace offerings, which account for a subset of our standard workspace solutions, is estimated on a location-by-location basis by our community managers based on demand and the characteristics and distinct local personality of the relevant community, and a community manager at a given location may choose to change workstation capacity at any time. Meanwhile, for pre-opening and pipeline locations, workstation capacity is estimated by our real estate and design teams based on our building information modeling software, and includes estimated workstation capacity for locations that are the subject of a draft term sheet or lease that may not result in a signed lease agreement or an open location.
@@ -1116,8 +1032,6 @@ Our target contribution margin percentage for any given location over the course
 If our employees were to engage in a strike or other work stoppage or interruption, our business, results of operations, financial condition and liquidity could be materially adversely affected.
 
 Although we believe that our relations with our employees are good, if disputes with our employees arise, or if our workers engage in a strike or other work stoppage or interruption, we could experience a significant disruption of, or inefficiencies in, our operations or incur higher labor costs, which could have a material adverse effect on our business, results of operations, financial condition and liquidity. In addition, some of our employees outside of the United States are represented or may seek to be represented by a labor union or workers' council.
-
-38
 
 ## Table of Contents
 
@@ -1138,8 +1052,6 @@ Our business may be affected by political instability and potential unfavorable 
 Our indebtedness and other obligations could adversely affect our financial condition and liquidity.
 
 Concurrently with the closing of this offering, we expect to enter into a new senior secured credit facility (the '2019 Credit Facility') providing for senior secured financing of up to $6.0 billion, consisting of a three-year letter of credit reimbursement facility (the '2019 Letter of Credit Facility') in the aggregate amount of $2.0 billion and a delayed draw term loan facility (the 'Delayed Draw Term Facility') in the aggregate principal amount of up to $4.0 billion. Subject to compliance with the covenants in our other debt agreements, to the extent then applicable, and the satisfaction of certain conditions, the Delayed Draw Term Facility will be available from the closing date of the 2019 Credit Facility
-
-39
 
 ## Table of Contents
 
@@ -1165,8 +1077,6 @@ In addition, we conduct a substantial portion of our operations through our subs
 
 If we cannot make scheduled payments on our debt, we will be in default and, as a result, lenders under any of our existing and future indebtedness could declare all outstanding principal and interest to be due and payable, the lenders under our debt instruments could terminate their commitments to issue letters of credit or fund amounts under the Delayed Draw Term Facility, our secured lenders could foreclose against the assets securing such borrowings and we could be forced into bankruptcy or liquidation.
 
-40
-
 ## Table of Contents
 
 In addition, as of June 30, 2019, we had future undiscounted minimum lease cost payment obligations under signed operating and finance leases of $47.2 billion, and if we are unable to service our obligations under the lease agreements for particular properties, we may be forced to vacate those properties or pay compensatory or consequential damages to the landlord, which could adversely affect our business, reputation and prospects. See 'Risks Relating to Our Business-The long-term and fixed-cost nature of our leases may limit our operating flexibility and could adversely affect our liquidity and results of operations'.
@@ -1185,8 +1095,6 @@ The 2019 Credit Facility will also require us to comply with certain minimum con
 
 These restrictions may affect our ability to grow in accordance with our strategy, limit our ability to raise additional debt or equity financing to operate our business, including during economic or business downturns, and limit our ability to compete effectively or take advantage of new business opportunities.
 
-41
-
 ## Table of Contents
 
 We incur significant costs related to the development of our workspaces, which we may be unable to recover in a timely manner or at all.
@@ -1202,8 +1110,6 @@ Changes to accounting rules or regulations and our assumptions, estimates and ju
 The consolidated financial statements included elsewhere in this prospectus are prepared in accordance with U.S. GAAP. New accounting rules or regulations and varying interpretations of existing accounting rules or regulations have occurred and may occur in the future. For example, in February 2016, the FASB issued ASU No. 2016-02, Leases ('ASU 2016-02'), codified as ASC 842, Leases . This update requires a lessee to recognize on its balance sheet right-of-use assets and lease liabilities for any leases with a lease term of more than twelve months.
 
 Long-term leases are our primary means of securing real estate to deliver space-as-a-service to our members. We have early adopted ASC 842 in connection with the preparation of our financial statements as of and for the six months ended June 30, 2019. We applied the modified retrospective adoption method, and such financial statements reflect the adoption of ASC 842 as of January 1, 2019. However, our financial statements as of and for the year ended December 31, 2018 and prior periods were not restated and, as a result, may not be comparable. The adoption of ASC 842 had a material impact on our consolidated balance sheet. We had lease right-of-use assets, net totaling approximately $15 billion and lease obligations totaling approximately $18 billion included on our interim condensed consolidated balance sheet as of June 30, 2019. See Note 2 to the unaudited interim condensed consolidated financial statements included elsewhere in this prospectus for additional details regarding the impact of the adoption of ASC 842. Other future changes to accounting rules or regulations could also have a material adverse effect on the reporting of our business, financial condition and results of operations.
-
-42
 
 ## Table of Contents
 
@@ -1231,8 +1137,6 @@ Existing local building codes and regulations, and any future changes to these c
 
 Our development activities are subject to local, state and federal laws, as well as the oversight and regulation in accordance with local building codes and regulations relating to building design, construction, safety, environmental protection and related matters. We are responsible for complying with the requirements of individual jurisdictions and
 
-43
-
 ## Table of Contents
 
 must ensure that our development activities comply with varying standards by jurisdiction. Any existing or new government regulations or ordinances that relate to our development activities may result in significant additional expenses to us and, as a result, might adversely affect our results of operations.
@@ -1257,8 +1161,6 @@ If The We Company were deemed an 'investment company' under the Investment Compa
 
 A person may be deemed to be an 'investment company' for purposes of the 1940 Act if it owns investment securities having a value exceeding 40% of the value of its total assets (exclusive of U.S. government securities and cash items), absent an applicable exemption. The We Company has no material assets other than its interest in the We Company Partnership. Through its interests in the general partner of the We Company Partnership, The We Company generally
 
-44
-
 ## Table of Contents
 
 has control over all of the affairs and decision making of the We Company Partnership. Furthermore, the general partner of the We Company Partnership cannot be removed as general partner of the We Company Partnership without the approval of The We Company. On the basis of The We Company's control over the We Company Partnership, we believe that the indirect interest of The We Company in the We Company Partnership is not an 'investment security' within the meaning of the 1940 Act. If The We Company were to cease participation in the management of the We Company Partnership, however, its interest in the We Company Partnership could be deemed an 'investment security,' which could result in The We Company being required to register as an investment company under the 1940 Act and becoming subject to the registration and other requirements of the 1940 Act.
@@ -1272,8 +1174,6 @@ The multiple-class structure of our common stock has the effect of concentrating
 Shares of our Class B common stock and Class C common stock have twenty votes per share, whereas shares of our Class A common stock being offered by us in this offering have one vote per share. When this offering is completed, our outstanding high-vote stock will represent                 % of the total voting power of our outstanding capital stock (or                 % of the total voting power of our outstanding capital stock if the underwriters exercise in full their option to purchase additional shares of our Class A common stock). Due to the twenty-to-one voting ratio between our high-vote stock and Class A common stock, the holders of our high-vote stock collectively will continue to control a majority of the combined voting power of our capital stock, until such time that the aggregate number of outstanding shares of Class B common stock and Class C common stock owned by Adam and certain of his permitted transferees represents less than 5% of the aggregate number of then-outstanding shares of Class A common stock, Class B common stock and Class C common stock. In addition, in the event of his death, the shares of high-vote stock that Adam owns will transfer to the persons or entities that he designates. In the event the designated persons or entities are permitted transferees (as defined in the certificate of incorporation), such shares of highvote stock will not be subject to automatic conversion. Holders of shares of our high-vote stock will be able to significantly influence matters submitted to our stockholders for approval, including the election of directors, amendments of our organizational documents and any merger, consolidation, sale of all or substantially all of our assets or other major corporate transaction. This concentrated control will significantly limit your ability to influence corporate matters. In addition, if in the future we issue additional shares of high-vote stock, which carry twenty votes per share, holders of shares of Class A common stock carrying one vote per share will have their voting interests diluted disproportionate to their economic dilution.
 
 Future transfers by holders of our Class B common stock will generally result in those shares converting to Class A common stock, and transfers of partnership interests in the We Company Partnership will generally result in nineteen twentieths of the corresponding shares of our Class C common stock being cancelled, in each case subject to certain exceptions including (i) transfers to affiliates (including immediate family members), (ii) transfers to other holders of Class B common stock, (iii) transfers by certain entities controlled by our co-founders to their partners, members or stockholders, (iv) transfers of membership or other ownership interests in WE Holdings LLC to affiliates (including immediate family members) or to another stockholder, employee or former employee of The We Company, (v) transfers to certain qualified charitable organizations and (vi) transfers approved by our board of directors. The conversion of Class B common stock to Class A common stock over time, while increasing the absolute voting power of holders of our Class A common stock, may have the effect of increasing the relative voting power of those holders of
-
-45
 
 ## Table of Contents
 
@@ -1298,8 +1198,6 @@ Upon completion of this offering, Adam Neumann will own or control more than 50%
 
 For so long as we are a controlled company, you will not have the same protections afforded to stockholders of companies that are subject to these and all of the other corporate governance requirements of the rules of the             .
 
-46
-
 ## Table of Contents
 
 The difference in the voting rights of our Class A common stock and high-vote stock may harm the value and liquidity of our Class A common stock.
@@ -1322,8 +1220,6 @@ Prior to this offering, there has been no public market for shares of our Class 
                                                                                                 - · actual or anticipated developments in our industry or our business, our competitors' businesses or the competitive landscape generally;
                                                                                                 - · rumors and market speculation involving us or other companies in our industry;
                                                                                                 - · additions or departures of key management or other personnel;
-
-47
 
 ## Table of Contents
 
@@ -1359,8 +1255,6 @@ If equity research analysts publish unfavorable commentary or downgrade our Clas
 
 The trading market for our Class A common stock could be affected by whether equity research analysts publish research or reports about us and our business. We cannot predict at this time whether any research analysts will
 
-48
-
 ## Table of Contents
 
 publish research and reports on us and our Class A common stock. If one or more equity analysts do cover us and our Class A common stock and publish research reports about us, the price or trading volume of our Class A common stock could decline if one or more securities analysts downgrade our Class A common stock or if those analysts issue other unfavorable commentary or cease publishing reports about us or our business.
@@ -1381,8 +1275,6 @@ We will incur increased costs and regulatory burden and devote substantial manag
 
 Prior to this offering, we were not subject to the continuous disclosure requirements of U.S. securities laws and the rules, regulations and policies of the . As a public company, we will incur increased legal, accounting and other costs not incurred as a private company. We will be subject to, among other things, the Securities Exchange Act of 1934, as amended (the 'Exchange Act'), the corporate governance requirements found in the Sarbanes-Oxley Act of 2002 (the 'Sarbanes-Oxley Act') and related rules and regulations of the SEC, as well as the rules and regulations implemented by the                 . We expect that compliance with these requirements will increase our legal, accounting and financial compliance costs and will make some activities more difficult, time-consuming and costly. Our management team may not successfully or efficiently manage our transition to being a public company subject to significant regulatory oversight and reporting obligations under the federal securities laws and the continuous scrutiny of securities analysts and investors. These new obligations and constituents may require our management and other
 
-49
-
 ## Table of Contents
 
 personnel to divert attention from operational and other business matters to devote substantial time to these public company requirements, which could adversely affect our business, financial condition and results of operations.
@@ -1400,8 +1292,6 @@ If we are unable to implement any of the changes to our internal control over fi
 Our management will have broad discretion over the use of the proceeds we receive from this offering and might not use them effectively, which could affect our results of operations and cause our share price to decline.
 
 Our management will have broad discretion to use our net proceeds from this offering, and you will be relying on the judgment of our management regarding the application of these proceeds. Our management might not apply our net proceeds from this offering in ways that increase the value of your investment. Our management might not be able to yield a significant return, if any, on any investment of these net proceeds. You may not agree with the decision of our management and will not have the opportunity to influence our decisions on how to use our net proceeds from this offering.
-
-50
 
 ## Table of Contents
 
@@ -1423,8 +1313,6 @@ We do not expect to declare any dividends for the foreseeable future.
 
 We do not anticipate declaring or paying any dividends on our Class A common stock for the foreseeable future. Instead, we anticipate that all of our future earnings will be retained to support our operations and to finance the growth and development of our business. Consequently, investors may need to rely on sales of their Class A common stock
 
-51
-
 ## Table of Contents
 
 after price appreciation, which may never occur, as the only way to realize any future gains on their investment. Investors seeking cash dividends should not purchase our Class A common stock. Any future determination relating to our dividend policy will be made by our board of directors and will depend on a number of factors. See 'Dividend Policy'.
@@ -1440,8 +1328,6 @@ Delaware corporate law contains, and our restated certificate of incorporation a
                                                                                                             - · advance notice procedures apply for stockholders to nominate candidates for election as directors or to bring matters before an annual or special meeting of stockholders.
 
 Any provision of our restated certificate of incorporation, our amended and restated bylaws or Delaware law that has the effect of delaying or deterring a change in control could limit the opportunity for our stockholders to receive a premium for their shares of our Class A common stock, and could also affect the price that some investors are willing to pay for our Class A common stock.
-
-52
 
 ## Table of Contents
 
@@ -1471,8 +1357,6 @@ This prospectus contains forward-looking statements that reflect our current vie
                                                                                                                 - · our ability to implement, maintain and improve effective internal controls; and
                                                                                                                 - · our anticipated use of the net proceeds from this offering.
 
-53
-
 ## Table of Contents
 
 These forward-looking statements are not historical facts, and are based on current expectations, estimates and projections about our industry as well as certain assumptions made by management, many of which, by their nature, are inherently uncertain and beyond our control. These forward-looking statements are subject to a number of known and unknown risks, uncertainties and assumptions, including those described in 'Risk Factors' and other cautionary statements included in this prospectus, which you should consider and read carefully. We operate in a very competitive and rapidly changing environment. New risks emerge from time to time. It is not possible for us to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks, uncertainties and assumptions, the future events and trends discussed in this prospectus, and our future levels of activity and performance, may not occur and actual results could differ materially and adversely from those described or implied in the forwardlooking statements. As a result, you should not regard any of these forward-looking statements as a representation or warranty by us or any other person or place undue reliance on any such forward-looking statements. Any forward-looking statement speaks only as of the date on which it is made, and we do not undertake any obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future developments or otherwise, except as required by law.
@@ -1480,8 +1364,6 @@ These forward-looking statements are not historical facts, and are based on curr
 In addition, statements that contain 'we believe' and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based on information available to us as of the date of this prospectus. While we believe that this information provides a reasonable basis for these statements, this information may be limited or incomplete. Our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all relevant information. These statements are inherently uncertain, and investors are cautioned not to unduly rely on these statements.
 
 You should read this prospectus and the documents that we reference in this prospectus and have filed as exhibits to the registration statement of which this prospectus forms a part completely and with the understanding that our actual future results may be materially different from what we expect. We qualify all of our forward-looking statements by the cautionary statements contained in this section and elsewhere in this prospectus.
-
-54
 
 ## Table of Contents
 
@@ -1492,8 +1374,6 @@ This prospectus contains information concerning our solutions and our industry, 
 While we are not aware of any misstatements regarding any industry or similar data presented herein, such data involve risks and uncertainties and are subject to change based on various factors, including those discussed under the 'Risk Factors' and 'Cautionary Note Regarding Forward-Looking Statements' sections in this prospectus.
 
 Certain statistical information in this prospectus is based on the 2019 Global Impact Report commissioned by us and produced by us in partnership with HR&amp;A Advisors, of which certain numbers are based on the 2018 WeWork member census. The 2018 WeWork member census was sent via e-mail to WeWork members in October and December of 2018 and received responses from over 18,000 WeWork members. All statistical information in this prospectus based on the 2019 Global Impact Report represents the percentage of members who responded to the 2018 WeWork member census.
-
-55
 
 ## Table of Contents
 
@@ -1506,8 +1386,6 @@ The principal purposes of this offering are to increase our capitalization and f
 We currently intend to use the net proceeds of this offering for general corporate purposes, including working capital, operating expenses and capital expenditures. Our management will have broad discretion in the application of the net proceeds of this offering, and investors will be relying on the judgment of our management in this regard. The timing and amount of our actual expenditures will be based on many factors, including cash flows from operations and the anticipated growth of our business. Pending their use, we intend to invest the net proceeds of this offering in short-term, investment grade, interest-bearing instruments or hold them as cash.
 
 A $1.00 increase (decrease) in the assumed initial public offering price of $            per share would increase (decrease) the net proceeds to us from this offering by $            (or $            if the underwriters exercise in full their option to purchase additional shares of Class A common stock) less underwriting discounts and commissions and estimated offering expenses payable by us, assuming that the number of shares offered by us remains the same. Similarly, each increase (decrease) of one million shares in the number of shares of Class A common stock offered by us would increase (decrease) the net proceeds to us from this offering by $            (or $            if the underwriters exercise in full their option to purchase additional shares of Class A common stock) less underwriting discounts and commissions and estimated offering expenses payable by us, assuming that the initial public offering price remains the same.
-
-56
 
 ## Table of Contents
 
@@ -1526,8 +1404,6 @@ We have never declared or paid any dividends on our capital stock. We do not int
 The agreements governing our bank facilities and the indenture governing our senior notes impose, and the agreement governing the 2019 Credit Facility will impose, certain restrictions on distributions by WeWork Companies LLC to us, and may limit our ability to pay cash dividends. The terms of any credit agreements or other borrowing arrangements we enter into in the future may also restrict distributions to us and limit our ability to pay cash dividends. See 'Description of Indebtedness'.
 
 As a Delaware corporation, we are subject to certain restrictions on the payment of dividends under the Delaware General Corporation Law (the 'DGCL'). Generally, a Delaware corporation may only pay dividends either out of surplus or out of the current or the immediately preceding year's net profits. Surplus is defined as the excess, if any, at any given time, of the total assets of a corporation over its total liabilities and statutory capital. The value of a corporation's assets can be measured in a number of ways and may not necessarily equal its book value.
-
-57
 
 ## CAPITALIZATION
 
@@ -1569,8 +1445,6 @@ Table of Contents
 | Total equity (deficit)                            | (2,299,404)              |                              |
 | Total capitalization                              | $  24,444,086     $      | $                            |
 
-58
-
 - (1) A $1.00 increase (decrease) in the assumed initial public offering price of $             per share (the midpoint of the price range set forth on the cover page of this prospectus) would increase (decrease) each of cash and cash equivalents, additional paid-in capital, total equity and total capitalization by $            , less underwriting discounts and commissions and estimated offering expenses payable by us, assuming that the number of shares offered by us, as set forth on the cover page of this prospectus, remains the same. If the underwriters exercise in full their option to purchase additional shares of Class A common stock, the pro forma as adjusted amount of each of cash and cash equivalents, additional paid-in capital, total equity and total capitalization would increase by approximately $            , less underwriting discounts and commissions and estimated expenses payable by us.
                                                                                                                             - (2) Concurrently with the closing of this offering, we expect to enter into the 2019 Credit Facility described in 'Management's Discussion and Analysis of Financial Condition and Results of Operations-Recent Developments-Debt Financing Transactions'. Subject to the satisfaction of certain conditions, we expect to draw $1.0 billion under that facility concurrently with the closing of this offering.
 
@@ -1591,8 +1465,6 @@ The number of shares of Class A common stock, Class B common stock and Class C c
                                                                                                                             - · shares of Class A common stock and                  shares of Class B common stock reserved for future issuance under the new equity incentive plan we intend to adopt prior to the completion of this offering. See 'Executive Compensation-The We Company 2019 Omnibus Incentive Plan'.
 
 The information set forth in the table above also does not give effect to the 2019 warrant. Under the terms of the 2019 warrant, we have the right to receive $1.5 billion on April 3, 2020 in exchange for the issuance of                  shares of our Class A common stock at a price of $         per share (subject to equitable adjustment in the event of any further stock split, stock dividend, reverse stock split or similar recapitalization event from the closing of this offering through April 3, 2020). See 'Management's Discussion and Analysis of Financial Condition and Results of Operations-Liquidity and Capital Resources-Convertible Note and Warrant Agreements'.
-
-59
 
 ## Table of Contents
 
@@ -1620,8 +1492,6 @@ The dilution information discussed above is illustrative only and will change ba
 
 If the underwriters exercise in full their option to purchase additional shares of Class A common stock, the pro forma as adjusted net tangible book value immediately following the completion of this offering would be $             per share and the dilution to new investors would be $             per share, in each case assuming an initial public offering price of $             per share, the midpoint of the range set forth on the cover of this prospectus.
 
-60
-
 The following table summarizes, as of June 30, 2019, on a pro forma as adjusted basis as described above, the difference between existing stockholders and new investors in this offering with respect to the aggregate number of shares of common stock purchased and with respect to the total consideration and the average price per share paid to us by our existing stockholders and to be paid to us by the new investors in this offering.
 
 Table of Contents
@@ -1637,15 +1507,11 @@ If the underwriters exercise in full their option to purchase additional shares 
 
 The foregoing discussion assumes (a) no exercise of (i) options to purchase                  shares of Class A common stock at a weighted average exercise price of $             per share, (ii) options to purchase                shares of Class B common stock at a weighted average exercise price of $             per share, (iii) warrants to purchase                  shares of Class A common stock at an exercise price of $13.12 per share and (iv) warrants to purchase shares of Class A common stock at an exercise price of $0.001 per share, (b) no settlement of the outstanding restricted stock units underlying shares of Class A common stock and (c) no exchange of partnership interests in the We Company Partnership for shares of our Class B common stock, and excludes                  shares of Class A common stock reserved for future issuance under the new equity incentive plan we intend to adopt prior to the completion of this offering, as described in 'Executive Compensation-The We Company 2019 Omnibus Incentive Plan'. To the extent that options or warrants are exercised, new awards are issued under our new equity incentive plan or we issue additional shares of common stock in the future, new investors in this offering will experience further dilution.
 
-61
-
 ## Table of Contents
 
 ## SELECTED HISTORICAL CONSOLIDATED FINANCIAL AND OPERATING INFORMATION
 
 The following tables present the selected historical consolidated financial and other operating information for WeWork Companies Inc., the predecessor of The We Company. The following summary consolidated financial information for the years ended December 31, 2016, 2017 and 2018 and as of December 31, 2017 and 2018 has been derived from the audited annual consolidated financial statements of WeWork Companies Inc. included elsewhere in this prospectus. The audited annual consolidated financial statements have been prepared in accordance with GAAP and are presented in U.S. dollars. The summary condensed consolidated financial information as of June 30, 2019 and for the six months ended June 30, 2018 and 2019 has been derived from the unaudited interim condensed consolidated financial statements of WeWork Companies Inc. included elsewhere in this prospectus. The unaudited interim condensed consolidated financial statements have been prepared on the same basis as the audited annual consolidated financial statements and reflect, in the opinion of management, all adjustments of a normal, recurring nature that are necessary for a fair statement of the unaudited interim condensed consolidated financial statements. The results of operations for the periods presented below are not necessarily indicative of the results to be expected for any future period.
-
-62
 
 The information presented below should be read in conjunction with the information under 'Management's Discussion and Analysis of Financial Condition and Results of Operations' and the consolidated financial statements and related notes appearing elsewhere in this prospectus.
 
@@ -1681,8 +1547,6 @@ Table of Contents
 | Diluted                                                                                                                                         |                                                                                            |                                                                                            | $ (4.41)                  | $                           | (3.20)                      |
 | Weighted-average shares used to compute pro forma net loss per share attributable to Class A and Class B common stockholders, basic and diluted |                                                                                            |                                                                                            | 338,368,587               |                             | 365,154,863                 |
 
-63
-
 Class A and Class B common stockholders and pro forma basic and diluted net loss per share attributable to Class A and Class B common stockholders. Historical share and per share information does not give effect to the consummation of the stock split to be effected on the closing date of this offering. Pro forma share and per share information gives effect to the consummation of the stock split to be effected on the closing date of this offering pursuant to which each share of our capital stock will be reclassified into              shares.
 
 Table of Contents
@@ -1711,8 +1575,6 @@ Table of Contents
 | Effects of exchange rate changes                                       | (2,261)                   | (763)                        | (13,119)                  | 2,726                       | 15,956                      |
 | Net increase (decrease) in cash, cash equivalents, and restricted cash | $                         | 84,027     $ 1,590,777     $ | (7,177)    $              | (224,016)    $              | 884,730                     |
 
-64
-
 ## Table of Contents
 
 ## MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
@@ -1729,8 +1591,6 @@ In early 2010, we opened our doors to our first member community at 154 Grand St
 
 We have proven that community, flexibility and cost-efficiency can benefit the workplace needs of everyone from global citizens to global enterprises. We pioneered a 'space-as-a-service' membership model that offers the benefits of a collaborative culture, the flexibility to scale workspace up and down as needed and the power of a worldwide community, all for a lower cost. Large enterprises are increasingly seeing the value proposition of our global platform. As of June 1, 2019, 40% of our memberships were with organizations with more than 500 employees (which we refer to as enterprise members), double the 20% as of March 1, 2017. We expect enterprise to continue to be our fastest growing membership type.
 
-65
-
 ## Table of Contents
 
 We have grown significantly since our inception. Our membership base has grown by over 100% every year since 2014 as we have added new members at a strong pace while also strengthening our relationships with existing members. Of the new memberships added in 2018, 35% were attributable to organizations that were already members at the end of 2017. Across our member community, we have high retention rates and expanding relationships, reflecting high member satisfaction with our platform. It took us more than seven years to achieve $1 billion of run-rate revenue, but only one additional year to reach $2 billion of run-rate revenue and just six months to reach $3 billion of run-rate revenue.
@@ -1740,8 +1600,6 @@ We have grown significantly since our inception. Our membership base has grown b
 As our business model evolves, our physical platform grows and our membership base expands, we expect to use the principles of demand aggregation to continue to offer a growing portfolio of products and services to meet our members' needs. Our established partner relationships, a suite of our own We Company offerings and the trust of hundreds of thousands of members across the globe allow us to deliver products and services to our members at scale. Our position as a demand aggregator with a global physical platform allows us to connect our members with third-party service providers with minimal incremental costs. We believe our partnerships with third-party service providers will be a driver of higher margin revenue growth, further increasing our opportunity. See 'Business-Our Global Platform'.
 
 Our investments in our global platform, coupled with purpose-built technology and operational expertise, provide what we believe is a significant firstmover advantage over our competitors as the pioneer of the space-as-a-service model. We continue to learn from our data and experiences to innovate on what drives our member success and execute using our purpose-built technology and mission-driven team. We believe that we have laid the foundation to capitalize on our significant market opportunity by continuing to reinvent the future of work.
-
-66
 
 ## Table of Contents
 
@@ -1783,8 +1641,6 @@ Enterprise memberships represent memberships attributable to enterprise members,
 
 Enterprise members are strategically important for our business as they typically sign membership agreements with longer-term commitments for multiple solutions across our global platform, which enhances our revenue visibility. We have proven our ability to meet the distinct needs of enterprise members. We plan to deepen existing relationships and forge new relationships with enterprise members.
 
-68
-
 ## Table of Contents
 
 ## Run-Rate Revenue
@@ -1807,8 +1663,6 @@ Committed revenue backlog as of a given date represents total non-cancelable con
 
 Committed revenue backlog provides significant visibility into our future performance and is a key indicator of sustained demand for our solutions and the degree of revenue predictability in our business. We expect this metric to grow due to continued membership growth, in particular from enterprise members, who typically sign membership agreements with longer-term commitments.
 
-69
-
 ## Table of Contents
 
 ## Contribution Margin
@@ -1826,8 +1680,6 @@ We define 'contribution margin including non-cash GAAP straight-line lease cost'
 (in millions)
 
 <!-- image -->
-
-70
 
 The following table reconciles our loss from operations (the most directly comparable financial measure calculated in accordance with GAAP) to our contribution margin for the periods presented:
 
@@ -1862,8 +1714,6 @@ As additional supplemental information, the following table also reconciles our 
 | Add: Non-cash GAAP straight-line lease cost (as included in location operating expenses)  (d) | 92,723        | 162,313     | 268,125       | 117,178                     | 198,124                                                               |
 | Contribution margin excluding non-cash GAAP straight-line lease cost                          | $ 95,943   $  | 233,147   $ | 467,125   $   | 201,586   $                 | 339,908                                                               |
 
-71
-
 ## Table of Contents
 
 are comparable to the six months ended June 30, 2019. Our discussion and analysis of our consolidated results of operations for the years ended December 31, 2016, 2017 and 2018 have not been revised, and still refer to 'rent expense'. In any chart where the years ended December 31, 2016, 2017, and 2018 are presented with the six months ended June 30, 2018 and 2019, we refer to any rent expense recognized in accordance with ASC 840 as 'lease cost', so that the terminology across periods presented is consistent. See Note 4 to the unaudited interim condensed consolidated financial statements included elsewhere in this prospectus for additional details surrounding the adoption of ASC 842.
@@ -1887,8 +1737,6 @@ These measures account for the impact of support functions that are directly att
                                                                                                                                         - · General and administrative expenses are not incurred at the location level and are therefore not directly attributable to the operation of our locations.
                                                                                                                                         - · Pre-opening location expenses consist of expenses (including all lease costs, which also include non-cash GAAP straight-line lease cost) incurred before a location opens for member operations, and are therefore not attributable to the operations of our existing open locations.
 
-72
-
 ## Table of Contents
 
                                                                                                                                                 - · Our sales and marketing efforts are primarily focused on the initial sales efforts when we open a location, as once a location reaches maturity, occupancy at that location has historically tended to be self-sustaining, and we do not incur significant sales and marketing expenses related to those locations.
@@ -1909,8 +1757,6 @@ We enter into leases with landlords that have an average initial term of approxi
 
 Under GAAP, we are required to record 'free rent' periods and lease cost escalations on a straight-line basis over the term of the lease. In other words, we are required to record the total of all payments due under the lease evenly over the period of the lease, regardless of what our cash lease cost obligations may be in a particular period. This is referred to as 'straight-lining of lease cost'. Given the magnitude of non-cash GAAP straight-line lease cost on the periods presented, and in order to facilitate a reader's ability to assess the impact of this adjustment, we separately present our contribution margin both including and excluding non-cash GAAP straight-line lease cost so that a reader has full transparency relating to this significant adjustment. In opening new locations and in striving to maximize operating performance, we strive for a target contribution margin percentage of 30% over the lifetime of a location. The non-cash GAAP straight-line lease cost nets to zero over the life of a lease.
 
-73
-
 ## Table of Contents
 
 ## Why do we not adjust for amortization of lease incentives?
@@ -1929,8 +1775,6 @@ Over the remainder of the lease, membership and service revenue will typically c
 
 As a result of our significant growth in recent periods, which is marked by our entry into new leases with free rent periods at the outset of the lease term, the non-cash GAAP straight-line lease cost has generally decreased our
 
-74
-
 ## Table of Contents
 
 contribution margin. Non-cash GAAP straight-line lease cost included in location operating expenses increased from $117.2 million for the six months ended June 30, 2018 to $198.1 million for the six months ended June 30, 2019. Over the same period, our consolidated locations grew from 279 as of June 30, 2018 to 507 as of June 30, 2019.
@@ -1944,8 +1788,6 @@ For our mature locations, the impact of straight-lining of lease cost is typical
 (in millions)
 
 <!-- image -->
-
-75
 
 The following table reconciles our loss from operations (the most directly comparable financial measure calculated in accordance with GAAP) to our contribution margin for the periods presented:
 
@@ -1979,8 +1821,6 @@ As additional supplemental information, the following table also reconciles our 
 | Add: Non-cash GAAP straight-line lease cost (as included in location operating expenses)  (d) | 39,049               | 42,524               | 47,997               | 54,992                                | 62,186               | 69,403               | 81,544               | 102,153                               | 95,971               |
 | Contribution margin excluding non-cash GAAP straight- line lease cost                         | $ 52,326  $          | 65,175  $            | 72,595  $            | 95,128  $                             | 106,458  $           | 121,358  $           | 144,181  $           | 170,084  $                            | 169,824              |
 
-76
-
 ## Table of Contents
 
 ## What is our target contribution margin percentage?
@@ -2003,8 +1843,6 @@ Our non-GAAP measures have limitations as analytical tools and should not be con
 
 Management and our board of directors are committed to making our non-GAAP measures reliable, transparent and useful to investors and management. Upon completion of this offering, our audit committee, which has the authority pursuant to its charter to use outside advisors as appropriate, will assume responsibility for overseeing the presentation and disclosure of our non-GAAP measures. Such oversight responsibilities will include understanding how management utilizes non-GAAP measures to evaluate performance and whether our non-GAAP measures are consistently prepared and presented from period to period. Upon completion of this offering, presentation and disclosure of our non-GAAP measures will be further subject to documented disclosure controls and procedures, and we intend to have in place a written non-GAAP policy that our audit committee will oversee which, among other things, we expect to address the determination of which charges and credits should be excluded from our non-GAAP measures.
 
-77
-
 ## Table of Contents
 
 ## Our Business Model
@@ -2023,8 +1861,6 @@ Our business is built on a global platform of physical locations where we offer 
 
 As of June 1, 2019. 'Find' phase includes locations that are the subject of either a term sheet exchanged (whether or not executed) or a draft lease agreement exchanged (but not yet executed). Historically, not all locations that are the subject of a term sheet or a draft lease agreement will become the subject of a signed lease agreement. 'Sign' phase includes locations that are the subject of a lease agreement that has been signed but with respect to which we have not taken possession and no lease cost expense has been recognized. 'Build' phase includes locations that are the subject of a lease agreement that has been signed and with respect to which we have taken possession and lease cost expense has been recognized, but which have not yet opened to members. 'Fill' phase includes locations that have been open to members for 24 months or less. 'Run' phase includes locations that have been open to members for more than 24 months.
 
-78
-
 ## Table of Contents
 
 Our locations have distinct revenue, expense and capital cost profiles through each phase of their lifecycle. First, we incur growth and new market development expenses associated with our real estate team that is responsible for finding new locations and negotiating lease terms. Once we take possession of a space, we incur growth and new market development expenses associated with our design and construction teams as well as capital costs related to building out our spaces. In this phase, we also begin our efforts to fill our spaces, and we incur sales and marketing expenses associated with our sales teams, advertising campaigns and fees paid to brokers who sell memberships, particularly to enterprise organizations. After a location opens, we begin generating revenue and contribution margin as we further fill and run the spaces. Once a location has been open to members for more than 24 months, occupancy is generally stable and the location typically generates a recurring stream of cash flows.
@@ -2034,8 +1870,6 @@ Our locations have distinct revenue, expense and capital cost profiles through e
 <!-- image -->
 
 As we build and open more locations in existing and new markets, we create additional workstation capacity that lays the foundation for incremental revenue and future profits. As a space-as-a-service platform, we compare the lifetime value we can create from incremental capacity to the cost of creating that incremental capacity. We estimate that with every $1 billion in net capital expenditures we invest in opening new workspaces, we can create workstation capacity of approximately 273,000 workstations, based on our net capex per workstation added for projects completed in the first half of 2019. See 'Management's Discussion and Analysis of Financial Condition and Results of Operations-Capital Expenditures and Tenant Improvement Allowances' for an explanation of net capex per workstation added and see the 'Build' section below for a calculation of net capex per workstation added in the first half of 2019.
-
-79
 
 ## Illustrative Annual Economics
 
@@ -2073,8 +1907,6 @@ Once we identify a desirable location, we endeavor to negotiate favorable lease 
 
 As we scale, we intend to pursue capital-efficient partnerships with building owners through participating leases as an alternative to standard leases. Under a participating lease, the landlord typically pays or reimburses us for the full build-out of the space. Additionally, we generally do not pay a specified annual rent, but rather rent is determined based on revenues or profits from the space. We also plan to continue to enter into management agreements, as we
 
-80
-
 ## Table of Contents
 
 have done in India, under which the building owner funds all capital expenditures to build out the space to our design specifications and maintains full responsibility for the space, while we function as the manager and receive an agreed-upon management fee.
@@ -2103,8 +1935,6 @@ Our ability to continue to grow depends not only on the availability of new loca
 We aim to develop vibrant and welcoming spaces for our members that are cost-efficient to build and cost-effective to maintain. Even before we take possession of a space, we engage with engineers, designers, architects, layout experts and decorators to be ready to start the construction of a space the moment we take possession. As we have refined this process, we have been able to significantly reduce the time we take to build-out a location, with locations typically opening approximately four to six months after we take possession.
 
 We incur the majority of our gross capital expenditures to build out our spaces during this phase. Since 2015, we have launched a number of initiatives to reduce our net capex per workstation added, which represents our gross capital expenditures less the tenant improvement allowances we are entitled to receive from landlords. These initiatives include developing a global supply chain, clustering in cities allowing us to leverage economies of scale in those cities and bringing certain functions and technologies in house. Our ability to maintain or reduce our net capex per workstation added will have a significant impact on the overall investment required to continue to grow our business at an accelerated pace.
-
-81
 
 ## Usable Square Feet Added (2)
 
@@ -2137,8 +1967,6 @@ Our ability to continue to grow our platform at an accelerated pace depends on o
 
 During this phase, we focus on optimizing utilization of space at our locations by driving membership sales using global sales teams, local community teams, broker partners and our online presence to help fill our spaces. We start to generate revenue and contribution margin when we open our space to members. We believe it takes 24 months for a location to hit maturity-the point at which most of the floors will have been open for 18 months and occupancy will have stabilized for the location.
 
-82
-
 ## Table of Contents
 
 ## Enterprise Membership Percentage
@@ -2160,8 +1988,6 @@ Once a location has been open to members for more than 24 months, which we defin
 
 At this phase, the community team, which includes a dedicated sales lead at each of our locations, is primarily responsible for maintaining occupancy in our locations, which reduces our reliance on our centralized sales and marketing teams. The community team strives to foster a positive and engaging experience for our members, which we believe drives our high membership retention rates across our member community. The chart below demonstrates our net membership retention rate, which measures the net impact of members who added or canceled WeWork memberships during a given period. For members that had joined our community as of December 1, 2017, our net membership retention rate in the period from December 1, 2017 to December 1, 2018 was 119%.
 
-83
-
 ## Occupancy by Year of Location Opening
 
 ## Table of Contents
@@ -2175,8 +2001,6 @@ As we have scaled globally, we continue to realize operating efficiencies due to
 During the 'run' phase, we incur expenses for ongoing repairs and maintenance, which are reflected in our location operating expenses. In addition, we may incur minimal capital expenditures related to the redevelopment of our spaces.
 
 Our ability to continue to generate a recurring stream of revenues, contribution margin and cash flow in this phase depends on the ability of our community teams to maintain a positive membership experience while efficiently running the locations.
-
-84
 
 ## Table of Contents
 
@@ -2206,8 +2030,6 @@ We expect to continue to fund these growth investments from cash on hand and by 
 
 We have embarked on a strategic worldwide expansion program to grow our platform by opening locations in new markets as well as opening new locations in markets where we currently operate.
 
-85
-
 (in millions)
 
 ## Table of Contents
@@ -2236,8 +2058,6 @@ We aim to optimize our access to the capital markets and seek to have broad-base
 
 Currently, the indenture governing the senior notes would restrict our ability to draw the second and third tranches of the Delayed Draw Term Facility described above. We may, in our discretion, explore a variety of new financing and/or refinancing transactions, including with respect to the senior notes and/or any term loans funded under the Delayed Draw Term Facility.
 
-86
-
 ## Table of Contents
 
 In addition, the 2019 Letter of Credit Facility would also permit us to seek an increase in the commitments under the Letter of Credit Facility of up to $500 million at any time after December 31, 2020, subject to the receipt of commitments from existing or additional financial institutions and other conditions.
@@ -2253,8 +2073,6 @@ Borrowings under the Delayed Draw Term Loans are expected to bear interest at a 
 The definitive documentation for the 2019 Credit Facility will contain customary repayment provisions, representations, warranties, events of default and affirmative covenants. The definitive documentation for the 2019 Credit Facility will also contain negative covenants limiting our ability and the ability of our restricted subsidiaries to take certain actions, including, without limitation, incur indebtedness (including guarantee obligations), incur liens, enter into mergers or consolidations, dispose of assets, issue dividends and other payments in respect of capital stock, make acquisitions, make investments, loans and advances, enter into transactions with affiliates or change our line of business. The ARK entities and our regional joint ventures are expected to be designated as unrestricted subsidiaries under the 2019 Credit Facility.
 
 The closing of the 2019 Credit Facility is expected to occur concurrently with the closing of this offering. In addition to termination of our existing bank facilities, we intend to use the net proceeds from the 2019 Credit Facility to finance our working capital needs and for general corporate purposes.
-
-87
 
 ## Table of Contents
 
@@ -2275,8 +2093,6 @@ In July and August 2019, we acquired Waltz, an access controls solution, Prolifi
 ## Components of Results of Operations
 
 We assess the performance of our locations differently based on whether the revenues and expenses of the location are consolidated within our results of operations ('consolidated locations') or whether the revenues and expenses of the location are not consolidated within our results of operations but we are entitled to a management fee for our services, such as locations ('IndiaCo locations') operated by WeWork India Services Private Limited ('IndiaCo'). The term 'locations' includes only consolidated locations when used in 'Management's Discussion and Analysis of Financial Condition and Results of Operations-Components of Results of Operations' but includes both consolidated locations and IndiaCo locations when used elsewhere in this prospectus.
-
-88
 
 ## Table of Contents
 
@@ -2312,8 +2128,6 @@ Prior to the adoption of ASC 842 on January 1, 2019, lease cost was referred to 
 
 Other location operating expenses typically include utilities, ongoing repairs and maintenance, cleaning expenses, office expenses, security expenses, credit card processing fees and food and beverage costs. Location operating
 
-89
-
 ## Table of Contents
 
 expenses also include personnel and related costs for the teams managing our community operations, including member relations, new member sales and member retention, member technology and facilities management, as well as costs for corporate functions that directly support the operations of our communities, such as personnel costs associated with our billings, collections, purchasing and accounts payable functions. As our global platform continues to expand, we expect to achieve further economies of scale on these community support functions, which we expect to have a positive impact on our future margins.
@@ -2341,8 +2155,6 @@ Growth and new market development expenses also include cost of goods sold in co
 ## General and Administrative Expenses
 
 General and administrative expenses consist primarily of personnel and related expenses and stock-based compensation expense related to corporate employees, technology, consulting, legal and other professional services expenses, costs for our corporate offices and various other costs we incur to manage and support our business.
-
-90
 
 ## Interest and Other Income (Expense)
 
@@ -2381,8 +2193,6 @@ Table of Contents
 | Enterprise membership percentage                  | 18%                       | 28%                       | 38%                       | 30%                         | 40%                         |
 | Run-rate revenue (in billions)                    | $ 0.6        $            | 1.1        $              | 2.4        $              | 1.8        $                | 3.3                         |
 | Committed revenue backlog (in billions)  (4)      | $ 0.1        $            | 0.5        $              | 2.6                       | N/R        $                | 4.0                         |
-
-91
 
 ## Consolidated Results of Operations as a Percentage of Revenue
 
@@ -2428,8 +2238,6 @@ The growth in revenue was primarily driven by growth in our membership base. The
 
 The increase in membership and service revenue due to growth of our membership base was slightly offset by a decline of approximately $39 million driven by a decline in average revenue per WeWork membership for the six months ended June 30, 2019 as compared to the six months ended June 30, 2018. Average revenue per WeWork membership has experienced a decline primarily relating to our continued expansion into new global markets with
 
-92
-
 different pricing structures. In some cases we also use discounts to encourage longer contract terms. Our growing membership base combined with increasing average commitment lengths has provided increased visibility as to future revenues as we continue to scale globally, driving an increase in our committed revenue backlog from approximately $0.5 billion as of December 31, 2017 to approximately $4.0 billion as of June 30, 2019.
 
 We calculate average revenue per WeWork membership by dividing our membership and service revenue (other than membership and service revenue from our WeLive offering and related services and other than management fee income from services provided to IndiaCo) by the average number of WeWork memberships in the relevant period.
@@ -2464,8 +2272,6 @@ Total revenue increased $449.9 million to $886.0 million for the year ended Dece
 
 The growth in revenue was primarily driven by growth in our membership base. The WeWork community has grown to approximately 183,000 memberships as of December 31, 2017 from 87,000 as of December 31, 2016. Additionally, we opened two WeLive locations during 2016.
 
-93
-
 The increase in membership and service revenue due to growth in our membership base was slightly offset by a decline in average revenue per WeWork membership for the year ended December 31, 2017 as compared to the year ended December 31, 2016. Average revenue per WeWork membership has experienced a decline primarily as we have expanded into different global markets with different pricing structures and in some cases may also use discounts to attract members as we open new locations at a faster rate.
 
 Other revenue increased $17.4 million to $19.1 million for the year ended December 31, 2017, from $1.7 million for the year ended December 31, 2016 due to the launch of our Powered by We solutions, which represented $13.7 million of the increase in other revenue during the year ended December 31, 2017. During 2017, we also acquired Meetup and Flatiron School. The collective revenue earned by these offerings for the periods subsequent to their acquisitions during the year ended December 31, 2017 contributed $3.2 million of the increase. The remaining increase in other revenue of $0.5 million relates to revenue from various other activities not directly related to our workplace solutions.
@@ -2499,8 +2305,6 @@ Our most significant location operating expense is operating lease cost, which i
 | Amortization of lease incentives           | (38,891)                    | (69,399)                    | (30,508)                                          | 78%      |
 | Total location operating lease cost        | $ 416,016     $             |                             | 835,800     $        419,784                 101% |          |
 
-94
-
 The following table includes the components of operating lease cost included in location operating expenses as a percentage of membership revenue:
 
 Table of Contents
@@ -2526,8 +2330,6 @@ Employee compensation and benefits expense included in location operating expens
 Stock-based compensation expense increased $19.5 million, including $16.8 million driven by the 2019 tender offer, through which common shares were acquired from employees at a price greater than the fair market value of the shares and resulted in additional stock-based compensation expense during the six months ended June 30, 2019. Additionally, we made new stock-based grants to new and existing employees and the fair value of our capital stock increased, which also contributed to the increase in stock-based compensation.
 
 The overall growth in our global platform was also the primary driver of the remaining $89.6 million increase in all other location operating expenses, which related to increases in cleaning, office, consumables, utilities, repairs and maintenance expenses and other expenses required to operate our locations. As a percentage of membership revenue, these location operating expenses for the six months ended June 30, 2019 decreased 3% to 17% compared to 20% for the six months ended June 30, 2018.
-
-95
 
 Comparison of the Year Ended December 31, 2017 and the Year Ended December 31, 2018
 
@@ -2569,8 +2371,6 @@ The $325.1 million increase in rent contractually paid or payable, which is paid
 
 The $105.8 million increase in adjustments for impact of straight-lining of rent was primarily driven by free rent periods and rent escalations given that the majority of our leases are in the first half of the life of the lease. The impact of straight-line rent typically increases rent expense in the first half of the life of a lease, when rent expense recorded in accordance with GAAP exceeds cash payments made, and then decreases rent expense in the second half of the life of the lease, when rent expense is less than the cash payments required.
 
-96
-
 The $37.8 million increase in amortization of lease incentives benefit was also primarily driven by the new locations that opened during the year ended December 31, 2018 and 2017.
 
 The increase in the number of open locations and the growth of our global platform also resulted in a $76.0 million increase in total tenancy costs (including real estate and related taxes and common area maintenance charges) as compared to the year ended December 31, 2017.
@@ -2596,8 +2396,6 @@ Table of Contents
 | Total location operating expenses                                       | $ 433,167     $           | 814,782     $             | 381,615                                          | 88%      |
 
 Location operating expenses increased $381.6 million to $814.8 million for the year ended December 31, 2017 and were generally driven by the overall growth of our global platform and the increase in the number of open locations. As a percentage of total revenue, location operating expenses for the year ended December 31, 2017 were 92%, which represented a decrease of 7% as compared to 99% for the year ended December 31, 2016.
-
-97
 
 Our most significant location operating expense is rent expense, which includes the following components and changes:
 
@@ -2632,8 +2430,6 @@ The increase in the number of open locations and the growth of our global platfo
 Employee compensation and benefits expense included in location operating expenses increased $41.4 million compared to the year ended December 31, 2016. To support the operations of our growing platform, we made significant personnel investments in teams that run the day-to-day operations of our locations, and functions such as billings, collections, purchasing and accounts payable teams.
 
 Stock-based compensation expenses included in location operating expenses increased $16.7 million mainly driven by the 2017 tender offer, which resulted in additional stock-based compensation expense of $12.2 million during the year ended December 31, 2017, as common shares were acquired from our employees at a price greater than the fair market value of the shares. The remaining $4.5 million increase in stock-based compensation expense is attributable to the increase in personnel, who have received new grants, and additional grants to existing employees, both at a stock price higher than those of previous grants.
-
-98
 
 The overall growth in our global platform was also the primary driver of the remaining $72.3 million increase in all other location operating expenses, which related to increases in cleaning, office consumables, utilities, repairs and maintenance expenses and other expenses required to operate our locations. As a percentage of membership revenue, these location operating expenses for the period declined slightly to 19% for the year ended December 31, 2017, compared to 21% for the year ended December 31, 2016.
 
@@ -2670,8 +2466,6 @@ For the years ended December 31, 2017 and 2018, other operating expenses relate 
 
 Other operating expenses increased $1.7 million primarily due to the operation of our Meetup and Flatiron School offerings for the periods subsequent to their acquisitions during 2017.
 
-99
-
 ## Pre-Opening Location Expenses
 
 Comparison of the Six Months Ended June 30, 2018 and the Six Months Ended June 30, 2019
@@ -2704,8 +2498,6 @@ The increase in amortization of lease incentives benefit of $17.2 million was dr
 The $99.1 million increase in non-cash GAAP straight-line lease cost is primarily driven by straight-line lease cost expense during free rent periods provided for a limited time before our locations open for members. During this period, lease cost expense recorded in accordance with GAAP exceeds cash payments required to be made. As the number of location openings and the number of pre-opening locations at the end of each period has increased as described above, so too have non-cash GAAP straight-line lease cost relating to those pre-opening locations. The impact of straight-lining of lease cost nets to zero over the life of a lease.
 
 The overall growth in our global platform was also the primary driver of the remaining $6.0 million increase in all other pre-opening location operating expenses, which related to increases in employee compensation and benefits, cleaning, utilities and other expenses required to prepare our locations for members.
-
-100
 
 Comparison of the Year Ended December 31, 2017 and the Year Ended December 31, 2018
 
@@ -2747,8 +2539,6 @@ Comparison of the Year Ended December 31, 2016 and the Year Ended December 31, 2
 
 Pre-opening location expenses increased $15.6 million to $131.3 million for the year ended December 31, 2017, primarily as a result of the acceleration of the growth of our platform during 2017. We opened 86 and 58 new locations
 
-101
-
 during the years ended December 31, 2017 and 2016, respectively, and there were 62 and 35 pre-opening locations where we had taken possession of the location but it had not yet opened for members as of December 31, 2017 and 2016, respectively.
 
 Our most significant pre-opening location expense for the period before a location is open for members is rent expense, which includes the following components and changes:
@@ -2784,8 +2574,6 @@ Sales and marketing employee compensation and benefits expenses increased $87.1 
 
 The increase in sales and marketing expense was also driven by a $39.8 million increase in member referral fees, a $36.5 million increase in advertising expenses, and a $16.6 million increase in various other costs, all associated with our investment in the growth in our business. These increases are offset by a decrease in sales and marketing expenses relating to the Creator Awards of $9.3 million.
 
-102
-
 Comparison of the Year Ended December 31, 2017 and the Year Ended December 31, 2018
 
 Table of Contents
@@ -2813,8 +2601,6 @@ Sales and marketing expenses increased $100.0 million to $143.4 million for the 
 Sales and marketing employee compensation and benefits increased $24.9 million due to our investment in additional and more experienced sales and marketing personnel and a $3.5 million increase in stock-based compensation expense including $2.9 million relating to the 2017 tender offer, which resulted in additional stock-based compensation expense during the year ended December 31, 2017, as common shares were acquired from our employees at a price greater than the fair market value of the shares.
 
 The increase in sales and marketing was also driven by higher spending on advertising of $26.2 million and a period-over-period increase in member referral fees of $10.5 million. The remaining $34.9 million increase in all other sales and marketing expenses represent our investment in efforts to increase sales and is largely driven by expenses associated with strategic marketing events and other promotional activities, professional fees and travel.
-
-103
 
 ## Growth and New Market Development Expenses
 
@@ -2854,8 +2640,6 @@ Compensation and related benefits increased $110.8 million driven by our investm
 
 We also incurred an additional $82.7 million in consulting and other professional fees and travel costs associated with our expansion in existing markets as well as researching, exploring and selecting new markets and developing new
 
-104
-
 solutions and services. During 2018 we expanded into certain key countries, such as Chile, Ireland, Japan, Peru, Philippines, Poland, Thailand, Spain and Vietnam.
 
 During the year ended December 31, 2018, we also incurred an increase of $39.5 million in direct external construction costs relating to an increase in the number of Powered by We projects during 2018.
@@ -2892,8 +2676,6 @@ Comparison of the Six Months Ended June 30, 2018 and the Six Months Ended June 3
 | (Amounts in thousands, except percentages) | 2018                        | 2019                        | $                                             | %        |
 | General and administrative expenses        | $        155,257     $      |                             | 389,910     $        234,653             151% |          |
 
-105
-
 General and administrative expenses increased $234.7 million to $389.9 million, primarily due to an increase in stock-based compensation and stock issued to consultants for services rendered of $102.9 million, including $90.5 million driven by the 2019 tender offer. Additionally, we made new stockbased grants to new and existing employees and the fair value of our capital stock increased, which also contributed to the increase in stock-based compensation.
 
 Excluding the impact of stock-based compensation and stock issued for services rendered by consultants, general and administrative expenses for the six months ended June 30, 2019 remained flat at 18% of total revenue compared to the six months ended June 30, 2018.
@@ -2925,8 +2707,6 @@ Comparison of the Year Ended December 31, 2016 and the Year Ended December 31, 2
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------|----------|
 | (Amounts in thousands, except percentages) | 2016                      | 2017 $                                                                      |          |
 | General and administrative expenses        |                           | $        115,346     $        454,020     $        338,674             294% |          |
-
-106
 
 General and administrative expenses increased $338.7 million to $454.0 million for the year ended December 31, 2017. The increase was primarily driven by the 2017 tender offer, which resulted in $247.3 million of additional stock-based compensation expense during the year ended December 31, 2017, as common shares were acquired from our employees at a price greater than the fair market value of the shares. Other stock-based compensation expense and expense related to stock issued for services rendered by consultants increased a total of $1.7 million year over year.
 
@@ -2967,8 +2747,6 @@ Comparison of the Year Ended December 31, 2016 and the Year Ended December 31, 2
 
 Depreciation and amortization expenses increased $73.9 million to $162.9 million for the year ended December 31, 2017 driven by the increase in leasehold improvements, furniture, and equipment primarily associated with the 86 new location openings in 2017 and the 58 new location openings that occurred during the year ended December 31, 2016, as well as continued expansion of previously opened locations.
 
-107
-
 Interest and Other Income (Expense), Net
 
 Comparison of the Six Months Ended June 30, 2018 and the Six Months Ended June 30, 2019
@@ -3006,8 +2784,6 @@ Comparison of the Year Ended December 31, 2017 and the Year Ended December 31, 2
 
 Interest and other income (expense), net increased $229.9 million to $237.3 million net expense for the year ended December 31, 2018 as compared to the year ended December 31, 2017.
 
-108
-
 The loss from equity method investments decreased $18.3 million, primarily related to $15.0 million in impairments recorded in 2017 on one of our investments.
 
 Interest expense increased by $168.2 million primarily due to a $97.6 million increase in expense related to the change in fair value of the embedded redemption feature associated with the 2018 convertible note (see Note 13 to the audited annual consolidated financial statements included elsewhere in this prospectus), imputed interest expense on the 2018 convertible note of $22.4 million and $37.0 million of interest expense incurred during the year ended December 31, 2018 associated with our senior notes, which began accruing interest on April 30, 2018. The remaining $11.2 million increase in interest expense relates primarily to increases in letters of credit outstanding under our credit facilities and surety bonds issued during 2018 in lieu of cash security deposits.
@@ -3036,8 +2812,6 @@ Interest income also increased by $7.1 million, primarily driven by our capital-
 Interest expense increased by $3.1 million primarily related to an increase in interest expense due to an increase in outstanding letters of credit issued under our senior credit facility.
 
 The net increase in foreign currency gains of $52.6 million was primarily driven by the increase in foreign currency-denominated intercompany transactions that are not of a long-term investment nature as a result of our international expansion and currency fluctuations against the dollar. We had 74 locations outside of the United States as of December 31, 2017, compared with 31 as of December 31, 2016.
-
-109
 
 ## Income Tax Benefit (Provision)
 
@@ -3074,8 +2848,6 @@ Comparison of the Year Ended December 31, 2016 and the Year Ended December 31, 2
 
 Income tax benefit was $5.7 million for the year ended December 31, 2017 compared to a $16 thousand provision for the year ended December 31, 2016. This net benefit increase included $2.3 million of current tax expense in foreign jurisdictions, offset by $8.0 million of deferred tax benefit related to U.S. federal, state and foreign jurisdictions. Of the total $8.0 million of deferred tax benefit, $7.9 million consisted of U.S. federal and state deferred tax benefit and
 
-110
-
 ## Table of Contents
 
 resulted from a combination of our 2017 acquisitions and the December 22, 2017 enactment of the legislation commonly referred to as the Tax Cuts and Jobs Act (the 'Tax Act'). The Tax Act reduces the U.S. corporate statutory tax rate from 35% to 21% and allows for indefinite net operating loss carryforwards that can reduce up to 80% of taxable income. Both of these provisions apply to tax years beginning after December 31, 2017 and directly contributed to the $7.9 million U.S. federal and state deferred tax benefit.
@@ -3095,8 +2867,6 @@ The net loss attributable to noncontrolling interests was $49.5 million for the 
 As a result of the factors described above, our net loss attributable to WeWork Companies Inc. increased $(61.5) million, from $(628.1) million for the six months ended June 30, 2018 to $(689.7) million for the six months ended June 30, 2019.
 
 We recorded a net loss attributable to WeWork Companies Inc. of $(1.6) billion for the year ended December 31, 2018, compared to $(884.0) million for the year ended December 31, 2017 and $(429.7) million for the year ended December 31, 2016.
-
-111
 
 ## Quarterly Results of Operations
 
@@ -3147,8 +2917,6 @@ N/R = Not reported
 | Other operating expenses          | -                    | -                    | 355                  | 814                  | 1,385                   | 1,188                | 1,135                | 3,490                | 946                  |
 | Sales and marketing expenses      | 378                  | 454                  | 3,040                | 1,670                | 1,756                   | 1,542                | 1,375                | 9,821                | 3,111                |
 
-112
-
 Table of Contents
 
 |                                                            | Three Months Ended   | Three Months Ended   | Three Months Ended   | Three Months Ended   | Three Months Ended       | Three Months Ended   | Three Months Ended   | Three Months Ended            | Three Months Ended   |
@@ -3170,8 +2938,6 @@ Table of Contents
 When used in conjunction with GAAP financial measures, we believe that adjusted EBITDA, both including and excluding non-cash GAAP straight-line lease cost, is a useful supplemental measure of operating performance because it facilitates comparisons of historical performance by excluding non-cash items such as stock-based payments, fair market value adjustments, and impairment charges and other amounts not directly attributable to our primary operations, such as the impact of acquisitions, disposals and settlements. Similar to our discussion related to contribution margin, adjusted EBITDA is also significantly impacted by straight-lining of lease cost, and therefore we also separately present the impact on adjusted EBITDA including and excluding non-cash GAAP straight-line lease cost.
 
 Adjusted EBITDA has limitations as an analytical tool, including those set forth with respect to contribution margin in 'Management's Discussion and Analysis of Financial Condition and Result of Operations-Contribution Margin-What are the limitations of using our non-GAAP measures as supplemental measures?' Additionally, although depreciation and amortization are non-cash charges, the assets being depreciated and amortized will often have to be replaced in the future, and adjusted EBITDA does not reflect any cash requirements for such replacements.
-
-113
 
 A reconciliation of net loss to adjusted EBITDA is set forth below:
 
@@ -3198,8 +2964,6 @@ Table of Contents
 Our primary sources of liquidity are our cash and cash equivalents on hand and amounts available under the bank facilities. As of June 30, 2019, we maintained a cash and cash equivalents balance of $2.5 billion, which includes $535.8 million held by our consolidated variable interest entities ('VIEs') that will be used first to settle obligations of the VIE and are also subject to the restrictions discussed below. In addition, as of June 30, 2019, our consolidated VIEs have $400 million in unfunded commitments from investors, and we are scheduled to receive $200 million during each of 2019 and 2020, which will provide additional liquidity for our consolidated VIEs. For the six months ended June 30, 2019, our primary source of cash was the draw downs in January 2019 and April 2019 under the 2018 warrant. Proceeds have been used to fund our growth, operations and capital expenditures for design and build-out of our spaces. In addition, the $1.5 billion available to draw in April 2020 under the 2019 warrant (as defined under '-Convertible Note and Warrant Agreements') is expected to provide additional future liquidity.
 
 Our primary uses of cash relate to capital expenditures associated with the design and build-out of our spaces as well as lease costs, common area maintenance costs and real estate taxes, other location operating costs and general and administrative expenses. While also uses of cash, we view pre-opening location expenses, sales and marketing expenses, growth and new market development expenses and cash payments made for acquisitions as discretionary investments that will fuel our ability to continue to grow in the future. Although these amounts are important to our growth, we believe that they can be scaled back to the extent needed based on our future cash needs.
-
-114
 
 As of June 30, 2019, our consolidated VIEs held the following, in each case after intercompany eliminations:
 
@@ -3229,8 +2993,6 @@ In July 2018, we entered into an agreement for the issuance of a convertible not
 
 On November 1, 2018, we entered into a warrant agreement with SB WW Holdings (Cayman) Limited ('SBWW Cayman') pursuant to which we agreed to issue to SBWW Cayman shares of our capital stock (as amended in January
 
-115
-
 ## Table of Contents
 
 2019, the '2018 warrant'). Under the terms of the 2018 warrant, SBWW Cayman made a payment of $1.5 billion on January 15, 2019 and a payment of $1.0 billion on April 15, 2019. On July 15, 2019, the 2018 warrant was exercised for 22,727,273 shares of Series G-1 preferred stock.
@@ -3250,8 +3012,6 @@ In November 2015, we amended and restated our credit agreement (as defined under
 Any amounts borrowed under the credit agreement and reimbursement obligations under the letter of credit reimbursement agreement and continuing agreement for standby letters of credit are guaranteed by certain of our domestic wholly-owned subsidiaries. Our obligations and the obligations of the guarantors under the credit agreement, letter of credit reimbursement agreement and continuing agreement for standby letters of credit are secured on a pari passu basis (except with respect to certain cash collateral) by first-priority liens on substantially all of our assets, including the pledge of our equity interests in each of our and the guarantors' direct subsidiaries to secure the applicable loan, reimbursement and guarantee obligations. The guarantees and security requirements under each of these facilities are subject to certain customary exceptions and exclusions.
 
 As of June 30, 2019, $1.0 billion of stand-by letters of credit, the purpose of which is to guarantee payment under certain leases entered into by certain of our wholly owned subsidiaries, were outstanding under a combination of the credit agreement, letter of credit reimbursement agreement and continuing agreement for standby letters of credit. We were in compliance with all of the covenants contained in the credit agreement and the letter of credit reimbursement agreement as of June 30, 2019. As of June 30, 2019, we would not have been able to borrow under our credit agreement and keep those amounts outstanding or have unreimbursed draws on letters of credit under the credit agreement, letter of credit
-
-116
 
 ## Table of Contents
 
@@ -3281,8 +3041,6 @@ Capital expenditures are primarily for the design and build-out of our spaces, a
 
 We have also incurred certain capital expenditures that are expected to be reimbursed by the landlords as tenant improvement allowances but for which the applicable milestones have not yet been achieved and, therefore, the landlords have not been billed. The timing of the achievement of the applicable milestones and billing of landlords will impact when payments will be received.
 
-117
-
 We monitor gross and net capital expenditures, which are primarily associated with our leasehold improvements, to evaluate our liquidity and workspace development efforts. We define net capital expenditures as the gross purchases of property and equipment, as reported in 'cash flows from investing activities' in our consolidated statements of cash flows, less cash collected from landlords for tenant improvement allowances. While cash received for tenant improvement allowances is reported as 'cash flows from operating activities' in the consolidated statements of cash flows, we consider cash received for tenant improvement allowances to be a reduction against our gross capital expenditures in the calculation of net capital expenditures.
 
 As the payments received from landlords for tenant improvement allowances are generally received after certain project milestones are achieved, payments received from landlords presented in the table below are not directly related to the cash outflows reported for the capital expenditures reported.
@@ -3303,8 +3061,6 @@ Net capex per workstation added, as presented in this prospectus, represents gro
 Over the past several years, we have been able to achieve efficiencies in our capital expenditures through a combination of greater economies of scale resulting from the increasing size of our global network, vertical integration of our design and construction process and increased use of technology. In our more established markets, we have also seen an increase in tenant improvement allowances in our leases with landlords. Our ability to negotiate lease terms that include significant tenant improvement allowances has been and is expected to continue to be impacted by our expansion into markets where such allowances are less common. Our capital expenditures have also been and are expected to continue to be impacted by our focus on enterprise members, who generally require more customization than a traditional workspace, resulting in higher build-out costs. However, we expect any increase in build-out costs resulting from expansion of configured solutions for our growing enterprise member base to be offset by increases in committed revenue backlog, as enterprise members often sign membership agreements with longer terms and for a greater number of memberships than our other members. Future decisions to enter into long-term revenue-sharing agreements with building owners, rather than more standard fixed lease arrangements, may also impact future cash inflows relating to tenant improvement allowances and cash outflows relating to capital expenditures.
 
 In the ordinary course of our business, we enter into certain agreements to purchase construction and related contracting services related to the buildouts of our operating locations that are enforceable and legally binding and that specify all significant terms and the approximate timing of the purchase transaction. Our purchase orders are based on current needs and are fulfilled by the vendors as needed in accordance with our construction schedule. As of June 30, 2019, we have issued approximately $428.4 million in such outstanding construction commitments. As of June 30, 2019, we also had a total of $1.3 billion in lease incentives receivable recorded within long-term lease obligations on our unaudited interim condensed consolidated balance sheet that are expected to be collected within the next twelve months and will serve as an additional source of capital to fund our outstanding commitments. If lease incentives receivable from landlords are determined to be uncollectible, we may offset such receivables with our related lease incentives reflected within the lease right-of-use assets on those impacted leases.
-
-118
 
 ## Summary of Cash Flows
 
@@ -3339,8 +3095,6 @@ Included in our cash flows from operating activities was $80.0 million of cash u
 Cash used in investing activities increased by $1.5 billion to $2.4 billion for the six months ended June 30, 2019. Net cash used in investing activities is primarily used to support the growth of our global platform, including funding additional purchases of property and equipment, primarily relating to leasehold improvements at our leased locations, which increased by $565.5 million, and the funding of security deposits with landlords for new locations, which increased by $31.6 million.
 
 Our cash used in investing activities also includes a $17.1 million increase in cash used for strategic investments (net of proceeds from sales and redemptions) and an increase of $838.9 million in cash used for acquisitions, primarily due to the acquisition of certain property in New York City by the 424 Fifth Venture in the six months ended June 30, 2019. The remaining $21.5 million increase in net cash used in investing activities includes an increase in cash inflows of $9.0 million relating to the sale of software licenses during 2018 that did not occur in 2019, an increase in cash
-
-119
 
 outflows of $14.8 million relating to capitalized software, and a decrease in cash outflows of $2.3 million in net cash used to fund loans to employees and related parties.
 
@@ -3380,8 +3134,6 @@ Cash used in investing activities increased by $1.1 billion to $2.5 billion for 
 
 Our cash used in investing activities for the year ended December 31, 2018 also includes an increase in cash used for strategic investments (net of proceeds from sales and redemptions) of $75.7 million, which was offset by a decrease of
 
-120
-
 $39.3 million in cash used for acquisitions in 2018 as compared to the year ended December 31, 2017. The remaining $2.7 million increase in net cash used in investing activities includes an increase of $11.7 million in cash used for loans to employees and related parties partially offset by an increase in cash inflows of $9.0 million relating to the sale of software licenses.
 
 ## Financing Cash Flows
@@ -3416,8 +3168,6 @@ Cash used in investing activities increased $558.2 million to $1.4 billion for t
 
 Our growth strategy also includes cash used in making strategic investments and acquisitions, which increased by $266.8 million (net of redemptions) for the year ended December 31, 2017 compared to the year ended December 31,
 
-121
-
 2016, including approximately $141.0 million for our 2017 acquisition of Meetup. Other changes in cash used in investing activities included an increase in cash used for capitalized software investments of $6.1 million, which was more than offset by a $20.1 million decrease in cash used in making loans to employees and related parties in 2017.
 
 ## Financing Cash Flows
@@ -3444,8 +3194,6 @@ Table of Contents
 
 Except for certain letters of credit and surety bonds entered into as security under the terms of several of our leases, our unconsolidated investments and the unrecorded construction and related contracting services commitments set
 
-122
-
 ## Table of Contents
 
 forth above, we did not have any off-balance sheet arrangements as of June 30, 2019. Our unconsolidated investments are discussed in Note 11 of the unaudited interim condensed consolidated financial statements included elsewhere in this prospectus.
@@ -3470,8 +3218,6 @@ Inflationary factors such as increases in the cost of raw materials and overhead
 
 Our preparation of financial statements in accordance with GAAP requires management to make estimates and assumptions that affect reported amounts and related disclosures. Management considers an accounting policy
 
-123
-
 ## Table of Contents
 
 estimate to be critical if: (1) we must make assumptions that were uncertain when the estimate was made; and (2) changes in the estimate or selection of a different estimate methodology could have a material effect on our consolidated results of operations or financial condition. While we believe that our estimates, assumptions, and judgments are reasonable, they are based on information available when the estimate or assumption was made. Actual results may differ significantly. Additionally, changes in our assumptions, estimates or assessments due to unforeseen events or otherwise could have a material impact on our financial position or results of operations.
@@ -3493,8 +3239,6 @@ We evaluate our right-of-use assets for recoverability when events or changes in
 We determine the fair value of assets acquired and liabilities assumed based on their estimated fair values as of the respective date of acquisition. The excess purchase price over the fair values of identifiable assets and liabilities is recorded as goodwill. Determining the fair value of assets acquired and liabilities assumed requires management to use significant judgment and estimates including the selection of valuation methodologies, estimates of future revenue and cash flows, discount rates and selection of comparable companies. Our estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates. During the measurement period, we may record adjustments to the assets acquired and liabilities assumed, with the corresponding offset to goodwill.
 
 The fair value measurements of contingent consideration liabilities established in connection with business combinations are determined as of the acquisition date and typically based on significant unobservable inputs, including the discount rate and estimated probabilities and timing of achieving specified milestones. Contingent consideration liabilities are remeasured to fair value at each subsequent reporting date until the related contingency is resolved. Changes to the fair value of the contingent consideration liabilities can result from changes to one or a number of inputs. Significant judgment is employed in determining the appropriateness of these inputs. Changes to the inputs described above could have a material impact on our financial position and results of operations in any given period.
-
-124
 
 ## Table of Contents
 
@@ -3520,8 +3264,6 @@ We estimate the fair value of stock option awards granted using the Black-Schole
 
 Because there has historically been no public market for our stock, the fair value of our equity has historically been approved by our board of directors or the compensation committee thereof at the time stock-based awards were granted. In estimating the fair value of stock, we use the assistance of a thirdparty valuation specialist and considered factors we believe are material to the valuation process, including but not limited to, the price at which recent equity was issued by us or transacted between third parties, actual and projected financial results, risks, prospects, economic and market conditions, the time frame for a potential public offering and estimates of weighted average cost of capital. We believe the combination of these factors provides an appropriate estimate of our expected fair value and reflects the best estimate of the fair value of our common stock at each grant date.
 
-125
-
 ## Table of Contents
 
 We have elected to recognize forfeitures of stock-based awards as they occur. Recognition of any compensation expense relating to stock grants that vest contingent on the completion of this offering will be deferred until the completion of this offering.
@@ -3538,13 +3280,7 @@ We have availed ourselves in this prospectus of the reduced reporting requiremen
 
 When we are no longer deemed to be an emerging growth company, we will not be entitled to the exemptions provided in the JOBS Act discussed above.
 
-126
-
-Table of Contents
-
 <!-- image -->
-
-Enter Here
 
 ## Table of Contents
 
@@ -3610,8 +3346,6 @@ r stories from acros
 
 America
 
-Table of Contents
-
 <!-- image -->
 
 ## Table of Contents
@@ -3630,8 +3364,6 @@ Table of Contents
 
 <!-- image -->
 
-Table of Contents
-
 <!-- image -->
 
 ## Table of Contents
@@ -3649,8 +3381,6 @@ Table of Contents
 ## Table of Contents
 
 <!-- image -->
-
-Table of Contents
 
 <!-- image -->
 
@@ -3680,8 +3410,6 @@ Table of Contents
 
 of our members are outside of the United States
 
-127
-
 ## Table of Contents
 
 We have proven that community, flexibility and cost-efficiency can benefit the workplace needs of everyone, from global citizens to global enterprises. We pioneered a 'space-as-a-service' membership model that offers the benefits of a collaborative culture, the flexibility to scale workspace up and down as needed and the power of a worldwide community, all for a lower cost. Through iterative product development at scale and significant investment in technology infrastructure, we have demonstrated that we can build better solutions for less money. We are changing the way people work globally and, in the process, we have disrupted the largest asset class in the world-real estate.
@@ -3702,8 +3430,6 @@ Source: Global Impact Report and WeWork member census. See 'Market, Industry and
 
 Technology is at the foundation of our global platform. Our purpose-built technology and operational expertise has allowed us to scale our core WeWork space-as-a-service offering quickly, while improving the quality of our solutions and decreasing the cost to find, build, fill and run our spaces. We have approximately 1,000 engineers, product designers and machine learning scientists that are dedicated to building, integrating and automating the complex systems we use to operate our business. As a result, we are able to deliver a premium experience to our members at a lower price relative to traditional alternatives.
 
-128
-
 ## Table of Contents
 
 ## Cost Per Employee: WeWork Versus Standard Lease
@@ -3717,8 +3443,6 @@ We have grown significantly since our inception. Our membership base has grown b
 
 The more locations we strategically cluster in a given city, the larger and more dynamic our community becomes. This clustering effect leads to greater brand awareness for our offerings and allows us to realize economies of scale, which, in turn, drives stronger monetization of our global platform. We employ a deliberate city expansion strategy within existing and new markets to achieve global scale. We believe that operating efficiencies and the benefits of global scale have allowed us to capture a multiplying demand for our space-as-a-service offering.
 
-129
-
 ## Table of Contents
 
 As we expand, we continue to add new members at a strong pace while also strengthening our relationships with existing members. Of the new memberships added in 2018, 35% were attributable to organizations that were already members at the end of 2017. Across our member community, we have high retention rates and expanding relationships, reflecting high member satisfaction with our platform.
@@ -3730,8 +3454,6 @@ As we expand, we continue to add new members at a strong pace while also strengt
                                                                                                                                                                                                         - (1) Our net membership retention rate of 119% for the period from December 1, 2017 to December 1, 2018 illustrates our ability to increase the penetration of our existing members over that period. We calculate our net membership retention rate for a given period by dividing (1) the total number of WeWork memberships as of the last day in the period from all members that had at least one WeWork membership as of the first day of the period by (2) the total number of WeWork memberships from those same members as of the first day of the period. See 'Management's Discussion and Analysis of Financial Condition and Results of Operations-Our Business Model'.
 
 Large enterprises are increasingly recognizing the value proposition of our global platform. With our space-as-a-service model, we can provide a headquarters in London, a satellite office in Beijing, Berlin or Buenos Aires, or a group of on-demand workstations across San Francisco. Through our variety of space solutions, we can meet an enterprise's distinct needs on a flexible and cost-effective basis with availability around the world. We help amplify and energize an enterprise's culture, sparking innovation, enhancing productivity and helping the organization attract and retain talent. As of June 1, 2019, 40% of our memberships were with organizations with more than 500 employees (which we refer to as enterprise members), double the 20% as of March 1, 2017. We have more than 3,500 enterprise members as of June 1, 2019 and we expect enterprise to continue to be our fastest growing membership type. Between March 1, 2017 and June 1, 2019, the average number of WeWork memberships per enterprise member grew 281%.
-
-130
 
 ## Table of Contents
 
@@ -3765,8 +3487,6 @@ We continue to learn from our data and experiences to innovate on what drives ou
 
 We are just getting started.
 
-132
-
 ## Table of Contents
 
 ## Our Opportunity
@@ -3784,8 +3504,6 @@ We believe the following trends are enabling the re-invention of work and will a
                                                                                                                                                                                                             - · Workplace culture. People are increasingly seeking environments that humanize the work experience. Despite nearly 80% of executives acknowledging employee experience as 'very important' according to a Deloitte 2017 Human Capital Trends report, only 22% reported their companies as being 'excellent' at building a differentiated employee experience. We believe today's workforce seeks moments of connection, collaboration and convenience, whether grabbing a coffee from the friendly office barista, taking a yoga break without having to leave the office, or getting to know others in the community during events.
                                                                                                                                                                                                             - · Sharing economy. People are demonstrating a greater willingness to share, driven by a desire for value, quality and variety. According to a survey published by Boston Consulting Group in 2017, of those who use sharing services, 57% of U.S. survey respondents said that they would give up ownership for well-priced and convenient offerings. As people increasingly embrace the sharing economy, we believe today's workforce will continue to seek out flexible shared workspaces that provide a variety of value-added products and services.
 
-133
-
 ## Table of Contents
 
 ## Addressable Market Size
@@ -3801,8 +3519,6 @@ We expect to expand aggressively in our existing cities as well as launch in up 
 When applying our average revenue per WeWork membership for the six months ended June 30, 2019 to our potential member population of 149 million people in our existing 111 cities, we estimate an addressable market opportunity of $945 billion. Among our total potential member population of approximately 255 million people across our 280 target cities globally, we estimate an addressable market opportunity of $1.6 trillion.
 
 We are able to deliver a premium experience to our members at a lower price relative to traditional alternatives. Data from CBRE Group and Cushman &amp; Wakefield indicates that employers across 155 global cities for which data is available and in which we have existing or planned locations spend a weighted average of approximately $11,700 in occupancy costs per employee each year. By applying the average employee occupancy costs to our potential member population of 149 million people in our existing 111 cities, we estimate a total opportunity of $1.7 trillion.
-
-134
 
 Among the approximately 255 million potential members across our 280 target cities globally, we estimate a total opportunity of $3.0 trillion.
 
@@ -3831,15 +3547,11 @@ Table of Contents
                                                                                                                                                                                                                 - (2) New York market includes memberships in New York City, Brooklyn, Manhattan, Astoria and Long Island City.
                                                                                                                                                                                                                 - (3) Los Angeles market includes memberships in Los Angeles, Santa Monica, West Hollywood, Burbank, Playa Vista, Culver City, Pasadena, Costa Mesa, Long Beach and El Segundo.
 
-135
-
 ## Table of Contents
 
 As we have scaled our business, our membership community has expanded from mostly freelancers, start-ups and small businesses to global enterprises. Based on data from the U.S. Census Bureau, Eurostat and the World Bank, we estimate 38%, or 98 million people, of our target addressable population to come from enterprises.
 
 Space-as-a-service is an entry point to the category of work. As our business model evolves, our physical platform grows and our membership base expands, we expect to use the same principles of demand aggregation to continue to offer a growing portfolio of products and services to meet our members' needs. We believe these products and services will be a driver of higher margin revenue growth, further increasing our opportunity.
-
-136
 
 ## Table of Contents
 
@@ -3852,8 +3564,6 @@ We built communities first in New York, then San Francisco, Los Angeles, Boston 
 As our global community grew, we realized that community, flexibility and cost efficiency can benefit the employee needs of organizations of all sizes. In 2016, we took another leap and made the strategic decision to expand our focus to meet the needs of a broader range of organizations, particularly enterprises. Enterprise organizations increasingly seek cost-efficient, flexible and scalable workplace solutions and a workplace environment that fosters strong community, promotes productivity and increases employee engagement. Our global platform directly addresses these needs for enterprise organizations, effectively and immediately.
 
 <!-- image -->
-
-137
 
 ## Table of Contents
 
@@ -3869,8 +3579,6 @@ It makes me s0 grateful when WeWork members and employees ask me how can get inv
 
 This community, this company changed my life. It has given me an opportunity to find my purpose and others pursue theirs. It gives me and all of us an opportunity to find each other, to dream together, to build future we know is possible but impossible if we are alone. We are creating a global community where everyone can belong where people can improve their lives and their world. help the
 
-138
-
 ## Table of Contents
 
 ## Our Community Technology
@@ -3880,8 +3588,6 @@ We integrate community technology across all of our operations to further enhanc
 <!-- image -->
 
 <!-- image -->
-
-139
 
 ## Table of Contents
 
@@ -3897,8 +3603,6 @@ Requests for help are delivered to other members with matching skills
 
 <!-- image -->
 
-140
-
 ## Table of Contents
 
 To create the best member experience, we strive to pair human judgment and creativity with algorithms that amplify ideas quickly and globally. Our community teams provide a rich source of programming ideas, and with an average of over 2,500 events occurring per week, we can develop insights quickly on what works best for members with select interests. We then use those insights to recommend the top performing new events to relevant community teams worldwide.
@@ -3912,8 +3616,6 @@ We collect event feedback and create a quality score for new events
 The best performing event types are recommended to community teams globally
 
 <!-- image -->
-
-141
 
 ## Table of Contents
 
@@ -3930,8 +3632,6 @@ We continue to innovate and enhance space utilization with all aspects of our de
 Our locations provide us with real-time data to continually improve the effectiveness of our design and construction. For example, we monitor space utilization, and we use this information to improve our design to better facilitate human interaction and to minimize underutilized space. Workplace analytics is in its infancy, and we believe we are well positioned to influence and invent in this important new field. As we monitor items such as our environmental impact, our use of natural cleaning products and air and noise quality measures, we are collecting data in our effort to build the world's most innovative and transformational workspaces.
 
 <!-- image -->
-
-142
 
 ## Table of Contents
 
@@ -3963,8 +3663,6 @@ We similarly believe our scale and growing efficiencies will continue to decreas
 
 The rapid adoption of our space-as-a-service offering, including growth in the number of partners who offer products and services on our platform, evidences the value proposition of our space-as-a-service membership model.
 
-143
-
 <!-- image -->
 
 ## Table of Contents
@@ -3982,8 +3680,6 @@ Standard. Our standard workplace solutions provide move-in ready private office 
 Configured. Our configured workplace solutions are designed to offer the full WeWork experience within a menu of options around specific space needs, workplace objectives and brand aesthetics. Targeted at larger companies and enterprises seeking more select workspace environments, our configurable options include acoustics upgrades, additional meeting rooms, upgraded furniture and A/V performance as well as branding and signage upgrades. As part of our configured membership options, we offer Headquarters by WeWork, a product targeted at the needs of teams or organizations. These spaces are delivered with a basic set of amenities and community features at a lower membership cost. Members can add amenities and services from a menu of options, in addition to adding their own brand customizations into the design process.
 
 On-demand. Our on-demand We Membership provides access to shared workstations or private spaces as needed, by the minute, by the hour or by the day. This solution allows members to book conference rooms, have meetings, connect with members, enjoy common spaces and amenities and benefit from support from our community teams. We have on-demand We Membership options geared towards individuals and organizations. For individuals, the on-demand We Membership provides a pay-as-you-go plan, where anyone can book a workstation for a day or a conference room for an hour at any location. For organizations, the on-demand We Membership solution is targeted at traveling executives, mobile sales teams, freelancers and remote employees and provides these teams with unlimited access to workspaces in the geography of their choosing-whether a city, country, region or globally. Employees can book a workstation or a conference room for an hour at any location for as many days as they need.
-
-144
 
 Each of our membership offerings provides a wide array of workplace amenities, along with valuable benefits on business services and lifestyle perks, that help members increase their productivity both in and out of the office. These workplace amenities and other benefits include:
 
@@ -4009,8 +3705,6 @@ Powered by We is a premium solution configured to an organization's needs and de
 
 Powered by We provides us with a capital-efficient approach to growing our global platform as we earn revenue based on upfront design and construction fees, with the organization paying for all of the costs of the build-out itself. We also earn ongoing revenue for operating the space. Powered by We presents us with a means to efficiently serve more enterprises without the need to lease space ourselves. We expect this offering to continue to drive higher-margin revenue growth as more organizations learn about the benefits of bringing our full suite of workspace offerings into their office environments.
 
-145
-
 ## Table of Contents
 
 ## New Solutions
@@ -4022,8 +3716,6 @@ We continually seek to develop new solutions to expand the reach of our global p
 <!-- image -->
 
 Our enterprise technology solutions enable members to make informed decisions across the entirety of their real estate portfolio while improving the workplace experience for employees and guests. Our foundational and free product is workplace analytics, which provides a deeper understanding of space utilization, future space needs and associated costs for enterprises. Our enterprise members can model scenarios that involve dedicated and on-demand space or Powered by We services. In addition, we provide workplace experience technology that seeks to enhance the usage of space through room booking apps and calendar extensions, wayfinding monitors and guest registration kiosks. Finally, we offer workplace real estate and operations software and algorithms to automate and expedite processes like team seating charts, move management and maintenance or services requests.
-
-146
 
 ## Table of Contents
 
@@ -4107,8 +3799,6 @@ Beijing
 
 Mumbai
 
-Table of Contents
-
 <!-- image -->
 
 <!-- image -->
@@ -4120,8 +3810,6 @@ Francis Van Parys, President and CEO; GE Healthcare Korea
 ## MEMBER CASE STUDY
 
 GE Healthcare partnered with WeWork to design, build and operate a collaborative workspace that would be cost-effective (even in a prime Seoul location) and transformational for their culture. The HR team envisioned a space that would bring their culture to the next level and democratize workspace utilization by letting employees choose where and how worked. The team wanted to minimize the number of fixed desks and include more flexible spaces for employees to collaborate, network and host events. they
-
-Table of Contents
 
 <!-- image -->
 
@@ -4145,8 +3833,6 @@ The profitability profile of our business is a managed outcome driven by the mat
 
 <!-- image -->
 
-151
-
 ## Table of Contents
 
 As we continue to focus on growing our global platform, certain metrics may be impacted by the geographic mix of our locations and the costs associated with establishing stabilized occupancy levels. For example, average revenue per WeWork membership has declined, and we expect it to continue to decline, as we expand internationally into lower-priced markets. In addition, we expect to continue to invest in sales and marketing as we open new locations. As we build and open more spaces in existing and new markets, we create additional capacity that lays the foundation for incremental revenue and future profits. As a result, we intend to continue to invest in growth as we believe the timing of our future profitability depends to a significant degree on levers we control.
@@ -4164,8 +3850,6 @@ In a downturn, we expect that businesses will search for more flexible and lower
 
 Commercial real estate as an industry has proven to be relatively stable over the long term. We reviewed the commercial real estate performance in New York and San Francisco during the economic downturn that began in 2008. New York and San Francisco, which were the first cities where we built communities, are two of the five cities that generate the majority of our revenue in the United States. Although there was a global recession and overall
 
-152
-
 ## Table of Contents
 
 commercial real estate occupancy levels and rents in these cities decreased, overall occupancy in these cities did not decrease below the occupancy percentage we use to calculate the current breakeven levels to which we underwrite our locations in these cities. Although rents did decrease in New York and San Francisco during the economic downturn that began in 2008, we believe that certain features of our business model and member profile, specifically our committed revenue backlog and our growing percentage of enterprise members, would help us mitigate the effects of downward pressures on rent in the short and medium term. We have studied the performance of our business through localized recessions that have occurred during the time of our operations. As an example, while occupancy for the London commercial real estate market remained flat following the Brexit referendum in June 2016, occupancy at our locations in London increased during this period. In addition, we opened our first location in Argentina in Buenos Aires in 2017, just before the country's monetary crisis. During the year ended December 31, 2018, despite inflation reaching a 27-year high, unemployment rates reaching a ten-year high and gross domestic product contracting 2.5%, occupancy at our locations in Argentina remained significantly above breakeven levels, even as we increased the number of workstations in Argentina during that same period. We are able to maintain this flexibility in our business model by underwriting all of our buildings to a breakeven occupancy level well below the 89% occupancy within our portfolio of mature locations as of June 1, 2019.
@@ -4177,8 +3861,6 @@ Not only do we believe our business model mitigates the pressures of an economic
 Finally, as of June 30, 2019 we had cash, cash equivalents and restricted cash of $3.0 billion and unfunded capital commitments to PacificCo and JapanCo of $400 million, and we expect to receive cash of $1.5 billion under the 2019 warrant in April 2020. We also expect to strengthen our balance sheet through this offering and the 2019 Credit Facility. See 'Management's Discussion and Analysis of Financial Condition and Results of OperationsLiquidity and Capital Resources'.
 
 Overall, we believe we have a durable business model that we believe is well positioned to perform in all economic cycles.
-
-153
 
 ## Table of Contents
 
@@ -4196,8 +3878,6 @@ We use computational economics to gauge the potential of new locations based on 
 
 One hundred percent of our deals flow through our deal management platform, which automates approvals and underwriting
 
-154
-
 ## Table of Contents
 
 Build . We design each space with a specific community and neighborhood in mind while leveraging our centralized procurement, supply chain, design and construction processes to create vibrant and welcoming spaces that are cost-efficient to build and cost-effective to maintain. Before we take possession of a space, we engage with engineers, designers, architects, layout experts and decorators to be ready to start construction the moment we take possession of a space. While construction is primarily a local function, we have multiple coordination points on global design, layout, brand, sourcing and creative standards. We use purpose-built technologies and proven off-the-shelf solutions from various components of the construction industry to achieve this coordination. We benefit from our scale and global presence in benchmarking cost opportunities for every location, across multiple cities and countries. We source both globally and locally, and our purchasing at scale gives us the opportunity to lower furniture, fixture and equipment costs, smooth manufacturing demand and reduce delivery cycle times. Finally, our technology allows us to learn layouts, predict space defects and forecast furniture, fixture and equipment needs. Smart algorithms, new engineering techniques and a growing database of experiences allows us to start to automate many aspects of the design and layout of a raw space. We continue to develop and refine our process from possession to opening of our spaces, and we expect our growth and scale to provide efficiencies in opening new spaces for the foreseeable future.
@@ -4209,8 +3889,6 @@ We integrate scanning technologies and software to automate the design and const
 We use a single global master catalog to give designers the best furniture and decoration alternatives, prices and logistics options for any given building location
 
 <!-- image -->
-
-155
 
 ## Table of Contents
 
@@ -4224,8 +3902,6 @@ Next, through machine learning, we forecast demand for each building to set the 
 
 <!-- image -->
 
-156
-
 ## Table of Contents
 
 Run. We aspire to create a welcoming, inclusive and collaborative environment at every location we operate. We operate our locations with local leadership teams who are empowered to make decisions while being supported by a set of global systems and standards. Every month, thousands of members move into our locations around the world. In addition, every day, thousands of requests are made by members for meetings, guests, moves, equipment fixes, catering, travel and other needs. Through global call centers and the technologies and tools we have built for our community teams, we are continually reducing defects, shortening turnaround times and improving the operation of our locations. We have also defined, and monitor, a detailed set of operating standards for all aspects of a space, from cleanliness, to security, to amenities, to hospitality that ensure consistent delivery across our portfolio of locations.
@@ -4237,8 +3913,6 @@ We use a self service workflow to automate all of the steps needed for a seamles
 A single portal is used to manage and track all of the interactions between a member, their space and our community teams
 
 We aim to continue to perfect our global-local playbook, and we continue to drive automation throughout the process of finding, building, filling and running spaces. We learn from the increasing amount of data we collect for every decision we make, and we continue to innovate on solutions designed to drive our members' successes. We believe our core expertise in leveraging our global-local playbook will allow us to continue to scale our business across new locations and new cities, while benefiting from the efficiencies of our global scale, process and technology infrastructure.
-
-157
 
 <!-- image -->
 
@@ -4256,8 +3930,6 @@ PLATFORM CAPABILITIES
 
 We have leveraged our global platform to facilitate rewarding relationships between members, partners and The We Company. Our members get easy access to a diverse range of high-quality products and services tailored to their needs. Our carefully curated partners can connect directly with our members, a sought-after demographic of consumers and businesses, leading to a lower cost of customer acquisition and more efficient operations. The We Company benefits by increasing member satisfaction while at the same time generating incremental higher margin revenue. Finally, we create a feedback loop between members and partners, driving higher quality services and experiences while helping our partners build valuable customer relationships.
 
-158
-
 ## Table of Contents
 
 Below are some examples of early platform successes:
@@ -4274,8 +3946,6 @@ Human Resources. We entered into a partnership with Clarity Recruiting in Januar
 
 Food. We entered into a partnership with sweetgreen because we believe in the benefits of providing our members with access to healthy, sustainable food, and that our platform could serve as the physical basis for food delivery at scale without requiring direct access to a cooking facility. The mission of sweetgreen is to inspire healthier communities by connecting people to real food. In 2018, we launched a collaboration with sweetgreen on their Outpost business to bring their food directly to our spaces. We have since expanded the partnership to over 50 WeWork locations around the United States. This is a win-win partnership: We have provided access to a healthy lunchtime solution for our
 
-159
-
 ## Table of Contents
 
 members, we have provided sweetgreen with a key partner to scale a new delivery model and we have monetized underutilized areas of our locations by creating a new higher-margin revenue stream for our platform.
@@ -4283,8 +3953,6 @@ members, we have provided sweetgreen with a key partner to scale a new delivery 
 Information Technology Services. As our enterprise membership base began to grow, we realized that we needed to develop a set of enterprise-ready services that went beyond our standard information technology offerings. For example, we now offer enterprise members dedicated, higher-speed internet access. This product is offered in tiers, with varying speed and redundancy options. This is a win-win initiative: our members have on-site access to enterprise-grade information technology capabilities and we have created a new revenue stream for our platform.
 
 As we continue to invest in our platform capabilities and cultivate a network of high-quality partners, we are delivering on the promise of our platform to provide a better day at work for less.
-
-160
 
 ## Table of Contents
 
@@ -4310,8 +3978,6 @@ We are proud of the positive ripple effects that we create throughout the cities
                                                                                                                                                                                                                                 - · Economic impact. We directly employed more than 12,500 employees as of June 30, 2019, and according to the methodology used in the Global Impact Report, our 527,000 memberships supported an estimated 369,000 additional jobs. Our impact is localized as well: according to the Global Impact Report, 70% of our members are new to the neighborhood where they join.
                                                                                                                                                                                                                                 - · Environmental impact. We remain dedicated to ensuring that our spaces are healthy and productive for the environment and that our members make environmentally sustainable choices. By using the space in our locations more efficiently, increasing the densification within each location and renovating rather than building from the ground up, we have reduced the need for construction that we estimate would have caused the release of more than 1.75 million metric tons of carbon emissions. We also estimate that we avoid four million pounds of plastic pear year by eliminating single-use plastic from our daily operations.
                                                                                                                                                                                                                                 - · Social and civic impact. Through our Veterans in Residence incubator program, we provide fully sponsored work environments and business mentorship to 400 veteran-owned businesses across the United States. We have also pledged 1,500 jobs through our Refugee Initiative to offer support, skills and networks to displaced individuals. We intend to continue these efforts in the future.
-
-161
 
 ## Table of Contents
 
@@ -4362,8 +4028,6 @@ Our future impact will transform the way people work, live and grow
                                                                                                                                                                                                                                         - · We estimate that our penetration in our 280 target cities globally is approximately 0.2%. We have invested in the infrastructure for us to expand in existing and new markets as well as expand the scope of our solutions and the products and services we offer our members.
                                                                                                                                                                                                                                         - · We have created a powerful ecosystem and brand that benefit not only our members and partners, but also our landlords, neighborhoods and cities through shared value creation. We believe our powerful brand, global footprint, scalable business model and cost advantage are significant competitive advantages that will allow us to further penetrate existing and new markets and maximize the future impact of the WeWork effect.
 
-162
-
 ## Table of Contents
 
 ## Our Growth Strategy
@@ -4377,8 +4041,6 @@ We intend to grow by:
                                                                                                                                                                                                                                                             - · Developing and strengthening relationships with enterprise members. We have proven our ability to meet the distinct needs of enterprise members. Given our track record, we plan to deepen existing relationships and forge new relationships with enterprise members.
                                                                                                                                                                                                                                                             - · Lowering upfront capital costs and improving operational efficiency. As we scale, we benefit from capital and operational cost efficiencies across the lifecycle of each location. We also continue to identify opportunities to enter into management agreements that reduce our initial capital requirement.
                                                                                                                                                                                                                                                             - · Investing in technology. We will continue developing and enhancing our technology infrastructure and integrate it comprehensively in order to drive our expansion efforts, operating efficiencies and a better experience for our members.
-
-163
 
 ## Table of Contents
 
@@ -4395,8 +4057,6 @@ To facilitate our expansion into Asia, we formed a number of joint ventures, str
 These strategic relationships have allowed us to expand into new regions without putting our capital at risk. Our relationships with local partners have helped us establish a foothold in these key markets and laid the foundation for our future growth. We have therefore negotiated the right to buy out our strategic partners in each of these regions after a set period of time.
 
 For additional information with respect to distributions by our regional joint ventures, see 'Management's Discussion and Analysis of Financial Condition and Results of Operations-Liquidity and Capital Resources' and 'Certain Relationships and Related Party Transactions-Regional Joint Ventures and Strategic Partnerships'.
-
-164
 
 ## Table of Contents
 
@@ -4422,8 +4082,6 @@ The chart below depicts the structure of ARK with its three principal components
 <!-- image -->
 
 We own 80% of each of ARK Master GP and the ARK Manager. Through our 80% ownership of such entities, we are entitled to our corresponding share of the management fee and incentive fee income earned by such entities. ARK Master GP and the ARK Manager are consolidated in our consolidated financial statements. Primarily because our
-
-165
 
 ## Table of Contents
 
@@ -4452,8 +4110,6 @@ ARK currently manages two multi-asset real estate acquisition vehicles:
 
 In addition to the ARK Master Fund and the WPI Fund, ARK also manages two asset-specific joint ventures. ARK co-manages DSQ Partners, a commercial real estate portfolio located in London, and manages WeWork Waller Creek, a parcel of land in Texas.
 
-166
-
 ## Table of Contents
 
 ARK deploys equity capital through these real estate acquisition vehicles to acquire properties, all of which are expected to include some level of occupancy or involvement of The We Company as contemplated by the mandate of these real estate acquisition vehicles. See '-Transactions between ARK and The We Company' for a description of the governing agreements with The We Company. To date, ARK has secured equity capital commitments of $2.9 billion. Equity capital managed by ARK is in certain instances co-managed in collaboration with other third-party institutional managers and is subject to the terms and conditions set out in the various definitive agreements relating to that equity capital. To date, The We Company has committed approximately $196 million of the $2.9 billion in equity capital commitments secured by these real estate acquisition vehicles. We do not currently have any ownership interest in these real estate acquisition vehicles other than the capital commitments specified in the preceding sentence. A portion of these equity capital commitments has been deployed to purchase the assets described below, and a portion remains to be deployed. Customary asset-level debt financing arrangements have been provided on customary terms by third-party institutional lenders in respect of assets acquired by ARK to date.
@@ -4472,8 +4128,6 @@ When entering into a lease or other transaction such as a management agreement i
 
 In addition, any transactions between ARK and The We Company will be subject to our policies and procedures with respect to transactions with any related party. We expect as a part of this policy that the audit committee will establish specific guidelines that will apply to such transactions that are entered into in the ordinary course of business between us and ARK as well as those transactions that qualify as related party transactions solely as a result of Steven Langman's indirect interest in ARK and his role as one of our directors. We further expect the audit committee to review and assess ongoing relationships with ARK on a quarterly basis to ensure compliance with the audit committee's guidelines and that such transactions remain appropriate. See 'Certain Relationships and Related Party Transactions-Policies and Procedures for Related Party Transactions.'
 
-167
-
 ## Table of Contents
 
 ## Other We Company Offerings
@@ -4491,8 +4145,6 @@ Almost 27% of our employee base consists of community team members stationed wit
 We have been a community company since inception. The We Company has always been an extension of our founders' ambition to effect positive change in the world. We seek to realize our goal by surrounding ourselves with team members who not only have exceptional skill sets but who share in our intention to make a global impact. Over time we have strengthened our team by adding members through strategic acquisitions.
 
 As of June 30, 2019, we had more than 12,500 employees, of which approximately 7,500 were located in the United States. A small portion of our employees outside of the United States are represented by a labor union or workers' council and covered by collective bargaining agreements.
-
-168
 
 ## Table of Contents
 
@@ -4520,8 +4172,6 @@ To further capture our inventive output, we secure our innovation through patent
 
 This prospectus contains references to our trademarks, trade names and service marks and to those belonging to other entities. Solely for convenience, trademarks, trade names and service marks referred to in this prospectus may appear without the ® or ™ symbols, but such references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights or the rights of the applicable licensor to these trademarks, trade names and service marks. We do not intend our use or display of other companies' trademarks, trade names or service marks to imply a relationship with, or endorsement or sponsorship of us by, any other companies.
 
-169
-
 ## Table of Contents
 
 ## Our Commitment to Privacy and Data Security
@@ -4548,15 +4198,11 @@ In addition, as a developer and operator of real estate, we are subject to local
 
 Furthermore, because we receive, store and use a substantial amount of personally identifiable information received from or generated by our members, we are also subject to laws and regulations governing data privacy, use of personal data and cybersecurity.
 
-170
-
 ## Table of Contents
 
 ## Legal Proceedings
 
 From time to time, we may become involved in legal or regulatory proceedings arising in the ordinary course of our business, including personal injury claims, intellectual property claims and commercial contract disputes. In addition, with respect to employees and others, we face and could in the future face a wide variety of claims, including discrimination (for example, based on gender, age, race or religious affiliation), sexual harassment, privacy, labor and employment, ERISA and disability claims. Often these cases raise complex factual and legal issues, which are subject to risks and uncertainties and which could require significant management time and corporate resources to defend, could result in significant media coverage and negative publicity, and could be harmful to our reputation and our brand. Although the outcome of these and other claims cannot be predicted with certainty, we are not currently a party to any litigation or regulatory proceeding that we expect to have a material adverse effect on our business, results of operations, financial condition or cash flows.
-
-171
 
 ## Table of Contents
 
@@ -4606,8 +4252,6 @@ Co-President and Chief Financial Officer
 
 Artie, 48, has served as one of our Presidents since June 2015 and as our Chief Financial Officer since June 2016. From June 2015 to June 2016, he also served as our Chief Operating Officer. From May 2013 to June 2015, he served as Executive Vice President and Chief Financial Officer of Time Warner Cable Inc. From 2009 to April 2013, he served in a number of senior management roles at AOL Inc., including Chief Operating Officer and Chief Financial and Administrative Officer. Artie is an executive officer.
 
-172
-
 ## Table of Contents
 
 ## Other Senior Leadership
@@ -4639,8 +4283,6 @@ We have adopted a written code of business conduct and ethics that applies to ou
 
 In addition to Adam Neumann, our board of directors includes six non-employee directors. The following sets forth certain information relating to these directors as of June 30, 2019. Several of our directors were designated by certain of our stockholders. Bruce Dunlevie was designated to serve on our board of directors by Benchmark, John Zhao was designated to serve on our board of directors by Hony Capital and Ron Fisher was designated to serve on our board of directors by Softbank Vision Fund L.P., in each case in accordance with the stockholders' agreement described in 'Certain Relationships and Related Party Transactions-Stockholders' Agreement'. The stockholders' agreement terminates automatically in accordance with its terms immediately prior to the completion of this offering.
 
-173
-
 ## Table of Contents
 
 Bruce Dunlevie , 62, has served as one of our directors since July 2012. Bruce is a seasoned veteran of venture capital with more than 20 years of experience in high-tech investing. He is a founding partner of Benchmark Capital, a venture capital firm, and has been a general partner of the firm since May 1995. He currently also serves as Lead Independent Director of ServiceSource International, Inc., a service support provider, and as director of One Medical Group, Inc. Bruce brings to our board of directors extensive experience as an investor in technology and other companies on behalf of Benchmark Capital. Our board of directors also believes that Bruce's private equity experience gives him particular insight into trends affecting companies such as ours, as well as into acquisition strategy and finance.
@@ -4654,8 +4296,6 @@ M. Steven Langman, 57, has served as one of our directors since July 2012. He co
 Mark Schwartz, 65, has served as one of our directors since March 2017. At the end of 2016, he retired from Goldman Sachs, a global investment banking, securities and investment management firm, where he had served as vice chairman of The Goldman Sachs Group, Inc. and chairman of Goldman Sachs Asia Pacific since June 2012. Mark currently serves on the board of directors of One97 Communications Limited ('Paytm' in India), OYO Rooms, Ragon Institute of Massachusetts General Hospital ('MGH'), MIT and Harvard. He is also a trustee of New York-Presbyterian Hospital and MGH and serves on various boards at Harvard College, Harvard Business School and the Harvard School of Public Health. Mark brings to our board of directors deep expertise in finance, operating in Asia, acquisition strategy and capital markets financings from his career in the financial services industry.
 
 John Zhao, 56, has served as one of our directors since July 2016. He is the founder and Chief Executive Officer of Hony Capital, a leading investment management firm in China, and Executive Director and Executive Vice President of Legend Holdings Corporation, a diversified investment holding company. John also serves as a director of Legend Holdings, Lenovo, China Glass Holdings, Best Food Holding Company, Hospital Corporation of China, Shanghai Jin Jiang International Hotels Development, Zoomlion Heavy Industry Science and Technology, ENN Ecological Holdings and International Elite. John brings to our board of directors extensive global leadership, including overseeing foreign company expansion into the Chinese market, and experience in strategy and finance.
-
-174
 
 ## Table of Contents
 
@@ -4690,8 +4330,6 @@ Among other matters, the audit committee will be responsible for:
 
 Upon completion of this offering, our audit committee will consist of Mark Schwartz and Lew Frankfort. A chair will be appointed to the extent that the committee has three or more members. Rule 10A-3 under the Exchange Act and
 
-175
-
 ## Table of Contents
 
 the                rules require us to have one independent audit committee member upon the listing of our Class A common stock, a majority of independent directors on our audit committee within 90 days of the effective date of the registration statement of which this prospectus forms a part and an audit committee composed entirely of independent directors within one year of the effective date of the registration statement of which this prospectus forms a part. We will be required to have at least three directors, all of whom must be independent, on our audit committee within a year of the effective date of the registration statement of which this prospectus forms a part. Our board of directors has affirmatively determined that each of Mark Schwartz and Lew Frankfort meets the definition of an 'independent director' for purposes of serving on an audit committee under Rule 10A-3 and the        rules, and we intend to comply with the other committee membership and independence requirements within the time periods specified.
@@ -4717,8 +4355,6 @@ None of our executive officers served as a member of the board of directors, or 
 ## Director Compensation
 
 None of our directors received compensation for their service as a director during 2018.
-
-176
 
 ## Table of Contents
 
@@ -4753,8 +4389,6 @@ Consistent with our culture of ownership, Adam, Artie and Jen are predominantly 
 
 In the first half of 2019, in order to incentivize our senior leadership team as well as select other individuals who have had an outsized impact on our organization over the years, we granted to employees (including Adam, Artie and Jen) stock options to purchase a total of 49,437,366 shares of our Class B common stock. Adam received options to purchase an aggregate of 42,473,167 of these shares. The options awarded had a per-share exercise price equal to
 
-177
-
 ## Table of Contents
 
 the fair market value of our Class B common stock on the applicable grant date. Of these options, 16,402,682 awards would have vested over a five-toseven year period and the remaining 33,034,684 awards included both time-based vesting conditions and performance-based vesting conditions tied to, among other things, the completion of this offering and a significant increase in market capitalization, in each case subject to continued service, specifically: (i) 9,438,481 options meet the performance-based vesting conditions upon the completion of this offering, and vest monthly over a period of five years following the completion of this offering; (ii) 7,078,861 options meet the performance-based vesting conditions if we attain a public market capitalization of $50 billion, and vest monthly over a period of three years from that date; (iii) 7,078,861 options meet the performance-based vesting conditions if we attain a public market capitalization of $72 billion, and vest monthly over a period of two years from that date; and (iv) 9,438,481 options meet the performance-based vesting conditions if we attain a public market capitalization of $90 billion, and vest monthly over a period of two years from that date.
@@ -4775,8 +4409,6 @@ Under the amended and restated employment agreements, upon a termination without
 
 As defined in the amended and restated employment agreements, 'cause' generally means: (i) repeated failure, after written notice and a reasonable opportunity to cure, to perform reasonably assigned duties, (ii) engagement in dishonesty, gross negligence or willful misconduct, (iii) conviction of, or pleading guilty or no contest to, any felony or
 
-178
-
 ## Table of Contents
 
 any crime involving moral turpitude or (iv) a material breach by the employee of his or her employment agreement and/or restrictive covenants agreement with us. 'Good reason' generally means: (i) a material diminution of duties and responsibilities or the assignment of duties or responsibilities that are materially inconsistent with those in effect as of the effective date of the employment agreement, (ii) a requirement by us that their principal place of employment be relocated more than 30 miles from New York City, (iii) a reduction in base salary or (iv) a material breach by us of their employment agreement. 'Change in control' is defined in reference to the definition in The We Company 2019 Omnibus Incentive Plan, as described in further detail below in '-The We Company 2019 Omnibus Incentive Plan-Change in Control.'
@@ -4790,8 +4422,6 @@ Other than as described above under '-NEO Employment Arrangements and Restrictiv
 ## Other Employee and Retirement Benefits
 
 In addition to the core components of our compensation program, equity and salary, we provide a wide range of benefits that provide our employees with the flexibility to take charge of their needs. Our executive officers participate in the same health and welfare programs, as well as the same retirement programs, as our other full-time employees. In the United States, we provide a 401(k) plan, which is a tax-qualified defined contribution savings plan, for the benefit of all eligible employees, including our NEOs. Employees may make contributions, including after-tax Roth contributions, and our 401(k) plan also permits discretionary employer contributions. While no employer contributions were made in 2018, we are excited to, starting in 2019, match 100% of employee contributions to our 401(k) plan, up to a maximum of $1,800 per year. All employee contributions and employer contributions are at all times fully vested. We do not offer any defined pension plans or nonqualified deferred compensation plans to our employees.
-
-179
 
 ## 2018 Summary Compensation Table
 
@@ -4823,8 +4453,6 @@ The following table summarizes the outstanding equity awards held by each of our
 
 Our NEOs have each donated to charity the equivalent of at least 10% of proceeds from sales of their equity.
 
-180
-
 ## The We Company 2019 Omnibus Incentive Plan
 
 ## Introduction
@@ -4851,8 +4479,6 @@ The maximum amount of compensation awarded to a non-employee member of the board
 
 Administration. The 2019 Plan will be administered by our board of directors or a committee (or sub-committee) of our board of directors that, in either case, complies with any applicable legal or stock exchange listing requirements and, to the extent applicable, in a manner to permit awards to be exempt from the short-swing rules of section 16 of the Exchange Act (the board or committee referred to above being sometimes referred to as the 'plan administrator'). The
 
-181
-
 ## Table of Contents
 
 plan administrator may interpret the 2019 Plan and may prescribe, amend and rescind rules and make all other determinations necessary or desirable for the administration of the 2019 Plan.
@@ -4871,8 +4497,6 @@ SARs granted in conjunction with all or part of a stock option will be exercisab
 
 Restricted Stock and RSUs. Restricted stock and RSUs may be granted under the 2019 Plan. RSUs may be settled in shares of Class A common stock or cash in the discretion of the plan administrator. The plan administrator will determine the purchase price, vesting schedule and performance objectives, if any, applicable to the grant of restricted stock and RSUs. If the restrictions, performance objectives or other conditions determined by the plan administrator are not satisfied, the restricted stock and RSUs will be forfeited. Subject to the provisions of the 2019 Plan and applicable individual award agreement, the plan administrator has the sole discretion to provide for the lapse of restrictions in
 
-182
-
 ## Table of Contents
 
 installments or the acceleration or waiver of restrictions (in whole or part) under certain circumstances, including the attainment of certain performance goals, a participant's termination of employment or service or a participant's death or disability. The rights of restricted stock and RSU holders upon a termination of employment or service will be set forth in individual award agreements.
@@ -4887,8 +4511,6 @@ Equitable Adjustments. In the event of a merger, consolidation, reclassification
 
 Change in Control . Under the terms of the 2019 Plan (unless otherwise provided in an award agreement or in the agreement resulting in the change of control), any accelerated vesting in connection with a change in control will generally require both the occurrence of a change in control and a qualifying termination of employment (i.e., termination without cause or a resignation for good reason) within 12 months following a change in control. However, in the event an award is not assumed or substituted by a successor entity in connection with a change in control, such award will be fully vested and any performance conditions will be fully achieved at the target level of performance. Under the 2019 Plan, a change in control would generally occur upon an acquisition by a third party of 50% or more of our shares, a merger or similar transaction wherein our shares do not continue to represent more than 50% of the surviving or resulting entity, an unapproved change in a majority of the members of our board of directors, a sale of all or substantially all of our assets to a third party and certain other transactions. In addition, the plan administrator may, in connection with a change in control, terminate all outstanding awards for the payment of cash or in-kind consideration having an aggregate fair market value equal to the excess of the fair market value of the shares of common stock, cash or other property covered by such awards over the aggregate exercise price or base price, if any, of such awards. If the exercise price or base price of any outstanding award is equal to or greater than the fair market value of the shares of common stock, cash or other property covered by such award, the plan administrator may cancel the award without the payment of any consideration to the participant.
 
-183
-
 ## Table of Contents
 
 Tax Withholding. Each participant will be required to make arrangements satisfactory to the plan administrator regarding payment of the amount of applicable taxes required by law to be withheld with respect to any award granted under the 2019 Plan. We have the right, to the extent permitted by law, to deduct any such taxes from any payment of any kind otherwise due to the participant. With the approval of the plan administrator, the participant may satisfy the foregoing requirement by either electing to have us withhold from delivery of shares of common stock, cash or other property, as applicable, or by delivering already owned unrestricted shares of common stock, in each case, having a value not exceeding the applicable taxes to be withheld and applied to the tax obligations. We may also use any other method of obtaining the necessary payment or proceeds, as permitted by law, to satisfy our withholding obligation with respect to any award.
@@ -4896,8 +4518,6 @@ Tax Withholding. Each participant will be required to make arrangements satisfac
 Amendment and Termination of the 2019 Plan. The 2019 Plan provides our board of directors with authority to amend, alter or terminate the 2019 Plan, but no such action may impair the rights of any participant with respect to outstanding awards without the participant's consent. The plan administrator may amend an award, prospectively or retroactively, but no such amendment may materially impair the rights of any participant without the participant's consent. Stockholder approval of any such action will be obtained if required to comply with applicable law or regulation.
 
 Plan Term. The 2019 Plan will terminate on the tenth anniversary of the effective date of the 2019 Plan (although awards granted before that time will remain outstanding in accordance with their terms).
-
-184
 
 ## Table of Contents
 
@@ -4917,8 +4537,6 @@ Unless otherwise indicated, beneficial ownership for the purposes of the table b
 Shares of our common stock that may be acquired by an individual or group within 60 days pursuant to the exercise of options, warrants or other rights are deemed to be outstanding for the purpose of computing the percentage ownership of such individual or group, but are not deemed to be outstanding for the purpose of computing the percentage ownership of any other person shown in the table below. Although each outstanding share of our Class B common stock may at any time, at the option of the holder, be converted into one share of our Class A common stock, the beneficial ownership of our Class A common stock set forth below excludes the shares of our Class A common stock issuable upon conversion of outstanding shares of our Class B common stock.
 
 Our calculation of beneficial ownership immediately prior to the completion of this offering is based on            shares of our Class A common stock,            shares of our Class B common stock and             shares of our Class C common stock outstanding as of August 12, 2019 after giving effect to the IPO-related security conversions but not the stock split to be effected on the closing date of this offering pursuant to which each share of our capital stock will be reclassified into              shares. Our calculation of beneficial ownership upon the completion of this offering is based on            shares of our Class A common stock,            shares of our Class B common stock and             shares of our Class C common stock outstanding as of August 12, 2019 after giving effect to the IPO-related security conversions, as well as (i) the issuance and sale by us of            shares of our Class A common stock in this offering, assuming no exercise of the underwriters' option to purchase additional shares of our Class A common stock, and (ii)            shares of our Class A common stock issuable upon the vesting and settlement of restricted stock units for which the performance-based vesting condition will be satisfied upon the completion of this offering and for which the time-based vesting condition was satisfied as of August 12, 2019 (after giving effect to an aggregate of            such shares withheld to satisfy tax withholding obligations at an assumed tax rate of    %) but does not give effect to the stock split to be effected on the closing date of this offering pursuant to which each share of our capital stock will be reclassified into              shares. Where applicable, the footnotes set forth below also include disclosure regarding certain persons' interests in the We Company Partnership.
-
-185
 
 Unless otherwise indicated, the address of each director and executive officer shown in the table below is c/o The We Company, 115 West 18th Street, New York, New York 10011.
 
@@ -4945,8 +4563,6 @@ Table of Contents
 | John Zhao                                                         | -                                                 |                                                   | -                                           | -                                                   | -                                                              |                                                                |                                                                |                                                                |                                                                |
 | All directors and executive officers, as a group (9 persons) (10) | 36,431,010                                        |                                                   | 114,821,543                                 | 1,062,578                                           | 100                                                            |                                                                |                                                                |                                                                |                                                                |
 
-186
-
 ## Table of Contents
 
                                                                                                                                                                                                                                                                                                     - (2) Consists of 32,645,314 shares of our Class A common stock issuable upon the conversion of Series A preferred stock held of record by Benchmark Capital Partners VII (AIV), L.P. ('BCP AIV'), as nominee for BCP AIV, Benchmark Founders' Fund VII, L.P. ('BFF VII') and Benchmark Founders' Fund VII-B, L.P. ('BFF VII-B'). Benchmark Capital Management Co. VII, L.L.C. ('BCMC VII') is the general partner of each of BCP AIV, BFF VII and BFF VII-B and may be deemed to have shared voting and dispositive power over the shares held by BCP AIV. Matthew R. Cohler, Bruce W. Dunlevie, one of our directors, Peter H. Fenton, J. William Gurley, Kevin R. Harvey, Mitchell H. Lasky and Steven M. Spurlock, the managing members of BCMC VII, may be deemed to have shared voting and dispositive power over the shares held by BCP AIV. The address for the Benchmark entities is c/o Benchmark, 2965 Woodside Road, Woodside, CA 94062.
@@ -4957,14 +4573,10 @@ Table of Contents
                                                                                                                                                                                                                                                                                                     - (7) Consists of (i) 238,320 shares of our Class B common stock held of record by Jen Berrent over which Jen Berrent has dispositive power or the right to acquire dispositive power within 60 days after August 12, 2019, (ii) 99,551 shares of our Class B common stock held by the Berrent 2015 Annuity Trust dated June 1, 2015, of which Jen Berrent is the trustee and over which shares Jen Berrent has dispositive power, (iii) 10,669 shares of our Class A common stock over which Jen Berrent has the right to acquire dispositive power within 60 days after August 12, 2019 upon the exercise of stock options, (iv) 10,921 shares of our Class B common stock over which Jen Berrent has the right to acquire dispositive power within 60 days after August 12, 2019 upon the exercise of stock options and (v) 99,264 shares of our Class A common stock over which Jen Berrent will have dispositive power within 60 days after August 12, 2019 upon the vesting and settlement of restricted stock units for which the performance-based vesting condition will be satisfied upon the completion of this offering and for which the time-based vesting condition will be satisfied as of such date. WE Holdings LLC and Adam Neumann each hold an irrevocable proxy over all of the shares held by Jen Berrent and Berrent 2015 Annuity Trust dated June 1, 2015 pursuant to voting arrangements among WE Holdings LLC, Adam Neumann and such stockholders. In addition, Jen holds profits interests in the We Company Partnership, none of which will be vested within 60 days after August 12, 2019. Jen has voting and dispositive power over all of these profits interests but does not have voting or dispositive power over any of the corresponding shares of our Class C common stock.
                                                                                                                                                                                                                                                                                                     - (8) Consists of (i) 749,799 shares of our Class B common stock held of record by the Frankfort Family Trust DTD 11/11/2003, of which Lew Frankfort is the settlor, (ii) 102,510 shares of our Class B common stock held by Benvolio Ventures LLC-Series WeWork and (iii) 1,247,033 shares of our Class A common stock issuable upon the conversion of Series C preferred stock held by Benvolio Ventures LLC-Series WeWork. Lew Frankfort is one of the managers of Benvolio Ventures LLC-Series WeWork and may be deemed to have voting and dispositive power over the shares held by Benvolio Ventures LLC-Series WeWork.
 
-187
-
 ## Table of Contents
 
                                                                                                                                                                                                                                                                                                         - (9) Consists of 27,056 shares of our Class A common stock over which Steven Langman has or will have dispositive power within 60 days after August 12, 2019, but does not include shares of Class A common stock issuable upon the conversion of Series A preferred stock held of record by an entity associated with the Rhône Group, in which Steven participates, as Steven does not have voting or dispositive power over such shares.
                                                                                                                                                                                                                                                                                                         - (10) Consists of (i) 2,538,663 shares of our Class A common stock, (ii) 114,821,543 shares of our Class B common stock, (iii) 32,645,314 shares of our Class A common stock issuable upon the conversion of Series A preferred stock and (iv) 1,247,033 shares of our Class A common stock issuable upon the conversion of Series C preferred stock, in each case beneficially owned by our directors and executive officers. In addition, our directors and executive officers hold profits interests in the We Company Partnership (of which 629,232 are vested as of August 12, 2019 and an additional 314,616 will be vested within 60 days after August 12, 2019) and 118,730 partnership interests in the We Company Partnership, and have voting power over the shares of our Class C common stock corresponding to these partnership interests and vested profits interests.
-
-188
 
 ## Table of Contents
 
@@ -4989,8 +4601,6 @@ Shares of our Class A common stock are entitled to one vote per share and shares
 ## Dividends
 
 Any dividend paid or payable to the holders of shares of Class A common stock and Class B common stock will be paid on an equal priority, pari passu basis, on a per share basis to the holders of shares of Class A common stock and Class B common stock; provided, however, that if a dividend is paid in the form of Class A common stock or Class B common stock (or rights to acquire shares of Class A common stock or Class B common stock), then the holders of Class A common stock will receive Class A common stock (or rights to acquire shares of Class A common stock) and holders of Class B common stock will receive Class B common stock (or rights to acquire shares of Class B common stock) with holders of Class A common stock and Class B common stock receiving an identical number of shares of Class A common stock or Class B common stock (or rights to acquire such stock, as the case may be).
-
-189
 
 ## Table of Contents
 
@@ -5027,8 +4637,6 @@ Other than as described above, our Class B common stock will not automatically b
 
 Each holder of partnership interests in the We Company Partnership (other than direct and indirect subsidiaries of The We Company) will hold one share of Class C common stock per partnership interest in the We Company Partnership. Subject to certain restrictions, holders of partnership interests (other than direct and indirect subsidiaries of The We Company) may exchange their partnership interests (other than unvested profits interests), together with the
 
-190
-
 ## Table of Contents
 
 corresponding shares of Class C common stock, for, at our option, shares of Class B common stock or cash, in each case as set forth in the Partnership Agreement. The amount of Class B common stock or cash received upon exchange is determined as set forth in the Partnership Agreement taking into account, among other things, the trading price of the Class A common stock and the catch-up base amount (as set forth in the Partnership Agreement) applicable to the profits interests being exchanged, with a higher trading price and lower catch-up base amount generally resulting in a higher exchange ratio. Upon the exchange of partnership interests in the We Company Partnership for shares of our Class B common stock or the forfeiture of profits interests in the We Company Partnership, the corresponding shares of Class C common stock will be canceled. Shares of Class C common stock cannot be transferred other than in connection with the transfer of the corresponding partnership interests in the We Company Partnership. Until such time that all of the Class B common stock has converted into Class A common stock as a result of our outstanding high-vote stock held by Adam and certain of his permitted transferees representing less than 5% of the aggregate number of then-outstanding shares of Class A common stock, Class B common stock and Class C common stock, together as a single class, any transfer of partnership interests in the We Company Partnership that would not constitute a permitted transfer as described above (if such interests were shares of Class B common stock) will result in the cancellation of nineteen-twentieths of every share of Class C common stock corresponding to such partnership interests.
@@ -5049,8 +4657,6 @@ As of                     , 2019, outstanding warrants to purchase an aggregate 
 
 As of                     , 2019, we also had outstanding warrants to purchase an aggregate of             shares of our Class A common stock. These warrants are exercisable at any time prior to February 8, 2026 at an exercise price of $0.001 per share.
 
-191
-
 ## Table of Contents
 
 Under the terms of the 2019 warrant, we have the right to receive $1.5 billion on April 3, 2020 in exchange for the issuance of shares of our Class A common stock at a price of $             per share (subject to equitable adjustment in the event of any further stock split, stock dividend, reverse stock split or similar recapitalization event from the closing of this offering through April 3, 2020).
@@ -5070,8 +4676,6 @@ Our restated certificate of incorporation and amended and restated bylaws contai
                                                                                                                                                                                                                                                                                                                 - · Multi Class Structure . As described above in '-Common Stock-Voting Rights,' our restated certificate of incorporation provides for multiple classes of common stock, including high-vote stock, which provides holders of our high-vote stock with the ability to control the outcome of matters requiring stockholder approval, even if such holders owns significantly less than a majority of the shares of our outstanding common stock.
                                                                                                                                                                                                                                                                                                                 - · Advance Notice Requirements for Stockholder Proposals and Director Nominations . Our amended and restated bylaws provide advance notice procedures for stockholders seeking to bring business before our annual meeting of stockholders or to nominate candidates for election as directors at any meeting of stockholders. Our amended and restated bylaws also specify certain requirements regarding the form and content of a stockholder's notice. These provisions may preclude our stockholders from bringing matters before our annual meeting of stockholders or from making nominations for directors at any meeting of stockholders.
                                                                                                                                                                                                                                                                                                                 - · Issuance of Undesignated Preferred Stock. Our board of directors will have the authority (subject to the approval of the holders of a majority of the Class B common stock then outstanding and subject to the terms of any class or series of preferred stock then outstanding), without further action by our stockholders, to issue up
-
-192
 
 ## Table of Contents
 
@@ -5096,8 +4700,6 @@ In addition to the above, our restated certificate of incorporation and our amen
 
 We and certain of our stockholders, including certain holders of at least 5% of a class of our common stock and entities affiliated with certain of our directors, are parties to a registration rights agreement. Pursuant to the terms of the
 
-193
-
 ## Table of Contents
 
 registration rights agreement, following the completion of this offering, the holders of an aggregate of             shares of our Class A common stock and Class B common stock will be entitled to certain rights with respect to registration of their shares of Class A common stock or the shares of Class A common stock issued upon conversion of their shares of Class B common stock. We will pay the expenses (other than underwriting discounts and commissions) of the holders of the shares registered pursuant to the provisions described below.
@@ -5121,8 +4723,6 @@ The transfer agent and registrar for our Class A common stock will be American S
 ## Listing
 
 We intend to apply to list our Class A common stock on the                  under the symbol 'WE'.
-
-194
 
 ## Table of Contents
 
@@ -5154,8 +4754,6 @@ During the six months ended June 2019, we repurchased $33.0 million aggregate pr
 
 The senior notes are guaranteed on a senior unsecured basis by all of our existing and future direct and indirect subsidiaries that guarantee the bank facilities or our other indebtedness or indebtedness of any subsidiary guarantor in excess of a specified threshold.
 
-195
-
 ## Table of Contents
 
 The senior notes are redeemable at our option, in whole or in part, at any time on or after February 1, 2025 (three months prior to their maturity date), at a redemption price equal to 100% of the principal amount of the senior notes redeemed, plus accrued and unpaid interest, if any, to but not including the redemption date. At any time prior to May 1, 2022, we may redeem up to 30% of the original principal amount of the senior notes with the proceeds of certain equity offerings at a redemption price of 107.875% of the principal amount of the senior notes, together with accrued and unpaid interest, if any, to but not including the redemption date. At any time prior to February 1, 2025 (three months prior to their maturity date), we may also redeem some or all of the senior notes at a redemption price equal to 100% of the principal amount of the notes, plus accrued and unpaid interest, plus a 'make-whole premium'.
@@ -5167,8 +4765,6 @@ Upon the occurrence of specific kinds of changes of control, each holder of seni
 ## 424 Fifth Venture Loans
 
 A subsidiary of The We Company is the sole tenant of a building in New York City pursuant to a master lease with a subsidiary of a joint venture among The We Company, the WPI Fund and Hudson's Bay Company. Subsidiaries of the joint venture, as borrowers, have entered into a loan to finance the acquisition and ongoing renovation and repurposing of the building. See 'Management's Discussion and Analysis of Financial Condition and Results of Operations- Liquidity and Capital Resources-Noncontrolling Interests'. The We Company has guaranteed the obligations of the tenant under the master lease. The loan and master lease guarantees require that The We Company comply with certain covenants relating to minimum liquidity and net worth.
-
-196
 
 ## Table of Contents
 
@@ -5202,8 +4798,6 @@ Specifically, this section covers:
 
 Adam controls a majority of the Company's voting power, principally as a result of his beneficial ownership of our high-vote stock. Since our high-vote stock carries twenty votes per share, Adam will have the ability to control the outcome of matters submitted to the Company's stockholders for approval, including the election of the Company's directors. As a founder-led company, we believe that this voting structure aligns our interests in creating shareholder value. Adam is, however, committed to relinquishing control at a time when he no longer maintains a significant economic interest in The We Company and the share ownership of Adam and certain of his permitted transferees represents less than 5% of the aggregate number of thenoutstanding shares of our capital stock, at which time all of the outstanding high-vote stock would convert to having one vote per share.
 
-197
-
 ## Table of Contents
 
 Adam and Rebekah Neumann have committed to contribute at least $1 billion to charitable causes by the ten-year anniversary of the closing date of this offering. If that contribution is not met, the outstanding high-vote stock would convert to having ten votes per share. See '-Charitable Giving' below.
@@ -5233,8 +4827,6 @@ The Company does not have an employment agreement in place with Adam and, accord
 
 Prior to 2019, and since the founding of the Company, Adam had not received any equity awards from the Company. As the Company grew, our board of directors desired to provide a significant incentive to Adam to conduct an initial public offering, based on the premise that the Company's value would be maximized as a public entity rather than remaining privately held. In the first half of 2019, in order to incentivize our senior leadership team as well as select other individuals who have had an outsized impact on our organization over the years, our board of directors granted to employees, including Adam, stock options to purchase shares of common stock.
 
-198
-
 ## Table of Contents
 
 As part of this award, Adam received options to purchase an aggregate of 42,473,167 shares. All of Adam's awards vest over time based on Adam's continuing service as our Chief Executive Officer and contemplate up to a ten-year time horizon for full vesting. A majority of Adam's awards are also tied to the Company's performance as a public company, particularly an increase in our market capitalization that is sustained over a period of at least 60 days.
@@ -5261,8 +4853,6 @@ To evidence their commitment to charitable causes and to ensure this commitment 
 
 Over the years, Adam has sold some of his shares of the Company, with the last sale occurring in late 2017. To date, Adam and Rebekah have donated to charity an amount equal to over 15% of their past sales of shares of the Company.
 
-199
-
 ## Table of Contents
 
 ## Real Estate Transactions
@@ -5280,8 +4870,6 @@ We are party to lease agreements for four commercial properties with landlord en
 In connection with the formation of ARK, we decided to consolidate all of our real estate investment opportunities in ARK. As part of this consolidation, in August 2019 Adam entered into a management agreement with ARK Capital Advisors, LLC, which serves as the manager of the ARK acquisition vehicles and is referred to as the ARK Manager, pursuant to which the ARK Manager will exclusively manage all of Adam's interests in ten commercial properties owned by Adam, including the four leased properties discussed above. The purpose of this management agreement is to provide the Company with the ability to take advantage of the real estate opportunities Adam had identified, while at the same time eliminating any conflict of interest between Adam and the Company.
 
 During the first year of the management agreement, the ARK Manager has full power, discretion and authority to make investment and management decisions affecting the properties, and the ARK Manager has an option to acquire any of the properties through a real estate acquisition vehicle managed or sponsored by ARK. The purchase price for the properties will correspond to the cost incurred by Adam in respect of the property (including the cost of running the properties, which Adam will bear until such time as they are sold), plus a pre-set annual cost of capital. Any purchase of a property by the ARK Manager pursuant to its purchase option will (1) be subject to the review and approval of disinterested members of the Company's board of directors (which, for this purpose, exclude Steven Langman and Adam Neumann), (2) require the consent of the members of the ARK management committee designated by the Rhône Group and (3) be subject to any applicable procedures for entering into transactions with related parties as set forth in the governing documents of the relevant ARK-managed real estate acquisition vehicle. The ARK Manager will undertake customary due diligence investigations with respect to any property prior to exercising its purchase option, including obtaining third-party appraisals.
-
-200
 
 ## Table of Contents
 
@@ -5305,8 +4893,6 @@ Adam currently has a line of credit of up to $500 million with UBS AG, Stamford 
 ## Family Relationships
 
 One of Adam's immediate family members hosted eight events relating to our Creator Awards ceremonies in 2018, for which she was paid an aggregate of less than $200,000. Another one of Adam's immediate family members has been employed as head of the Company's wellness offering since 2017, and he receives less than $200,000 per year for acting in this capacity.
-
-201
 
 ## Table of Contents
 
@@ -5341,8 +4927,6 @@ Additionally, in connection with the 2019 warrant, SBWW Cayman launched the 2019
 
 Upon the completion of this offering, all shares of preferred stock acquired by the SoftBank entities in the 2017 tender offer and the 2019 tender offer will convert into shares of our Class A common stock.
 
-202
-
 ## Table of Contents
 
 ## Regional Joint Ventures
@@ -5375,8 +4959,6 @@ The We Company Partnership is owned by certain direct and indirect subsidiaries 
 
 As a result of its interests in the general partner of the We Company Partnership, and subject to certain restrictions set forth in the Partnership Agreement, The We Company generally controls all of the affairs and decision-making of the We Company Partnership. As such, The We Company is responsible for all operational and administrative decisions of the We Company Partnership and the day-to-day management of the We Company Partnership's business. Furthermore, the general partner of the We Company Partnership cannot be removed as the general partner of the We Company Partnership without the approval of The We Company.
 
-203
-
 ## Table of Contents
 
 Each holder of partnership interests (including profits interests) in the We Company Partnership (other than direct and indirect subsidiaries of The We Company) holds one share of Class C common stock of The We Company per partnership interest in the We Company Partnership. The Class C common stock has twenty votes per share. The Class C common stock has no economic rights.
@@ -5398,8 +4980,6 @@ Following the completion of this offering, we intend to cause the We Company Par
 To incentivize our management team to continue to lead us over the long term and help us achieve our strategic goals, including through the pursuit of value-maximizing transactions that we expect would be in the interests of all stockholders of The We Company, certain members of our management team have been issued profits interests in the We Company Partnership. The structure involving profits interests is intended to be more efficient for both us and the holder for U.S. federal income tax purposes than issuing stock options to such members of our management team, including by generally affording capital gains treatment to the holder upon a disposition.
 
 Profits interests are generally intended to provide the holder with a proportionate share of the increase of the value of the We Company Partnership's businesses over the value of such businesses on the date of grant of such profits interests. Holders of vested profits interests may also be entitled to limited catch-up distributions. The vested profits interests participate in ordinary and liquidating distributions by the We Company Partnership generally to the extent the cumulative amount of such distributions made to the holders of all other partnership interests after the date of grant of
-
-204
 
 such award exceeds the value of the We Company Partnership's businesses on the date of grant of such award. As of                     , 2019, the amount of distributions which must be exceeded in order for a holder of profits interests granted on such date to receive an ordinary or liquidating distribution was $            . Profits interests do not have any direct voting rights with respect to The We Company. However, with respect to each profits interest, the recipient has also been granted one share of Class C common stock, which is entitled to twenty votes.
 
@@ -5436,8 +5016,6 @@ SoftBank entities and Hony entities have invested or committed to invest in Chin
 
 In April 2017, ChinaCo entered into an agreement granting to Hony entities up to 10,000,000 Class A ordinary shares of ChinaCo in consideration for services provided by John Zhao, who is a director of both our board of directors and
 
-205
-
 ## Table of Contents
 
 ChinaCo's board of directors and is the Chief Executive Officer of Hony. The shares generally vest in equal annual installments over five years from the date of the agreement, subject to the continued provision of certain business services.
@@ -5458,8 +5036,6 @@ In 2017, in order to secure a potential investment opportunity that was being ev
 
 We have entered into operating lease agreements with landlord entities in which the WPI Fund (or, following the ARK/WPI combination, other real estate acquisition vehicles managed or sponsored by ARK) have an interest, on what we believe to be commercially reasonable terms no less favorable to us than could have been obtained from unaffiliated third parties. During the years ended December 31, 2016 and 2017, no rent expense or cash payments had been recognized by us relating to these agreements as we were not yet occupying any properties owned by these entities and had not paid any rent under these leases. During the year ended December 31, 2018 and the six months ended June 30, 2019, we made cash payments totaling $0.0 million and $0.6 million, respectively, and we recognized
 
-206
-
 ## Table of Contents
 
 $0.0 million and $3.2 million, respectively, of lease cost expense related to these leases. Future minimum lease cost payments under these leases, inclusive of escalation clauses and exclusive of contingent rent payments, were approximately $728.4 million as of June 30, 2019.
@@ -5479,8 +5055,6 @@ Our board of directors recognizes that transactions with related parties can pre
 Under the policy, a related party must promptly disclose to our chief legal officer, general counsel, deputy general counsel or other person designated by the audit committee of the board of directors (i) any transaction in which we were, are or will be a participant and that related party had, has or will have a direct or indirect interest and (ii) all material facts with respect thereto. Our chief legal officer, general counsel, deputy chief legal officer or other person designated by the audit committee of the board of directors will make an initial assessment as to whether the transaction constitutes a related party transaction that would be reportable by us pursuant to Item 404(a) of Regulation S-K, in which case the transaction would require approval by either a majority of the members of our board of directors or all of the members of our audit committee. Our transactions with ARK and real estate acquisition vehicles managed or sponsored by ARK will be subject to this policy. We expect as a part of this policy the audit committee will establish specific guidelines that will apply to such transactions that are entered into in the ordinary course of business between us and ARK as well as those transactions that qualify as related party transactions solely as a result of Steven Langman's indirect interest in ARK and his role as one of our directors. We further expect the audit committee to review and assess ongoing relationships with ARK on a quarterly basis to ensure compliance with the audit committee's guidelines and that such transactions remain appropriate.
 
 Any member of the audit committee who is, or whose immediate family member is, or whose household member (other than a tenant or employee) is, a related party with respect to a transaction under review will not be permitted to participate in the discussions or approval or ratification of the transaction.
-
-207
 
 ## Table of Contents
 
@@ -5508,8 +5082,6 @@ Under Rule 144 under the Securities Act, a person (or persons whose shares are a
 
 Rule 144 also provides that a person who is not deemed to have been an affiliate of ours at any time during the three months preceding a sale, and who has for at least six months beneficially owned shares of our Class A common stock that are restricted securities, including the holding period of any prior owner other than one of our affiliates, will be
 
-208
-
 ## Table of Contents
 
 entitled to freely sell such shares of our Class A common stock without regard to the limitations described above, subject to our compliance with Exchange Act reporting obligations for at least 90 days prior to the sale, and provided that such sales comply with the current public information requirements of Rule 144.
@@ -5525,8 +5097,6 @@ We intend to file with the SEC one or more registration statements on Form S-8 c
 ## Registration Rights
 
 We and certain of our stockholders, including certain holders of at least 5% of a class of our common stock and entities affiliated with certain of our directors, are parties to a registration rights agreement. Pursuant to the terms of the registration rights agreement, after the completion of this offering, the holders of an aggregate of              million shares of our Class A common stock and Class B common stock will be entitled to certain rights with respect to registration of their shares of Class A common stock or the shares of Class A common stock issued upon conversion of their shares of Class B common stock. For a description of these rights, see 'Description of Capital Stock-Registration Rights'. If the offer and sale of these shares is registered, the shares will be freely tradable without restriction under the Securities Act and a large number of shares may be sold into the public market.
-
-209
 
 ## Table of Contents
 
@@ -5550,8 +5120,6 @@ We recommend that prospective holders of our Class A common stock consult with t
 ## Distributions on Our Class A Common Stock
 
 In general, any distributions we make to a non-U.S. holder with respect to its shares of our Class A common stock that constitute dividends for U.S. federal income tax purposes will be subject to U.S. withholding tax at a rate of 30% of the gross amount (or a reduced rate prescribed by an applicable income tax treaty), unless the dividends are effectively connected with a trade or business carried on by the non-U.S. holder within the United States (and, if an income tax
-
-210
 
 ## Table of Contents
 
@@ -5577,15 +5145,11 @@ Generally, a corporation is a 'U.S. real property holding corporation' if the fa
 
 Provisions commonly referred to as 'FATCA' impose withholding (separate and apart from, but without duplication of, the withholding tax described above) at a rate of 30% on payments of dividends (including constructive dividends) on our Class A common stock to certain foreign financial institutions (which is broadly defined for this purpose and in general includes investment vehicles) and certain non-financial foreign entities unless (1) in the case of a foreign financial institution, such institution enters into, and complies with, an agreement with the U.S. government to withhold on certain payments, and to collect and provide, on an annual basis, to the U.S. tax authorities substantial information regarding U.S. account holders of such institution (which includes certain equity and debt holders of such institution, as well as certain account holders that are foreign entities with U.S. owners), (2) in the case of a non-financial foreign entity, such entity certifies to the withholding agent that it does not have any substantial U.S. owners or provides the
 
-211
-
 ## Table of Contents
 
 withholding agent with a certification identifying the direct and indirect substantial U.S. owners of the entity, (3) the foreign financial institution or non-financial foreign entity otherwise qualifies for an exemption from these rules or, if required under an intergovernmental agreement between the United States and an applicable foreign country, reports the information in clause (1) to its local tax authority, which will exchange such information with the U.S. authorities. If FATCA withholding is imposed, a beneficial owner that is not a foreign financial institution will generally be entitled to a refund of any amounts withheld by filing a U.S. federal income tax return (which may entail significant administrative burden). An intergovernmental agreement between the United States and an applicable foreign country, or future Treasury regulations, may modify these requirements. Accordingly, the entity through which our Class A common stock is held will affect the determination of whether such withholding is required. Prospective investors should consult their tax advisors regarding the possible implications of FATCA on their investment in our Class A common stock.
 
 THIS DISCUSSION OF U.S. FEDERAL INCOME TAX CONSIDERATIONS IS NOT INTENDED TO BE, AND SHOULD NOT BE CONSTRUED AS, TAX ADVICE. THE FOREGOING SUMMARY IS NOT A SUBSTITUTE FOR AN INDIVIDUAL ANALYSIS OF THE TAX CONSIDERATIONS APPLICABLE TO A PROSPECTIVE HOLDER OF THE OWNERSHIP AND DISPOSITION OF OUR CLASS A COMMON STOCK, WHICH ANALYSIS MAY BE COMPLEX AND WILL DEPEND ON THE HOLDER'S SPECIFIC SITUATION. WE URGE PROSPECTIVE HOLDERS TO CONSULT A TAX ADVISOR REGARDING THE PARTICULAR FEDERAL, STATE, LOCAL AND NON-U.S. TAX CONSIDERATIONS APPLICABLE TO PROSPECTIVE HOLDERS OF THE OWNERSHIP AND DISPOSITION OF OUR CLASS A COMMON STOCK.
-
-212
 
 ## UNDERWRITING
 
@@ -5621,8 +5185,6 @@ The underwriting discounts and commissions will be equal to the public offering 
 
 We estimate that the total expenses of this offering, including registration, filing and listing fees, printing fees and legal and accounting expenses, but excluding the underwriting discounts and commissions, will be approximately $            .
 
-213
-
 ## Table of Contents
 
 We have also agreed to reimburse the underwriters for certain of their expenses relating to the filing and clearance of the offering by FINRA as set forth in the underwriting agreement. Such reimbursement is deemed to be underwriting compensation by FINRA.
@@ -5640,8 +5202,6 @@ We intend to apply to list the shares of Class A common stock on the            
 In connection with this offering, the underwriters may engage in stabilizing transactions, which involves making bids for, purchasing and selling shares of Class A common stock in the open market for the purpose of preventing or retarding a decline in the market price of the Class A common stock while this offering is in progress. These stabilizing transactions may include making short sales of the Class A common stock, which involves the sale by the underwriters of a greater number of shares of Class A common stock than they are required to purchase in this offering, and purchasing shares of Class A common stock on the open market to cover positions created by short sales. Short sales may be 'covered' shorts, which are short positions in an amount not greater than the underwriters' option to purchase additional shares referred to above, or may be 'naked' shorts, which are short positions in excess of that amount. The underwriters may close out any covered short position either by exercising their option to purchase additional shares, in whole or in part, or by purchasing shares in the open market. In making this determination, the underwriters will consider, among other things, the price of shares available for purchase in the open market compared to the price at which the underwriters may purchase shares through their option to purchase additional shares. A naked short position is more likely to be created if the underwriters are concerned that there may be downward pressure on the price of the Class A common stock in the open market that could adversely affect investors who purchase in this offering. To the extent that the underwriters create a naked short position, they will purchase shares in the open market to cover the position.
 
 The underwriters have advised us that, pursuant to Regulation M of the Securities Act, they may also engage in other activities that stabilize, maintain or otherwise affect the price of the Class A common stock, including the imposition of penalty bids. This means that if the representative of the underwriters purchases Class A common stock in the open market in stabilizing transactions or to cover short sales, the representative can require the underwriters that sold those shares as part of this offering to repay the underwriting discount received by them.
-
-214
 
 ## Table of Contents
 
@@ -5663,8 +5223,6 @@ Neither we nor the underwriters can assure investors that an active trading mark
 The underwriters and their respective affiliates are full-service financial institutions engaged in various activities, which may include securities trading, commercial and investment banking, financial advisory, investment management, investment research, principal investment, hedging, financing, and brokerage activities. Certain of the underwriters and their affiliates have provided in the past to us and our affiliates and may provide from time to time in the future certain commercial banking, financial advisory, investment banking and other services for us and such affiliates in the ordinary course of their business, for which they have received and may continue to receive customary fees and commissions. Affiliates of certain of the underwriters, including J.P. Morgan Securities LLC, Goldman Sachs &amp; Co. LLC, BofA Securities, Inc., Barclays Capital Inc., Citigroup Global Markets Inc., Credit Suisse Securities (USA) LLC, HSBC Securities (USA) Inc., UBS Securities LLC and Wells Fargo Securities, LLC, are lenders under our credit agreement and/or our letter of credit reimbursement agreement and are expected to be lenders under the 2019 Credit Facility. An affiliate of J.P. Morgan Securities LLC is the administrative agent under both agreements. In connection with the 2019 Credit Facility, we have agreed to pay JPMorgan Chase Bank, N.A. a structuring fee in an aggregate amount equal to $50.0 million. JPMorgan Chase Bank, N.A. will also receive other fees in amounts equivalent to those received by similarly situated banks in connection with the 2019 Credit Facility. An affiliate of J.P. Morgan Securities LLC is also a lender under a bilateral letter of credit agreement and the 424 Fifth Venture loans. Certain of the underwriters, including J.P. Morgan Securities LLC, Goldman Sachs &amp; Co. LLC, BofA Securities, Inc., Barclays Capital Inc., Citigroup Global Markets Inc., Credit Suisse Securities (USA) LLC, HSBC Securities (USA) Inc., UBS Securities LLC and Wells Fargo Securities, LLC, also acted as initial purchasers of our senior notes. Funds affiliated with J.P. Morgan Securities LLC, an underwriter in this offering, beneficially own         % of our Class A common stock, of which more than 98% is held on behalf of third-party clients and the remainder is held on behalf of certain employees involved with such affiliated funds through a co-investment vehicle. Affiliates of Goldman Sachs &amp; Co. LLC, an underwriter in this offering, beneficially own less than         % of our Class A common stock.
 
 In addition, from time to time in the ordinary course of their various business activities, certain of the underwriters and their affiliates, officers, directors and employees purchase, sell or hold a broad array of investments and actively trade securities, derivatives, loans, commodities, currencies, credit default swaps and other financial instruments for their own account or the account of their customers, and such investment and trading activities may involve or relate to our assets, securities and/or instruments (directly, as collateral securing other obligations or otherwise) and/or persons and entities with relationships with us. The underwriters and their respective affiliates may also communicate independent investment recommendations, market color or trading ideas and/or publish or express independent research views in respect of such assets, securities or instruments and may at any time hold, or recommend to clients that they should acquire, long and/or short positions in such assets, securities and instruments.
-
-215
 
 ## Table of Contents
 
@@ -5689,8 +5247,6 @@ Other than in the United States, no action has been taken by us or the underwrit
 ## Notice to Prospective Investors in the United Kingdom
 
 This document is only being distributed to and is only directed at (i) persons who are outside the United Kingdom or (ii) to investment professionals falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005, referred to as the Order, or (iii) high net worth entities, and other persons to whom it may lawfully be communicated, falling within Article 49(2)(a) to (d) of the Order, all such persons together being referred to as relevant persons. The shares of Class A common stock are only available to, and any invitation, offer or agreement to subscribe, purchase or otherwise acquire such securities will be engaged in only with, relevant persons.
-
-216
 
 ## Table of Contents
 
@@ -5718,8 +5274,6 @@ The shares of Class A common stock may not be publicly offered in Switzerland an
 
 Neither this prospectus nor any other offering or marketing material relating to the offering, the Company or the shares has been or will be filed with or approved by any Swiss regulatory authority. In particular, this document will not be filed with, and the offer of shares will not be supervised by, the Swiss Financial Market Supervisory Authority FINMA, and the offer of shares has not been and will not be authorized under the Swiss Federal Act on Collective Investment Schemes (the 'CISA'). The investor protection afforded to acquirers of interests in collective investment schemes under the CISA does not extend to acquirers of shares.
 
-217
-
 ## Table of Contents
 
 ## Notice to Prospective Investors in Hong Kong
@@ -5738,8 +5292,6 @@ Solely for purposes of the notification requirements under Section 309B(1)(c) of
 
 The shares of Class A common stock have not been and will not be registered under the Financial Instruments and Exchange Law of Japan (the Financial Instruments and Exchange Law) and each underwriter will agree that it will not offer or sell any securities, directly or indirectly, in Japan or to, or for the benefit of, any resident of Japan (which term as used herein means any person resident in Japan, including any corporation or other entity organized under the laws of Japan), or to others for re-offering or resale, directly or indirectly, in Japan or to a resident of Japan, except pursuant to an exemption from the registration requirements of, and otherwise in compliance with, the Financial Instruments and Exchange Law and any other applicable laws, regulations and ministerial guidelines of Japan.
 
-218
-
 ## Table of Contents
 
 ## Notice to Prospective Investors in Mexico
@@ -5749,8 +5301,6 @@ The shares of Class A common stock have not been registered with the National Se
 ## Notice to Prospective Investors in Canada
 
 The shares of Class A common stock may be sold only to purchasers purchasing, or deemed to be purchasing, as principal that are accredited investors, as defined in National Instrument 45-106 Prospectus Exemptions or subsection 73.3(1) of the Securities Act (Ontario), and are permitted clients, as defined in National Instrument 31-103 Registration Requirements, Exemptions and Ongoing Registrant Obligations. Any resale of the securities must be made in accordance with an exemption from, or in a transaction not subject to, the prospectus requirements of applicable securities laws. Securities legislation in certain provinces or territories of Canada may provide a purchaser with remedies for rescission or damages if this prospectus (including any amendment thereto) contains a misrepresentation, provided that the remedies for rescission or damages are exercised by the purchaser within the time limit prescribed by the securities legislation of the purchaser's province or territory. The purchaser should refer to any applicable provisions of the securities legislation of the purchaser's province or territory for particulars of these rights or consult with a legal advisor. Pursuant to section 3A.3 (or, in the case of securities issued or guaranteed by the government of a non-Canadian jurisdiction, section 3A.4) of National Instrument 33-105 Underwriting Conflicts (NI 33-105), the underwriters are not required to comply with the disclosure requirements of NI 33-105 regarding underwriter conflicts of interest in connection with this offering.
-
-219
 
 ## Table of Contents
 
@@ -5767,8 +5317,6 @@ The consolidated financial statements of WeWork Companies Inc. at December 31, 2
 This prospectus, which constitutes a part of a registration statement on Form S-1 filed with the SEC, does not contain all of the information set forth in the registration statement and the related exhibits and schedules. Some items are omitted in accordance with the rules and regulations of the SEC. Accordingly, we refer you to the complete registration statement, including its exhibits and schedules, for further information about us and the shares of Class A common stock to be sold in this offering. Statements or summaries in this prospectus as to the contents of any contract or other document referred to in this prospectus are not necessarily complete and, where that contract or document is filed as an exhibit to the registration statement, each statement or summary is qualified in all respects by reference to the exhibit to which the reference relates. Our filings with the SEC, including the registration statement, are available to you for free on the SEC's internet website at www.sec.gov. Upon completion of the offering, we will become subject to the informational and reporting requirements of the Exchange Act and, in accordance with those requirements, will file reports and proxy and information statements with the SEC.
 
 We also maintain an internet website at www.we.co. Information contained on, or accessible through, our website is not a part of this prospectus, and the inclusion of our website address in this prospectus is an inactive textual reference.
-
-220
 
 ## WEWORK COMPANIES INC.
 
@@ -5799,8 +5347,6 @@ Table of Contents
 | Condensed Consolidated Statements of Cash Flows                                                                   | F-72   |
 | Notes to Condensed Consolidated Financial Statements                                                              | F-75   |
 
-F-1
-
 ## Table of Contents
 
 ## REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
@@ -5826,8 +5372,6 @@ Our audits included performing procedures to assess the risks of material missta
 /s/ Ernst &amp; Young LLP
 
 We have served as the Company's auditor since 2015. New York, NY April 25, 2019
-
-F-2
 
 ## WEWORK COMPANIES INC.
 
@@ -5874,8 +5418,6 @@ Table of Contents
 | Convertible preferred stock; 187,847,306 shares authorized at December 31, 2018, and 170,300,623 and 171,757,571 shares issued and outstanding at December 31, 2017 and 2018, respectively | 3,405,435      | 3,498,696      |
 | Redeemable noncontrolling interests                                                                                                                                                        | 854,577        | 1,320,637      |
 
-F-3
-
 ## WEWORK COMPANIES INC.
 
 ## CONSOLIDATED BALANCE SHEETS-(CONTINUED)
@@ -5898,8 +5440,6 @@ Table of Contents
 | Total liabilities and equity                                                                                                                                                                          | $ 5,364,072    | $ 8,644,916    |
 
 The accompanying notes are an integral part of these consolidated financial statements.
-
-F-4
 
 ## WEWORK COMPANIES INC.
 
@@ -5944,8 +5484,6 @@ Table of Contents
 
 The accompanying notes are an integral part of these consolidated financial statements.
 
-F-5
-
 ## WEWORK COMPANIES INC.
 
 ## CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
@@ -5965,10 +5503,6 @@ Table of Contents
 | Comprehensive loss attributable to WeWork Companies Inc.                           | $ (420,227)    $          | (901,923)    $            | (1,584,195)                                          |
 
 The accompanying notes are an integral part of these consolidated financial statements.
-
-F-6
-
-Table of Contents
 
 ## WEWORK COMPANIES INC.
 
@@ -5997,8 +5531,6 @@ Table of Contents
 | Balance-December 31, 2016                                    | 8,227,764    $                                          |                                                         | 8     150,617,244    $                                  |                                                         | 151    $ 86,769    $                                    | 8,005    $                                              | (816,499)   $                                           |                          | -    $ (721,566) |
 
 The accompanying notes are an integral part of these consolidated financial statements.
-
-F-7
 
 ## WEWORK COMPANIES INC.
 
@@ -6035,8 +5567,6 @@ Table of Contents
 | Balance-December 31, 2017                         | 30,299,542   $                                          |                                                         | 30       131,787,453    $                               |                                                         | 132    $407,804    $                                    |                                                         | (9,924)   $  (1,700,493)     $                          |                                                         | -    $(1,302,451)                                       |
 
 The accompanying notes are an integral part of these consolidated financial statements.
-
-F-8
 
 ## WEWORK COMPANIES INC.
 
@@ -6076,8 +5606,6 @@ Table of Contents
 | Balance-December 31, 2018                                 | 30,979,421    $                                         |                                                         | 31     133,660,176    $                                 | 134    $                                                | 797,963    $                                            | 15,511   $                                              | (3,311,285)   $                                         | 39,070    $    | (2,458,576)         |
 
 The accompanying notes are an integral part of these consolidated financial statements.
-
-F-9
 
 ## WEWORK COMPANIES INC.
 
@@ -6122,8 +5650,6 @@ Table of Contents
 | Loans to employees and related parties                                   | (10,273)                            | 9,796                               | (1,859)                             |
 | Cash used for acquisitions                                               | (580)                               | (243,410)                           | (204,141)                           |
 | Net cash used in investing activities                                    | (818,525)                           | (1,376,767)                         | (2,475,798)                         |
-
-F-10
 
 ## WEWORK COMPANIES INC.
 
@@ -6171,8 +5697,6 @@ Table of Contents
 | Vesting of shares related to early exercise of stock options                | 573                       | 210                       | 105                       |
 | Common share repurchase and retirement                                      | 6,374                     | 454                       | 289                       |
 
-F-11
-
 The following table provides a reconciliation of cash, cash equivalents, and restricted cash as reported within the accompanying consolidated balance sheets to the total of the same amounts as reported in the accompanying consolidated statements of cash flows.
 
 Table of Contents
@@ -6185,8 +5709,6 @@ Table of Contents
 | Cash, cash equivalents, and restricted cash | $ 580,342     $ | 2,171,119     $ | 2,163,942                                          |
 
 The accompanying notes are an integral part of these consolidated financial statements.
-
-F-12
 
 ## Table of Contents
 
@@ -6220,8 +5742,6 @@ Use of Estimates -The preparation of the consolidated financial statements in ac
 
 Cash and Cash Equivalents -Cash and cash equivalents consist of highly liquid marketable securities with original maturities of three months or less at the time of purchase. Cash equivalents are presented at cost, which approximates fair value.
 
-F-13
-
 ## Table of Contents
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -6246,8 +5766,6 @@ Goodwill -Goodwill represents the excess of the purchase price of an acquired bu
 
 The guidance for goodwill impairment testing begins with an optional qualitative assessment to determine whether it is more likely than not that goodwill is impaired. The Company is not required to perform a quantitative impairment test unless it is determined, based on the results of the qualitative assessment, that it is more likely than not that goodwill is
 
-F-14
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC.
@@ -6267,8 +5785,6 @@ The Company tests goodwill and indefinite-lived intangible asset balances for im
 Impairment of Long Lived Assets --Long-lived assets, including property and equipment, capitalized software, and other finite-lived intangible assets, are evaluated for recoverability when events or changes in circumstances indicate that the asset may have been impaired. In evaluating an asset for recoverability, the Company considers the future cash flows expected to result from the continued use of the asset and the eventual disposition of the asset. If the sum of the expected future cash flows, on an undiscounted basis, is less than the carrying amount of the asset, an impairment loss equal to the excess of the carrying amount over the fair value of the asset is recognized. During the years ended December 31, 2017 and 2018, the Company recorded $6.8 million and $29.6 million, respectively, in impairment charges and property and equipment write-offs relating to excess, obsolete, or slowmoving inventory of furniture and equipment, early termination of leases and dead deals. The impairment expense is included as a component of growth and new market development expenses in the accompanying consolidated statements of operations. There were no impairment charges recognized for the year ended December 31, 2016.
 
 Deferred Financing Costs -Deferred financing costs consist of fees and costs incurred to obtain financing. Such costs are capitalized and amortized as interest expense using the effective interest method, over the term of the related loan. As of December 31, 2016, 2017, and 2018, the Company recorded $3.8 million, $6.2 million and $10.7 million, respectively, of deferred financing costs, net of accumulated amortization, in other assets in the accompanying consolidated balance sheets related to the Company's credit agreements (see Note 23). As of December 31, 2018, the Company has also recorded $16.2 million of unamortized deferred financing costs as a reduction to the long-term debt, net discussed in Note 12. For the years ended December 31, 2016, 2017 and 2018, the Company recognized $0.8 million, $1.2 million and $3.2 million, respectively, in interest expense, relating to the amortization of deferred financing costs.
-
-F-15
 
 ## Table of Contents
 
@@ -6292,8 +5808,6 @@ All rent expense incurred before a workspace location opens for business is reco
 
 In addition, most leases require payment of real estate taxes, insurance, and certain common area maintenance costs in addition to minimum rent payments. These amounts are also included in location operating expenses or pre-opening location expenses on the accompanying consolidated statement of operations based on the status of the respective workspace location.
 
-F-16
-
 ## Table of Contents
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -6313,8 +5827,6 @@ Revenue Recognition -The Company provides memberships to individuals and compani
 Membership revenue consists primarily of fees from members, net of discounts, and is recognized monthly, on a ratable basis, over the life of the agreement, as access to office space is provided. All services included in a monthly membership allowance that remain unused at the end of a given month expire. Service revenue consists primarily of additional billings to members for the ancillary services they may access through their memberships, in excess of the monthly allowances included in membership revenue, commissions earned by the Company on various services and benefits provided to our members and management fee income for the services provided to unconsolidated locations in India. Service revenue is recognized on a monthly basis as the services are provided. Other revenue includes income generated from sponsorships and ticket sales from WeWork branded events and is recognized upon the occurrence of the event. Other revenue also includes other management and advisory fees earned, design fees earned, and revenue generated from various We Company offerings. The Company recognizes revenue when all of the following conditions are satisfied: (1) there is persuasive evidence of an arrangement; (2) services have been provided; (3) the collection of fees is reasonably assured; and (4) the amount of fees to be paid is fixed or determinable.
 
 The Company recognizes revenue from design and development services performed in conjunction with design and construction contracts using the percentage-of-completion method based primarily on contract cost incurred to date
-
-F-17
 
 ## WEWORK COMPANIES INC.
 
@@ -6343,8 +5855,6 @@ Pre-opening Location Expenses -Pre-opening location expenses are expensed as inc
 
 Sales and Marketing -Sales and marketing expenses are expensed as incurred and consist primarily of advertising costs, personnel and related expenses and stock-based compensation expense related to our sales, marketing, branding, public affairs, and events teams, member referral fees, and costs associated with strategic marketing events. During the years ended December 31, 2016, 2017 and 2018, the Company recorded $14.8 million, $40.9 million and $91.2 million, respectively, of advertising expenses.
 
-F-18
-
 ## Table of Contents
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -6365,8 +5875,6 @@ Because the Company is privately held and there is no public market for our stoc
 
 The Company has elected to recognize forfeitures of stock-based compensation awards as they occur. Recognition of any compensation expense relating to stock grants that vest contingent on an initial public offering or 'Acquisition' (as defined in the 2015 Plan detailed in Note 21) will be deferred until consummation of such initial public offering or Acquisition.
 
-F-19
-
 ## Table of Contents
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -6382,8 +5890,6 @@ Certain of the Company's investments in convertible notes are designated as avai
 When the fair value of an available-for-sale security is less than its amortized cost, the security is considered impaired. On a quarterly basis, the Company evaluates its securities for other-than-temporary impairment ('OTTI'). If the Company intends to sell an impaired security, or it is more-likely-than-not that the Company will be required to sell an impaired security before its anticipated recovery, then the Company must recognize an OTTI through a charge to earnings equal to the entire difference between the investment's amortized cost and its fair value at the measurement date. If the Company does not intend to sell an impaired security and it is not more-likely-than-not that it would be required to sell an impaired security before recovery, the Company must further evaluate the security for impairment due to credit losses. The credit component of OTTI is recognized in earnings and the remaining component is recorded as a component of other comprehensive income. Following the recognition of an OTTI through earnings, a new amortized cost basis is established for the security. Subsequent differences between the new amortized cost basis and cash flows expected to be collected are accreted into income over the remaining life of the security as an adjustment to yield.
 
 Foreign Currency -The U.S. dollar is the functional currency of the Company's consolidated and unconsolidated entities operating in the United States. For the Company's consolidated and unconsolidated entities operating outside of the United States, the Company generally assigns the relevant local currency as the functional currency as the local currency is generally the principal currency of the economic environment in which the foreign entity primarily generates and expends cash. The Company remeasures monetary assets and liabilities that are not denominated in the functional currency at exchange rates in effect at the end of each period. Gains and losses from these remeasurements are recognized in foreign currency gain (loss) on the accompanying consolidated statement of operations. Foreign currency transactions resulted in net gains (losses) of $(23.2) million, $29.4 million and $(78.6) million, for the years ended December 31, 2016, 2017 and 2018, respectively, and relate primarily to intercompany transactions that are not of a long-term investment nature. At each balance sheet reporting date, the Company translates the assets and liabilities of its non-U.S. dollar functional currency entities into U.S. dollars using exchange rates in effect at the end of each period. Revenues and expenses for these entities are translated using rates that
-
-F-20
 
 ## Table of Contents
 
@@ -6409,8 +5915,6 @@ Contingent Consideration -The fair value measurements of contingent consideratio
 
 Reclassifications -Certain reclassifications have been made to prior years' financial information to conform to the current year presentation. Changes in presentation were made to provide more detailed information and insight into the
 
-F-21
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS DECEMBER 31, 2018
@@ -6426,8 +5930,6 @@ In May 2017, the FASB issued ASU No. 2017-09, Compensation-Stock Compensation (T
 In November 2016, the FASB issued ASU No. 2016-18, Statement of Cash Flows (Topic 230): Restricted Cash (a consensus of the Emerging Issues Task Force) ('ASU 2016-18') to add and clarify guidance on the classification and presentation of restricted cash and restricted cash equivalents in the statement of cash flows. ASU 2016-18 requires that restricted cash and restricted cash equivalents be included within cash and cash equivalents when reconciling the beginning-of-period and end-of-period totals disclosed in the statement of cash flows. Transfers between restricted and unrestricted cash accounts are not reported within the statement of cash flows. Only restricted cash receipts or payments from restricted cash directly to third parties are reported in the statement of cash flows as either an operating, investing, or financing activity, depending on the nature of the transaction. Furthermore, an additional reconciliation is required to reconcile cash, cash equivalents, and restricted cash reported within the consolidated balance sheets to sum to the total shown in the consolidated statements of cash flows. The Company has historically disclosed the restricted cash separately on its consolidated balance sheets. ASU 2016-18 is effective for public business entities for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years and is effective for all other entities for fiscal years beginning after December 15, 2018, and interim periods within fiscal years beginning after December 15, 2019, with early adoption permitted. The Company retrospectively adopted ASU 2016-18 in connection with the preparation of our annual financial statements for the year ended December 31, 2018. The table below under 'Summary of Adjustments to Prior Period Presentation' shows the impact of our retrospective adoption of ASU 2016-18 on our consolidated statements of cash flows for the years ended December 31, 2016 and 2017.
 
 In August 2016, the FASB issued ASU 2016-15, Statement of Cash Flows (Topic 230), Classification of Certain Cash Receipts and Cash Payments ('ASU 2016-15'), which updated the guidance on how certain cash receipts and cash payments should be presented and classified within the statement of cash flows. The guidance was effective for public business entities for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years and is effective for all other entities for fiscal years beginning after December 15, 2018, and interim periods within fiscal years beginning after December 15, 2019, with early adoption permitted. The standard requires retrospective adoption. We elected to early adopt ASU 2016-15 in connection with the preparation of our annual financial statements for the year ended December 31, 2018. The adoption of ASU 2016-15 changed how we have historically classified cash paid related to contingent consideration and holdbacks in connection with acquisitions depending on the timing of when the
-
-F-22
 
 ## WEWORK COMPANIES INC.
 
@@ -6456,8 +5958,6 @@ Table of Contents
 | Cash, cash equivalents, and restricted cash-beginning of year | 453,768                  | 42,547                    | 496,315       |
 | Cash, cash equivalents, and restricted cash-end of year       | 506,597                  | 73,745                    | 580,342       |
 
-F-23
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -6485,8 +5985,6 @@ In June 2018, the FASB issued ASU No. 2018-07, Compensation-Stock Compensation (
 In June 2016, the FASB issued ASU No. 2016-13, Financial Instruments-Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments ('ASU 2016-13'). The guidance changes how entities will measure credit losses for most financial assets and certain other instruments that are not measured at fair value through net income. The guidance replaces the current 'incurred loss' model with an 'expected loss' approach. ASU 2016-13 will be applied as a cumulative-effect adjustment to retained earnings as of the beginning of the first reporting period in which the guidance is effective. ASU 2016-13 is effective for public business entities for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years and is effective for all other entities for fiscal years beginning after December 15, 2020, and interim periods within fiscal years beginning after December 15, 2021, with early adoption permitted. The Company is currently evaluating the impact ASU 2016-13 will have on its consolidated financial position, results of operations, and cash flows.
 
 In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842) ('ASU 2016-02'), which requires a lessee to recognize a right-of-use asset and lease liability for leases with terms greater than twelve months. Recognition, measurement, and presentation of expenses will depend on classification as a finance lease or operating lease. ASU 2016-02 expands the disclosure requirements with respect to lease arrangements. ASU 2016-02 will be applied using a modified retrospective transition approach. ASU 2016-02 is effective for public business entities for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years and is effective for all other entities for fiscal years beginning after December 15, 2019, and interim periods within fiscal years beginning after December 15, 2020, with early adoption permitted. While the Company is currently evaluating the impact ASU 2016-02 will have on its consolidated financial position, results of operations, and cash flows, the expectation is the adoption will have a material impact on the Company's consolidated balance sheet. As of December 31, 2018, the Company's future
-
-F-24
 
 ## WEWORK COMPANIES INC.
 
@@ -6517,8 +6015,6 @@ Table of Contents
 | Prepaid software                           | 3,253          | 13,546                       |
 | Other prepaid expenses and current assets  | 17,342         | 55,134                       |
 | Total other current assets                 |                | $    251,730    $    385,601 |
-
-F-25
 
 ## WEWORK COMPANIES INC.
 
@@ -6554,8 +6050,6 @@ During 2018, the Company formed a 50% owned and consolidated joint venture entit
 
 During 2018, a consolidated subsidiary of the Company ('ChinaCo') sold to investors $500.0 million of Series B Preferred Stock at a price of $18.319 per share and a liquidation preference of $18.319 per share. During 2017, ChinaCo sold to investors $500.0 million of Series A Preferred Stock at a price of $10.00 per share and a liquidation preference of $10.00 per share. The portion of consolidated equity attributable to ChinaCo's Series A and B Preferred shareholders are reflected as redeemable noncontrolling interests, within the mezzanine section of the accompanying consolidated balance sheets as of December 31, 2017 and 2018. See Note 6 for a discussion of the Class A Ordinary shares issued during 2018 by ChinaCo in connection with an acquisition. There were no Class A Ordinary shares
 
-F-26
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS DECEMBER 31, 2018
@@ -6567,8 +6061,6 @@ Pursuant to the terms of the shareholders' agreement of ChinaCo, as long as cert
 During 2017, a consolidated subsidiary of the Company ('JapanCo') entered into an agreement with investors for the sale of a 50% membership interest in JapanCo for an aggregate contribution of $500.0 million which will be funded over a period of time. As of December 31, 2017 and 2018, JapanCo had received contributions totaling $200.0 million and $300.0 million, respectively. Pursuant to the terms of the agreement an additional $100.0 million is required to be contributed in each of 2019 and 2020. The portion of consolidated equity attributable to the outside investors' interests in JapanCo are reflected as redeemable noncontrolling interests, within the mezzanine section of the accompanying consolidated balance sheets as of December 31, 2017 and 2018. As long as the investors remain shareholders of JapanCo, JapanCo will be the exclusive operator of the Company's WeWork branded co-working businesses in Japan. After July 13, 2024 and, prior to that date, in the event of default on the contributions to be made, the Company may elect to purchase, at fair value, all JapanCo membership interests held, other than any interests issued in connection with an equity incentive plan. The Company may elect to pay the buyout consideration in either cash, WeWork shares, or a combination thereof.
 
 During 2017, a consolidated subsidiary of the Company ('PacificCo') entered into an agreement with an investor for the sale of $500.0 million of Series A-1 Preferred Stock at a price of $10.00 per share and a liquidation preference of $10.00 per share on terms and subject to conditions substantially identical to the terms and conditions of the ChinaCo transaction described above. The initial closing occurred on October 30, 2017 and all of the PacificCo Series A-1 Preferred Stock was issued at that time, however the Company received contributions totaling $200.0 million at the initial closing and an additional $100.0 million during the year ended December 31, 2018. Pursuant to the terms of the agreement an additional $100.0 million is required to be contributed in each of 2019 and 2020. The portion of consolidated equity attributable to PacificCo's Series A-1 Preferred shareholders are reflected as redeemable noncontrolling interests, within the mezzanine section of the accompanying consolidated balance sheets as of December 31, 2017 and 2018. As long as the investor remains a shareholder of PacificCo, PacificCo will be the exclusive operator of the Company's businesses in selected markets in Asia other than those included in the Greater China and Japan territories described above, including but not limited to Singapore, Korea, the Philippines, Malaysia, Thailand, Vietnam and Indonesia. After October 30, 2024, the Company may elect to purchase, at fair value, all PacificCo shares held, other than any interests issued in connection with an equity incentive plan. The Company may elect to pay the buyout consideration in either cash, WeWork shares, or a combination thereof.
-
-F-27
 
 ## WEWORK COMPANIES INC.
 
@@ -6607,8 +6099,6 @@ Table of Contents
 
 The assets of consolidated VIEs will be used first to settle obligations of the VIE. Remaining assets may then be distributed to the VIEs' owners, including the Company, subject to the liquidation preferences of certain noncontrolling interest holders and any other preferential distribution provisions contained within the operating agreements of the
 
-F-28
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS DECEMBER 31, 2018
@@ -6628,8 +6118,6 @@ PacificCo acquired 100% of the equity of NH Vietnam for $14.4 million and WeWork
 ChinaCo acquired 100% of the equity of NH Holdings for total consideration of $449.7 million, consisting of $177.0 million in cash and $272.7 million in ChinaCo Class A Ordinary Shares and Class A Common Stock of the Company. At closing, the Company transferred $146.3 million in cash and $179.7 million in ChinaCo Class A Ordinary Shares. The remaining consideration included a holdback of $15.9 million payable in cash and contingent consideration consisting of $14.7 million payable in cash and $93.1 million payable in a combination of ChinaCo Class A Ordinary Shares and Class A Common Stock of the Company. ChinaCo will reimburse the Company for any shares of the Company issued on ChinaCo's behalf in connection with the acquisition. The Company determined the fair value of the contingent consideration, based on the likelihood of reaching set milestones. Each period, the contingent consideration will be remeasured to fair market value through the statement of operations. During the year ended December 31, 2018, the Company recorded a loss of $(80.6) million related to the remeasurement of the contingent consideration payable in stock offset by $4.2 million of gain related to the remeasurement of the contingent consideration payable in cash, included in growth and new market development expenses on the accompanying consolidated statements of operations. The change in fair value of the contingent consideration was driven by changes in the Company's projected obligation to issue additional ChinaCo Class A Ordinary Shares based on the anti-dilution provisions of the acquisition agreement, changes in the likelihood of achieving certain milestones, and an increase in the fair market value of the ChinaCo Class A Ordinary Shares and the Company's Class A Common Stock during the period. During the year ended December 31, 2018, ChinaCo issued $44.0 million of additional Class A Ordinary Shares in connection with the anti-dilution protection related to the contingent consideration of this acquisition. As of December 31, 2018, there was $15.9 million in cash holdback, $10.5 million in contingent consideration payable in cash, and $129.8 million in contingent consideration payable in a combination of Class A Ordinary Shares of ChinaCo and Class A Common Stock of the Company included in other current liabilities on the accompanying consolidated balance sheet.
 
 In March 2018, the Company completed the acquisition of 100% of the equity of Conductor, Inc. ('Conductor') for a total consideration of $113.6 million. The total consideration included $15.8 million in cash and $97.8 million in Series AP-1 Preferred Stock. At closing, $0.2 million of the cash and $31.6 million of the Series AP-1 Preferred Stock
-
-F-29
 
 ## WEWORK COMPANIES INC.
 
@@ -6661,8 +6149,6 @@ Table of Contents
 In December 2017, the Company completed a merger to acquire 100% of the equity of Meetup, Inc. ('Meetup') for total cash consideration of approximately $156.0 million. At closing, $15.0 million of the acquisition consideration was held back. As of December 31, 2018, $7.8 million of the cash holdback is included in other current liabilities on the accompanying consolidated balance sheet. As of December 31, 2017, $7.5 million of the cash holdback is included in other current liabilities and $7.5 million is included in other liabilities on the accompanying consolidated balance sheet. Meetup was founded in 2002 and is a web-based platform that brings people together for face to face interactions, called Meetups, in thousands of markets around the world. WeWork and Meetup plan to use technology to foster greater community and to create new and innovative ways of bringing people together.
 
 In October 2017, the Company completed a merger to acquire 100% of the equity of Flatiron School, Inc. ('Flatiron') for total consideration of approximately $28.0 million. The total consideration included $15.0 million in cash, $4.0 million in Class A Common Stock and $9.0 million in Series G Preferred Stock. At closing, $2.1 million of the cash, $0.6 million of the Class A Common Stock, and $1.3 million of the Series G Preferred Stock acquisition consideration were held back. The cash holdback is included in other current liabilities and the equity holdbacks are included as a component of additional paid-in capital on the accompanying consolidated balance sheet as of December 31, 2017. As of December 31, 2018, all holdbacks had been released. Flatiron was founded in 2012 and is based in New York, NY. Flatiron provides web development and iOS immersive courses in New York as well as online courses, corporate trainings, and pre-college programs. Through this acquisition, WeWork now offers in-person and online courses as a
-
-F-30
 
 ## WEWORK COMPANIES INC.
 
@@ -6696,8 +6182,6 @@ Table of Contents
 | Other measurement period adjustments             | -                         | (1,471)                        |
 | Effect of foreign currency exchange rate changes | 470                       | (27,087)                       |
 | Balance at end of period                         |                           | $    156,117      $    681,017 |
-
-F-31
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
 
@@ -6739,8 +6223,6 @@ Amortization expense related to intangible assets as of December 31, 2018 is exp
 | 2024 and beyond          | 48,920       |
 | Total                    | $    151,888 |
 
-F-32
-
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
 
 ## WEWORK COMPANIES INC. DECEMBER 31, 2018
@@ -6764,8 +6246,6 @@ Table of Contents
 | IndiaCo  (7)                               | Investment in convertible notes                            | 5,928          | 5,319                         | 5,248          | N/A                  |
 | Other                                      | Various                                                    | -              | 598                           | 738            | Various              |
 | Total equity method and other investments  |                                                            | $    57,217    | $    218,435     $    210,965 |                |                      |
-
-F-33
 
 ## WEWORK COMPANIES INC.
 
@@ -6799,8 +6279,6 @@ Table of Contents
 | Current portion of deferred rent                                        | 38,143         | 71,034         |
 | Other current liabilities                                               | 11,845         | 13,892         |
 | Total other current liabilities                                         | $    64,653    | $270,640       |
-
-F-34
 
 ## WEWORK COMPANIES INC.
 
@@ -6846,8 +6324,6 @@ Long-term debt, net consists of the following:
 
 Senior Notes - In April 2018, the Company issued $702 million in aggregate principal amount of unsecured senior notes due 2025 (the 'senior notes') at a 7.875% interest rate in a private offering pursuant to Rule 144A under the Securities Act and Regulation S under the Securities Act. The Company's gross proceeds of $702.0 million, from the issuance of the senior notes, were recorded net of debt issuance costs of $17.4 million. The debt issuance costs are deferred and will be amortized into interest expense over the term of the senior notes using the effective interest method. Interest on the senior notes accrues from April 30, 2018, the issue date of the senior notes, and is payable in cash semi-annually in arrears on May 1 and November 1 of each year. The Company may redeem the senior notes, in whole or in part, at any time prior to maturity, subject to certain make-whole premiums. The senior notes mature on May 1, 2025 at 100% of par.
 
-F-35
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -6877,8 +6353,6 @@ Table of Contents
 | 2023                     | 3,459        |
 | 2024 and beyond          | 742,592      |
 | Total minimum payments   | $    767,742 |
-
-F-36
 
 ## WEWORK COMPANIES INC.
 
@@ -6911,8 +6385,6 @@ The Convertible Note matures on February 12, 2024, unless converted earlier. Unl
 As the Convertible Note includes an interest-free period and the interest rate is also below the market effective rate for a similar borrowing, an original issue discount of $170.0 million was recorded based on the fair value of the Convertible Note at the date of issuance. As the discount was provided by a related party and principal shareholder, it was treated as a capital contribution and recorded in additional paid in capital on the accompanying consolidated balance sheet as of December 31, 2018. The Company estimated the fair value of the Convertible Note using a probability-weighted valuation scenario model.
 
 The Convertible Note additionally contains embedded redemption features that were required to be assessed as derivatives. The Company determined that the features converting the Convertible Note into shares upon a qualifying preferred stock financing or Qualifying IPO and prepayment upon a sale of the Company were required to be bifurcated and accounted for under derivative accounting. These embedded features have been accounted for together as a single compound derivative. The Company estimated the fair value of the compound derivative by comparing the value of the Convertible Note to a similar note without redemption features, the difference between the two values representing the value of the bifurcated redemption features. The bifurcation of the embedded redemption features represented a value of $178.8 million at the date of issuance. The embedded redemption derivative is presented within the convertible related party liabilities, net on the accompanying consolidated balance sheet as of December 31, 2018,
-
-F-37
 
 ## WEWORK COMPANIES INC.
 
@@ -6957,8 +6429,6 @@ Table of Contents
 
 There were no transfers between Level 1 and Level 2 of the fair value hierarchy during the years ended December 31, 2017 and 2018.
 
-F-38
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -6999,8 +6469,6 @@ Table of Contents
 | Balance at end of period                                                                                                                  | $ -                       | $    416,702              |
 
 During the year ended December 31, 2018, there were no unrealized gains or (losses) relating to Level 3 assets held as of December 31, 2018. During the year ended December 31, 2018, there were unrealized losses of $97.6 million included in interest expense and $76.4 million of unrealized losses included in growth and new market development expenses relating to Level 3 liabilities held as of December 31, 2018.
-
-F-39
 
 ## WEWORK COMPANIES INC.
 
@@ -7048,8 +6516,6 @@ Pre-opening location expenses consist of expenses incurred before a location ope
 
 Rent expense incurred before a location opens for member operations is recorded in pre-opening location expenses on the accompanying consolidated statements of operations. Once a location opens for member operations, rent expense
 
-F-40
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -7075,8 +6541,6 @@ Table of Contents
 | Adjustments for impact of straight-lining of rent | 92,723                                      | 94,526                                      | -                                           | 1,497                                       | -                                           | 188,746                                     |
 | Amortization of lease incentives                  | (22,465)                                    | (1,735)                                     | -                                           | (276)                                       | -                                           | (24,476)                                    |
 | Total rent expense                                | $    241,588     $                          | 103,613     $                               | -     $                                     | 3,576     $                                 |                                             | -     $    348,777                          |
-
-F-41
 
 ## WEWORK COMPANIES INC.
 
@@ -7112,8 +6576,6 @@ The US Treasury issued several proposed regulations supplementing the Tax Act in
 
 Accounting for the income tax effects of the Tax Act requires significant judgments and estimates in the interpretation and calculation of the provisions of the Tax Act. Due to the timing of the enactment and the complexity involved in applying the provisions of the Tax Act, we made reasonable estimates of the effects of the Tax Act in our financial statements for the year ended December 31, 2017, as permitted under Staff Accounting Bulletin No. 118, Income Tax Accounting Implications of the Tax Cuts and Jobs Act, which was also included in ASU No. 2018-05, Income Taxes (Topic 740), Amendments to SEC Paragraphs Pursuant to SEC Staff Accounting Bulletin No. 118 ('SAB 118'). As a result of the Tax Act, the Company recorded a U.S. deferred tax benefit of $7.0 million for the year ended December 31, 2017. The U.S. deferred tax benefit consisted of a $3.2 million deferred tax benefit related to the
 
-F-42
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -7138,8 +6600,6 @@ Table of Contents
 | U.S.                      | $ (331,657)   $                                        | (737,941)   $             | (1,162,229)               |
 | Foreign                   | (98,017)                                               | (201,280)                 | (766,040)                 |
 | Total pre-tax income loss | $      (429,674)    $      (939,221)    $  (1,928,269) |                           |                           |
-
-F-43
 
 ## WEWORK COMPANIES INC.
 
@@ -7179,8 +6639,6 @@ The Company's effective income tax rate differed from the U.S. Federal statutory
 | Effect of U.S. tax law changes                                                      | -                         | 149,096                   | -                         |
 | Valuation allowance                                                                 | 122,964                   | 73,351                    | 372,118                   |
 | Income tax provision (benefit)                                                      | $ 16     $                | (5,727)    $              | (850)                     |
-
-F-44
 
 ## WEWORK COMPANIES INC.
 
@@ -7222,8 +6680,6 @@ As of December 31, 2018, the Company had U.S. federal income tax net operating l
 
 Certain of these federal, state and foreign net operating loss carryforwards may be subject to Internal Revenue Code Section 382 or similar provisions, which impose limitations on their utilization amounts.
 
-F-45
-
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
 
 ## WEWORK COMPANIES INC. DECEMBER 31, 2018
@@ -7254,8 +6710,6 @@ Table of Contents
 | Acquisition            | -                             | -                          | -                             | -                          |
 | Junior                 | 2                             | 1,300                      | 2                             | 1,300                      |
 | Total                  |                               | 136,902     $    1,678,301 |                               | 170,301     $    3,405,435 |
-
-F-46
 
 ## WEWORK COMPANIES INC.
 
@@ -7290,8 +6744,6 @@ The Company recorded the $94.6 million fair market value of the Tranche Right fo
 
 During the fourth quarter of 2017, the investor and the Company closed a third tranche of Series G Financing. The agreement allowed the investor to purchase an additional 15.5 million shares of Series G Preferred Stock at a purchase price below the fair market value per share. This was considered a non-arm's-length transaction as the investor is a significant shareholder of the Company. The third tranche of Series G Financing closed on October 25,
 
-F-47
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS DECEMBER 31, 2018
@@ -7309,8 +6761,6 @@ The Series A, B, C, D-1, D-2, E, F and G Preferred Stock are referred to as the 
 Conversion -The Senior Preferred Stock and Acquisition Preferred Stock are convertible, at the option of the holder thereof, at any time and from time to time, and without the payment of additional consideration by the holder thereof, into such number of fully paid and nonassessable shares of Class A Common Stock as is determined by dividing the original issue price for such series of preferred stock by the conversion price for such series of preferred stock in effect at the time of conversion. The conversion price for each series of Senior Preferred Stock and Acquisition Preferred Stock was initially equal to the original issue price for such series of Senior Preferred Stock or Acquisition Preferred Stock, respectively, subject to adjustment as provided in the Company's restated certificate of incorporation. As of December 31, 2018, all shares of Senior Preferred Stock and Acquisition Preferred Stock are convertible into shares of Class A Common Stock on a one-to-one basis and all shares of Junior Preferred Stock are convertible into shares of Class B Common Stock on a one-to-one basis.
 
 Upon either (a) the closing of the sale of shares of Class A Common Stock to the public in a firm commitment underwritten public offering pursuant to an effective registration statement under the Securities Act of 1933, as amended, resulting in at least $250.0 million of gross proceeds to the Company (a 'Qualifying IPO'), or (b) the date and time, or the occurrence of an event, specified by vote or written consent of the holders of at least a majority of the then outstanding shares of Senior Preferred Stock (voting together as a single class on an as converted to common stock basis), all outstanding shares of preferred stock of the Company will automatically be converted into shares of Class A Common Stock, at the then-effective conversion rate for such series of preferred stock (subject to certain additional consent rights in favor of holders of each of the Series C Preferred Stock, Series D-1 and D-2 Preferred Stock, Series E Preferred Stock, Series F Preferred Stock, Series G Preferred Stock and Acquisition Preferred Stock), and such shares may not be reissued by the Company. For purposes of this conversion, each share of Junior Preferred Stock will convert into the number of shares of Class B Common Stock equal to the original issue price of the Junior Preferred Stock divided by the price per share of common stock issued in connection with a Qualifying IPO.
-
-F-48
 
 ## Table of Contents
 
@@ -7331,8 +6781,6 @@ The holders of the shares of Series A Preferred Stock and Series F Preferred Sto
 Dividends -Dividends on the Senior Preferred Stock are noncumulative and are payable when and if declared by the Company's Board of Directors, and prior and in preference to any declaration or payment of dividends on any other series or class of capital stock. After dividends in the full preferential amount are paid to the holders of Senior Preferred Stock, any additional dividends declared by the Company's Board of Directors shall be declared ratably among all holders of Common Stock, Senior Preferred Stock and Acquisition Preferred Stock, pro rata based on the number of shares held by each holder on an as converted basis. The holders of Junior Preferred Stock are not entitled to receive any dividends.
 
 Anti Dilution --The conversion ratio for the Senior Preferred Stock is adjusted on a broad weighted-average basis in the event of an issuance (or deemed issuance) below the applicable Senior Preferred Stock price, as adjusted .
-
-F-49
 
 ## WEWORK COMPANIES INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS DECEMBER 31, 2018
 
@@ -7362,8 +6810,6 @@ Table of Contents
 | Class A Common Stock | 250,000   $        |                  | 0.001    February 8, 2026 |
 |                      | 256,128            |                  |                           |
 
-F-50
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS DECEMBER 31, 2018
@@ -7383,8 +6829,6 @@ Common Stock Repurchase -In November 2018, the Company's board of directors appr
 Nonrecourse Stockholder Loans -On May 30, 2013, the Company issued Stockholder Loans (the '2013 Stockholder Loans') totaling $10.4 million maturing on May 30, 2016, with interest due at a rate of 0.2% per annum. The 2013 Stockholder Loans were collateralized with an aggregate of 14,559,510 shares of the Company's common stock owned by the borrowers (the '2013 Collateral Shares'). The 2013 Collateral Shares were fully vested shares received by the borrowers prior to the transaction in exchange for services previously rendered to the Company.
 
 The 2013 Stockholder Loans also provided the Company the option to purchase 5,599,845 of the 2013 Collateral Shares for $1.85 per share ('Purchased Call Option'), subject to the terms and conditions of the loan agreements. In May 2016 the Company purchased and retired the 5,599,845 shares and settled the 2013 Stockholder Loans by exercising its Purchased Call Option. As a result, the liability component related to the Purchase Call Option was settled through an increase to additional paid in capital in the amount of $6.4 million in May 2016.
-
-F-51
 
 ## WEWORK COMPANIES INC.
 
@@ -7419,8 +6863,6 @@ Table of Contents
 
 The weighted-average grant date fair value of options granted during the years ended December 31, 2016, 2017 and 2018 were $7.80, $10.31 and $11.51, respectively.
 
-F-52
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -7450,8 +6892,6 @@ Early Exercise of Stock Options -The Company allows certain employees and direct
 
 During 2014, certain individuals early exercised stock options prior to vesting; however, in lieu of the cash consideration required to exercise the stock options, these individuals each provided a 1.9% interest bearing recourse note, for an aggregate of $2.5 million, $2.7 million and $2.7 million as of December 31, 2016, 2017 and 2018, respectively. As a result of the early exercises, the individuals received shares of restricted Class B Common Stock which will vest over a specified period of time (which period of time is consistent with the original vesting schedule of the stock options grant). The restricted Class B Common Stock is subject to repurchase at the original exercise price by the Company over the original vesting term. The recourse notes mature in November 2023 and are included as a component of equity.
 
-F-53
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -7475,8 +6915,6 @@ Table of Contents
 | Vested  (2) (3)                  | (792,036)      | 20.65                               |
 | Forfeited/canceled               | (215,517)      | 26.45                               |
 | Unvested, December 31, 2018  (4) |                | 4,841,182    $            23.42     |
-
-F-54
 
 ## WEWORK COMPANIES INC.
 
@@ -7511,8 +6949,6 @@ Stock options granted in 2016 to non-employees included an option to purchase 50
 
 The tables above do not include any grants of restricted shares in the Company's consolidated subsidiaries. In April 2017, one of the Company's consolidated subsidiaries, ChinaCo, granted a shareholder, in connection with services to be provided by a consultant affiliated with such shareholder, the right to subscribe to 10,000,000 of ChinaCo's Class A ordinary shares which will vest annually over a five year period and had a grant date value of $3.51 per ChinaCo Class A ordinary share. The consultant is also a member of the Company's and ChinaCo's board of
 
-F-55
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC.
@@ -7532,8 +6968,6 @@ Our participating securities includes Series A, B, C, D-1, D-2, E, F, G and Acqu
 Basic net loss per share is computed by dividing net loss attributable to WeWork Companies Inc. attributable to its Class A common and Class B common stockholders by the weighted-average number of shares of our Class A common stock and Class B common stock outstanding during the period.
 
 For the computation of diluted net loss per share, net loss per share attributable to common stockholders for basic net loss per share is adjusted by the effect of dilutive securities, including awards under our equity compensation plans. Diluted net loss per share attributable to common stockholders is computed by dividing the resulting net loss attributable to WeWork Companies Inc. attributable to its Class A common and Class B common stockholders by the weighted-average number of fully diluted common shares outstanding. In the years ended December 31, 2016, 2017 and 2018, our potential dilutive shares, such as stock options, restricted stock, RSUs, warrants, convertible notes, and shares of convertible Series A, B, C, D-1, D-2, E, F, G, Acquisition and Junior Preferred Stock were not included in the computation of diluted net loss per share as the effect of including these shares in the computation would have been anti-dilutive.
-
-F-56
 
 ## WEWORK COMPANIES INC.
 
@@ -7580,8 +7014,6 @@ The unaudited pro forma basic and diluted net loss per share attributable to Cla
                                                                                                                                                                                                                                                                                                                                                                         - · remove the effect of interest expense and amortization of debt discount for the Convertible Note;
                                                                                                                                                                                                                                                                                                                                                                         - · remove gains or losses resulting from the remeasurement of the embedded derivative related to the Convertible Note;
 
-F-57
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -7619,8 +7051,6 @@ Table of Contents
 | Pro forma net loss per share attributable to Class A and Class B common stockholders:                                                            |                                |
 | Basic                                                                                                                                            | $ (4.41)                       |
 | Diluted                                                                                                                                          | $ (4.41)                       |
-
-F-58
 
 ## WEWORK COMPANIES INC.
 
@@ -7668,8 +7098,6 @@ The Company's assets subject to capital leases had a gross carrying value of $44
 
 Credit Agreement -In November 2015, the Company amended and restated its credit facility to provide up to $650.0 million in revolving loans and letters of credit, subject to certain financial covenants. In August 2016, March 2017, November 2017, June 2018, and August 2018, the Company executed amendments to the credit agreement which amended certain of the financial and other covenants. In November 2017 and as amended in August 2018, the Company entered into a new letter of credit facility pursuant to the letter of credit reimbursement agreement, that provides for an additional $500.0 million in availability of standby letters of credit. The revolving loans and letters of credit under the credit agreement and the letter of credit reimbursement agreement will terminate in November 2020.
 
-F-59
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS DECEMBER 31, 2018
@@ -7685,8 +7113,6 @@ In addition, the Company has also entered into various other letter of credit ar
 Construction Commitments -In the ordinary course of its business, the Company enters into certain agreements to purchase construction and related contracting services related to the build-outs of the Company's operating locations that are enforceable and legally binding, and that specify all significant terms and the approximate timing of the purchase transaction. The Company's purchase orders are based on current needs and are fulfilled by the vendors as needed in accordance with the Company's construction schedule. As of December 31, 2017 and 2018, the Company had issued approximately $89.1 million, and $270.3 million, respectively, in such outstanding construction commitments.
 
 Legal Matters -The Company is, from time-to-time, party to litigation arising in the normal course of its business or litigation that is adequately covered by insurance. In the normal course of business, the Company also actively monitors violations of our valuable trademark rights and pursues legal action as determined appropriate. Management believes that none of these actions will have a material effect on the consolidated financial position, results of operations or cash flows of the Company.
-
-F-60
 
 ## WEWORK COMPANIES INC.
 
@@ -7723,8 +7149,6 @@ The Company has entered into a capital lease agreement for space in a building p
 
 As of December 31, 2017, the Company held a 5% investment in the landlord entity at the Company's leased location at 210 North Green in Chicago, Illinois. In January 2018, the Company received $2.2 million for the sale of this investment and it is no longer included in the balance of equity method and other investments as of December 31, 2018. The $1.5 million gain on sale has been deferred as a result of the Company's continuing involvement through its
 
-F-61
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS DECEMBER 31, 2018
@@ -7744,8 +7168,6 @@ During the year ended December 31, 2018, the Company recognized expenses of $0.9
 During the years ended December 31, 2017 and 2018, the Company recognized expenses of $0.2 million and $0.3 million, respectively, for services provided by a vendor in which the Company has an equity method investment. During the year ended December 31, 2016, the Company did not recognize any expenses related to services provided by this vendor.
 
 During the year ended December 31, 2018, the Company recognized expenses totaling $0.2 million, in connection with promotional services performed by an immediate family member of a principal stockholder, executive officer and director of the Company for the Creator Awards ceremonies. During the years ended December 31, 2016 and 2017, the Company did not recognize any expenses related to services performed by this individual. In addition, during the years ended December 31, 2016, 2017 and 2018, the Company recognized expenses totaling $0.1 million, $0.2 million and $0.2 million, respectively, for an employee of the Company, whom is an immediate family member of a principal stockholder, executive officer and director of the Company.
-
-F-62
 
 ## WEWORK COMPANIES INC.
 
@@ -7791,8 +7213,6 @@ The Company has evaluated subsequent events from December 31, 2018 through April
 
 In January 2019, the Company and SBWW Cayman agreed to modify certain provisions of the Convertible Note and the 2018 warrant. The Convertible Note, as amended ('Amended Convertible Note'), will automatically convert to the Company's capital stock at the same time as the 2018 warrant, as amended (the 'amended 2018 warrant'), which, assuming no other exercise events prior to December 31, 2019, will now be automatically exercised on December 31,
 
-F-63
-
 ## Table of Contents
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -7815,8 +7235,6 @@ In February 2019, the Board of Directors of the Company designated and authorize
 
 In March 2019, the Company's board of directors approved, and the Company issued, option awards to members of the Company's senior management and other employees in respect of 48,510,093 shares of the Company's Class B common stock. In March 2019, the Company also amended its Certificate of Incorporation to increase the number of authorized shares of the Company's common stock in connection with these option grants. The options have a per-share exercise price equal to the fair market value of the Company's Class B common stock on the date of grant. A substantial portion of the grant has performance-based vesting conditions, including vesting conditions tied to a sale of the Company, an initial public offering and significant increases in market capitalization, and sales of the Company's outstanding preferred stock at various valuations.
 
-F-64
-
 ## Table of Contents
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
@@ -7832,8 +7250,6 @@ In April 2019, the Board of Directors designated 1,100,000 shares of Acquisition
 In April 2019, the Company entered into an agreement to acquire Managed by Q Inc., an office management platform, for a total contract price of $220.0 million to be paid in $100.0 million in cash and the remaining in Series AP-3 Acquisition Preferred Stock.
 
 Subsequent to December 31, 2018, the Company has continued to enter into new lease commitments and letters of credit in connection with continued domestic and international expansion occurring in the ordinary course of business.
-
-F-65
 
 ## WEWORK COMPANIES INC.
 
@@ -7879,8 +7295,6 @@ Table of Contents
 | Convertible preferred stock; 233,301,854 shares authorized as of June 30, 2019, and 171,757,571 and 172,866,387 shares issued and outstanding as of December 31, 2018 and June 30, 2019, respectively, and no shares authorized, issued and outstanding, pro forma | 3,498,696           | 3,591,086                                             | -                         |
 | Redeemable noncontrolling interests                                                                                                                                                                                                                                | 1,320,637           | 1,113,807                                             | 1,113,807                 |
 
-F-66
-
 ## WEWORK COMPANIES INC.
 
 ## CONDENSED CONSOLIDATED BALANCE SHEETS-(CONTINUED)
@@ -7904,8 +7318,6 @@ Table of Contents
 | Total liabilities and equity                                                                                                                                                                                                                                               | $                   |                 | 8,644,916     $27,047,235     $27,047,235 |
 
 The accompanying notes are an integral part of these condensed consolidated financial statements.
-
-F-67
 
 ## WEWORK COMPANIES INC.
 
@@ -7954,8 +7366,6 @@ Table of Contents
 
 The accompanying notes are an integral part of these condensed consolidated financial statements.
 
-F-68
-
 ## WEWORK COMPANIES INC.
 
 ## CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
@@ -7977,8 +7387,6 @@ Table of Contents
 | Comprehensive loss attributable to WeWork Companies Inc.                                          | $ (612,691)                 | $ (687,142)                 |
 
 The accompanying notes are an integral part of these condensed consolidated financial statements.
-
-F-69
 
 ## WEWORK COMPANIES INC.
 
@@ -8015,8 +7423,6 @@ Table of Contents
 | Balance-June 30, 2018                                  | 30,580,276    $                                        |                                                        | 31    132,323,743    $                                 |                                                        | 132    $    573,621    $                               | 6,613    $                                             | (2,328,623)    $                                       |                          | (2,385)   $    (1,750,611 |
 
 The accompanying notes are an integral part of these condensed consolidated financial statements.
-
-F-70
 
 ## WEWORK COMPANIES INC.
 
@@ -8067,8 +7473,6 @@ Table of Contents
 
 The accompanying notes are an integral part of these condensed consolidated financial statements.
 
-F-71
-
 ## WEWORK COMPANIES INC.
 
 ## CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
@@ -8115,8 +7519,6 @@ Table of Contents
 | Loans to employees and related parties                                          | (5,150)                     | (2,820)                     |
 | Cash used for acquisitions, net of cash acquired                                | (128,017)                   | (966,911)                   |
 | Net cash used in investing activities                                           | (888,173)                   | (2,362,773)                 |
-
-F-72
 
 ## WEWORK COMPANIES INC.
 
@@ -8169,8 +7571,6 @@ Table of Contents
 | Common share repurchase and retirement                                                                                                                   | 161                         | -                           |
 | Non-cash capitalized interest                                                                                                                            | -                           | 12,826                      |
 
-F-73
-
 ## WEWORK COMPANIES INC.
 
 ## CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS-(CONTINUED)
@@ -8201,8 +7601,6 @@ The following table provides a reconciliation of cash, cash equivalents, and res
 
 The accompanying notes are an integral part of these condensed consolidated financial statements.
 
-F-74
-
 ## Table of Contents
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -8228,8 +7626,6 @@ Basis of Quarterly Presentation -The accompanying unaudited condensed consolidat
 Principles of Consolidation -The accompanying unaudited condensed consolidated financial statements include the accounts of the Company, its majority-owned subsidiaries and variable interest entities ('VIEs') for which the Company is the primary beneficiary. All intercompany accounts and transactions have been eliminated in consolidation.
 
 The Company is required to consolidate entities deemed to be VIEs in which the Company is the primary beneficiary. The Company is considered to be the primary beneficiary of a VIE when the Company has (i) the power to direct the
-
-F-75
 
 ## Table of Contents
 
@@ -8259,10 +7655,6 @@ Reclassifications -Certain reclassifications have been made to prior years' fina
 
 Restricted Cash -Restricted cash consists primarily of amounts provided to banks to secure letters of credit issued under the Company's amended and restated credit agreements as required by various leases.
 
-F-76
-
-Table of Contents
-
 ## WEWORK COMPANIES INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
 
 ## JUNE 30, 2019 (UNAUDITED)
@@ -8278,8 +7670,6 @@ When the fair value of an available-for-sale security is less than its amortized
 Stock Based Compensation --Stock-based compensation expense attributable to equity awards granted to employees and non-employees is measured at the grant date based on the fair value of the award. For employee awards, the expense is recognized on a straight-line basis over the requisite service period for awards that actually vest, which is generally the period from the grant date to the end of the vesting period. For non-employee awards, the expense for awards that actually vest is recognized based on when the goods or services are provided.
 
 The Company estimates the fair value of stock option awards granted using the Black-Scholes-Merton option-pricing formula (the 'Black-Scholes Model') and a single option award approach. This model requires various significant judgmental assumptions in order to derive a final fair value determination for each type of award, including the expected term, expected volatility, expected dividend yield, risk-free interest rate, and fair value of the Company's stock on the date of grant. The expected option term for options granted is calculated using the 'simplified method'. This election was made based on the lack of sufficient historical exercise data to provide a reasonable basis upon which to
-
-F-77
 
 ## Table of Contents
 
@@ -8305,8 +7695,6 @@ Level 2 -Inputs that reflect quoted prices for identical assets or liabilities i
 
 Level 3 -Unobservable inputs that the Company incorporates in its valuation techniques used to determine fair value. These assumptions are required to be consistent with market participant assumptions that are reasonably available.
 
-F-78
-
 ## Table of Contents
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -8329,8 +7717,6 @@ In June 2018, the Financial Accounting Standards Board ('FASB') issued ASU No. 2
 
 In November 2016, the FASB issued ASU No. 2016-18, Statement of Cash Flows (Topic 230): Restricted Cash (a consensus of the Emerging Issues Task Force) ('ASU 2016-18') to add and clarify guidance on the classification and
 
-F-79
-
 ## Table of Contents
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -8342,8 +7728,6 @@ F-79
 presentation of restricted cash and restricted cash equivalents in the statement of cash flows. ASU 2016-18 requires that restricted cash and restricted cash equivalents be included within cash and cash equivalents when reconciling the beginning-of-period and end-of-period totals disclosed in the statement of cash flows. Transfers between restricted and unrestricted cash accounts are not reported within the statement of cash flows. Only restricted cash receipts or payments from restricted cash directly to third parties are reported in the statement of cash flows as either an operating, investing, or financing activity, depending on the nature of the transaction. Furthermore, an additional reconciliation is required to reconcile cash, cash equivalents, and restricted cash reported within the condensed consolidated balance sheets to sum to the total shown in the condensed consolidated statements of cash flows. The Company has historically disclosed the restricted cash separately on its consolidated balance sheets. ASU 2016-18 is effective for public business entities for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years and is effective for all other entities for fiscal years beginning after December 15, 2018, and interim periods within fiscal years beginning after December 15, 2019, with early adoption permitted. The Company retrospectively adopted ASU 2016-18 in connection with the preparation of our annual consolidated financial statements for the year ended December 31, 2018 and accordingly has also adjusted the presentation of cash flows for the six months ended June 30, 2018 as presented in the accompanying condensed consolidated statement of cash flows.
 
 In August 2016, the FASB issued ASU No. 2016-15, Statement of Cash Flows (Topic 230), Classification of Certain Cash Receipts and Cash Payments ('ASU 2016-15') , which updated the guidance on how certain cash receipts and cash payments should be presented and classified within the statement of cash flows. The guidance was effective for public business entities for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years and is effective for all other entities for fiscal years beginning after December 15, 2018, and interim periods within fiscal years beginning after December 15, 2019, with early adoption permitted. The standard requires retrospective adoption. We elected to early adopt ASU 2016-15 in connection with the preparation of our annual consolidated financial statements for the year ended December 31, 2018 and accordingly have also adjusted the presentation of cash flows for the six months ended June 30, 2018 as presented in the accompanying condensed consolidated statement of cash flows. The adoption of ASU 2016-15 changed how we have historically classified cash paid related to contingent consideration and holdbacks in connection with acquisitions depending on the timing of when the payments are made. Prior to the adoption of ASU 2016-15, cash paid related to acquisitions was entirely classified as cash outflows from investing activities, regardless of the timing of payment and upon the adoption of ASU 2016-15, cash paid soon after the close of the acquisition is classified as a cash outflow from investing activities, while cash payments made after that time are classified as cash outflows from either financing or operating activities, depending on whether the amount paid is in excess of the contingent consideration recognized during the measurement period. During the six months ended June 30, 2018, the Company reclassified $2.8 million in payments relating to acquisition holdbacks in connection with the adoption of ASU 2016-15.
-
-F-80
 
 ## WEWORK COMPANIES INC.
 
@@ -8379,8 +7763,6 @@ Upon adoption, effective as of January 1, 2019, the Company recorded a lease rig
 
 Upon adoption, the Company elected to utilize the package of practical expedients available under ASC 842, which permit the Company to not reassess the lease identification, lease classification and initial direct costs associated with
 
-F-81
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -8396,8 +7778,6 @@ The Company has also made an accounting policy election to exempt leases with an
 The Company has certain leases subject to index adjustments such as relating to inflation rates or fair market rate adjustments. Historically, the Company has calculated and disclosed future minimum rental payments for these leases using the relevant index as of the end of the reporting period. As part of the transition, the Company used the index in effect at transition in its disclosure of future lease payments and its calculation of the lease liability. For leases entered into after January 1, 2019, the index at lease commencement date will be used to calculate the lease liability until lease modification.
 
 In connection with the adoption of ASC 842 and the change in the definition of initial direct costs, during the six months ended June 30, 2019, the Company incurred a total expense of $13.8 million, included in growth and new market development expenses on the condensed consolidated statement of operations, relating to legal costs which previously would have been capitalized in accordance with ASC 840.
-
-F-82
 
 ## WEWORK COMPANIES INC.
 
@@ -8433,8 +7813,6 @@ In May 2014, the FASB issued ASU 2014-09, Revenue from Contracts with Customers 
 
 As of January 1, 2019, the Company adopted ASC 606 and the related amendments using the modified retrospective transition approach applied to contracts which were not completed as of the date of adoption. The cumulative impact of adopting ASC 606 was a net decrease to the January 1, 2019 opening balance of accumulated deficit of $1.7 million. The impact was primarily related to (i) $1.4 million of additional revenue reflected in prior periods from the sale of a software license that was previously deferred under ASC 605 and (ii) $0.3 million relating to the recognition of previously deferred gains associated with prior failed sale transactions. The adoption of the new standard did not have a material impact on the Company's condensed consolidated financial position, results of operations or cash flows for
 
-F-83
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -8469,8 +7847,6 @@ In June 2016, the FASB issued ASU No. 2016-13, Financial Instruments-Credit Loss
 
 As of January 1, 2019, the Company adopted ASC 606 and the related amendments using the modified retrospective transition approach applied to those contracts which were not completed as of January 1, 2019. The results for
 
-F-84
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC.
@@ -8495,8 +7871,6 @@ Other Revenue -Other revenue includes income generated from sponsorships and tic
 
 Other revenue also includes revenue earned for design and development services performed, which are recognized as revenue over time based on a percentage of contract costs incurred to date compared to the total estimated contract cost. The Company identifies only the specific costs incurred which contribute to the Company's progress in satisfying
 
-F-85
-
 ## Table of Contents
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -8516,8 +7890,6 @@ Deferred Revenue -Deferred revenue represents collections from customers for whi
 Assets Recognized from the Costs to Obtain a Contract with a Customer -Incremental costs (e.g., member referral fees) of obtaining a contract are capitalized and amortized into expense on a straight-line basis over the underlying contract period if the Company expects to recover those costs. The incremental costs of obtaining a contract include only those costs the Company incurs to obtain a contract that it would not have incurred if the contract had not been obtained. The costs associated with significant member referral fees are amortized over the underlying contract period, even if the contract term is less than twelve months. As of December 31, 2018 and June 30, 2019, the Company had $49.7 million and $59.4 million, respectively, of prepaid member referral fees included in other current assets and had $6.2 million and $18.5 million, respectively, of prepaid member referral fees included in other assets on the accompanying condensed consolidated balance sheets. During the six months ended June 30, 2019, the Company recognized $46.9 million of amortization of capitalized contract costs. The amortization of these costs is included as a component of sales and marketing expenses in the accompanying condensed consolidated statements of operations.
 
 Taxes collected from customers and remitted to governmental authorities are presented on a net basis.
-
-F-86
 
 ## WEWORK COMPANIES INC.
 
@@ -8560,8 +7932,6 @@ The following table presents the transaction price allocated to the Company's re
 | 2024 and beyond          | 148,156           | 10,078            | 158,234                                |
 | Total                    |                   |                   | $3,260,276     $691,627     $3,951,903 |
 
-F-87
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -8597,8 +7967,6 @@ The Company's leases do not provide a readily determinable implicit discount rat
 
 Non-cancelable lease terms for most of the Company's real estate leases typically range between 10-20 years and may also provide for renewal options. Renewal options are typically solely at the Company's discretion and are only included within the lease obligation and right-of-use asset when the Company is reasonably certain that the renewal options would be exercised.
 
-F-88
-
 ## Table of Contents
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -8618,8 +7986,6 @@ Operating Lease Cost -In addition to base rent, a large majority of the Company'
 For leases that qualify as operating leases, the Company recognizes the associated fixed lease cost on a straight-line basis over the term of the lease beginning on the date of initial possession, which is generally when the Company enters the leased premises and begins to make improvements in preparation for its intended use. Cash payments made to landlords, reduce the Company's total lease obligation, while the accretion of the lease obligation using the effective interest rate method, increases the liability over time. The difference between the total lease cost expensed on a straight-line basis and the accretion of the lease obligation over time using the effective interest rate method is recognized as a reduction to the lease right-of-use asset, net on the accompanying balance sheet.
 
 Variable lease cost includes any rent contingent payments based on percentages of revenue or other profitability metrics as defined in the lease, common area maintenance, the Company's share of real estate taxes, or similar charges that are variable in nature. Variable lease costs are not included as lease payments in the calculation of the lease obligation and are included in variable lease costs as incurred and when probable.
-
-F-89
 
 ## WEWORK COMPANIES INC.
 
@@ -8655,8 +8021,6 @@ Table of Contents
 | Amortization of lease incentives                             | (38,891)                                      | (1,476)                                       | -                                             | (265)                                         | -                                             | (40,632)        |
 | Total real estate operating lease cost                       | $416,016     $                                | 153,291     $                                 | 1,840     $                                   | 5,998     $                                   |                                               | 84     $577,229 |
 
-F-90
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -8688,8 +8052,6 @@ The Company's total operating lease costs include both fixed and variable compon
 | Variable real estate lease costs         | $141,560     $                                | 14,697     $                                  | 105     $                                     | 1,736     $                                   |                                               | 53     $158,151                               |
 | Variable equipment and other lease costs | 479                                           | -                                             | -                                             | -                                             | -                                             | 479                                           |
 | Total variable lease costs               | $142,039     $                                | 14,697     $                                  | 105     $                                     | 1,736     $                                   |                                               | 53     $158,630                               |
-
-F-91
 
 ## WEWORK COMPANIES INC.
 
@@ -8727,8 +8089,6 @@ The below table presents the lease related liabilities recorded on the accompany
 | Capital lease obligations                  | Long-term lease obligations | 50,785              |
 | Total non-current liabilities              |                             | 2,882,532           |
 | Total lease obligations                    |                             | $    2,955,524      |
-
-F-92
 
 ## WEWORK COMPANIES INC.
 
@@ -8775,8 +8135,6 @@ The Company's aggregate annual lease obligations at June 30, 2019 are as follows
 | Present value of future lease payments                    | 52,134           | 18,400,609                                          | 18,452,743   |
 | Less current portion of lease obligation                  | (3,956)          | (531,990)                                           | (535,946)    |
 | Total long-term lease obligation                          |                  | $    48,178     $    17,868,619     $    17,916,797 |              |
-
-F-93
 
 ## WEWORK COMPANIES INC.
 
@@ -8825,8 +8183,6 @@ Property and equipment, net, consists of the following:
 
 Depreciation expense for the six months ended June 30, 2018 and 2019 was $125.4 million and $234.1 million, respectively.
 
-F-94
-
 ## Table of Contents
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -8847,8 +8203,6 @@ During 2018, the Company launched a fund (the 'Creator Fund') that will make inv
 
 During 2018, the Company formed a 50% owned and consolidated joint venture entity ('WeWork Waller Creek') to facilitate a 5% unconsolidated investment in a joint venture that acquired a parcel of land and development project in Texas ('Waller Creek'). See Note 11 for additional details. The Company is the managing member of WeWork Waller Creek. As of December 31, 2018 the Company and the other WeWork Waller Creek investor had each funded $3.2 million related to the closing of the land purchase. During the six months ended June 30, 2019, the Company admitted an additional investor into the WeWork Waller Creek entities for $3.3 million. The Company's effective ownership interest in the WeWork Waller Creek consolidated entity was reduced from 50% to 33% upon the entrance of the new member. The cash received was used by the Company to acquire an additional 2.5% interest in the unconsolidated Waller Creek joint venture. See Note 11 for additional details. The portion of the consolidated equity attributable to the interest of WeWork Waller Creek's other investors is reflected as a redeemable noncontrolling
 
-F-95
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC.
@@ -8868,8 +8222,6 @@ Pursuant to the terms of the shareholders' agreement of ChinaCo, as long as cert
 ## JapanCo
 
 During 2017, a consolidated subsidiary of the Company ('JapanCo') entered into an agreement with investors for the sale of a 50% membership interest in JapanCo for an aggregate contribution of $500.0 million which will be funded over a period of time. As of December 31, 2018, JapanCo had received contributions totaling $300.0 million. Pursuant to the terms of the agreement an additional $100.0 million is required to be contributed in each of 2019 and 2020. The portion of consolidated equity attributable to the outside investors' interests in JapanCo are reflected as redeemable noncontrolling interests, within the mezzanine section of the accompanying condensed consolidated balance sheets as of December 31, 2018 and June 30, 2019. As long as the investors remain shareholders of JapanCo, JapanCo will be the exclusive operator of the Company's WeWork branded co-working businesses in Japan. After July 13, 2024 and, prior to that date, in the event of default on the contributions to be made, the Company may elect to purchase, at fair value, all JapanCo membership interests held, other than any interests issued in connection with an equity incentive plan. The Company may elect to pay the buyout consideration in either cash, WeWork shares, or a combination thereof.
-
-F-96
 
 ## WEWORK COMPANIES INC.
 
@@ -8901,8 +8253,6 @@ Table of Contents
 | Total liabilities                           | 597,685             | 83                  | 3,801,770       | 623,274         |
 | Redeemable stock issued by VIEs             | 1,599,157           | 3,160               | 1,599,157       | 6,446           |
 | Total net assets  (3)                       | (173,513)           | 43,306              | (238,505)       | 333,717         |
-
-F-97
 
 ## WEWORK COMPANIES INC.
 
@@ -8936,8 +8286,6 @@ In May 2019, the Company acquired 100% of the equity of seven entities collectiv
 In April 2019, the Company acquired 100% of the equity of Managed by Q for total consideration of $189.7 million. The total consideration consisted of $107.5 million in cash, $0.2 million in Class A Common Stock options, and $82.0 million in Series AP-3 Preferred Stock. At closing, $18.7 million of cash consideration was held back and included in other current liabilities as of June 30, 2019. Managed by Q was founded in 2013 and offers a workplace management platform that specializes in facilities management services whereby its clients can discover, book, manage and pay for a wide range of services through an online dashboard to keep their office spaces running efficiently.
 
 During 2019, the Company acquired 100% of the equity of another company for total cash consideration of $5.7 million. At closing $0.6 million of the cash proceeds were held back and are included in other current liabilities as of June 30, 2019.
-
-F-98
 
 ## WEWORK COMPANIES INC.
 
@@ -8975,10 +8323,6 @@ PacificCo acquired 100% of the equity of NH Vietnam for $14.4 million and WeWork
 
 ChinaCo acquired 100% of the equity of NH Holdings for total consideration of $449.7 million, consisting of $177.0 million in cash and $272.7 million in ChinaCo Class A Ordinary Shares and Class A Common Stock of the Company. At closing, the Company transferred $146.3 million in cash and $179.7 million in ChinaCo Class A Ordinary Shares. The remaining consideration included a holdback of $15.9 million payable in cash and contingent consideration consisting of $14.7 million payable in cash and $93.1 million payable in a combination of ChinaCo Class A Ordinary Shares and Class A Common Stock of the Company. ChinaCo will reimburse the Company for any shares of the Company issued on ChinaCo's behalf in connection with the acquisition. The Company determined the fair value of the contingent consideration, based on the likelihood of reaching set milestones. Each period, the contingent consideration will be remeasured to fair market value through the statement of operations. During the six months ended June 30, 2019, the Company recorded a gain of $44.1 million related to the remeasurement of the
 
-F-99
-
-Table of Contents
-
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
 
 ## WEWORK COMPANIES INC. JUNE 30, 2019 (UNAUDITED)
@@ -8994,8 +8338,6 @@ All 2019 and 2018 acquisitions, other than the real estate asset investments des
 During the six months ended June 30, 2018, the Company released acquisition holdbacks of $2.8 million of cash, $0.6 million of common equity and $22.7 million of preferred stock, representing 23,311 shares of Class A Common Stock, 23,249 shares of Series G Preferred Stock, and 331,514 shares of Series AP-1 Preferred Stock, relating to acquisitions following the satisfaction of requirements per the terms of the agreement. During the six months ended June 30, 2019, the Company released acquisition holdbacks of $0.5 million of cash, and $10.6 million of preferred stock and paid cash contingent consideration of $11.5 million relating to acquisitions following the satisfaction of requirements per the terms of the relevant acquisition agreements.
 
 During the six months ended June 30, 2018 and 2019, the Company incurred transaction costs relating to business combinations totaling $5.2 million and $6.9 million, respectively.
-
-F-100
 
 ## WEWORK COMPANIES INC.
 
@@ -9039,8 +8381,6 @@ Intangible assets, net consist of the following:
 
 Amortization expense of intangible assets was $11.0 million and $20.3 million for the six months ended June 30, 2018 and 2019, respectively.
 
-F-101
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -9081,8 +8421,6 @@ The Company's investments consists of the following:
 | Other                                      | Various                                      | 598                 | 2,603           | 2,754           | Various         |
 | Total equity method and other investments  | Total equity method and other investments    | $    218,435        | $    186,009    | $    180,897    |                 |
 
-F-102
-
 ## Table of Contents
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -9103,8 +8441,6 @@ As of June 30, 2019, the WPI Fund, The Wing, IndiaCo, ARK Master Fund and certai
 During the six months ended June 30, 2018 and 2019, the Company recorded approximately $0.9 million and $(2.6) million, respectively, for its share of income (loss) related to its equity method and other investments included in income (loss) from equity method and other investments in the condensed consolidated statement of operations.
 
 During the six months ended June 30, 2018 and 2019, the Company contributed a total of $58.0 million and $19.7 million, respectively, to its investments and received distributions on sale of its investments totaling $2.2 million for the six months ended June 30, 2018. There were no distributions received during the six months ended June 30, 2019. As of June 30, 2019 the Company had a total of $64.3 million in unfunded capital commitments to its investments; however, if requested, in each case, the Company may elect to contribute additional amounts in the future.
-
-F-103
 
 ## Note 12. Other Current Liabilities
 
@@ -9148,8 +8484,6 @@ Convertible related party liabilities, net consist of the following:
 
 Convertible Note -During 2018, the Company entered into an agreement for the issuance of a convertible promissory note (the 'Convertible Note') with SoftBank Group Corp. and in August 2018, the Company drew down on the full
 
-F-104
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -9178,10 +8512,6 @@ The Convertible Note's original and amended terms also contain embedded redempti
 
 The fair value measurements of the debt discount and the embedded redemption features are considered to be Level 3 fair value measurements in the fair value hierarchy as per ASC 820 , Fair Value Measurements , as they were determined using observable and unobservable inputs.
 
-F-105
-
-Table of Contents
-
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
 
 ## WEWORK COMPANIES INC. JUNE 30, 2019 (UNAUDITED)
@@ -9193,8 +8523,6 @@ Amended 2018 Warrant -On November 1, 2018, the Company entered into a warrant ag
 In January 2019, the Company and SBWW Cayman agreed to modify certain provisions of the 2018 Warrant (the 'Amended 2018 Warrant'). Under the terms of the Amended 2018 Warrant, the January 2019 payment amount from SBWW Cayman to the Company was not changed, the April 2019 payment was reduced from $1.5 billion to $1.0 billion, and the conversion date was changed from September 30, 2019 to December 31, 2019. The amendment also modified the conversion price per share to be a fixed conversion price of $110 under all settlement scenarios. In January 2019 and April 2019 the Company drew down on the Amended 2018 Warrant and received $1.5 billion and $1.0 billion in cash, respectively. Upon the draws, the Company reclassified a combined total of $68.8 million of the equity asset associated with the original fair market value of the related party instrument established upon entering into the arrangement in November 2018 as an increase to additional paid in capital and a reduction in the warrant liability. As of June 30, 2019, the Amended 2018 Warrant was valued at $1.9 billion. During the six months ended June 30, 2019, the Company recorded a gain totaling $486.2 million, resulting from changes in fair value of the related party instrument. The Amended 2018 Warrant is classified as a liability in accordance with ASC 480 , Distinguishing Liabilities from Equity ('ASC 480') , as the warrant embodies a potential cash settlement obligation to repurchase shares that is outside of the Company's control. In accordance with ASC 480, the warrant liability will be remeasured to fair value each reporting period, with changes recognized in the gain (loss) from change in fair value of financial instruments on the accompanying condensed consolidated statements of operations. The measurement of the Amended 2018 Warrant is considered to be a Level 3 fair value measurement, as it was determined using observable and unobservable inputs. The Amended 2018 Warrant was exercised in July 2019. See Note 25 for additional information.
 
 2019 Warrant -In conjunction with the Amended 2018 Warrant, the Company also entered into an additional warrant with SBWW Cayman, pursuant to which the Company agreed to issue shares of the Company's capital stock (the '2019 Warrant'). Under the terms of the 2019 Warrant, in exchange for the issuance of the Company's capital stock, SBWW Cayman will make a payment of $1.5 billion on April 3, 2020. The right of SBWW Cayman to receive shares of the Company's capital stock will be automatically exercised on April 3, 2020 at a per-share price of $110. During the six months ended June 30, 2019, the Company recognized an additional capital contribution of $219.7 million and an equal off-setting amount within additional paid-in capital representing the fair value of the 2019 Warrant and modification of the 2018 Warrant prior to being drawn. The measurement of the 2019 Warrant is considered to be a Level 3 fair value measurement, as it was determined using observable and unobservable inputs.
-
-F-106
 
 ## Note 14. Long-Term Debt, Net
 
@@ -9225,8 +8553,6 @@ Senior Notes - In April 2018, the Company issued $702 million in aggregate princ
 During the six months ended June 30, 2019, the Company repurchased $33.0 million aggregate principal amount of the Senior Notes for total consideration of $32.4 million. The Company recorded a gain of $0.3 million in connection with these repurchases, net of the write off of related unamortized debt issuance costs, which is included as a reduction to interest expense in the accompanying condensed consolidated statement of operations during the six months ended June 30, 2019.
 
 Upon the occurrence of certain change of control triggering events, the Company may be required to repurchase the Senior Notes at a price equal to 101% of their principal amount, plus accrued and unpaid interest through the date of repurchase. The Senior Notes contain certain restrictive covenants that limit the Company's ability to create certain
-
-F-107
 
 ## WEWORK COMPANIES INC.
 
@@ -9262,8 +8588,6 @@ During the six months ended June 30, 2019, the weighted average interest rate on
 
 Other Loans -As of June 30, 2019, the Company has various other loans (the 'Other Loans') with original principal amounts of $85.0 million and interest rates ranging from 2.5% to 6.2%. During the six months ended June 30, 2019, the Company recorded interest expense of $1.7 million, related to these Other Loans.
 
-F-108
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS JUNE 30, 2019
@@ -9283,8 +8607,6 @@ Table of Contents
 | 2023                     | 3,459      |
 | 2024 and beyond          | 709,812    |
 | Total minimum payments   | $1,378,677 |
-
-F-109
 
 ## WEWORK COMPANIES INC.
 
@@ -9325,8 +8647,6 @@ Table of Contents
 | Total liabilities measured at fair value                                                     | $                    |                 | -     $        -     $    1,962,980     $ | 1,962,980                |
 
 There were no transfers between Level 1 and Level 2 of the fair value hierarchy during the year ended December 31, 2018 or the six months ended June 30, 2019.
-
-F-110
 
 ## WEWORK COMPANIES INC.
 
@@ -9373,8 +8693,6 @@ Table of Contents
 | Foreign currency translation gains (losses) included in other comprehensive income | 315                                       | (7)                                      | -                                | -                                | 308                              |
 | Balance at end of period                                                           | $ 17,975    $                             |                                          | -     $                          | -     $1,945,005     $1,962,980  |                                  |
 
-F-111
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -9419,8 +8737,6 @@ Pre-opening location expenses consist of expenses incurred before a location ope
 | Other pre-opening location expenses           | 3,692                       | 9,696                       |
 | Total pre-opening location expenses           | $156,983                    | $255,133                    |
 
-F-112
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -9461,8 +8777,6 @@ During the year ended December 31, 2018, the Company issued a total of 49,152 sh
 
 During the year ended December 31, 2014, the Company issued a convertible note that is convertible into shares of Series C Preferred Stock. The convertible note was included as a component of the carrying amount of the Series C Preferred Stock upon its inception during 2014. As of June 30, 2019 and December 31, 2018, the remaining balance of the convertible note, included as a component of the carrying amount of the Series C Preferred Stock, is $4.2 million and represents the right to convert into 785,302 shares of Series C Preferred Stock.
 
-F-113
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -9485,8 +8799,6 @@ At any time when a specified number of shares of Senior Preferred Stock are outs
 
 Additionally, at any time when a specified number of shares of Acquisition Preferred Stock are outstanding, the Company may not take certain enumerated actions without (in addition to any other vote required by law or the Company's restated certificate of incorporation) the holders of at least a majority of the then outstanding shares of Acquisition Preferred Stock, given in writing or by vote at a meeting, consenting or voting (as the case may be) separately as a class on an as converted to Common Stock basis.
 
-F-114
-
 ## Table of Contents
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -9506,8 +8818,6 @@ Liquidation -In the event of any voluntary or involuntary liquidation, dissoluti
                                                                                                                                                                                                                                                                                                                                                                                     - · Third, after the payment of all preferential amounts required to be paid to the holders of shares of Senior Preferred Stock, Junior Preferred Stock, and Acquisition Preferred Stock, the remaining assets of the Company will be distributed among the holders of shares of common stock, pro rata based on the number of shares held by each such holder.
 
 Stockholders' Agreement -Pursuant to the terms of an amended and restated stockholders' agreement, no transfers by any of the parties are permitted other than certain permitted transfers described in the stockholders' agreement. Certain major investors have a right of first refusal and right of co-sale, on a pro rata basis and subordinate to the Company's right of first refusal, on transfers of any stock held by certain parties to the stockholders' agreement.
-
-F-115
 
 ## WEWORK COMPANIES INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS JUNE 30, 2019 (UNAUDITED)
 
@@ -9540,8 +8850,6 @@ Common Stock Repurchase -In November 2018, the Company's board of directors appr
 Effective May 31, 2013, the Company adopted an equity-based compensation plan, the 2013 Stock Incentive Plan, as amended (the '2013 Plan'), authorizing the grant of equity-based awards (including stock options and restricted stock) to its management, employees, non-employee directors and other non-employees. The total number of the Company's common shares that could be granted under the 2013 Plan was 37,689,450.
 
 Effective February 4, 2015, the Company adopted a second equity-based compensation plan, the 2015 Equity Incentive Plan, as amended (the '2015 Plan'), authorizing the grant of equity-based awards (including stock options, restricted stock and restricted stock units) to its management, employees, non-employee directors and other non-employees. Following the adoption of the 2015 Plan, no further grants were made under the 2013 Plan. On April 25, 2019, the Company amended and restated the 2015 Plan to increase the total number of the Company's common shares that are reserved for grant and issuance under the 2015 Plan to 46,086,326 shares of Class A
-
-F-116
 
 ## WEWORK COMPANIES INC.
 
@@ -9584,8 +8892,6 @@ The Company estimates the fair value of stock option awards granted using the Bl
 
 For the six months ended June 30, 2018 and 2019, the Company recorded total stock-based compensation expense of $23.6 million and $45.5 million, respectively, related to stock options awarded to employees and non-employee
 
-F-117
-
 ## Table of Contents
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -9609,8 +8915,6 @@ During 2019, an individual that is a principal stockholder, executive officer an
 Restricted Stock -Grants of the Company's restricted stock or restricted stock units consist primarily of time-based awards that are subject to the risk of forfeiture until vested by virtue of continued employment or service to the Company. Certain awards contain additional performance conditions for vesting described below.
 
 During 2015, certain executives of the Company were issued 440,864 shares of restricted Class A Common Stock and 500,000 shares of restricted Class B Common Stock in exchange for recourse promissory notes with principal
-
-F-118
 
 ## WEWORK COMPANIES INC.
 
@@ -9639,8 +8943,6 @@ Table of Contents
 The fair value of restricted stock that vested during the six months ended June 30, 2019 was $14.5 million.
 
 For the six months ended June 30, 2018 and 2019, the Company recorded total stock-based compensation expense of $4.2 million and $6.6 million, respectively, related to restricted stock and restricted stock units awarded to employees and non-employee directors. As of June 30, 2019 there was $20.5 million of total unrecognized stock-based compensation expense related to unvested restricted stock and restricted stock units awarded to employees and non-employee directors expected to be recognized over a weighted-average period of approximately 2.9 years. As of June 30, 2019, the unrecognized stock-based compensation expense from restricted stock and restricted stock units with performance-based vesting to employees and non-employee directors was approximately $93.2 million, which will be recognized only upon the satisfaction of the vesting conditions within ten years from the date of grant.
-
-F-119
 
 ## WEWORK COMPANIES INC.
 
@@ -9681,10 +8983,6 @@ Stock-based Awards Issued by Consolidated Variable Interest Entities -The tables
 
 In April 2017, the Company's consolidated subsidiary, ChinaCo, granted a shareholder, in connection with services to be provided by a consultant affiliated with such shareholder, the right to subscribe to 10,000,000 of ChinaCo's Class A
 
-F-120
-
-Table of Contents
-
 ## WEWORK COMPANIES INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
 
 ## JUNE 30, 2019 (UNAUDITED)
@@ -9696,8 +8994,6 @@ In November 2018, ChinaCo adopted a long-term equity incentive plan (the 'ChinaC
 ## PacificCo
 
 In May 2019, PacificCo adopted a long-term equity incentive plan, (the 'PacificCo 2019 LTEIP'), authorizing the grant of equity-based awards (including restricted stock units and stock appreciation rights) to its employees, officers, directors and consultants. The maximum number of awards that may be granted under the PacificCo's 2019 LTEIP is 6,250,000. During the six months ended June 30, 2019, there were a total of 2,837,185 stock appreciation rights granted under the PacificCo 2019 LTEIP. Settlement in respect of any stock appreciation right is conditioned upon the occurrence of an Exit Event (as defined in the PacificCo 2019 LTEIP). In addition, awards generally time-vest over a two-to-five year employment service period, though certain grantees must be employed on the date of the Exit Event in order to receive any payment. In addition, a portion of the awards are also subject to additional performance-vesting and vest based on achievement of performance metrics related to PacificCo's financial performance. Each stock appreciation right entitles the grantee to the increase, if any, in the value of the PacificCo stock at the time of the settlement event relative to the exercise price of the applicable stock appreciation right as set forth in the applicable award agreement. The award may be settled in stock of PacificCo or cash upon the occurrence of an Exit Event (as defined in the PacificCo 2019 LTEIP). The unrecognized stock-based compensation expense from outstanding stock appreciation rights awarded under the PacificCo 2019 LTEIP was approximately $15.5 million as of June 30, 2019, which to the extent the other vesting conditions are met, will only be recognized when the Exit Event becomes probable of occurring. As a result, there was no stock-based compensation expense recognized during the six months ended June 30, 2019 associated with the PacificCo 2019 LTEIP.
-
-F-121
 
 ## Table of Contents
 
@@ -9720,8 +9016,6 @@ In May 2019, the Company entered into a credit agreement that provides for an ad
 Construction Commitments -In the ordinary course of its business, the Company enters into certain agreements to purchase construction and related contracting services related to the build-outs of the Company's operating locations that are enforceable and legally binding, and that specify all significant terms and the approximate timing of the purchase transaction. The Company's purchase orders are based on current needs and are fulfilled by the vendors as needed in accordance with the Company's construction schedule. As of December 31, 2018 and June 30, 2019, the Company had issued approximately $270.3 million and $428.4 million, respectively, in such outstanding construction commitments.
 
 Legal Matters -The Company is, from time-to-time, party to litigation arising in the normal course of its business or litigation that is adequately covered by insurance. In the normal course of business, the Company also actively monitors violations of our valuable trademark rights and pursues legal action as determined appropriate. Management believes that none of these actions will have a material effect on the condensed consolidated financial position, results of operations or cash flows of the Company.
-
-F-122
 
 ## WEWORK COMPANIES INC.
 
@@ -9757,8 +9051,6 @@ During the six months ended June 30, 2018 and 2019, the Company earned $1.1 mill
 
 As of December 31, 2018 and June 30, 2019, the Company recorded a receivable of $2.5 million and $1.4 million, respectively, from an individual that is a principal stockholder, executive officer and director of the Company, relating to reimbursement of expenditures made, included as due from related parties on the accompanying condensed
 
-F-123
-
 ## Table of Contents
 
 ## WEWORK COMPANIES INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -9778,8 +9070,6 @@ As of June 30, 2019, the Company has several operating lease agreements for spac
 During 2017, the Company also received from the WPI Fund unsecured loans totaling $26.1 million, at an interest rate of 1.52%, in order to secure a potential investment opportunity that was being evaluated with the Company and the WPI Fund. During the six months ended June 30, 2018, the Company recognized approximately $0.2 million of interest expense related to these unsecured loans. The loans were paid off in full by the Company upon maturity on April 13, 2018 in connection with the completion of the investment.
 
 As of December 31, 2018 and June 30, 2019, the Company had $5.7 million and $10.6 million, respectively, in outstanding recourse promissory notes to certain employees of the Company. As of June 30, 2019, the promissory
-
-F-124
 
 ## WEWORK COMPANIES INC.
 
@@ -9828,8 +9118,6 @@ Table of Contents
 
 We compute net loss per share of Class A common stock and Class B common stock under the two-class method required for multiple classes of common stock and participating securities. The rights, including the liquidation and
 
-F-125
-
 ## WEWORK COMPANIES INC.
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -9864,8 +9152,6 @@ Table of Contents
 | Net loss per share attributable to Class A and Class B common stockholders: |                             |                             |
 | Basic                                                                       | $ (3.87)                    | $ (4.15)                    |
 | Diluted                                                                     | $ (3.87)                    | $ (4.15)                    |
-
-F-126
 
 ## WEWORK COMPANIES INC.
 
@@ -9905,8 +9191,6 @@ The unaudited pro forma net basic and diluted net loss per share attributable to
                                                                                                                                                                                                                                                                                                                                                                                         - · the issuance of common stock upon the vesting and settlement of RSUs for which the service-based vesting condition was satisfied as of June 30, 2019 and the qualifying event-based vesting condition will be satisfied in connection with an IPO.
 
 The liquidation and dividend rights are identical among Class A and Class B common stock, and both classes of common stock share equally in our earnings and losses.
-
-F-127
 
 ## WEWORK COMPANIES INC.
 
@@ -9949,8 +9233,6 @@ The Company has evaluated subsequent events from June 30, 2019 through August 12
 
 In July 2019, as a result of various reorganization transactions, The We Company became the holding company of all of the direct and indirect subsidiaries that were held by WeWork Companies Inc. prior to the reorganization transactions and the then-stockholders of WeWork Companies Inc. became the stockholders of The We Company. The We Company holds an indirect general partner interest and indirect limited partner interests in the We Company Partnership. The We Company, through the We Company Partnership and other subsidiaries, holds all the assets held by WeWork Companies Inc. prior to the reorganization and is subject to all the liabilities to which WeWork Companies Inc. was subject prior to the reorganization.
 
-F-128
-
 ## Table of Contents
 
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
@@ -9973,10 +9255,6 @@ In August 2019, the Company executed definitive documentation for the combinatio
 
 In August 2019, a wholly owned subsidiary, WeWork Companies LLC, entered into a binding commitment letter (the 'Commitment Letter') with JPMorgan Chase Bank, N.A., and affiliates of several of the underwriters in this offering for a new senior secured credit facility (the '2019 Credit Facility'). The Commitment Letter states that the 2019 Credit Facility will provide for senior secured financing of up to $6.0 billion, consisting of (1) a letter of credit reimbursement
 
-F-129
-
-Table of Contents
-
 ## NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
 
 ## WEWORK COMPANIES INC. JUNE 30, 2019 (UNAUDITED)
@@ -9987,13 +9265,9 @@ Subsequent to June 30, 2019, the Company has continued to enter into new lease c
 
 ******
 
-F-130
-
 ## Table of Contents
 
 <!-- image -->
-
-Table of Contents
 
 <!-- image -->
 
@@ -10027,8 +9301,6 @@ Upon completion of this offering, the Registrant's restated certificate of incor
 In addition, the Registrant's restated certificate of incorporation will allow the Registrant, by the action of the Registrant's board of directors, to indemnify and advance expenses to any person (and the heirs, executors or administrators of such person) who was or is made or is threatened to be made or is otherwise involved in any Proceeding by reason of the fact that such person, or a person for whom such person is the legal representative, is or was an employee or agent of the Registrant or, while an employee or agent of the Registrant, is or was serving at the request of the Registrant as a director, member, manager, officer, employee or agent of another corporation or of a partnership, joint venture, limited liability company, trust, enterprise or nonprofit entity, including service with respect to employee benefit plans, against all liability and loss suffered and expenses (including attorneys' fees) reasonably incurred by such person in connection with such Proceeding, including in defending any Proceeding in advance of its final disposition.
 
 The Registrant has entered into or will enter into indemnification agreements with each of its current directors and executive officers. Each indemnification agreement provides or is expected to provide, among other things, for indemnification to the fullest extent permitted by law against any and all expenses, judgments, fines, penalties and amounts paid in settlement (with the Registrant's consent) of any Proceeding. The indemnification agreements provide or will provide for the advancement or payment of all expenses to the Indemnitee and for reimbursement of such advanced expenses to the Registrant if it is found that such Indemnitee is not entitled to such indemnification under applicable law.
-
-II-1
 
 The Registrant maintains a general liability insurance policy that covers certain liabilities of directors and officers of the Registrant arising out of Proceedings based on acts or omissions in their capacities as directors or officers.
 
@@ -10067,8 +9339,6 @@ stock under its equity compensation plans at a weighted average exercise price o
 Since January 1, 2016, the Company has granted to its employees and others options to purchase an aggregate of             shares of Class B common stock under its equity compensation plans at a weighted average exercise price of $        per share.
 
 Since January 1, 2016, the Company has issued and sold to its employees and others an aggregate of             shares of Class A common stock in connection with the exercise of options granted under its equity compensation plans at a weighted average exercise price of $         per share.
-
-II-2
 
 ## Table of Contents
 
@@ -10113,8 +9383,6 @@ On April 30, 2018, the Company issued $702,000,000 aggregate principal amount of
 
 The undersigned Registrant hereby undertakes to provide to the underwriters at the closing specified in the underwriting agreement certificates in such denominations and registered in such names as required by the underwriters to permit prompt delivery to each purchaser.
 
-II-3
-
 ## Table of Contents
 
 Insofar as indemnification for liabilities arising under the Securities Act may be permitted to directors, officers and controlling persons of the Registrant pursuant to the foregoing provisions, or otherwise, the Registrant has been advised that, in the opinion of the SEC, such indemnification is against public policy as expressed in the Securities Act and is, therefore, unenforceable. In the event that a claim for indemnification against such liabilities (other than the payment by the Registrant of expenses incurred or paid by a director, officer or controlling person of the Registrant in the successful defense of any action, suit or proceeding) is asserted by such director, officer or controlling person in connection with the securities being registered, the Registrant will, unless in the opinion of its counsel the matter has been settled by controlling precedent, submit to a court of appropriate jurisdiction the question whether such indemnification by it is against public policy as expressed in the Securities Act and will be governed by the final adjudication of such issue.
@@ -10123,8 +9391,6 @@ The Registrant hereby further undertakes that:
 
                                                                                                                                                                                                                                                                                                                                                                                                             - (1) For purposes of determining any liability under the Securities Act, the information omitted from the form of prospectus filed as part of this Registration Statement in reliance upon Rule 430A and contained in a form of prospectus filed by the Registrant pursuant to Rule 424(b)(1) or (4) or 497(h) under the Securities Act shall be deemed to be part of this Registration Statement as of the time it was declared effective; and
                                                                                                                                                                                                                                                                                                                                                                                                             - (2) For purposes of determining any liability under the Securities Act, each post-effective amendment that contains a form of prospectus shall be deemed to be a new registration statement relating to the securities offered therein, and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof.
-
-II-4
 
 ## EXHIBIT INDEX
 
@@ -10161,8 +9427,6 @@ Table of Contents
 | 10.11^†  | Management Partner Partnership Class PI Common Unit Award Agreement (Service)                                                                                                                                      |
 | 10.12^†  | Management Partner Partnership Class PI Common Unit Award Agreement (Performance)                                                                                                                                  |
 
-II-5
-
 Table of Contents
 
 | NUMBER   | DESCRIPTION                                                                                                                                                                                                              |
@@ -10178,8 +9442,6 @@ Table of Contents
 | 23.2*    | Consent of Skadden, Arps, Slate, Meagher &amp; Flom LLP (contained in Exhibit 5.1)                                                                                                                                           |
 | 23.3†    | Consent of HR&amp;A Advisors, Inc.                                                                                                                                                                                           |
 | 24.1†    | Powers of Attorney (included on signature page to the Registration Statement)                                                                                                                                            |
-
-II-6
 
 ## SIGNATURES AND POWERS OF ATTORNEY
 
@@ -10219,5 +9481,3 @@ Table of Contents
 |                                 | Director                                                                                             | August 14, 2019 |
 
 John Zhao
-
-II-7

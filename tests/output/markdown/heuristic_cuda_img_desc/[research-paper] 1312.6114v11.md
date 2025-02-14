@@ -23,6 +23,9 @@ The strategy in this section can be used to derive a lower bound estimator (a st
 Figure 1: The type of directed graphical model under consideration. Solid lines denote the generative model p θ ( z ) p θ ( x z | ) , dashed lines denote the variational approximation q φ ( z x | ) to the intractable posterior p θ ( z x | ) . The variational parameters φ are learned jointly with the generative model parameters θ .
 
 <!-- image -->
+**Image Description:** The image is a simple diagram that appears to represent a process or a system with two main components labeled "X" and "Z." The diagram includes arrows that indicate the flow of something from "X" to "Z" and from "Z" back to "X." There is a dashed arrow that loops back from "Z" to "X," suggesting a feedback or cyclical process. The diagram also includes a label "N" at the bottom, which could represent a node or a point of interest within the system. The dashed line labeled "θ" suggests a parameter or a variable that is changing or influencing the process. The overall layout is minimalistic, with a focus on the connections between the components rather than on any additional details or context.
+<!-- end image description -->
+
 
 straightforward to extend this scenario to the case where we also perform variational inference on the global parameters; that algorithm is put in the appendix, but experiments with that case are left to future work. Note that our method can be applied to online, non-stationary settings, e.g. streaming data, but here we assume a fixed dataset for simplicity.
 
@@ -163,6 +166,19 @@ The generative model (encoder) and variational approximation (decoder) from sect
 Figure 2: Comparison of our AEVB method to the wake-sleep algorithm, in terms of optimizing the lower bound, for different dimensionality of latent space ( N z ). Our method converged considerably faster and reached a better solution in all experiments. Interestingly enough, more latent variables does not result in more overfitting, which is explained by the regularizing effect of the lower bound. Vertical axis: the estimated average variational lower bound per datapoint. The estimator variance was small ( &lt; 1 ) and omitted. Horizontal axis: amount of training points evaluated. Computation took around 20-40 minutes per million training samples with a Intel Xeon CPU running at an effective 40 GFLOPS.
 
 <!-- image -->
+**Image Description:** The image is a series of graphs that appear to be part of a scientific study or presentation, likely related to machine learning or data analysis. The graphs are arranged in a grid format with four rows and three columns, each containing a different graph. The graphs are labeled with "MNIST" followed by a number, which could indicate different datasets or conditions under which the data was collected.
+
+Each graph shows a curve that rises sharply as the number of training samples increases, which is a common characteristic of the training process in machine learning models. The curves are plotted on a logarithmic scale, as indicated by the y-axis labels, which suggests that the data spans several orders of magnitude.
+
+The x-axis is labeled with "Number of training samples evaluated," which implies that the graphs are measuring the performance of a model as the number of samples used for training increases. The y-axis is labeled with "z," which could be a metric related to the performance of the model, such as accuracy, loss, or another performance indicator.
+
+The bottom row of graphs is labeled "Frey Face, N = 2," "Frey Face, N = 5," "Frey Face, N = 10," and "Frey Face, N = 20," which suggests that these graphs are comparing the performance of a model with different numbers of training samples. The "Wake-Sleep (test)" and "Wake-Sleep (train)" lines indicate the performance of the model when it is tested on a separate set of data (test) and when it is trained on the same data (train), respectively.
+
+The red dashed line with square markers represents the performance of the model when it is evaluated on the test data. The green dashed line with circle markers represents the performance of the model when it is evaluated on the train data.
+
+The key statistics that can be inferred from the image include the number of training samples (N) and the performance metrics (z) for the model. The graphs show that as the number of training samples increases, the performance of the model also increases, which is a common trend in machine learning where more data leads to better model performance. The comparison between the test and train data suggests that the model's performance is consistent across different datasets.
+<!-- end image description -->
+
 
 decoder output. Note that with hidden units we refer to the hidden layer of the neural networks of the encoder and decoder.
 
@@ -177,6 +193,17 @@ Marginal likelihood For very low-dimensional latent space it is possible to esti
 Figure 3: Comparison of AEVB to the wake-sleep algorithm and Monte Carlo EM, in terms of the estimated marginal likelihood, for a different number of training points. Monte Carlo EM is not an on-line algorithm, and (unlike AEVB and the wake-sleep method) can't be applied efficiently for the full MNIST dataset.
 
 <!-- image -->
+**Image Description:** The image is a pair of graphs, each representing a different dataset or model's performance over a range of training samples. The left graph is labeled "N_train = 1000" and the right graph is labeled "N_train = 50000". Both graphs show the marginal log-likelihood on a logarithmic scale against the number of training samples evaluated, in millions.
+
+The datasets or models represented by the graphs are "Wake-Sleep (train)" and "Wake-Sleep (test)", "MCEM (train)" and "MCEM (test)", "AEVB (train)" and "AEVB (test)". The lines for each dataset or model are distinct, with the "train" lines being solid and the "test" lines being dashed. The marginal log-likelihood values are plotted on the y-axis, and the number of training samples is plotted on the x-axis.
+
+The graphs show that as the number of training samples increases, the marginal log-likelihood for both "Wake-Sleep" and "MCEM" datasets or models also increases, indicating a potential improvement in performance. However, the "AEVB" datasets or models show a different trend, with the marginal log-likelihood decreasing as the number of training samples increases.
+
+The legend on the right side of the image provides a key to the different colors used in the graphs, which correspond to the datasets or models. The legend is a simple list of the dataset or model names, with the corresponding colors for the "train" and "test" lines.
+
+Overall, the image provides a visual comparison of how the marginal log-likelihood changes with the number of training samples for different datasets or models.
+<!-- end image description -->
+
 
 Visualisation of high-dimensional data If we choose a low-dimensional latent space (e.g. 2D), we can use the learned encoders (recognition model) to project high-dimensional data to a lowdimensional manifold. See appendix A for visualisations of the 2D latent manifolds for the MNIST and Frey Face datasets.
 
@@ -216,10 +243,16 @@ See figures 4 and 5 for visualisations of latent space and corresponding observe
 Figure 4: Visualisations of learned data manifold for generative models with two-dimensional latent space, learned with AEVB. Since the prior of the latent space is Gaussian, linearly spaced coordinates on the unit square were transformed through the inverse CDF of the Gaussian to produce values of the latent variables z . For each of these values z , we plotted the corresponding generative p θ ( x z | ) with the learned parameters θ .
 
 <!-- image -->
+**Image Description:** The image contains two columns of visual data. The left column displays a series of grayscale images of faces, each with a unique expression. The right column shows a series of numbers, each composed of the same number of digits, arranged in a grid-like pattern. The numbers are presented in a way that suggests they are part of a sequence or a pattern. The text labels indicate that the images on the left are labeled as "Learned Frey Face manifold" and the images on the right are labeled as "Learned MNIST manifold." The Frey face manifold is a type of manifold used in machine learning for face recognition, and the MNIST manifold is a dataset of handwritten digits. The images and text suggest that the image is comparing the learned manifolds for face recognition and handwritten digit recognition, respectively.
+<!-- end image description -->
+
 
 Figure 5: Random samples from learned generative models of MNIST for different dimensionalities of latent space.
 
 <!-- image -->
+**Image Description:** The image displays four rows of handwritten numbers, each row representing a different dimension of a latent space. The first row is labeled as "2-D latent space," the second as "5-D latent space," the third as "10-D latent space," and the fourth as "20-D latent space." The numbers are arranged in columns, with each column representing a different dimension of the latent space. The numbers are written in a cursive handwriting style, and the background is white, which makes the black ink of the handwriting stand out. The image is a visual representation of a concept in mathematics, specifically the concept of latent spaces in the context of dimensionality reduction or data compression. The numbers in each row likely represent different values or states within the latent space, with the number of digits increasing as the dimension increases. The image does not provide any additional context or information beyond the representation of the latent spaces.
+<!-- end image description -->
+
 
 ## B Solution of -D KL ( q φ ( z ) || p θ ( z )) , Gaussian case
 

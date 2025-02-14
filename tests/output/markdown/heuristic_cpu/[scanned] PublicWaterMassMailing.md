@@ -29,8 +29,6 @@ Healthy Missourians for life.
 
 The Missouri Department of Health and Senior Services be the leader in promoting, protecting and partnering for health. will
 
-AN EQUAL OPPORTUNITY AFFIRMATIVE ACTION EMPLOYER: Services provided on a nondiscriminatory basis .
-
 <!-- image -->
 
 Jeremiah W. (Jay) Nixon Governor
@@ -221,8 +219,6 @@ If the bottle is overfilled past the 120 mL line, pour off water until the sampl
 
 There is no longer a label to record sample information on the bottle. DO NOT WRITE ON THE BOTTLE. Please complete a sample information form for each sample submitted for testing. DATE AND TIME OF SAMPLE COLLECTION and the BOTTLE NUMBER (from sticker on bottle) ARE REQUIRED. A form for each bottle is included in this sample kit.
 
-Page 1 of 4
-
 <!-- image -->
 
 Max. fill line
@@ -253,8 +249,6 @@ Website:
 
 wwwhealth mo govLab
 
-LAB 34 Public Water (R1O-2015)
-
 <!-- image -->
 
 <!-- image -->
@@ -282,10 +276,6 @@ Assemble all of the sampling supplies.   Before you begin; wash your hands thoro
         - 8 Fill out the Missouri Department of Health and Senior Services (DHSS) State Public Health Lab (SPHL) Environmental Sample Collection Form waterproof ink. See attached document for instructions on properly completing the sample collection form and for shipping instructions. using
         - 7 Fill the bottle until the water sample level is BETWEEN THE TWO LINES on the bottle (100 120 ml) Preferably, the sample level should be at or just slightly above the 100 ml line. Sample levels below the 100 ml (lower) line WILL NOT BE TESTED due to insufficient sample volume. Sample levels above the 120 ml (upper) line WILL NOT BE TESTED due to overfilled bottle. If the bottle is overfilled, you may off any excess water to the sample level between the two lines. Place the cap on the bottle and screw it down tightly . pour get
         - 9 For single samples; neatly fold the sample collection form into thirds (standard letter fold) roll around the bottle and place in the shipping box: For multiple samples; fold the forms once or more as needed; and place in the shipping box Do not use shredded paper. Seal the box with a single strip of shipping tape and affix the return address label to the of the box. top
-
-Page 2 of 4
-
-LAB 34 Public Water (R1O-2015)
 
 Fill sample botle on the bottle lines
 
@@ -363,12 +353,6 @@ All other sections of the Environmental Sample Collection Form are for MSPHL use
 
 County: Enter the county name for the collection point if it is not already filled out for you:
 
-Page 3 of 4
-
-LAB 34 Public Water (R1O-2015)
-
-Page 4 of 4
-
 ## Shipping Instructions
 
 Per U.S. Environmental Protection Agency requirements, public water samples must be received by the laboratory and tested within 30 hours of the date and time of collection. The MSPHL and MDNR recommend you use the free Department of Health and Senior Services (DHSS) contract courier for overnight delivery to the MSPHL This courier picks up at most local public health agency offices and hospitals (Note: Not all hospitals will accept water samples for courier pick up). For sample drop off locations and of off locations by county; or you may call the MSPHL courier liaison at (573) 751-4830, or the MDNR Public Drinking Water Branch (PDWB) at (573) 526-1124. listing drop
@@ -398,7 +382,5 @@ Department of Natural Resources 1709 Prospect Drive Macon; MO 63552-1930 (660) 3
 Southwest Regional Office Department of Natural Resources 2040 West Woodland Springlield, MO 65807-5912 (417) 891-4300
 
 St. Louis Regional Office Department of Natural Resources 7545 South Lindbergh. Suite 210 St. Louis. MO 63125 (314) 416-2960
-
-LAB 34 Public Water (R1O-2015)
 
 Southeast Regional Office Department of Natural Resources 2155 North Westwood Blvd. Poplar Blufl; MO 63901-1420 (573) 840-9750

@@ -132,6 +132,9 @@ g of the corporate governa
 his of ering. Investing in our Clas
 
 <!-- image -->
+**Image Description:** The image is a logo consisting of a stylized letter "W" with a horizontal line through it, set against a yellow background. The text surrounding the logo is in a serif font and appears to be a list of names, likely representing the names of individuals or entities associated with the logo. The text is arranged in a circular pattern around the central "W," with each name on a separate line. The colors of the text are black and white, which contrasts with the yellow background. The logo does not provide any additional context or information beyond the names listed.
+<!-- end image description -->
+
 
 on stock involves risk
 
@@ -204,6 +207,9 @@ e HSBC UBS Investment Bank Wel s Fargo Securit es J.P Morgan
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image contains a logo consisting of the word "we" in a sans-serif font. The logo is enclosed within a circle, and the background is white. The font is black, which contrasts with the white background, making the text stand out clearly. The logo is simple and modern, with no additional graphics or text. There are no discernible colors other than black and white. The logo does not provide any additional context or information beyond its branding purpose.
+<!-- end image description -->
+
 
 WE DEDICATE THIS TO THE
 
@@ -214,6 +220,9 @@ ACH OF US.
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a promotional rendering of a modern office space designed to enhance productivity and collaboration. The layout is open and inviting, with a variety of workstations and communal areas. The central focus is on a large, open-plan area where people are engaged in different activities, such as working on laptops, reading, and socializing. The office is equipped with a large bookshelf filled with books, suggesting a focus on knowledge and learning. The presence of plants and natural light contributes to a pleasant and relaxed atmosphere. The text "A Better Day at Work" implies that the office is designed to improve the work experience for its occupants. The image does not provide any specific information about the location or the names of the individuals present, and it is not possible to determine the exact nature of the work being done without additional context.
+<!-- end image description -->
+
 
 ## Table of Contents
 
@@ -270,6 +279,9 @@ We are a community company committed to maximum global impact. Our mission is to
 In early 2010, we opened our doors to our first member community at 154 Grand Street in New York City. In the beginning, our members consisted mostly of freelancers, start-ups and small businesses. Over the past nine years, we have rapidly scaled our business while honoring our mission. Today, our global platform integrates space, community, services and technology in over 528 locations in 111 cities across 29 countries. Our 527,000 memberships represent global enterprises across multiple industries, including 38% of the Global Fortune 500. We are committed to providing our members around the world with a better day at work for less.
 
 <!-- image -->
+**Image Description:** The image depicts a modern, open-plan café or communal space within a building that appears to be a mix of commercial and residential spaces. The architecture is contemporary, with exposed brickwork and large windows that allow natural light to flood the area. The color scheme is a blend of earthy tones with pops of green from the plants and the staircase, and the furniture is a mix of modern and traditional styles. The presence of people engaged in various activities suggests that the space is designed for both work and social interaction. The image does not provide any direct information about the location or the specific purpose of the building, but the design elements suggest a focus on creating a welcoming and productive environment.
+<!-- end image description -->
+
 
 80% of members report increased
 
@@ -294,6 +306,9 @@ Table of Contents
 | 4,000 |        | 87,000 | 401,000 |
 
 <!-- image -->
+**Image Description:** The image is a graphical representation of a world map with a network of lines connecting various locations. The map is overlaid with a grid of numbers that likely represent the number of locations, cities, and memberships in different years. The locations are marked with green dots, the cities with blue dots, and the memberships with red dots. The lines connecting the dots suggest a relationship or interaction between the locations, cities, and memberships. The map is labeled with years from 2010 to 2019, and the numbers at the bottom of the map represent the quantity of each category in each year. The map is a visual tool to compare the distribution and growth of the categories over time.
+<!-- end image description -->
+
 
 ## Over 50%
 
@@ -310,6 +325,15 @@ Technology is at the foundation of our global platform. Our purpose-built techno
 ## Cost Per Employee: WeWork Versus Standard Lease
 
 <!-- image -->
+**Image Description:** The image is a bar chart that compares the savings from different lease and operations strategies. The chart is divided into three sections, each representing a different strategy: "Standard lease + build-out + operations," "Standard lease + operations," and "wework." The savings percentages are indicated by the height of the bars and the percentage labels.
+
+The first section, "Standard lease + build-out + operations," shows a savings of 66%. The second section, "Standard lease + operations," shows a savings of 57%. The third section, "wework," shows a savings of 57%.
+
+The chart uses a color scheme of yellow, green, and dark blue to differentiate between the three strategies. The savings percentages are also highlighted in yellow, with the highest savings being 66% for the first strategy and the lowest savings being 57% for the second and third strategies.
+
+The chart is designed to visually represent the financial benefits of different lease and operations strategies, with the savings percentages being the key metric of interest. The use of a bar chart is effective for comparing the relative savings of each strategy.
+<!-- end image description -->
+
 
 Officc supply; opcrating and Icasc costs
 
@@ -329,12 +353,32 @@ Large enterprises are increasingly recognizing the value proposition of our glob
 We monetize our platform through a variety of means, including selling memberships, providing ancillary value-added products and services to our members and extending our global platform beyond work. Today, we are signing more multi-year membership agreements for various space solutions across our global platform: the average commitment term of our membership agreements has nearly doubled from approximately eight months as of December 1, 2017 to more than 15 months as of June 1, 2019. This creates a backlog of committed revenue, which we expect will drive increasing recurring revenues and cash flows as well as increase our revenue visibility. We had committed revenue backlog of $4.0 billion as of June 30, 2019, approximately eight times the $0.5 billion as of December 31, 2017.
 
 <!-- image -->
+**Image Description:** The image is a bar chart titled "Enterprise Membership Percentage" and "Committed Revenue Backlog." It is divided into two sections, with the left side showing the percentage of memberships with enterprise members and the right side showing the committed revenue backlog.
+
+The left section has three bars representing different time periods: "3/31/17," "6/30/19," and "12/31/17." The height of each bar corresponds to the percentage of memberships with enterprise members, with the highest percentage being 40% for the period "6/30/19."
+
+The right section has two bars representing different time periods: "3/31/17" and "6/30/19." The height of the first bar is $0.5B, and the height of the second bar is $4.0B.
+
+The chart is labeled with a disclaimer at the bottom, stating that the percentages represent the percentage of memberships with enterprise members. The chart is designed to compare the percentage of memberships with enterprise members over time and the committed revenue backlog. The data suggests that there is a significant increase in the committed revenue backlog from the period "3/31/17" to "6/30/19."
+<!-- end image description -->
+
 
 ## Table of Contents
 
 We strive to operate our business so that each new location is accretive to our long-term financial performance. After an initial investment, each additional location not only adds members to our platform and revenue to our income statement, but also becomes profitable once it reaches a break-even point. As we move through the different lifecycle phases of each location, the cash flows shift from outgoing during the find and build phases, during which we invest to scale our location portfolio, to incoming during the fill and run phases, during which we seek to monetize our platform.
 
 <!-- image -->
+**Image Description:** The image is a graphical representation of the WeWork Lease model, which is a financial model used to analyze the potential return on investment for a real estate investment. The model is divided into four stages: location signing, location possession, location opening, and location maturity. Each stage is represented by a different color and is marked with a specific time frame.
+
+The location signing stage is marked with a red color and is associated with a time frame of -24 months. The location possession stage is marked with a yellow color and is associated with a time frame of 0 months. The location opening stage is marked with a green color and is associated with a time frame of 6 months. The location maturity stage is marked with a blue color and is associated with a time frame of 12 months.
+
+The WeWork Lease model includes two additional components: Capex & Opex, which are costs associated with the initial investment and ongoing expenses, respectively. These costs are not explicitly marked on the graph but are implied to be part of the total investment.
+
+The graph shows a curve that starts at the location signing stage and increases over time, indicating that the potential return on investment increases as the investment progresses. The curve is labeled with the text "WeWork Lease (includes Capex & Opex)" and is accompanied by an arrow pointing to the right, suggesting that the model is moving forward in time.
+
+The x-axis represents the time frame in months, and the y-axis represents the investment amount in dollars. The graph is a visual aid used to help investors understand the potential return on investment for a real estate investment over time.
+<!-- end image description -->
+
 
 As we build and open more locations within existing markets, expand to new markets and scale our suite of products and services, we increase the value of our platform to our members and create additional capacity for incremental monetization of our platform. And as of today, we estimate that our market penetration in our 280 target cities globally is approximately 0.2%. We intend to continue deploying capital to grow and rapidly open new locations, relying on the experience, expertise, brand and scale that we have developed to date. We will leverage our leadership position to capture the global opportunity by growing in existing and new markets and expanding the scope of our solutions and the products and services we offer our members.
 
@@ -362,6 +406,9 @@ We believe the following trends are enabling the re-invention of work and will a
 Individuals and organizations turn to us directly to solve their workspace needs because of the value of our integrated solution-space, community, services and technology-and the scale of our global platform. As a result, we are able to aggregate demand and match an individual or organization to the right space, at the right time, at the right price. By acting in this role of demand aggregator, we are able to choose strategically where and how fast to grow.
 
 <!-- image -->
+**Image Description:** The image is a diagram illustrating the concept of "WeWork Aggregates Demand" within the context of the "Today's Fragmented Real Estate Industry." It shows a network of various companies and services, including "Dell," "Cisco," "Dropbox," "Shopify," "WeWork," "Bombardier," "We," "Salesforce," "Slack," "Microsoft," "DocuSign," "Facebook," "LinkedIn," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork," "WeWork,"
+<!-- end image description -->
+
 
 ## Table of Contents
 
@@ -374,6 +421,21 @@ When applying our average revenue per WeWork membership for the six months ended
 We are able to deliver a premium experience to our members at a lower price relative to traditional alternatives. Data from CBRE Group and Cushman &amp; Wakefield indicates that employers across 155 global cities for which data is available and in which we have existing or planned locations spend a weighted average of approximately $11,700 in occupancy costs per employee each year. By applying the average employee occupancy costs to our potential member population of 149 million people in our existing 111 cities, we estimate a total opportunity of $1.7 trillion. Among the approximately 255 million potential members across our 280 target cities globally, we estimate a total opportunity of $3.0 trillion.
 
 <!-- image -->
+**Image Description:** The image is a visual representation of a comparison between the current state of 111 cities and the target state of 280 cities. It uses a circular diagram to illustrate the differences in total opportunity, addressable market opportunity, and cost savings between the two scenarios.
+
+The left side of the image shows the current state with a total opportunity of $1.7T, an addressable market opportunity of $0.9T, and a cost savings of $0.8T compared to standard lease. The right side of the image shows the target state with a total opportunity of $3.0T, an addressable market opportunity of $1.6T, and a cost savings of $1.4T compared to standard lease.
+
+The key statistics extracted from the image are as follows:
+- Current total opportunity: $1.7T
+- Current addressable market opportunity: $0.9T
+- Current cost savings: $0.8T
+- Target total opportunity: $3.0T
+- Target addressable market opportunity: $1.6T
+- Target cost savings: $1.4T
+
+The image is designed to convey the potential benefits of transitioning from the current state to the target state, highlighting the increased total opportunity, addressable market opportunity, and cost savings.
+<!-- end image description -->
+
 
                     - (2) Includes existing 111 cities as of June 1, 2019.
 
@@ -404,14 +466,27 @@ These events are one of many ways in which we view space as a place to bring peo
 combine the traditional with the modemn.
 
 <!-- image -->
+**Image Description:** The image depicts an interior space that appears to be a public area, possibly a café or a lounge, given the presence of tables and chairs arranged for seating. The architecture is modern with a high ceiling and a large, ornate ceiling design that features a pattern of geometric shapes. The lighting is warm and ambient, with recessed ceiling lights and natural light filtering through the ceiling's design. The walls are painted in a light color, and there are large windows that allow daylight to enter. The space is furnished with a mix of modern and traditional elements, such as the wooden tables and the classic design of the ceiling. The image does not provide any direct information about the location or the time of day, but the lighting suggests it could be daytime.
+<!-- end image description -->
+
 
 our efforts t0 design spacos to reflect local cultures
 
 <!-- image -->
+**Image Description:** The image depicts a modern office space with a minimalist design. The room is characterized by a large window that offers a view of a cityscape, suggesting that the office is located in a high-rise building. The seating arrangement consists of individual benches with cushions, which are placed on a wooden platform that extends from the foreground to the background of the image. The benches are arranged in a U-shape, allowing for privacy and a sense of community among the occupants.
+
+The individuals in the image are engaged in work-related activities, with one person using a laptop and the other writing on a tablet. Their focused demeanor indicates a professional environment. The lighting in the room is soft and diffused, with pendant lights hanging from the ceiling, providing a warm and inviting atmosphere. The color palette is neutral, with shades of beige, gray, and white dominating the space, which contributes to a calm and focused work environment.
+
+The image does not contain any discernible text or logos that would provide additional context about the location or the company. The overall impression is one of a contemporary, efficient, and comfortable workspace designed for productivity and collaboration.
+<!-- end image description -->
+
 
 In New York City . our locations intentionally incorporate local architectural elements , artwork industnal and
 
 <!-- image -->
+**Image Description:** The image depicts a modern office space with a focus on a collaborative and comfortable environment. The room is well-lit, with natural light coming through the large arched windows. The color palette is neutral, with whites, beiges, and dark greens dominating the space. The furniture is contemporary, with a mix of sofas, armchairs, and a coffee table. The decor includes potted plants, which add a touch of nature to the urban setting. The presence of a laptop on the sofa suggests that the space is used for work or study. The image is taken from a perspective that allows for a clear view of the room's layout and the activities taking place within it. The text overlay provides context, indicating that the image is associated with a location in New York.
+<!-- end image description -->
+
 
 ## Table of Contents
 
@@ -420,18 +495,30 @@ In New York City . our locations intentionally incorporate local architectural e
 We pioneered a 'space-as-a-service' membership model. Across our global portfolio of locations, we offer individuals and organizations the flexibility to scale workspace up and down as needed, with the ability to consume space by the minute, by the month or by the year. Our space-as-a-service offering significantly reduces the complexity of leasing real estate to a simplified membership model, while delivering a premium experience to our members at a lower price relative to traditional alternatives and moving fixed lease costs to variable costs for our members. Our membership model is transforming the way individuals and organizations consume commercial real estate.
 
 <!-- image -->
+**Image Description:** The image is a simple, stylized icon of a calendar. It is designed with a minimalist approach, using only lines to represent the grid of days and the rectangular shape of the calendar. The absence of any text or additional elements suggests that the icon is intended to be a generic representation of a calendar, possibly for use in a user interface or as a symbol in a document to denote the concept of scheduling or time management. The icon's design is clean and uncluttered, which is typical for icons meant to be easily recognizable and scalable across different sizes and resolutions.
+<!-- end image description -->
+
 
 Flexibility
 
 <!-- image -->
+**Image Description:** The image contains a single dollar bill, which is a common representation of currency. The bill is depicted in a stylized, flat design, with the distinctive green color and the white dollar sign and dollar amount clearly visible. The bill is shown in a way that suggests it is floating or suspended, with the top left corner slightly raised, giving it a three-dimensional appearance. The background is plain white, which contrasts with the green of the bill and makes it stand out. There are no other objects or text in the image, and the focus is solely on the dollar bill. The image does not provide any additional context or information beyond the representation of the currency.
+<!-- end image description -->
+
 
 Global Mobility
 
 <!-- image -->
+**Image Description:** The image is a simple, stylized representation of the Earth, depicted as a globe with a grid pattern. The globe is centered and occupies the majority of the space within the image. There are no additional elements or text present. The image is monochromatic, using only shades of yellow to depict the globe and the surrounding grid. The globe is shown in a flat, two-dimensional style, with no indication of depth or perspective. The image does not provide any context or background story, and there are no discernible features that would suggest a specific location or time. The focus is solely on the globe and its grid pattern, which could symbolize various concepts such as global connectivity, data, or the Earth's surface.
+<!-- end image description -->
+
 
 Enhanced Culture
 
 <!-- image -->
+**Image Description:** The image contains a simple graphic design with a minimalist aesthetic. It features a series of interconnected lines that create a circular pattern. The lines are of varying thickness, with some appearing thicker than others, which adds a sense of depth and dimension to the design. The color of the lines is a uniform shade of red, which stands out against the white background. The image does not contain any text or additional elements, and there are no discernible actions or movements depicted. The focus is solely on the geometric shapes and their arrangement. The image is a digital creation, likely designed for use as a logo, icon, or part of a larger graphic design scheme.
+<!-- end image description -->
+
 
 Variable &amp; Lower Cost
 
@@ -440,6 +527,13 @@ Our space-as-a-service membership model offers members global, 24/7 access to ou
 Our membership offerings are designed to accommodate our members' distinct space needs. We provide standard, configured and on-demand memberships within our spaces. We also offer Powered by We, a premium solution configured to an organization's needs and deployed at the organization's location. Powered by We leverages our analysis, design and delivery capabilities to beautify and optimize an existing workplace, while also offering an organization increased efficiencies and an option to invigorate its spaces through our community offerings. The technology we deploy includes software and hardware solutions that deliver improved insights and an easier-to-use workplace experience for employees.
 
 <!-- image -->
+**Image Description:** The image is a visual representation of the WeWork workspace services, which are designed to offer flexible and customizable office spaces. The image is divided into four sections, each representing a different service level: Standard, Configured, On-Demand, and Custom.
+
+The Standard section shows a desk with a computer and a clock, symbolizing a basic office setup. The Configured section depicts a building with multiple floors, indicating that the service can accommodate private offices or entire buildings. The On-Demand section illustrates a single chair, suggesting that the service can provide individual workspaces as needed. The Custom section shows a fully furnished office with a desk, chairs, and a potted plant, implying that the service can offer a complete, customized workspace.
+
+The image uses a color scheme of yellow, green, red, and orange to differentiate between the services. The text accompanying each section provides a brief description of the service, emphasizing the flexibility and customization options available to customers. The overall design is clean and professional, with a clear focus on the services offered by WeWork.
+<!-- end image description -->
+
 
 ## Table of Contents
 
@@ -452,6 +546,9 @@ The profitability profile of our business is a managed outcome driven by the mat
 As we continue to pursue rapid growth, we continue to operate in a state where the majority of our locations are non-mature and have not reached stable cash flow. As of June 1, 2019, only 30% of our open locations were mature, with the remaining 70% of our open locations having been open for 24 months or less. If we stopped investing in our growth and instead allowed our existing pipeline of locations to mature, we would no longer incur capital investments to build out new spaces or the initial expenses associated with driving member acquisition at new locations. Rather, we expect that each mature location would generate a recurring stream of revenues, contribution margin and cash flows. We believe that the flexibility to manage our growth by focusing on our existing pipeline of locations and allowing them to mature presents us with an opportunity to manage our profitability profile.
 
 <!-- image -->
+**Image Description:** The image is a graphical representation of the Workstation Pipeline, which is a tool used to manage and track the status of workstations. The graph shows the progression of workstations from the initial "FIND" stage to the "RUN" stage, with the number of workstations increasing as it moves through the stages. The "FIND" stage has 724K workstations, which is the highest number at the beginning of the timeline. The "SIGN" stage has 327K workstations, the "BUILD" stage has 195K workstations, the "FILL" stage has 425K workstations, and the "RUN" stage has 180K workstations. The "RUN" stage is the final stage, indicating that the majority of workstations are in the "RUN" phase. The graph also includes a note that the potential number of workstations is 1.9M, which is the projected number of workstations in 9-18 months. The "BUILD" stage is highlighted in orange, the "FILL" stage in red, and the "RUN" stage in yellow. The "Today" label is placed at the top of the graph, indicating the current status of the workstations. The "Future" label is placed at the bottom of the graph, suggesting a projection of the workstation status in the future. The image is designed to convey the progression and potential growth of workstations over time.
+<!-- end image description -->
+
 
                         - (1) Represents workstation capacity in our open locations plus the estimated number of workstations in our pre-opening locations and location pipeline (which includes potential locations in the find, sign and build phases) as of June 1, 2019. See 'Management's Discussion and Analysis of Financial Condition and Results of Operations-Our Business Model-Lifecycle of a Location and Factors Affecting Our Performance'.
 
@@ -479,20 +576,35 @@ We have leveraged our global platform to facilitate rewarding relationships betw
 We are committed to our vision
 
 <!-- image -->
+**Image Description:** The image provided is a simple graphic representation of an eye. It is a stylized depiction with a focus on the iris and pupil, which are the parts of the eye that are typically visible when the eye is open. The eye is shown in a side view, with the iris occupying the majority of the space and the pupil centered within it. The color of the eye is a light teal, and the background is a solid white, which contrasts with the eye and makes it stand out. There are no additional elements or distractions in the image, which suggests that the purpose of the image is to represent the eye in a clear and unambiguous manner.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a stylized representation of a group of people, likely intended to symbolize a team or a group of individuals working together. The central figure is elevated above the others, which could imply a leadership role or a position of importance. The simplicity of the design suggests it could be used in various contexts, such as a logo, a team-building activity, or a motivational poster. The lack of detail makes it difficult to determine the exact nature of the group or the specific context in which it is used. The image does not provide any additional information that would allow for a more detailed analysis or interpretation.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a simple, stylized representation of a globe. It is a flat, two-dimensional graphic with a uniform color and no shading or texture. The globe is divided into 12 horizontal lines, each representing a continent. The lines are evenly spaced and run parallel to each other, creating a grid-like pattern across the globe. The image does not contain any text or additional elements. The globe is centered in the image, and there are no discernible actions or movements depicted. The image is a clear and straightforward representation of a globe, likely intended to symbolize global connectivity or international awareness.
+<!-- end image description -->
+
 
 Our member community is strong and growing
 
 <!-- image -->
+**Image Description:** The image is a simple, stylized representation of a bar graph with a dollar sign, commonly used to symbolize financial growth or profit. The bars are uniformly colored in a shade of peach or light orange, and they increase in height from left to right, suggesting an increase in value or quantity. The upward arrow at the top of the graph reinforces the concept of growth. There are no specific numerical values or labels on the bars, and the image does not provide any context or additional information about the data being represented. The design is minimalistic, focusing on the concept of upward progression without any distractions.
+<!-- end image description -->
+
 
 Our global platform integrates space, services and technology
 
 We have attractive economicsOur future impact will transform the way people work, live and grow
 
 <!-- image -->
+**Image Description:** The image is a simple, stylized icon that represents a plant. It is designed to be easily recognizable and is likely used in a context where a plant is a symbol or a metaphor. The icon is composed of a single plant with three leaves, which are depicted in a minimalist style. The leaves are simple and lack detailed textures, which suggests that the icon is meant to convey the concept of a plant without focusing on its specific characteristics. The hand holding the plant is also depicted in a stylized manner, with the fingers slightly curled to support the stem. The background is plain white, which ensures that the focus remains on the plant and the hand. There are no additional elements or details in the image, which keeps the design clean and uncluttered.
+<!-- end image description -->
+
 
 ## Vision
 
@@ -575,6 +687,9 @@ The We Company holds an indirect general partner interest and indirect limited p
 The diagram below is a simplified depiction of our organizational structure immediately following the completion of this offering:
 
 <!-- image -->
+**Image Description:** The image is a flowchart that illustrates the structure and relationships within a company's investment structure. It shows the flow of ownership and investment from the "General Partner" to the "We Company MC LLC," then to "Intermediate Subsidiaries," and finally to "We Company Partnership." The "We Company MC LLC" is further divided into "Class A common stock" and "Class B common stock," with percentages indicating the ownership of each class. The "We Company Partnership" is connected to the "We Company MC LLC" and is described as a "Certain members of our leadership team and their affiliates." The "WeWork Companies LLC" is depicted as a wholly-owned subsidiary with operations in various regions, including Asia, Europe, Middle East, Latin America, Africa, and Australia. The "ARK" is also listed as a subsidiary, but its specific role or ownership is not detailed in the image. The chart uses a simple color scheme with shades of green and blue, and the text is in a clear, sans-serif font.
+<!-- end image description -->
+
 
                                                             - (1) Corresponds to partnership interests in We Company Partnership held by certain members of our leadership team and their affiliates.
                                                             - (2) We own 80% of the general partner and manager of ARK, but our capital commitments to its underlying real estate acquisition vehicles and joint ventures generally represent a small percentage of the total committed capital.
@@ -1600,6 +1715,21 @@ We have proven that community, flexibility and cost-efficiency can benefit the w
 We have grown significantly since our inception. Our membership base has grown by over 100% every year since 2014 as we have added new members at a strong pace while also strengthening our relationships with existing members. Of the new memberships added in 2018, 35% were attributable to organizations that were already members at the end of 2017. Across our member community, we have high retention rates and expanding relationships, reflecting high member satisfaction with our platform. It took us more than seven years to achieve $1 billion of run-rate revenue, but only one additional year to reach $2 billion of run-rate revenue and just six months to reach $3 billion of run-rate revenue.
 
 <!-- image -->
+**Image Description:** The image is a graphical representation of a company's growth over time, specifically focusing on the number of memberships and revenue. It uses a line graph with a world map background, indicating the company's international expansion. The timeline on the bottom shows the years from 2010 to 2019, with each year marked by a vertical line.
+
+The graph shows a steady increase in the number of memberships, starting from 1 in 2010 and reaching 111 by 2019. The revenue also increases over time, starting from 0 in 2010 and reaching 527K by 2019. The revenue is represented by a line that rises steadily as the years progress.
+
+The graph uses a color scheme of teal for the line and white for the text and background, with the number of memberships and revenue highlighted in teal. The text is in a clear, sans-serif font, making it easy to read.
+
+Key statistics from the image include:
+- The number of memberships grew from 1 in 2010 to 111 in 2019.
+- The revenue grew from 0 in 2010 to 527K in 2019.
+- The company expanded into 111 cities by 2019.
+- The company reached 51B in revenue by 2019.
+
+The image is a visual tool used to communicate the company's growth and success over time, with a focus on its international expansion and increasing revenue.
+<!-- end image description -->
+
 
 As our business model evolves, our physical platform grows and our membership base expands, we expect to use the principles of demand aggregation to continue to offer a growing portfolio of products and services to meet our members' needs. Our established partner relationships, a suite of our own We Company offerings and the trust of hundreds of thousands of members across the globe allow us to deliver products and services to our members at scale. Our position as a demand aggregator with a global physical platform allows us to connect our members with third-party service providers with minimal incremental costs. We believe our partnerships with third-party service providers will be a driver of higher margin revenue growth, further increasing our opportunity. See 'Business-Our Global Platform'.
 
@@ -1616,6 +1746,15 @@ To evaluate our business, measure our performance, identify trends affecting our
 (in thousands)
 
 <!-- image -->
+**Image Description:** The image is a bar chart displaying data over a period of time, specifically from 2016 to 2019. The chart shows four vertical bars, each representing a different year. The height of each bar corresponds to a numerical value, which is indicated by the numbers at the top of each bar. The x-axis lists the years, while the y-axis represents the numerical values.
+
+The first bar is labeled "2016" and has a value of 107. The second bar is labeled "2017" and has a value of 214. The third bar is labeled "2018" and has a value of 466. The fourth bar is labeled "Q2 2018" and has a value of 301. The fifth bar is labeled "Q2 2019" and has a value of 604.
+
+The chart uses a solid orange color for the bars, and there is a dashed vertical line that intersects the fourth bar, suggesting a significant event or change in the data for that year. The background of the chart is white, and there are no additional graphics or text.
+
+The chart is a simple representation of data, with no additional context or information provided. It is a straightforward visual tool for comparing the values across the years.
+<!-- end image description -->
+
 
 Workstation capacity represents the estimated number of workstations available at open WeWork locations. As of June 1, 2019 we had workstation capacity of 604,000, up 101% from 301,000 as of June 1, 2018.
 
@@ -1628,6 +1767,13 @@ Workstation capacity is presented in this prospectus rounded to the nearest thou
 (in thousands)
 
 <!-- image -->
+**Image Description:** The image is a bar chart displaying data over a period of five years, from 2016 to 2019. The chart is divided into five vertical bars, each representing a year. The height of each bar corresponds to the value for that year, with the y-axis labeled "Q7" and the x-axis labeled "Year." The values on the y-axis are in increments of 100, starting from 0 and ending at 500.
+
+The first bar for 2016 is the shortest, with a value of 87. The second bar for 2017 is slightly taller, with a value of 186. The third bar for 2018 is the tallest, with a value of 401. The fourth bar for 2018 is the second tallest, with a value of 268. The fifth bar for 2019 is the tallest, with a value of 527.
+
+There is a dashed vertical line that intersects the second bar from 2017, suggesting a point of interest or significance. The chart is set against a white background, and the bars are colored in a shade of orange. The chart is designed to be clear and easy to read, with the values and years clearly labeled on the bars and the axis.
+<!-- end image description -->
+
 
 ## Table of Contents
 
@@ -1640,6 +1786,17 @@ Memberships are presented in this prospectus rounded to the nearest thousand. Me
 ## Enterprise Membership Percentage
 
 <!-- image -->
+**Image Description:** The image is a bar chart that displays the growth of a certain metric over a period of time. The chart is divided into five vertical bars, each representing a different year. The height of each bar corresponds to the value of the metric for that year. The x-axis lists the years from 2016 to 2019, while the y-axis shows the percentage values, ranging from 18% to 40%.
+
+The first bar, representing 2016, is the shortest, indicating the lowest value of 18%. The second bar, for 2017, is slightly taller, showing a value of 28%. The third bar, for 2018, is the tallest, reaching a value of 38%. The fourth bar, for the second quarter of 2018, is shorter than the third bar, indicating a value of 30%. The fifth bar, for the second quarter of 2019, is the tallest, showing a value of 40%.
+
+There is a dashed vertical line that runs through the center of the chart, dividing the data into two halves. This line does not correspond to any data point but is likely used to separate the two quarters of the data.
+
+The chart is designed to be straightforward and easy to read, with a clear distinction between the bars and the axis labels. The use of a dashed line helps to visually separate the two quarters of the data, making it clear that the values for the first and second quarters are different from those for the third and fourth quarters.
+
+In summary, the chart shows a general upward trend in the metric over the five-year period, with a significant increase from the second quarter of 2018 to the second quarter of 2019.
+<!-- end image description -->
+
 
 Enterprise memberships represent memberships attributable to enterprise members, which are organizations with 500 or more full-time employees. Enterprise membership percentage represents the percentage of our memberships attributable to these organizations. There is no minimum number of workstations that an organization needs to reserve in order to be considered an enterprise member. For example, an organization with 700 full-time employees that pays for 50 of its employees to occupy workstations at our locations would be considered one enterprise member with 50 memberships. As of June 1, 2019, 40% of our memberships were attributable to enterprise members, up from 30% as of June 1, 2018. For the six months ended June 30, 2019, enterprise members accounted for 38% of membership and service revenue, compared to 29% for the six months ended June 30, 2018.
 
@@ -1652,6 +1809,13 @@ Enterprise members are strategically important for our business as they typicall
 (in billions)
 
 <!-- image -->
+**Image Description:** The image is a bar chart that displays the year-over-year growth of a company or a product over a period of five years, from 2016 to 2019. The chart is divided into five vertical bars, each representing a year, with the height of the bar indicating the growth percentage. The x-axis is labeled "Year over year growth" and is marked with intervals of 102%, 112%, and 86%. The y-axis is labeled "Year" and shows the years from 2016 to 2019.
+
+The first bar represents the year 2016 with a growth percentage of 6%. The second bar represents the year 2017 with a growth percentage of 11%. The third bar represents the year 2018 with a growth percentage of 12%. The fourth bar represents the second quarter of 2018 with a growth percentage of 8%. The fifth bar represents the second quarter of 2019 with a growth percentage of 33%.
+
+The chart uses a solid orange color for the bars and a dashed vertical line to separate the years. The background of the chart is white, and there are no additional markings or annotations. The chart is designed to provide a clear visual representation of the company's or product's growth over the specified period.
+<!-- end image description -->
+
 
 Run-rate revenue for a given period represents our revenue recognized in accordance with GAAP for the last month of such period multiplied by 12. We view run-rate revenue as an operating metric, and it is not intended to be and should not be used as a replacement for or forecast of revenue reported in accordance with GAAP.
 
@@ -1662,6 +1826,15 @@ Given the growth we have experienced, we view run-rate revenue as a useful metri
 (in billions)
 
 <!-- image -->
+**Image Description:** The image is a bar chart displaying financial data over a period of four years, from 2016 to 2019. The chart is vertical, with the years listed on the x-axis and the financial values on the y-axis. The bars are colored in a shade of yellow, and the height of each bar corresponds to the financial value for that year.
+
+In 2016, the financial value is $0.1 billion. In 2017, it increases to $0.5 billion. In 2018, the value rises to $2.6 billion. The highest value is reached in 2019, where the financial value is $4.0 billion.
+
+The chart does not provide any context or labels for the x-axis, which are typically labeled with the years in a horizontal format. The y-axis is labeled with the financial values, but the specific units of measurement are not specified. The chart is simple and straightforward, with no additional elements or annotations.
+
+The data suggests a significant increase in financial value over the four-year period, with the most substantial growth occurring between 2018 and 2019. The chart is a useful tool for visualizing and comparing financial data over time.
+<!-- end image description -->
+
 
 Committed revenue backlog as of a given date represents total non-cancelable contractual commitments, net of discounts, remaining under agreements entered into as of such date, which we expect will be recognized as revenue subsequent to such date. For membership agreements with month-to-month commitments commencing in a future month, the contractual commitment recorded within committed revenue backlog is one month of revenue. Existing month-to-month membership agreements are not included in the calculation of committed revenue backlog.
 
@@ -1684,6 +1857,15 @@ We define 'contribution margin including non-cash GAAP straight-line lease cost'
 (in millions)
 
 <!-- image -->
+**Image Description:** The image is a bar chart that displays financial data over a period of five years, from 2016 to 2019. The chart is divided into three categories: "Contribution margin including non-cash GAAP straight-line lease cost," "Non-cash GAAP straight-line lease cost," and "Contribution margin excluding non-cash GAAP straight-line lease cost." Each category is represented by a different color: green for the first category, yellow for the second, and orange for the third.
+
+The x-axis represents the years, and the y-axis represents the contribution margin as a percentage of membership and service revenue. The chart shows that the contribution margin for the first category has increased from 2016 to 2018, reaching 12%, and then decreased slightly in 2019 to 10%. The contribution margin for the second category has remained relatively stable, with a slight increase from 2016 to 2018 and a slight decrease in 2019. The contribution margin for the third category has also remained relatively stable, with a slight increase from 2016 to 2018 and a slight decrease in 2019.
+
+The chart also includes a note at the bottom that states "As a % of membership and service revenue:" and provides a breakdown of the contribution margin for each category. The first category has a contribution margin of 11% in 2016, 8% in 2017, 12% in 2018, and 10% in 2019. The second category has a contribution margin of 21% in 2016, 19% in 2017, 16% in 2018, and 15% in 2019. The third category has a contribution margin of 22% in 2016, 27% in 2017, 28% in 2018, and 25% in 2019.
+
+Overall, the chart provides a visual representation of the contribution margin for different categories over a five-year period, with a focus on the impact of GAAP straight-line lease costs on the contribution margin.
+<!-- end image description -->
+
 
 The following table reconciles our loss from operations (the most directly comparable financial measure calculated in accordance with GAAP) to our contribution margin for the periods presented:
 
@@ -1729,6 +1911,15 @@ are comparable to the six months ended June 30, 2019. Our discussion and analysi
 (in millions)
 
 <!-- image -->
+**Image Description:** The image is a bar chart that illustrates the financial impact of different lease accounting methods on a company's revenue. The chart is divided into two main categories: "Membership & services revenue" and "Adjusted lease cost." The revenue is broken down into various components, including "Membership & services," "Adjusted lease cost," "Other adjusted location operating expenses," "Non-cash GAAP straight-line lease cost," "Contribution margin including non-cash GAAP straight-line lease cost," "Non-cash GAAP straight-line lease cost," and "Contribution margin excluding non-cash GAAP straight-line lease cost."
+
+The chart shows that the "Membership & services revenue" category has the highest revenue at $1,349, followed by the "Adjusted lease cost" category at $638. The "Other adjusted location operating expenses" category has a revenue of $371, while the "Non-cash GAAP straight-line lease cost" and "Contribution margin including non-cash GAAP straight-line lease cost" categories have revenues of $198 and $142, respectively. The "Non-cash GAAP straight-line lease cost" and "Contribution margin excluding non-cash GAAP straight-line lease cost" categories have revenues of $198 and $340, respectively.
+
+The chart also includes a note at the bottom that states the percentages are as follows: "47%," "28%," "15%," "11%," "15%," and "25%." These percentages likely represent the impact of each accounting method on the company's revenue.
+
+The chart is designed to provide a visual representation of the financial impact of different lease accounting methods on a company's revenue, with the revenue being broken down into various components. The use of bars and percentages allows for easy comparison of the impact of each accounting method.
+<!-- end image description -->
+
 
 ## Why do we believe contribution margin is useful?
 
@@ -1792,6 +1983,19 @@ For our mature locations, the impact of straight-lining of lease cost is typical
 (in millions)
 
 <!-- image -->
+**Image Description:** The image is a bar chart that presents financial data over a series of quarters, with a focus on the contribution margin including non-cash GAAP straight-line lease cost, non-cash GAAP straight-line lease cost, and contribution margin excluding non-cash GAAP straight-line lease cost. The chart is divided into two main sections: the top section shows the contribution margin including non-cash GAAP straight-line lease cost, and the bottom section shows the contribution margin excluding non-cash GAAP straight-line lease cost.
+
+The top section of the chart has a title that reads "Contribution margin including non-cash GAAP straight-line lease cost." It shows the contribution margin for each quarter from Q2 '17 to Q2 '19, with the contribution margin increasing from $13 in Q2 '17 to $74 in Q2 '19. The contribution margin for Q1 '19 is not provided in the chart.
+
+The bottom section of the chart has a title that reads "Contribution margin excluding non-cash GAAP straight-line lease cost." It shows the contribution margin for each quarter from Q2 '17 to Q2 '19, with the contribution margin increasing from $52 in Q2 '17 to $170 in Q2 '19. The contribution margin for Q1 '19 is not provided in the chart.
+
+The chart uses a color-coded legend to differentiate between the three types of contribution margins. The contribution margin including non-cash GAAP straight-line lease cost is represented by a green bar, the contribution margin excluding non-cash GAAP straight-line lease cost is represented by a yellow bar, and the contribution margin excluding non-cash GAAP straight-line lease cost is represented by a blue bar.
+
+The chart also includes a note at the bottom that states "As a % of membership and service revenue." This suggests that the contribution margins are being presented as a percentage of the company's membership and service revenue.
+
+The chart is designed to provide a visual representation of the company's contribution margin over time, with a clear distinction between the contribution margins including and excluding non-cash GAAP straight-line lease cost. The use of color-coding and a legend helps to differentiate between the three types of contribution margins.
+<!-- end image description -->
+
 
 The following table reconciles our loss from operations (the most directly comparable financial measure calculated in accordance with GAAP) to our contribution margin for the periods presented:
 
@@ -1862,6 +2066,17 @@ The remaining 12% of total revenue during the six months ended June 30, 2019 rep
 Our business is built on a global platform of physical locations where we offer access to workstations in exchange for membership fees. Over the past several years, we have demonstrated a track record of scaling our geographic footprint and our membership base while monetizing our open locations, in particular as they reach maturity. The lifecycle of a location refers to the process by which we source, build out and operate the location through our global-local playbook. We categorize this process into five phases: find, sign, build, fill and run.
 
 <!-- image -->
+**Image Description:** The image is a flowchart that outlines the process of a real estate investment strategy, specifically focusing on the stages of finding, signing, building, filling, running, and monetizing a property. The flowchart is divided into two main sections: "PRE-OPENING LOCATIONS" and "OPEN LOCATIONS."
+
+The "PRE-OPENING LOCATIONS" section includes four stages: "FIND," "SIGN," "BUILD," and "FILL." Each stage is represented by a colored bar, with the length of the bar indicating the number of workstations. For "FIND," there are 724k workstations, which is 39% of the total. For "SIGN," there are 327k workstations, which is 18% of the total. For "BUILD," there are 195k workstations, which is 10% of the total. For "FILL," there are 425k workstations, which is 23% of the total. For "RUN," there are 160k workstations, which is 10% of the total.
+
+The "OPEN LOCATIONS" section includes four stages: "Open," "Stabilize," "Invest to Scale Platform," and "Monetize Platform." Each stage is represented by a colored bar, with the length of the bar indicating the number of workstations. For "Open," there are 180k workstations, which is 10% of the total. For "Stabilize," there are 24+ months, which is 30% of the total. For "Invest to Scale Platform," there is no specific number given, but it is implied that it is a continuation of the process. For "Monetize Platform," there is no specific number given, but it is implied that it is a continuation of the process.
+
+The flowchart also includes a section for "MONETIZE PLATFORM," which includes two sub-points: "Generate revenue and contribution margin" and "Achieve breakeven occupancy." These sub-points suggest that the strategy involves generating revenue and improving the occupancy rate of the properties to achieve financial stability.
+
+Overall, the flowchart provides a visual representation of the steps involved in a real estate investment strategy, from finding and signing to running and monetizing the properties.
+<!-- end image description -->
+
 
 As of June 1, 2019. 'Find' phase includes locations that are the subject of either a term sheet exchanged (whether or not executed) or a draft lease agreement exchanged (but not yet executed). Historically, not all locations that are the subject of a term sheet or a draft lease agreement will become the subject of a signed lease agreement. 'Sign' phase includes locations that are the subject of a lease agreement that has been signed but with respect to which we have not taken possession and no lease cost expense has been recognized. 'Build' phase includes locations that are the subject of a lease agreement that has been signed and with respect to which we have taken possession and lease cost expense has been recognized, but which have not yet opened to members. 'Fill' phase includes locations that have been open to members for 24 months or less. 'Run' phase includes locations that have been open to members for more than 24 months.
 
@@ -1870,8 +2085,20 @@ As of June 1, 2019. 'Find' phase includes locations that are the subject of eith
 Our locations have distinct revenue, expense and capital cost profiles through each phase of their lifecycle. First, we incur growth and new market development expenses associated with our real estate team that is responsible for finding new locations and negotiating lease terms. Once we take possession of a space, we incur growth and new market development expenses associated with our design and construction teams as well as capital costs related to building out our spaces. In this phase, we also begin our efforts to fill our spaces, and we incur sales and marketing expenses associated with our sales teams, advertising campaigns and fees paid to brokers who sell memberships, particularly to enterprise organizations. After a location opens, we begin generating revenue and contribution margin as we further fill and run the spaces. Once a location has been open to members for more than 24 months, occupancy is generally stable and the location typically generates a recurring stream of cash flows.
 
 <!-- image -->
+**Image Description:** The image is a graphical representation of the WeWork Lease model, which is a type of real estate investment trust (REIT) that leases office space to tenants. The model is divided into four stages: location signing, location possession, location opening, and location maturity. The timeline on the x-axis shows the progression of time from -24 months to 24 months, with the breakeven point marked at 0 months. The y-axis represents the financial metric, which is not explicitly labeled but can be inferred as the return on investment (ROI) or profit margin.
+
+The graph shows a positive trend, indicating that as the lease matures, the ROI increases. The WeWork Lease model is known for its ability to generate significant returns through the lease of office space, which is expected to continue growing as the lease terms progress. The breakeven point is marked at 0 months, which suggests that the model is designed to generate revenue from the lease as soon as the property is leased.
+
+The graph also includes a note that the WeWork Lease model includes Capex & Opex, which are the costs associated with the initial investment in the property and ongoing expenses such as maintenance and utilities. This note is important for understanding the full cost structure of the investment.
+
+The image is a visual aid to help investors understand the potential returns and financial performance of the WeWork Lease model over time. It is a common tool used in the real estate industry to analyze the financial viability of investment opportunities.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a graphical representation of the lifecycle of a company's investment strategy, specifically focusing on the transition from a "Breakeven" phase to a "Management Agreements" phase. The timeline is marked with months, starting from -24 months and ending at 24 months. The timeline is divided into three sections: "Location signing," "Location possession," and "Location opening." The "Breakeven" phase is marked by a shaded area, indicating the point at which the company's revenue equals its expenses. The "Management Agreements" phase is characterized by a solid line, suggesting a more stable and profitable phase. The graph also includes a note indicating that the "WeWork Lease" is a "Management Agreements" only option. The x-axis is labeled "Invest to scale platform" and the y-axis is labeled "Monetize platform," with the latter being the primary focus of the graph. The graph uses a combination of colors and arrows to differentiate between the phases and the types of agreements.
+<!-- end image description -->
+
 
 As we build and open more locations in existing and new markets, we create additional workstation capacity that lays the foundation for incremental revenue and future profits. As a space-as-a-service platform, we compare the lifetime value we can create from incremental capacity to the cost of creating that incremental capacity. We estimate that with every $1 billion in net capital expenditures we invest in opening new workspaces, we can create workstation capacity of approximately 273,000 workstations, based on our net capex per workstation added for projects completed in the first half of 2019. See 'Management's Discussion and Analysis of Financial Condition and Results of Operations-Capital Expenditures and Tenant Improvement Allowances' for an explanation of net capex per workstation added and see the 'Build' section below for a calculation of net capex per workstation added in the first half of 2019.
 
@@ -1918,6 +2145,9 @@ have done in India, under which the building owner funds all capital expenditure
 ## Number of Leases Signed (1)
 
 <!-- image -->
+**Image Description:** The image is a bar chart with a vertical axis representing numerical values and a horizontal axis listing years. The chart shows three bars, each representing a different year. The height of each bar corresponds to the numerical value it represents. The first bar is labeled "2016" and has a value of 64. The second bar is labeled "2017" and has a value of 139. The third bar is labeled "2018" and has a value of 331. The chart is set against a light background, and the bars are colored in a shade of teal. There are no additional elements or annotations within the chart. The chart is a simple representation of data over three years, with a clear and straightforward layout.
+<!-- end image description -->
+
 
 2018
 
@@ -1951,10 +2181,16 @@ We incur the majority of our gross capital expenditures to build out our spaces 
 ## Average Months to Open from Possession Date
 
 <!-- image -->
+**Image Description:** The image is a bar chart with two vertical bars representing different categories. The first bar is labeled "we" and has a value of 5, while the second bar is labeled "vs. Market" and has a value of 9. The chart is set against a plain white background, and there are no additional elements or text. The chart is designed to compare the values of two different categories, with the "vs. Market" category having a higher value than the "we" category. The chart is a simple and straightforward representation of data, with no additional context or information provided.
+<!-- end image description -->
+
 
 ## Net Capex per Workstation Added (3)
 
 <!-- image -->
+**Image Description:** The image is a bar chart that displays a reduction in costs over a period of time. The chart shows a decrease in costs from $7,289 in 2014 to $3,661 in 2019. The reduction is indicated by a downward arrow and the text "50% Reduction" next to it. The chart is divided into five bars, each representing a year from 2014 to 2019, with the height of each bar corresponding to the cost reduction for that year. The bars are colored in a shade of green, and the chart has a title at the top that reads "Cost Reduction." The x-axis lists the years, and the y-axis shows the cost reduction in dollars. The chart is designed to visually represent the financial data over the specified period.
+<!-- end image description -->
+
 
 During the build phase, locations incur pre-opening location expenses consisting primarily of lease cost expense. Given the impact of free-rent periods, lease cost expense recorded in accordance with GAAP typically exceeds cash payments required to be made during this phase. Of the lease cost expense included within pre-opening location expenses in the year ended December 31, 2018, approximately 85% was non-cash expense. We also begin to incur sales and marketing expenses during this phase as our global-local sales team begins to sell memberships.
 
@@ -1976,8 +2212,28 @@ During this phase, we focus on optimizing utilization of space at our locations 
 ## Enterprise Membership Percentage
 
 <!-- image -->
+**Image Description:** The image is a bar chart displaying data over a period of four years, from 2016 to 2019. The chart is designed to show the percentage increase in a certain metric over time. The y-axis represents the percentage, ranging from 0% to 40%, with increments of 10%. The x-axis lists the years in a sequential order from 2016 to 2019.
+
+The bars are colored in a shade of red, and each bar's height corresponds to the percentage value for that year. The heights are as follows:
+- 2016: 18%
+- 2017: 28%
+- 2018: 38%
+- 2019: 40%
+
+The chart is simple and straightforward, with no additional elements or annotations. It is a clear visual representation of the data, allowing for easy comparison of the percentage increase over the four years. The data suggests a consistent growth trend, with the highest percentage increase occurring in 2019.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a line graph with three lines, each representing a different year from 2016 to 2018. The x-axis is labeled "At opening," "+3 months," and "+6 months," indicating the time frame for the data points. The y-axis is labeled "%," which suggests that the values represent percentages.
+
+The graph shows three data points for each year, with the percentage values increasing from left to right. The line for 2016 starts at 44% and ends at 64%. The line for 2017 starts at 51% and ends at 69%. The line for 2018 starts at 52% and ends at 84%.
+
+The graph uses a color-coding system to differentiate between the years: red for 2016, orange for 2017, and yellow for 2018. The lines are connected by solid lines, and the data points are marked with circles. The graph is set against a white background, and there are no additional elements or annotations.
+
+The graph is a visual representation of data trends over time, showing an increase in the percentage values for each year. The trend appears to be positive, with the percentage values increasing each year. The graph is a useful tool for comparing the growth rates of different variables over time.
+<!-- end image description -->
+
 
 Our ability to monetize our growing platform depends on our ability to grow our membership base. Over time, our sales and marketing efforts have become more efficient and we have been improving the speed at which we fill our locations, as we are increasingly targeting enterprises who typically sign membership agreements with longer-term commitments. Enterprises often use third-party brokers to help them manage their real estate needs. As we intend to further grow our enterprise membership base, we expect to continue making use of third-party brokers to help us attract new enterprise members, and we expect that sales and marketing expenses associated with broker referral fees may grow in line with these efforts. Our enterprise membership percentage increased from 28% as of December 31, 2017 to 40% as of June 30, 2019. We also expect the use of discounts to help drive initial occupancy and longer-term commitments, which we expect will have a significant impact on our financial performance.
 
@@ -1997,6 +2253,9 @@ At this phase, the community team, which includes a dedicated sales lead at each
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a bar chart titled "Membership Retention" with a subtitle "Net membership retention rate" and a subtitle "Memberships attributable to members who joined in:". The chart is divided into three sections, each representing a different year from 2016 to 2019. The top section shows the percentage of new memberships from existing members, with a percentage of 35% for 2018. The middle section displays the net membership retention rate, with a percentage of 119% for 2018. The bottom section indicates the number of memberships attributable to members who joined in each year, with the numbers being 1000, 1200, 1400, and 1600 for 2016, 2017, 2018, and 2019 respectively. The chart uses a color gradient to represent the data, with darker shades indicating higher values. The chart is designed to visually compare the trends in membership retention over the three years.
+<!-- end image description -->
+
 
                                                                                                                                                                                     - (1) Our net membership retention rate of 119% for the period from December 1, 2017 to December 1, 2018 illustrates our ability to increase the penetration of our existing members over that period. We calculate our net membership retention rate for a given period (in this case, from December 1, 2017 to December 1, 2018) by dividing (1) the total number of WeWork memberships as of the last day in the period from all members that had at least one WeWork membership as of the first day of the period by (2) the total number of WeWork memberships from those same members as of the first day of the period. This member-based net retention rate reflects any expansion in WeWork memberships and is net of contraction or attrition over the period, but excludes WeWork memberships from new members added during the period. Our net membership retention rate also excludes WeWork memberships attributable to IndiaCo locations.
 
@@ -2017,8 +2276,14 @@ The financial performance of our locations generally improves as they progress t
 ## Run-Rate Revenue
 
 <!-- image -->
+**Image Description:** The image is a bar chart with two vertical bars representing data for two different time periods. The bar on the left is labeled "Q1 '17" and has a height of 67,000 units, while the bar on the right is labeled "Q2 '19" and has a height of 189,000 units. There is an arrow pointing upwards from the "Q1 '17" bar, indicating an increase. The chart is set against a white background, and the text is in black. The chart is a visual representation of data growth over time, with the "Q2 '19" bar being significantly taller than the "Q1 '17" bar, suggesting a substantial increase in the measured quantity.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a bar chart with a title that reads "millions" at the top, indicating that the data is presented in millions of a certain unit. The chart has two vertical bars, one for the first quarter of 2017 and one for the second quarter of 2019. The first bar is labeled with "$523 million" and the second bar is labeled with "$1,428 million." There is an arrow pointing upwards from the first bar to the second bar, with the text "173% increase" indicating that the value of the second bar is 173% greater than the value of the first bar. The chart is designed to show a significant increase in the value of the second bar compared to the first bar over the two-year period.
+<!-- end image description -->
+
 
 Our contribution margin excluding non-cash GAAP straight-line lease cost in these developed markets has continued to grow as a percentage of membership and service revenue over this time period and was approximately nine percentage points higher than for our open locations on a consolidated basis for the three months ended June 30, 2019.
 
@@ -3285,36 +3550,80 @@ We have availed ourselves in this prospectus of the reduced reporting requiremen
 When we are no longer deemed to be an emerging growth company, we will not be entitled to the exemptions provided in the JOBS Act discussed above.
 
 <!-- image -->
+**Image Description:** The image contains a stylized text that reads "DROP INTO THE WORLD OF WE." The text is designed in a way that suggests a sense of movement or transition, with the letters appearing to be in motion. The color of the text is a gradient of yellow, which gives it a warm and inviting feel. The background is plain white, which contrasts with the text and makes it stand out. The font used for the text is sans-serif, which is modern and clean. There are no other objects or elements in the image, and the focus is solely on the text. The text does not contain any additional graphics or images, and there are no discernible actions taking place. The overall impression is one of simplicity and modernity.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a collage of four photographs, each featuring a different individual, with the central theme being the concept of community and workplace. The top left photo shows a woman with short hair, wearing a black t-shirt with the word "Welcome" in white letters, smiling and looking directly at the camera. The top right photo depicts a man with dreadlocks, wearing a red shirt, standing on a couch with his arms raised in a welcoming gesture, and smiling. The bottom left photo features a woman with short hair, wearing a striped top, sitting in a chair with a laptop on her lap, smiling at the camera. The bottom right photo shows a woman with long hair, wearing a blue jacket with the word "We" on the front, standing in a hallway with a laptop on her lap, smiling at the camera.
+
+The text in the image includes the phrase "Welcome Home" at the top, suggesting a theme of returning to a community or workplace. The text also includes the names of individuals, such as "Chandra Gurung," "Jose Imaz Del Rio," and "Lewis Liu," along with their titles, indicating that these individuals may be part of a community or workplace initiative. The text also mentions "Community Services Associate" and "Community Manager," which implies that the individuals are involved in community-related services or management roles.
+
+The overall tone of the collage is positive and welcoming, with the individuals appearing happy and engaged. The images are well-lit, with a focus on the individuals, and the backgrounds are blurred, emphasizing the subjects. The collage seems to be designed to convey a sense of community and belonging, possibly for a company or organization that values its employees and community engagement.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a collage of two photographs placed side by side. On the left, there is a woman seated at a table in a café setting. She is wearing a red sleeveless top and has blonde hair. She is smiling and looking to her left with a relaxed posture. On the table in front of her is a notebook, a pen, and a smartphone. The background is a modern café interior with wooden paneling and a large window.
+
+On the right, there is an interior view of a building with a sign that reads "BUDGET DE PARIS CAISE CENTRALE." The building has a classical architectural style with columns and a dome. The entrance is visible, and there are people walking through the space. The sky is visible through the windows, and there is a large, slender tower in the background, which is the Eiffel Tower.
+
+The text in the image includes a quote from Amandine Degotte, a member of Client Development Manager at WeWork, who describes the company as a luxury fashion brand that offers an opportunity to evolve in an open-minded, creative, and stimulating work environment. The text also mentions that the company is located at 33 rue la Fayette in Paris.
+
+The image is designed to convey a sense of professionalism and creativity, with the woman's relaxed demeanor contrasting with the formal and structured environment of the building on the right. The inclusion of the Eiffel Tower suggests a connection to Paris, which is known for its fashion industry and cultural significance.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image depicts a scene from a coffee shop, specifically focusing on the interaction between a customer and a barista. The customer, a woman with long blonde hair, is handing over a white cup to the barista, who is wearing a white shirt with a black scarf and a name tag. The barista is smiling and appears to be in the process of serving the customer. The counter is made of a dark material, possibly granite, and has a glass top. Behind the counter, there is a menu board with a black background and white text, listing various coffee and tea options. The wall behind the counter is tiled in white, and there are two blue pendant lights hanging from the ceiling. The overall atmosphere of the image is bright and inviting, with a focus on the service provided by the coffee shop.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a composite of two photographs placed side by side. On the left, there is a woman seated at a reception desk with a laptop and a tablet in front of her. She is wearing a black top and a skirt, and her hair is pulled back. On the right, there is a man standing in an office setting with his arms crossed. He is wearing a gray suit and glasses, and he is smiling. The background of both images is an office environment with wooden floors, shelves, and plants. The left image has a caption that reads "JULIA MARESCA, MEMBER | Director, Large Enterprise SLACK | Global collaboration hub," and the right image has a caption that reads "WEIZHONG ZHU, MEMBER | COO LI & FUNG | Global supply chain and logistics leader." The text on the desk in the left image reads "Headquarters by WeWork." The overall tone of the image is professional and promotional, likely intended to showcase the work environment and leadership of the company.
+<!-- end image description -->
+
 
 rgy, and that warm, invit ng vibe that we would have in our home lives. Headquarte s by WeWork 71 5th Avenue New York City
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a composite of two photographs placed side by side. On the left, there is a man seated at a desk with a wooden surface, wearing a pink shirt and glasses. He has a relaxed posture with his hands clasped in front of him. His expression is friendly and approachable. The background is a blurred office setting with a wooden wall and a large window, suggesting an indoor environment.
+
+On the right, there is a professional office space with a modern design. The room is well-lit with natural light coming from the windows, and the walls are painted white. There are several people seated on red sofas, engaged in various activities such as reading, working on laptops, and conversing. A large wall with the slogan "FOREVER FASTER. PUMA" is visible, indicating the presence of a Puma branding element. The office is equipped with bookshelves filled with books and office supplies, and there is a large table with a computer monitor and other office equipment.
+
+The image does not contain any discernible text apart from the slogan on the wall. The overall impression is of a professional and collaborative work environment, possibly within a corporate or branding office setting. The man's attire and the office's decor suggest a focus on branding and design.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a composite of two photographs placed side by side. On the left, there is a man seated on a bench in a modern office setting. He is wearing a light-colored long-sleeve shirt and dark pants, and he is smiling at the camera. The office has a contemporary design with a mix of wooden and metal furniture, and there are plants and artwork on the walls. The man appears to be in a relaxed posture, suggesting a casual or informal work environment.
+
+On the right, there is a woman seated on a couch in a cozy, well-lit room. She is wearing a white blouse and blue jeans, and she is smiling at the camera. The room has a warm and inviting atmosphere with wooden paneling and a large, colorful mural on the wall. The woman is positioned in a way that suggests she is comfortable and at ease in her surroundings.
+
+The text in the image includes a quote from Meg Chen, a member of Alibaba's digital marketing team, which discusses the company's culture and values. The quote emphasizes trust, mission, customer support, and open spaces for conversation, work, and comfort. The text is part of a larger document or publication, as indicated by the presence of the Alibaba logo and the title "China Overseas Tower."
+
+The overall impression is that the image is designed to convey a sense of professionalism and approachability, possibly for a corporate or business-related context. The images are well-composed, with a clear focus on the individuals and the setting, which suggests that the content is intended to be engaging and informative.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a collage of four photographs, each depicting a different individual in various settings. The top left photo shows a man seated at a desk with a laptop, smiling and looking towards the camera. The top right photo features a man in mid-air, performing a handstand, with a blue railing and a potted plant in the background. The bottom left photo shows a man scuba diving underwater, with a clear blue sky and bubbles around him. The bottom right photo depicts a man walking on a wooden floor, with a colorful striped wall in the background and a quote about LGBTQ+ pride. The text in the image includes names and titles, suggesting that these individuals are members or founders of a company or organization, and the text also mentions "OUTWORDS," which could be the name of the company or a project. The overall theme of the collage seems to be related to diversity, community, and possibly environmental or social causes, as indicated by the presence of the scuba diver and the quote about LGBTQ+ pride.
+<!-- end image description -->
+
 
 WeWork has be
 
@@ -3351,42 +3660,85 @@ r stories from acros
 America
 
 <!-- image -->
+**Image Description:** The image is a collage of three photographs that seem to capture moments from a series of events or activities. The top left photo shows a person with a joyful expression, wearing a t-shirt with the phrase "ALWAYS LOVE" and holding a colorful object. The top right photo features two individuals, one holding a microphone and the other with a camera, suggesting they might be at a live event or performance. The bottom left photo depicts a crowd of people, possibly at a concert or festival, with a person in the foreground wearing a t-shirt with the word "WeWork" and another person in the background. The bottom right photo shows a person in a crowd, with another individual embracing them, indicating a moment of connection or celebration. The text "NYC Pride Parade 2017" and "WeWork Annual Employee Summit 2019" are visible, suggesting that the images are related to events in New York City, one being a pride parade and the other a workplace event. The collage seems to be highlighting the diversity of experiences and the presence of the WeWork brand in various settings.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a composite of two photographs placed side by side, each featuring a man in a different setting. The man on the left is standing indoors with a relaxed posture, wearing a dark green T-shirt and blue pants, with his hands in his pockets. He is smiling and looking directly at the camera. The man on the right is seated at a desk with a laptop in front of him, wearing a purple polo shirt and glasses, with his hands on his hips. He is smiling and looking towards the camera.
+
+The backgrounds of both photographs are colorful and feature text and graphics. The left photograph has a green background with the text "NATE SAETE, MEMBER | SMB Strategy and Operations | STRIPE | Global online payments platform" and a quote from Nate Saete. The right photograph has a white background with the text "SAN JOSE" and a quote from Eric Yuan, who is identified as a member and founder of CEO. The text in both photographs suggests that the images are part of a professional profile or promotional material for the individuals. The overall tone of the image is professional and friendly.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a split-screen photograph featuring two individuals in different settings. On the left, a woman is seated outdoors on a tiled surface, wearing a plaid jacket, a white turtleneck, and earrings. She is holding a brown handbag with a floral pattern and a black mug with a white design. The background shows a clear blue sky and a row of green plants. On the right, a man is standing indoors, wearing a black shirt with a polka dot pattern, yellow boxing gloves, and a black beard. He is holding a yellow boxing glove to his face. The background is a warm, orange-yellow color with a neon sign.
+
+The image contains text that provides quotes and descriptions of the individuals. The left side of the image has a quote from Aimee Song, founder of WeWork, describing herself as a fashion and lifestyle brand. The right side has a quote from Mike Steadman, founder and CEO of Ironbound Boxing, describing his role as an entrepreneur and his approach to working and networking with like-minded people. The text is in a mix of serif and sans-serif fonts, and the font sizes vary to emphasize certain words.
+
+The overall tone of the image is professional and promotional, likely intended for a fashion or lifestyle brand advertisement. The image is well-composed, with the two individuals positioned to create a narrative about their personalities and the brands they represent.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a composite of two photographs placed side by side. On the left, there is a woman with long brown hair, wearing a white blouse, smiling and looking to her left. She has a relaxed posture and is positioned in a way that suggests she is engaged in a conversation or listening to someone. On the right, there is a man with short black hair, wearing a blue and white checkered shirt, glasses, and dark pants. He is standing with his hands in his pockets and is smiling, looking directly at the camera.
+
+The background on the left is blurred, but it appears to be an indoor setting with neutral colors. The background on the right is a wooden wall with a neon sign that reads "LIZT" in a stylized font. Below the sign, there is a wooden table with a plant on it, and the wall has a wooden texture. The overall tone of the image is warm and inviting, with a focus on the individuals and the setting.
+
+There are no discernible texts other than the neon sign and the name "LIZT" on the wall. The image does not contain any other objects or people that can be counted or described in detail. The description is based solely on the visible content of the image and does not include any assumptions or interpretations beyond what can be seen.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a professional photograph likely used for a corporate or promotional purpose, showcasing a workspace environment. The main subjects are two individuals engaged in a conversation, seated on a sofa with a coffee table in front of them. The table holds a variety of items, including books, which may suggest a focus on knowledge or collaboration. The background features a bookshelf filled with books, indicating a setting that values literature or learning. The presence of the Thrive Global logo suggests that the image is related to the company, which is known for its work in the field of behavior change. The overall setting is designed to convey a sense of professionalism, creativity, and a focus on work-life balance.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a composite of three photographs that depict different settings within a collaborative workspace. The left photograph shows an outdoor conference room at WeWork Devonshire Square, characterized by a wooden structure with a glass roof, where individuals are seated at tables, engaged in conversation or work. The right photograph captures an indoor conference room at WeWork Mill Valley, featuring a large mural with the phrase "AFFIRMATIVE, I READ YOU" and a group of people working at a table, with one person using a laptop. The central photograph is a wall mural with a blue background and yellow geometric patterns, and the text "TOKYO Conference room at WeWork Noguchi" is visible, indicating the location of the room. The overall theme of the collage is the concept of collaboration and workspaces designed for productivity and creativity.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a composite of three separate photographs, each featuring a different individual and a different setting. The top left photograph shows a woman with blonde hair, wearing a beige sweater and blue jeans, seated on a couch with a green plant in front of her. She is smiling and looking directly at the camera. The top right photograph depicts a man with a beard and glasses, standing in an office environment, gesturing with his hands as if he is explaining something. The bottom left photograph shows a woman sitting on a couch in a cozy, well-lit room with a bookshelf in the background, surrounded by plants and a vase with flowers. The bottom right photograph displays a man sitting at a desk in a modern office space with a large window, looking at a laptop screen. The text overlays on the image provide quotes and descriptions of the individuals and the setting, suggesting that the image is used for promotional or informational purposes, possibly for a company or a workspace.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a promotional photograph for The Good Food Institute, featuring two individuals in a setting that suggests a relaxed, professional environment. The woman is seated on a chair with a red cushion, wearing a red blouse and black pants, with her legs crossed. She is smiling and looking directly at the camera. The man is seated on a chair with a blue cushion, wearing a blue shirt and dark pants, with his legs crossed and his hands resting on his lap. He is smiling and looking towards the camera. In front of them is a small round table with a white potted plant on it. The background is a wall covered with green plants, which adds a natural element to the setting. The floor is tiled, and the overall atmosphere is one of comfort and professionalism. The text in the image includes the names of the individuals and the organization they are associated with, as well as the location, India.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a composite of three separate photographs, each depicting a different scene. The top photograph shows a couple standing on a rooftop, overlooking a cityscape. The cityscape is blurred, suggesting a focus on the couple and the rooftop. The bottom left photograph captures a group of people seated on bean bags, engaged in conversation. The bottom right photograph shows a social gathering on a rooftop terrace, with individuals playing pool and others standing and conversing. The text overlays suggest that the images are related to a location called "MEXICO CITY" and "BOGOTA," which are likely the names of the cities depicted. The text also mentions "WeWork Insurgentes," which could be the name of the company or the location where the photographs were taken. The overall impression is of a social and leisurely atmosphere, possibly highlighting the amenities and experiences offered by the location.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a collage of six photographs, each featuring a different location with the "WeWork" logo prominently displayed. The first photograph shows a couple walking on a large, flat surface with the word "WeWork" written on it. The second photograph depicts a cityscape with high-rise buildings and a clear sky. The third photograph shows a modern building with a glass facade and the "WeWork" logo. The fourth photograph features a woman walking past a building with a large glass door and the "WeWork" logo. The fifth photograph displays a city skyline with a building that has a distinctive curved roof. The final photograph shows a cityscape with a modern building and the "WeWork" logo. The images are taken during the daytime and the lighting suggests a clear, sunny day. The buildings and the skyline are predominantly in shades of gray, blue, and green. The "WeWork" logo is consistent across all images, indicating that the photographs are likely part of a promotional or informational series about the WeWork brand.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image captures a moment of celebration or recognition, likely at an awards ceremony, given the confetti and the presence of an audience. The individuals in the foreground are the focus, with their embrace suggesting a shared moment of joy or achievement. The person in the center is holding a microphone, which could indicate they are a speaker or performer. The attire of the individuals is casual yet presentable, suitable for a public event. The confetti adds a festive atmosphere, and the audience's attention is directed towards the stage, indicating that the event is well-attended. The text "LOS ANGELES" and "Creator Awards Finals 2019" suggests that this is a special event related to the Creator Awards, which is an annual event honoring creators in the entertainment industry. The image does not provide any direct information about the specific nature of the event or the identities of the individuals, but it conveys a sense of accomplishment and community.
+<!-- end image description -->
+
 
 LOS ANGEL
 
@@ -3403,6 +3755,9 @@ In early 2010, we opened our doors to our first member community at 154 Grand St
 ## Our Global Platform
 
 <!-- image -->
+**Image Description:** The image is a stylized representation of a world map with a network overlay. The map is monochromatic, using shades of gray to depict the continents and oceans. The network is composed of lines connecting various points, which are likely to represent cities or locations. The lines are uniform in width and color, suggesting a digital or graphical representation rather than a physical map. The image does not provide any specific geographical or political information, and there are no discernible landmarks or names that could be used to identify real-world locations. The focus is on the interconnectedness of the locations represented by the points on the map.
+<!-- end image description -->
+
 
 Table of Contents
 
@@ -3421,6 +3776,9 @@ We have proven that community, flexibility and cost-efficiency can benefit the w
 We start by looking at space differently: as a place to bring people together, build community and enhance productivity. Philosophically, we believe in bringing comfort and happiness to the workplace. We employ over 500 designers and architects who work relentlessly to create spaces that are beautiful but simple, elevated but approachable, global yet locally unique, all delivered at a high quality without the associated expense. Next, we add a team of over 2,500 trained community managers who foster human connection through collaboration and holistically support our members both personally and professionally. Lastly, with a persistent dedication to improving the member experience, we add products and services to our platform, either by building them ourselves, acquiring them or entering into partnerships. The entire member experience is powered by technology designed to enable our members to manage their own space, make connections among each other and access products and services, all with the goal of increasing our members' productivity, happiness and success.
 
 <!-- image -->
+**Image Description:** The image depicts a modern office space with a focus on a collaborative and creative environment. The presence of the "Li & Fung's Powered by We space, Shanghai" text suggests that this is a workspace designed for innovation and teamwork, possibly a co-working space or a corporate office. The individuals in the image are engaged in various activities, such as reading, working on laptops, and using smartphones, which indicates a work-oriented atmosphere. The colorful mural adds a vibrant and creative touch to the space, which may be intended to inspire and energize the occupants. The design elements, such as the minimalist furniture and the use of natural light, contribute to a contemporary and professional setting. The image does not provide any direct information about the specific occupants or the exact nature of the work being done, but it does convey a sense of a dynamic and collaborative work environment.
+<!-- end image description -->
+
 
 80% of members report increased productivity since joining our community
 
@@ -3439,6 +3797,15 @@ Technology is at the foundation of our global platform. Our purpose-built techno
 ## Cost Per Employee: WeWork Versus Standard Lease
 
 <!-- image -->
+**Image Description:** The image is a bar chart comparing the costs of different lease options for a company. The chart is divided into three sections, each representing a different lease option: "Standard lease + build-out + operations," "Standard lease + operations," and "wework." The costs are presented in two formats: the total cost and the savings percentage.
+
+The first section shows the total cost for the "Standard lease + build-out + operations" option, which is $21,594. The second section shows the total cost for the "Standard lease + operations" option, which is $17,158. The third section shows the total cost for the "wework" option, which is $7,304.
+
+The chart also includes a note that there are "66% savings" for the "Standard lease + build-out + operations" option, and "57% savings" for the "Standard lease + operations" option. These savings percentages are likely based on the comparison of the total costs between the two lease options.
+
+The chart is designed to visually represent the financial benefits of choosing the "Standard lease + build-out + operations" option over the "Standard lease + operations" option, as well as the savings associated with the "wework" option. The use of bold text for the savings percentages draws attention to the financial advantages of the "Standard lease + build-out + operations" option.
+<!-- end image description -->
+
 
                                                                                                                                                                                                     - (1) Sources: Building Owners and Managers Association (BOMA); CoStar Office Market Statistics; International Facility Management Association (IFMA); CBRE Office Occupancy Costs; Cushman Global Occupancy Report 2017; and third-party research. Comparison data represents annualized costs based on an average of ten select city centers in the United States, Europe, South America and Asia that are representative of our key markets. 'Standard lease' includes the costs associated with food and beverage, events, utilities, insurance, property taxes, facilities management and base rent. 'Build-out' includes the costs associated with construction, procurement and design services offset by a tenant improvement allowance amortized over an illustrative five-year lease.
                                                                                                                                                                                                     - (2) Represents average revenue per WeWork membership for the six months ended June 30, 2019 across the same ten select city centers as above.
@@ -3454,6 +3821,15 @@ As we expand, we continue to add new members at a strong pace while also strengt
 ## Membership Retention
 
 <!-- image -->
+**Image Description:** The image is a bar chart that presents data on the growth of memberships over time. It shows the percentage of new memberships from existing members for the years 2016, 2017, and 2018, as well as the net membership retention rate. The chart is divided into three sections, each representing a year.
+
+The top section of the chart indicates that there was a 35% increase in new memberships from existing members in 2018 compared to 2016. The middle section shows a 119% increase in the net membership retention rate. The bottom section of the chart displays the memberships attributable to members who joined in the years 2016, 2017, and 2018.
+
+The chart uses a color gradient to differentiate between the years, with each year represented by a distinct color. The x-axis is labeled "Dec-17" and "Dec-18," indicating the time period for each year. The y-axis is labeled "Memberships," with the percentage values and the net membership retention rate provided for each year.
+
+The chart is sourced from a report by the National Association of Realtors, as indicated by the logo in the bottom left corner. The data is presented in a clear and concise manner, with each section of the chart providing specific information about the growth of memberships and the retention rate.
+<!-- end image description -->
+
 
                                                                                                                                                                                                         - (1) Our net membership retention rate of 119% for the period from December 1, 2017 to December 1, 2018 illustrates our ability to increase the penetration of our existing members over that period. We calculate our net membership retention rate for a given period by dividing (1) the total number of WeWork memberships as of the last day in the period from all members that had at least one WeWork membership as of the first day of the period by (2) the total number of WeWork memberships from those same members as of the first day of the period. See 'Management's Discussion and Analysis of Financial Condition and Results of Operations-Our Business Model'.
 
@@ -3464,6 +3840,9 @@ Large enterprises are increasingly recognizing the value proposition of our glob
 ## Enterprise Membership Percentage
 
 <!-- image -->
+**Image Description:** The image is a bar chart with two vertical bars representing data points. The bar on the left is labeled "3/31/17" and has a height of 20%, while the bar on the right is labeled "6/30/19" and has a height of 40%. The chart is set against a white background, and there are no additional elements or text present. The chart is a simple representation of data, likely used to compare two different time periods or categories. The exact context or the nature of the data is not provided in the image.
+<!-- end image description -->
+
 
 of our 100 enterprise members have memberships in more than one country top
 
@@ -3472,8 +3851,14 @@ We monetize our platform through a variety of means, including selling membershi
 ## Committed Revenue Backlog
 
 <!-- image -->
+**Image Description:** The image is a bar chart with two vertical bars representing data over two different time periods. The first bar is labeled "12/31/17" and has a value of $0.5B. The second bar is labeled "6/30/19" and has a value of $4.0B. The chart is set against a white background, and the bars are colored in a shade of yellow. The chart is simple and straightforward, with no additional elements or annotations. The data suggests a significant increase in the value of the second bar compared to the first, indicating a positive trend or growth over the two-year period.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image contains a single numerical value, "83%", presented in a sans-serif font. The number is centered and occupies the majority of the space within the image. There are no additional elements, such as text, symbols, or graphics, to provide context or additional information. The focus is solely on the numerical value itself.
+<!-- end image description -->
+
 
 of enterprise members chose WeWork for its location where talent lives and wants to be
 
@@ -3482,6 +3867,9 @@ of enterprise members chose WeWork for its location where talent lives and wants
 We strive to operate our business so that each new location is accretive to our long-term financial performance. After an initial investment, each additional location not only adds members to our platform and revenue to our income statement, but also becomes profitable once it reaches a break-even point. As we move through the different lifecycle phases of each location, the cash flows shift from outgoing during the find and build phases, during which we invest to scale our location portfolio, to incoming during the fill and run phases, during which we seek to monetize our platform.
 
 <!-- image -->
+**Image Description:** The image is a graphical representation of the WeWork lease model, which is a type of coworking space leasing model. The model is divided into four stages: location signing, location possession, location opening, and location maturity. The timeline is marked with months, and the breakeven point is indicated by a shaded area. The breakeven point is where the revenue from the lease equals the total costs of the lease. The graph shows that the lease model includes Capex and Opex, which are the initial costs of setting up the lease, such as rent, utilities, and furniture. The lease model is expected to mature over time, as indicated by the arrow pointing to the right, suggesting that the lease will become more profitable as the lease term progresses. The graph is designed to help investors understand the financial implications of investing in a WeWork lease.
+<!-- end image description -->
+
 
 As we build and open more locations within existing markets, expand to new markets and scale our suite of products and services, we increase the value of our platform to our members and create additional capacity for incremental monetization of our platform. And as of today, we estimate that our market penetration in our 280 target cities globally is approximately 0.2%. We intend to continue deploying capital to grow and rapidly open new locations, relying on the experience, expertise, brand and scale that we have developed to date. We will leverage our leadership position to capture the global opportunity by growing in existing and new markets and expanding the scope of our solutions and the products and services we offer our members.
 
@@ -3513,6 +3901,9 @@ We believe the following trends are enabling the re-invention of work and will a
 Individuals and organizations turn to us directly to solve their workspace needs because of the value of our integrated solution-space, community, services and technology-and the scale of our global platform. As a result, we are able to aggregate demand and match an individual or organization to the right space, at the right time, at the right price. By acting in this role of demand aggregator, we are able to choose strategically where and how fast to grow.
 
 <!-- image -->
+**Image Description:** The image is a visual representation of the WeWork platform's role in aggregating demand for various services in the real estate industry. It shows a flow from the "Demand" category on the left to the "Supply" category on the right, with the WeWork platform at the center. The flow is depicted by a series of interconnected nodes, each representing a different service or product. The services include "Services," "Space," and "Products," which are connected to the WeWork platform by arrows. The WeWork platform is also connected to the "Demand" and "Supply" categories, indicating its role in connecting these two. The image uses a color scheme of yellow and blue, with the WeWork platform's logo in white, and the services listed in a list format. The image does not provide specific statistics or data but rather illustrates the concept of a platform that connects demand for services with the supply of those services.
+<!-- end image description -->
+
 
 In the 111 cities in which we had locations as of June 1, 2019, we estimate that there are approximately 149 million potential members. For U.S. cities, we define potential members by the estimated number of desk jobs based on data from the Statistics of U.S. Businesses survey by the U.S. Census Bureau. For non-U.S. cities, we consider anyone in select occupations defined by the International Labor Organization-including managers, professionals, technicians and associate professionals and clerical support workers-to be potential members, because we assume that these individuals need workspace in which they have access to a desk and other services. We view this as our addressable market because of the broad variety of professions and industries among our members, the breadth of our solutions available to individuals and organizations of different types and our track record of developing new solutions in response to our members' needs.
 
@@ -3525,6 +3916,25 @@ We are able to deliver a premium experience to our members at a lower price rela
 Among the approximately 255 million potential members across our 280 target cities globally, we estimate a total opportunity of $3.0 trillion.
 
 <!-- image -->
+**Image Description:** The image is a visual representation of a comparison between two scenarios: "Existing 11 cities" and "Target 280 cities." It uses a circular diagram to illustrate the differences in market opportunity, addressable population, and cost savings between the two scenarios.
+
+The left circle is labeled "Existing 11 cities" and contains the following statistics:
+- Addressable market opportunity: $0.9T
+- Addressable population: 149M
+- Cost savings (vs. standard lease): $0.8T
+
+The right circle is labeled "Target 280 cities" and contains the following statistics:
+- Addressable market opportunity: $1.6T
+- Addressable population: 255M
+- Cost savings (vs. standard lease): $1.4T
+
+The total opportunity for both scenarios is also provided:
+- Total opportunity for existing 11 cities: $1.7T
+- Total opportunity for target 280 cities: $3.0T
+
+The image is designed to convey the potential growth and benefits of expanding the market to 280 cities, including increased market opportunity, a larger addressable population, and higher cost savings compared to the current 11 cities.
+<!-- end image description -->
+
 
                                                                                                                                                                                                                 - (1) As of June 1, 2019.
                                                                                                                                                                                                                 - (2) Includes existing 111 cities as of June 1, 2019.
@@ -3534,6 +3944,9 @@ We believe these total opportunities reflect the amount employers are willing to
 ## Penetration Across Global Cities (1)
 
 <!-- image -->
+**Image Description:** The image is a table displaying the percentage of people who speak English as a first language in various cities around the world. The table is divided into two columns, with the first column listing the names of the cities and the second column showing the percentage of English-speaking residents. The percentages are rounded to the nearest tenth. The cities listed are New York, London, San Francisco, Bangalore, Shanghai, Mexico City, Los Angeles, Seoul, Berlin, DC, Sydney, Tel Aviv, Amsterdam, São Paulo, Paris, Beijing, Toronto, Buenos Aires, and Tokyo. The table is designed to provide a visual representation of the linguistic diversity across different urban centers.
+<!-- end image description -->
+
 
 Table of Contents
 
@@ -3566,6 +3979,9 @@ We built communities first in New York, then San Francisco, Los Angeles, Boston 
 As our global community grew, we realized that community, flexibility and cost efficiency can benefit the employee needs of organizations of all sizes. In 2016, we took another leap and made the strategic decision to expand our focus to meet the needs of a broader range of organizations, particularly enterprises. Enterprise organizations increasingly seek cost-efficient, flexible and scalable workplace solutions and a workplace environment that fosters strong community, promotes productivity and increases employee engagement. Our global platform directly addresses these needs for enterprise organizations, effectively and immediately.
 
 <!-- image -->
+**Image Description:** The image depicts a modern office environment with a focus on a collaborative workspace. The central feature is a large, rectangular table with a white top, surrounded by multiple chairs, including a brown leather chair and a blue chair with a striped cushion. On the table, there is a vase with green foliage, a bowl, and a checkerboard, suggesting a space designed for both work and social interaction. The room is furnished with blue sofas and a green armchair, providing comfortable seating options. The walls are painted white, and the ceiling is white with exposed ductwork, contributing to the open and airy feel of the space. In the background, other employees can be seen working at their desks, indicating a busy but productive atmosphere. The image is taken from a perspective that allows for a clear view of the entire room, capturing the essence of a contemporary office that values both work and collaboration.
+<!-- end image description -->
+
 
 ## Table of Contents
 
@@ -3574,6 +3990,9 @@ As our global community grew, we realized that community, flexibility and cost e
 Our community team embodies the energy and spirit of our diverse membership base. They are not only strong operators, but also mission-driven individuals inspired by the opportunity to connect and empower others. They work each day to support our community holistically, understand our members' personal and professional goals, program local experiences and events, recommend services and make introductions among members who can help each other succeed. The commitment of our community team to our members, powered by our customized technology, differentiates us from other workspace offerings.
 
 <!-- image -->
+**Image Description:** The image is a simple graphic with a profile picture of a person and text. The profile picture shows a man with short black hair, wearing a blue shirt, and appears to be smiling. The text is in a sans-serif font and reads "Joshua Li" at the top, followed by "Community Manager" in a larger font size, and "Shanghai, China" at the bottom. The background of the image is a light color, and the overall design is clean and professional. There are no additional elements or distractions in the image, which suggests it may be used for a professional profile or a company website.
+<!-- end image description -->
+
 
 wouldn't say my childhood was a tragedy, but it was certainly different than the other kids | grew up with. was an orphan. People would always tell me "one you'll grow up to be a gambler" ; "one day, You'll be a thief"= or "you are good for nothing: When 12, to know someone named Aishling who came from Ireland to volunteer at my orphanage. She gave me love and hope, and helped me build up my confidence towards life. She showed me someone, somewhere actually cares about me. Because of that, now work to that same hope and love to others by sharing my time and resources supporting local charities in Shanghai . day got bring
 
@@ -3588,36 +4007,72 @@ This community, this company changed my life. It has given me an opportunity to 
 We integrate community technology across all of our operations to further enhance the value we deliver to our members. Our WeWork app enables our members to easily book space, connect with other members for advice or services and discover events and activities. We designed the app with a focus on personalization. As our members select space, engage with posts and rate events, we learn their preferences so we can create an experience tailored to their interests. The longer our members stay with us, the better we become at matching members and companies to highly relevant services and communities.
 
 <!-- image -->
+**Image Description:** The image is a screenshot of a mobile application interface for a space rental service. The interface is designed to be user-friendly, with a clean layout that includes a navigation bar at the bottom and a central area displaying the available rooms. The navigation bar includes options for "Rooms," "Desks," "Guests," and "My Reservations," which are likely used to navigate through the app's features.
+
+The central area of the interface shows a photo of a room with the label "Room 2C," which is currently open and available for use. The room is furnished with a table and chairs, and there is a plant visible in the corner. The photo is accompanied by a description that reads "4 Seats + Whiteboard + Phone," indicating the room's capacity and additional amenities. The room opens at 2:30 PM, as noted in the description.
+
+Below the photo, there is a section titled "My Reservations," which shows a reservation for "Room 5B" at "500 Park Ave." The reservation is in progress, as indicated by the word "in progress" next to the room's name.
+
+The top of the image includes the app's name "Space" and the address "300 Park Ave," suggesting that the service is located at this address. The time displayed on the phone is 12:22, which could be the current time when the screenshot was taken.
+
+The overall design of the app is modern and minimalistic, with a focus on providing a clear and straightforward user experience for booking spaces. The use of pink icons for the navigation bar and the room photo adds a pop of color to the otherwise monochromatic interface.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a screenshot of a smartphone displaying a graphic design event notification. The event is titled "Graphic Design 101" and is scheduled for September 12th from 11:00 AM to 12:00 PM. The location is given as "135 Madison Ave, 5th Floor, lounge." The event is hosted by WeWork, and the description on the screen suggests that it will cover the basics of graphic design, including getting started and building a career. There is a button labeled "Attend Event" and a "Bookmark" option, indicating that the user can save the event for future reference. The image also includes a note at the bottom that reads, "Relevant events are matched to a member's interests," which implies that the events displayed are tailored to the user's preferences.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 We believe our engaged global community is a key benefit for our members. By providing structured ways for members to connect with each other, we encourage our members to help one another grow personally and professionally. Through our 'Ask for Help' feature, members can initiate a request for help and specify assistance and skills they need to grow their businesses. Our machine learning recommendation engine matches those requests with members who have expressed proficiency in those skills and are willing to help. Approximately 30% of posts on the WeWork app are requests for help from the member community.
 
 <!-- image -->
+**Image Description:** The image shows a smartphone with a messaging app interface. The screen displays a message from a user named "Logo Designer" who is seeking a graphic designer to create a logo for their new wellness brand. The message includes details about the project, such as the timeline being flexible and a budget set aside. The user also mentions that they have a budget set aside and are looking for examples of the designer's work. The message is sent to a recipient with the email address "test@test.com," and the sender has indicated that they will reach out. The time displayed on the phone is 12:22, and the battery level is at 100%. The phone's keyboard is visible, and the screen shows a keyboard shortcut for "space" and "return."
+<!-- end image description -->
+
 
 "Ask for Help" employs machine learning to suggest relevant skills
 
 <!-- image -->
+**Image Description:** The image shows a smartphone with a mobile application interface. The app is designed to help users find and connect with others who share their skills. The main feature of the app is a list of skills, which are presented in a vertical column. Each skill is represented by a pink icon with white text, and the text lists the skill name. The skills listed include "Branding," "Logo Design," "Visual Design," "Design Systems," "Adobe Illustrator," "Visual Identity," "Wordpress," "Illustration," "App Design," "Web Design," and "Art Direction."
+
+At the top of the screen, there is a prompt that reads "Add skills" followed by a message that says, "Add up to 3 relevant skills to help us match you with the right members in New York City." Below the list of skills, there is a note that says, "Skills we suggest based on your post."
+
+The bottom of the screen has a red button labeled "Post," which suggests that the user can add their skills to the app to be matched with potential members. The phone is shown in portrait orientation, and the background is white, which makes the pink icons and text stand out. The overall design of the app is clean and modern, with a focus on the skills that the user can add.
+<!-- end image description -->
+
 
 Requests for help are delivered to other members with matching skills
 
 <!-- image -->
+**Image Description:** The image is a screenshot of a mobile application interface, specifically designed for a community or networking platform. The interface is minimalistic, with a focus on the content and user interaction. The main content is a list of announcements, with the most prominent one being a job posting for a "Logo Designer" position. The job posting includes details such as the preferred skills, the company name, and a location. The user interface includes navigation options at the bottom, such as "Community," "Announcements," and "Profile," which are common in social networking or professional networking apps. The design is clean and modern, with a color scheme that uses white and pink, which are often associated with creativity and approachability. The time displayed on the phone is 12:22, which could indicate the screenshot was taken in the afternoon.
+<!-- end image description -->
+
 
 ## Table of Contents
 
 To create the best member experience, we strive to pair human judgment and creativity with algorithms that amplify ideas quickly and globally. Our community teams provide a rich source of programming ideas, and with an average of over 2,500 events occurring per week, we can develop insights quickly on what works best for members with select interests. We then use those insights to recommend the top performing new events to relevant community teams worldwide.
 
 <!-- image -->
+**Image Description:** The image is a screenshot of a smartphone displaying an event notification. The event is titled "Green Thumbs Gather" and is scheduled for August 5th from 5:00 PM to 6:00 PM at 135 Madison Ave, 5th Floor, lounge. The event is described as an opportunity for garden enthusiasts to unite, share green thumbs, and learn about the 5th Floor lounge. It also mentions meeting like-minded gardeners and swapping budding stories and plans for growth and flowering. The image does not provide any additional context or background information about the event or the location.
+<!-- end image description -->
+
 
 We collect event feedback and create a quality score for new events
 
 <!-- image -->
+**Image Description:** The image shows a smartphone with a mobile application interface. The app is titled "Green Thumbs Gather" and is in the process of collecting user feedback. The screen displays a questionnaire with multiple-choice options, each followed by a corresponding checkbox. The options are: "Interesting content," "Learning opportunity," "Professional networking opportunity," "Social connections," and "Food & drink." Below the questionnaire, there is a text field where users can add a comment. The status bar at the top of the screen indicates that the user has completed the first section of the survey. The background of the app is white, and the text is in black, making it easy to read. The app appears to be designed for a social or networking platform, as suggested by the options provided.
+<!-- end image description -->
+
 
 The best performing event types are recommended to community teams globally
 
 <!-- image -->
+**Image Description:** The image shows a computer monitor displaying a webpage with a focus on an event planning tool. The webpage is titled "Plan a new Event" and has a header that reads "To take place on January 8th." Below the header, there is a section titled "Some event ideas based on what your members love," which includes two event ideas: "High Tech & Hip Hop" and "Green Thumbs Gather." Each event idea has a brief description and a creator's name. The creator's name for "High Tech & Hip Hop" is Hannah George, and for "Green Thumbs Gather," it is Matt Kenney. The description for "High Tech & Hip Hop" mentions a social meeting of members interested in listening to hip hop tracks and discussing their favorite hip hop tracks. The description for "Green Thumbs Gather" describes a meeting for gardeners and those interested in building gardens and plans for growth and flowering. The webpage also includes a "Save & Continue" button and a "Load New Ideas" button, suggesting that the user can save their ideas or load more ideas. The background of the webpage is white, and the text is in a dark color, making it easy to read. The overall design of the webpage is clean and professional, with a focus on the event planning content.
+<!-- end image description -->
+
 
 ## Table of Contents
 
@@ -3634,6 +4089,9 @@ We continue to innovate and enhance space utilization with all aspects of our de
 Our locations provide us with real-time data to continually improve the effectiveness of our design and construction. For example, we monitor space utilization, and we use this information to improve our design to better facilitate human interaction and to minimize underutilized space. Workplace analytics is in its infancy, and we believe we are well positioned to influence and invent in this important new field. As we monitor items such as our environmental impact, our use of natural cleaning products and air and noise quality measures, we are collecting data in our effort to build the world's most innovative and transformational workspaces.
 
 <!-- image -->
+**Image Description:** The image depicts a modern, well-lit indoor setting that combines elements of a café and a workspace. The main focus is on two individuals engaged in work or study, each using a laptop. The room is furnished with a variety of seating options, including a bench, a couch, and multiple chairs, all arranged around tables. The walls are adorned with bookshelves filled with books, and a large mural adds a touch of artistic flair to the space. The color palette is warm, with browns and beiges dominating the room, complemented by the greenery of the plants and the blue and red tones of the mural. The overall atmosphere is one of comfort and productivity, indicative of a contemporary office or study environment.
+<!-- end image description -->
+
 
 ## Table of Contents
 
@@ -3642,14 +4100,23 @@ Our locations provide us with real-time data to continually improve the effectiv
 We pioneered a 'space-as-a-service' membership model. Across our global portfolio of locations, we offer individuals and organizations the flexibility to scale workspace up and down as needed, with the ability to consume space by the minute, by the month or by the year. Our space-as-a-service offering significantly reduces the complexity of leasing real estate to a simplified membership model, while delivering a premium experience to our members at a lower price relative to traditional alternatives and moving fixed lease costs to variable costs for our members. Our membership model is transforming the way individuals and organizations consume commercial real estate.
 
 <!-- image -->
+**Image Description:** The image is a simple, stylized representation of a calendar. It is a two-dimensional icon with a minimalist design, using only lines to depict the calendar's structure. The calendar is rectangular with rounded corners, and it has a dark blue color scheme. The lines are uniform in thickness and are evenly spaced, creating a grid-like pattern that is characteristic of a calendar. There are no additional elements or text within the image, and the focus is solely on the calendar icon. The image does not provide any context or background, which suggests that it may be used as a generic icon in a user interface or as a placeholder for a calendar in a document.
+<!-- end image description -->
+
 
 Flexibility
 
 <!-- image -->
+**Image Description:** The image is a simple, stylized representation of the Earth, depicted as a globe with a grid pattern. The globe is centered and occupies the majority of the space within the image. There are no additional elements or text present. The image is monochromatic, using only shades of yellow to depict the globe and the surrounding grid. The globe is shown in a flat, two-dimensional style, with no indication of depth or perspective. The image does not provide any context or background story, and there are no discernible features that would suggest a specific location or time. The focus is solely on the globe and its grid pattern, which could symbolize various concepts such as global connectivity, data, or the interconnectedness of the world.
+<!-- end image description -->
+
 
 Global MobilityEnhanced Culture
 
 <!-- image -->
+**Image Description:** The image contains a simple graphic design with a minimalist aesthetic. It features a series of interconnected lines that create a circular pattern. The lines are of varying thickness, with some appearing thicker than others, which adds a sense of depth and dimension to the design. The color of the lines is a uniform shade of red, which stands out against the white background. The image does not contain any text or additional elements, and there are no discernible actions or movements depicted. The focus is solely on the geometric shapes and their arrangement. The image is a digital creation, likely designed for use as a logo, icon, or part of a larger graphic design scheme.
+<!-- end image description -->
+
 
 Variable &amp; Lower Cost
 
@@ -3666,6 +4133,9 @@ We similarly believe our scale and growing efficiencies will continue to decreas
 The rapid adoption of our space-as-a-service offering, including growth in the number of partners who offer products and services on our platform, evidences the value proposition of our space-as-a-service membership model.
 
 <!-- image -->
+**Image Description:** The image contains a single dollar bill, which is a common representation of currency. The bill is depicted in a stylized form, with the distinctive green color and the white dollar sign and dollar amount clearly visible. The bill is shown in a three-dimensional perspective, with the top and bottom edges appearing to be folded over the middle, giving the impression of a stack of money. The image does not provide any additional context or background, and there are no other objects or text present. The focus is solely on the dollar bill, which is the central and only element in the image.
+<!-- end image description -->
+
 
 ## Table of Contents
 
@@ -3676,6 +4146,15 @@ We refer to our membership offerings as We Memberships. Our membership offerings
 We provide the following membership offerings:
 
 <!-- image -->
+**Image Description:** The image is a visual representation of the WeWork workspace services, which are designed to offer flexible and customizable office spaces. The image is divided into four sections, each representing a different service level: Standard, Configured, On-Demand, and Custom.
+
+The Standard section shows a desk with a computer and a clock, symbolizing a basic office setup. The Configured section depicts a building with multiple floors, indicating that the service can accommodate private offices or entire buildings. The On-Demand section illustrates a chair and a desk, suggesting that the service can provide workspaces as needed across WeWork locations globally. The Custom section shows a fully furnished office with a desk, chairs, and a potted plant, implying that the service offers a complete, community-designed workspace.
+
+The image uses a color scheme of yellow, green, red, and orange to differentiate between the services. The yellow section represents the Standard service, the green section represents the Configured service, the red section represents the On-Demand service, and the orange section represents the Custom service. The arrows between the sections indicate the flow of services from one level to the next.
+
+The image does not provide any specific statistics or data, but it effectively communicates the range of services offered by WeWork, from basic to fully customized workspaces. The use of simple icons and clear labels makes the information easily understandable.
+<!-- end image description -->
+
 
 Standard. Our standard workplace solutions provide move-in ready private office and shared workspace offerings at our locations for individuals, teams and organizations. Private offices are enclosed, lockable spaces that can accommodate teams of any size. Members can upgrade to standard office suites, which may include access to dedicated meeting rooms, lounges and executive offices. Our shared workspace offerings allow members to choose a flexible workstation in an open space or a permanent dedicated workstation in a shared office.
 
@@ -3686,6 +4165,25 @@ On-demand. Our on-demand We Membership provides access to shared workstations or
 Each of our membership offerings provides a wide array of workplace amenities, along with valuable benefits on business services and lifestyle perks, that help members increase their productivity both in and out of the office. These workplace amenities and other benefits include:
 
 <!-- image -->
+**Image Description:** The image is a collection of icons representing various services or amenities that might be found in a modern office or a shared workspace. The icons are designed to be simple and easily recognizable, with each one depicting a different aspect of the services or amenities. The icons are arranged in a grid format with three rows and four columns.
+
+Starting from the top left, the first icon is a globe, which typically represents internet access or global connectivity. The second icon is a cup of coffee, which could symbolize a break area or a place for refreshments. The third icon is a clock, which might indicate the importance of time management or punctuality in the workplace. The fourth icon is a calendar, which is commonly associated with scheduling and planning.
+
+The second row from the top features a sofa, which could represent a comfortable seating area for relaxation or informal meetings. The third icon is a phone, which is a universal symbol for communication and connectivity. The fourth icon is a video conferencing screen, which suggests the availability of remote communication tools.
+
+The third row from the top includes a printer, which is a common office supply. The fourth icon is a bicycle, which could represent eco-friendly transportation options or a bike-sharing program. The fifth icon is a magnifying glass, which might symbolize attention to detail or the importance of scrutinizing information.
+
+The fourth row from the top features a mug, which could represent a place for beverages or a break area. The fifth icon is a bicycle, which is similar to the previous one, indicating a focus on sustainable transportation. The sixth icon is a magnifying glass, which is repeated, reinforcing the theme of attention to detail.
+
+The bottom row from the top includes a coffee cup, which is a common office beverage. The fifth icon is a magnifying glass, which is repeated again, emphasizing the importance of scrutinizing information. The sixth icon is a magnifying glass, which is also repeated, suggesting the need for close examination or attention to detail.
+
+The bottom row from the bottom includes a bicycle, which is a common mode of transportation. The fifth icon is a magnifying glass, which is repeated, reinforcing the theme of attention to detail. The sixth icon is a magnifying glass, which is also repeated, emphasizing the importance of scrutinizing information.
+
+The final row from the bottom includes a magnifying glass, which is repeated, reinforcing the theme of attention to detail. The sixth icon is a magnifying glass, which is also repeated, emphasizing the importance of scrutinizing information.
+
+Overall, the image conveys a variety of services and amenities that are commonly found in a modern office or shared workspace, with a focus on connectivity, comfort, and attention to detail.
+<!-- end image description -->
+
 
 Table of Contents
 
@@ -3717,14 +4215,23 @@ We continually seek to develop new solutions to expand the reach of our global p
 ## Enterprise Technology
 
 <!-- image -->
+**Image Description:** The image displays a screenshot of a software interface focused on space utilization and booking behavior. The interface is divided into two main sections: the left side shows a bar chart titled "Utilization trend," which appears to track the usage of space over time, with the bars increasing in height as time progresses. The right side of the interface is labeled "Booking Behavior" and includes three key metrics: "True utilization," "Receipt rate," and "Room occupancy efficiency." The "True utilization" metric is shown as 55%, the "Receipt rate" is at 6%, and the "Room occupancy efficiency" is represented by a bar graph with a red line indicating a positive trend. The interface also includes a "Download" button and a "View all" option, suggesting additional functionalities or data. The overall design is clean and professional, with a white background and a black border around the screen.
+<!-- end image description -->
+
 
 Our enterprise technology solutions enable members to make informed decisions across the entirety of their real estate portfolio while improving the workplace experience for employees and guests. Our foundational and free product is workplace analytics, which provides a deeper understanding of space utilization, future space needs and associated costs for enterprises. Our enterprise members can model scenarios that involve dedicated and on-demand space or Powered by We services. In addition, we provide workplace experience technology that seeks to enhance the usage of space through room booking apps and calendar extensions, wayfinding monitors and guest registration kiosks. Finally, we offer workplace real estate and operations software and algorithms to automate and expedite processes like team seating charts, move management and maintenance or services requests.
 
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image depicts a modern office lounge area with a contemporary design. The room is well-lit, with natural light coming through the large windows, and artificial light from recessed ceiling fixtures. The color scheme is a mix of neutral tones, with beige walls, a blue carpet, and yellow accents from the chairs and pillows. The furniture includes a variety of chairs, tables, and a sofa, all in neutral colors that complement the room's overall aesthetic. The presence of plants adds a touch of greenery, and the large windows provide a view of the cityscape outside. The design suggests a focus on comfort and a relaxed work environment.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a logo consisting of the word "salesforce" in white capital letters against a blue cloud-like background. The font is sans-serif, which gives it a modern and clean appearance. The color choice of white text on a blue background is often associated with trust and reliability, which are qualities desirable in a company that provides software solutions. The simplicity of the design suggests a focus on clarity and ease of recognition. There are no additional elements or distractions in the image, which emphasizes the brand name itself.
+<!-- end image description -->
+
 
 "As the global leader in CRM, its our #1 focus to be closest to our customers. WeWork gives us the ability to move at the speed our business demands and provides our employees with a consistent Salesforce experience across the globe. Over the years, WeWork has been an essential partner as we plan for future growth in new markets. past two
 
@@ -3737,6 +4244,9 @@ Salesforce companies closer to their customers in the digital age. With its need
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image depicts a modern, open-plan office environment. The main focus is on a man seated at a table, engaged in an activity that is not clearly visible due to the angle and distance. The setting includes a reception desk with a person standing behind it, suggesting a customer service or information desk. The background features a bar area with a counter and stools, indicating a casual dining or socializing space. The walls are adorned with artwork, and the ceiling is equipped with pendant lights, contributing to the contemporary aesthetic of the space. The flooring is a light color, and the overall atmosphere is one of a professional yet relaxed workplace. There are no discernible texts or logos that provide specific information about the location or the company.
+<!-- end image description -->
+
 
 ## lu] ByteDance
 
@@ -3803,8 +4313,14 @@ Beijing
 Mumbai
 
 <!-- image -->
+**Image Description:** The image depicts a modern, casual office environment. The main subjects are three individuals engaged in work or study, each using a laptop. The setting is designed for comfort and productivity, with a focus on individual workspaces. The artwork on the wall adds a touch of creativity to the space. The color scheme is neutral with pops of color from the orange seats and the artwork. The lighting is bright, suggesting a well-lit workspace. The image does not provide any personal information about the individuals, and there are no discernible biases in the description.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image contains a logo and text. The logo is a stylized representation of the letters "GE" with a blue background and white lettering. The text "GE Healthcare" is written in a sans-serif font, directly below the logo. The logo and text are set against a plain, light-colored background. There are no additional elements or details in the image. The focus is solely on the logo and the text, with no other objects or backgrounds to describe.
+<!-- end image description -->
+
 
 "When I think about workspace, the people we have, the word for me is 'empowerment. We want to empower our employees with flexibility and optionality; and that is really achieved by having access to locations that are close to our customers. key
 
@@ -3815,8 +4331,14 @@ Francis Van Parys, President and CEO, GE Healthcare Korea
 GE Healthcare partnered with WeWork to design, build and operate a collaborative workspace that would be cost-effective (even in a prime Seoul location) and transformational for their culture. The HR team envisioned a space that would bring their culture to the next level and democratize workspace utilization by letting employees choose where and how worked. The team wanted to minimize the number of fixed desks and include more flexible spaces for employees to collaborate, network and host events. they
 
 <!-- image -->
+**Image Description:** The image is a professional portrait of a woman in an indoor setting. She is positioned in the foreground, facing the camera with a slight smile, suggesting a friendly and approachable demeanor. Her attire is smart casual, with a brown jacket over a black top and pink pants. The background is composed of modern furniture, including a pink armchair and a white sofa, which are arranged in a way that suggests a comfortable and stylish living space. The color palette is warm, with the pink furniture and the woman's brown jacket providing a cohesive look. The lighting is soft and diffused, contributing to the overall serene atmosphere of the scene. There are no discernible texts or logos in the image, and the focus is solely on the woman and the interior design elements.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image contains a logo and text. The logo is composed of a series of blue diamond shapes arranged in a pattern that resembles a three-dimensional pyramid. The text "Dropbox" is written in a bold, sans-serif font, with the letters "D" and "P" in a larger size than the other letters. The background of the image is white, and the logo and text are the only elements present. The overall design is simple and modern, with a focus on the brand name "Dropbox."
+<!-- end image description -->
+
 
 "At Dropbox, we're on a mission of designing a more enlightened way of working and that starts with our own employees. Rather than locked into long-term leases, WeWork gives us the ability to flex our presence in markets around the world. This allows us to focus on running our business rather than our offices. being key
 
@@ -3835,6 +4357,9 @@ Our strong unit economics, together with the increasing cost efficiency with whi
 The profitability profile of our business is a managed outcome driven by the maturity of our locations, or the length of time a location has been open to our members. We define locations that have been open for more than 24 months as mature. Once a location reaches maturity, occupancy is generally stable, our initial investment in build-out and sales and marketing to drive member acquisition is complete and the location typically generates a recurring stream of revenues, contribution margin and cash flow. As we continue to pursue rapid growth, we continue to operate in a state where the majority of our locations are non-mature and have not reached stable cash flow. As of June 1, 2019, only 30% of our open locations were mature, with the remaining 70% of our open locations having been open for 24 months or less. If we stopped investing in our growth and instead allowed our existing pipeline of locations to mature, we would no longer incur capital investments to build out new spaces or the initial expenses associated with driving member acquisition at new locations. Rather, we expect that each mature location would generate a recurring stream of revenues, contribution margin and cash flows. We believe that the flexibility to manage our growth by focusing on our existing pipeline of locations and allowing them to mature presents us with an opportunity to manage our profitability profile.
 
 <!-- image -->
+**Image Description:** The image is a graphical representation of the Workstation Pipeline, which is a tool used for managing and organizing workstations. The graph shows the progression of workstations from the current state to a potential future state. The current state is indicated by the number of workstations, which is 1.9 million. The graph shows a downward trend, indicating that the number of workstations is decreasing over time. The potential future state is shown to be 1.9 million workstations, which is a significant increase from the current state. The graph also includes a timeline with four stages: "FIND," "SIGN," "BUILD," and "FILL." Each stage is represented by a different color: blue for "FIND," green for "SIGN," orange for "BUILD," and yellow for "FILL." The timeline shows the progression from the current state to the potential future state, with the "RUN" stage being the final stage. The graph also includes a triangle at the "Today" point, which likely represents the current state of the workstation pipeline. The image does not provide any additional context or information beyond the graphical representation of the Workstation Pipeline.
+<!-- end image description -->
+
 
 ## Table of Contents
 
@@ -3874,10 +4399,16 @@ Operating a growing portfolio of physical locations at scale is highly complex. 
 Find. Sourcing, underwriting and signing a new space is the starting point of the lifecycle of a location. We have invested heavily in the technologies and processes that optimize for the best space decisions. We have real estate teams located in each of our markets who form strong relationships with landlords and partner real estate companies. We empower on-the-ground teams to find locations in their markets, supported by a centralized repository of data, analytics and underwriting models that allow us to better predict member demand and the financial risks and attractiveness of a potential space. Our technology is designed to automate the flow of approvals, due diligence, budgets, negotiations and closings. We anticipate continuing to invest in technology to increase the flow of transactions, reduce friction and optimize the decisions we make for every new space we find.
 
 <!-- image -->
+**Image Description:** The image shows a computer monitor displaying a map interface with a color-coded overlay. The map is likely a digital representation of a city or urban area, with various streets and landmarks marked in different colors. The interface includes a search bar at the top left, suggesting that the user can input specific locations to view detailed information. The map is overlaid with a legend or key, which is not fully visible in the image, but it typically would include symbols or colors that correspond to different types of data or features on the map. The overall impression is that the software is designed for navigation or urban planning, allowing users to explore and analyze the geographical layout of a city.
+<!-- end image description -->
+
 
 We use computational economics to gauge the potential of new locations based on nearby amenities and features like accessibility
 
 <!-- image -->
+**Image Description:** The image shows a computer monitor displaying a user interface for a real estate or property management application. The interface includes a search bar at the top, a list of property listings with thumbnails, a map view, and a sidebar with various tabs and icons. The listings are likely for properties to be viewed or managed, with details such as location, price, and amenities. The map view suggests a geographical focus, possibly for property searches or property management. The sidebar includes options for different sections of the application, such as "Search," "Documents," "Location," "Search," "Listings," "Comparisons," and "Reviews." The interface is designed to be user-friendly, with clear visual cues and a structured layout for ease of navigation. There are no discernible texts or specific brands visible in the image.
+<!-- end image description -->
+
 
 One hundred percent of our deals flow through our deal management platform, which automates approvals and underwriting
 
@@ -3888,10 +4419,16 @@ Build . We design each space with a specific community and neighborhood in mind 
 We integrate scanning technologies and software to automate the design and construction layout of any given space
 
 <!-- image -->
+**Image Description:** The image is a composite of four different photographs arranged in a vertical sequence. The top left photograph shows a building with a facade that is illuminated by a light source, creating a gradient of colors from yellow to green. The top right photograph displays a 3D model of a building's interior, with a grid overlay that suggests a focus on architectural details or structural analysis. The bottom left photograph presents a 2D floor plan of a building, with a series of rectangles indicating rooms or spaces. The bottom right photograph shows a construction site with a worker using a leveling device, which is a tool used to ensure that structures are perfectly horizontal. The images do not contain any discernible text or branding. The focus is on the architectural and construction elements, suggesting a theme related to building design, construction, or engineering.
+<!-- end image description -->
+
 
 We use a single global master catalog to give designers the best furniture and decoration alternatives, prices and logistics options for any given building location
 
 <!-- image -->
+**Image Description:** The image is a screenshot of a computer monitor displaying a furniture selection interface. The interface is designed to showcase various furniture items, including chairs and tables, with their respective prices. The interface includes a search bar at the top, a list of categories on the left, and a list of items on the right. The categories are labeled "Furniture," "Chairs," "Tables," and "Other." Each item has a thumbnail image, a name, a price, and a quantity indicator. The items are arranged in a grid format, with three rows and four columns. The background of the interface is white, and the text is in black. The overall layout is clean and organized, with a focus on the furniture items.
+<!-- end image description -->
+
 
 ## Table of Contents
 
@@ -3900,10 +4437,16 @@ Fill. From as early as when a space is identified, our sales team works closely 
 We use data science to compare new buildings with similar proven locations based on historical market and pricing data
 
 <!-- image -->
+**Image Description:** The image shows a computer monitor displaying a software interface with a list of locations, each with a corresponding price. The interface is designed for a user to select a location, as indicated by the highlighted "Selecting Location" button. The prices are listed in a grid format with four columns and four rows, each containing a single price. The background of the interface is a light gray color, and the text is in a white font, making it easy to read. The overall design is clean and professional, suggesting that the software is likely used for managing inventory, pricing, or scheduling. There are no discernible brands or logos visible in the image.
+<!-- end image description -->
+
 
 Next, through machine learning, we forecast demand for each building to set the opening day price and optimize on a real-time basis
 
 <!-- image -->
+**Image Description:** The image shows a computer monitor displaying a software interface, likely for a real estate or property management application. The interface includes a large header with a navigation bar, a main section with a large yellow box containing a price, and a sidebar with various icons and text. The main section has a price of $1,196, and there is a green checkmark next to it, indicating a completed action or selection. The sidebar includes options such as "Search," "Properties," "Settings," and "Account," with corresponding icons. There is also a pie chart with a percentage of 50% and a bar graph with a percentage of 10%, which could represent different metrics or statuses. The overall design is clean and modern, with a focus on functionality and ease of use.
+<!-- end image description -->
+
 
 ## Table of Contents
 
@@ -3912,12 +4455,18 @@ Run. We aspire to create a welcoming, inclusive and collaborative environment at
 We use a self service workflow to automate all of the steps needed for a seamless member move in or move out day
 
 <!-- image -->
+**Image Description:** The image shows a screenshot of a computer monitor displaying a software interface for a project management tool named "Mimo Move Tracker." The interface is divided into several sections, with a main grid of entries on the left and a sidebar on the right. The grid contains a series of entries, each with a title, a description, and a date. The entries are likely to represent tasks or projects, with the title and description providing a brief summary of the work. The date indicates when the entry was created or last updated. The sidebar includes a search bar, a list of user accounts, and a section that appears to be a dashboard with a title "EO-153F." The overall design of the interface is clean and organized, with a focus on functionality and ease of use. The color scheme is primarily white and gray, with a touch of blue, which is often associated with professionalism and reliability.
+<!-- end image description -->
+
 
 A single portal is used to manage and track all of the interactions between a member, their space and our community teams
 
 We aim to continue to perfect our global-local playbook, and we continue to drive automation throughout the process of finding, building, filling and running spaces. We learn from the increasing amount of data we collect for every decision we make, and we continue to innovate on solutions designed to drive our members' successes. We believe our core expertise in leveraging our global-local playbook will allow us to continue to scale our business across new locations and new cities, while benefiting from the efficiencies of our global scale, process and technology infrastructure.
 
 <!-- image -->
+**Image Description:** The image shows a computer monitor displaying a graphical user interface (GUI) that appears to be a floor plan or layout of a building. The interface is divided into several sections, each with a different color scheme and icons. The top section has a dark background with a title bar that includes a search bar and a menu icon. Below the search bar, there are icons that suggest functionality such as 'File,' 'Edit,' and 'View.' The middle section of the screen is a lighter background with a large, central area that resembles a floor plan. This area is divided into different colored rectangles, each representing a different room or area within the building. The bottom section of the screen has a dark background with a menu icon and a search bar. The overall design of the interface suggests that it is a software application designed for managing or visualizing building layouts.
+<!-- end image description -->
+
 
 ## Table of Contents
 
@@ -3930,6 +4479,15 @@ Our members spend hundreds of millions of hours inside our locations annually. B
 PLATFORM CAPABILITIES
 
 <!-- image -->
+**Image Description:** The image is a diagram that illustrates the structure of a membership program, which is divided into three main sections: Members, Member Companies, and Member Employees. The top section is labeled "We Membership" and features three icons representing different types of memberships: Members, Member Companies, and Member Employees. Each icon is accompanied by a brief description of the type of membership.
+
+The middle section is titled "Space-as-a-Service Platform" and is divided into two columns. The left column lists various services offered by the platform, such as Lifestyle, Wellness, Family Services, Food, Education, Insurance, Professional Services, Technology, Resources, and Entertainment. The right column is labeled "Global Authenticated Access" and provides a brief description of the platform's features, including access to 485 locations, beautifully furnished offices, multiple individual, small and large spaces, 24-hour availability, amenities, live hosts, and digital applications.
+
+The bottom section is labeled "Ready Offices" and describes the platform's offerings for office spaces, which include flexible configurations, 24-hour availability, amenities, and live hosts. The text is too small to read in detail, but it suggests that the platform provides a range of services for office spaces, including flexible configurations, 24-hour availability, amenities, and live hosts.
+
+Overall, the image is a visual representation of a membership program that offers a variety of services to its members, including access to offices, flexible configurations, and amenities. The platform is designed to provide a comprehensive solution for members, including access to offices, flexible configurations, and amenities.
+<!-- end image description -->
+
 
 We have leveraged our global platform to facilitate rewarding relationships between members, partners and The We Company. Our members get easy access to a diverse range of high-quality products and services tailored to their needs. Our carefully curated partners can connect directly with our members, a sought-after demographic of consumers and businesses, leading to a lower cost of customer acquisition and more efficient operations. The We Company benefits by increasing member satisfaction while at the same time generating incremental higher margin revenue. Finally, we create a feedback loop between members and partners, driving higher quality services and experiences while helping our partners build valuable customer relationships.
 
@@ -3987,22 +4545,37 @@ We are proud of the positive ripple effects that we create throughout the cities
 ## Our Strengths
 
 <!-- image -->
+**Image Description:** The image provided is a simple graphic representation of an eye. It is a stylized depiction with a focus on the iris, which is the colored part of the eye. The iris is a lighter shade of green, contrasting with the darker green of the pupil. The pupil is the central part of the eye, and it is depicted as a darker green circle. The eye is outlined in a thin white line, which gives it a defined shape. The background of the image is white, which helps to highlight the eye and its details. There are no other objects or text present in the image. The image does not provide any additional context or information beyond the visual representation of an eye.
+<!-- end image description -->
+
 
 We are committed to our vision
 
 <!-- image -->
+**Image Description:** The image is a stylized representation of a group of people, likely intended to symbolize a team or a group of individuals working together. The central figure is depicted with a brighter outline and is surrounded by three smaller figures, which could represent team members or subordinates. The use of yellow for the figures against a white background creates a high-contrast visual that is easy to read and understand. The image does not contain any text or additional elements that would provide further context. The design is simple and abstract, focusing on the concept of unity and teamwork.
+<!-- end image description -->
+
 
 Our member community is strong and growing
 
 <!-- image -->
+**Image Description:** The image is a simple, stylized representation of a bar graph with a dollar sign, commonly used to symbolize financial growth or profit. The bars are uniformly colored in a shade of peach or light orange, and they increase in height from left to right, suggesting an increase in value or quantity. The upward arrow at the top of the graph reinforces the concept of growth. There are no specific numerical values or labels on the bars, and the image does not provide any context or additional information beyond the visual representation of growth.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a simple, stylized representation of a globe. It is a flat, two-dimensional graphic with a uniform color and no shading or texture. The globe is divided into horizontal lines that suggest latitude and longitude lines, which are typically used to represent the Earth's longitude and latitude. The image does not provide any additional context or information beyond the representation of the Earth. There are no discernible features or landmarks that would indicate a specific location or country. The image is a generic symbol that could be used in various documents or presentations to represent global concepts, international connections, or the Earth as a whole.
+<!-- end image description -->
+
 
 Our global platform integrates space, services and technology
 
 We have attractive oconomics
 
 <!-- image -->
+**Image Description:** The image is a simple, stylized illustration that uses minimal detail to convey the concept of growth or development. The central focus is the plant, which is depicted with a single stem and two leaves, suggesting a young plant. The leaves are stylized with a simple outline, and the stem is straight with a slight curve at the top, which is typical of a plant's growth pattern. The hand holding the plant is rendered in a dark color, likely black, which contrasts with the lighter background, making the plant stand out. The absence of any other objects or text in the image directs the viewer's attention solely to the plant and the hand, emphasizing the theme of nurturing or growth. The image does not provide any additional context or information beyond the visual representation of a plant being cared for.
+<!-- end image description -->
+
 
 Our future impact will transform the way people work, live and grow
 
@@ -4083,6 +4656,9 @@ The chart below depicts the structure of ARK with its three principal components
                                                                                                                                                                                                                                                                 - (3) the real estate acquisition vehicles that are managed by the general partner and manager.
 
 <!-- image -->
+**Image Description:** The image is a diagram that appears to represent a corporate structure or organizational chart. It includes various elements such as text boxes, rectangles, and lines that suggest a flow of information or hierarchy. The text boxes contain names and titles, indicating different roles or departments within the organization. The rectangles are likely placeholders for images or icons, but they are not filled in. The lines connect the rectangles, suggesting a relationship or flow between the different elements. The diagram is designed to convey the organizational structure and the relationships between different parts of the organization. There are no specific statistics or numerical data provided in the image.
+<!-- end image description -->
+
 
 We own 80% of each of ARK Master GP and the ARK Manager. Through our 80% ownership of such entities, we are entitled to our corresponding share of the management fee and incentive fee income earned by such entities. ARK Master GP and the ARK Manager are consolidated in our consolidated financial statements. Primarily because our
 
@@ -9269,8 +9845,14 @@ Subsequent to June 30, 2019, the Company has continued to enter into new lease c
 ## Table of Contents
 
 <!-- image -->
+**Image Description:** The image is a promotional advertisement for a company named "We Company." The advertisement is set in a dense, green forest, which suggests that the company is involved in environmental or sustainability efforts. The text in the image reads, "The We Company is committed to being meat, single-use plastics, and carbon emissions free. We invite you to join us in creating a better world. We are just getting started." This indicates that the company is focused on reducing its environmental impact, particularly in terms of meat consumption, plastic use, and carbon emissions. The advertisement is designed to appeal to consumers who are concerned about environmental issues and are looking for companies that share their values. The use of a natural landscape in the background reinforces the message of the advertisement, which is to promote a sustainable lifestyle.
+<!-- end image description -->
+
 
 <!-- image -->
+**Image Description:** The image is a promotional graphic for "The We Company," which is likely a brand or company. The central focus is a natural landscape featuring a dense forest and a small body of water, possibly a stream or pond. The water is surrounded by lush greenery, and the sky above is partly cloudy, suggesting a natural, possibly tropical environment. The company's logo, which is a stylized "we" with a droplet, is prominently displayed in the center of the image. The text "The We Company" is written in a simple, sans-serif font, and the background of the image is a gradient of blue, transitioning from a lighter shade at the top to a darker shade at the bottom. The overall impression is one of a company that values nature and possibly has an environmental focus.
+<!-- end image description -->
+
 
 ## PART II
 

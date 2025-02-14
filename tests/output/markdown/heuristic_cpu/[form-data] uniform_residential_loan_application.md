@@ -270,10 +270,6 @@ If employed in current position for less than two years or if currently employed
 
 Freddie Mac Form 65    7/05
 
-Page 1 of 5
-
-Fannie Mae Form 1003    7/05
-
 ## Borrower
 
 ## IV. EMPLOYMENT INFORMATION (cont'd)
@@ -525,10 +521,6 @@ Acct. no.
 0 0
 
 Freddie Mac Form 65    7/05
-
-Page 2 of 5
-
-Fannie Mae Form 1003    7/05
 
 ## VI. ASSETS AND LIABILITIES (cont'd)
 
@@ -787,10 +779,6 @@ Estimated closing costs
 
 Freddie Mac Form 65    7/05
 
-Page 3 of 5
-
-Fannie Mae Form 1003    7/05
-
 ## VII. DETAILS OF TRANSACTION
 
 ## VIII. DECLARATIONS
@@ -864,10 +852,6 @@ This application was taken by:
  Internet
 
 Freddie Mac Form 65    7/05
-
-Page 4 of 5
-
-Fannie Mae Form 1003    7/05
 
  Asian 
 
@@ -944,7 +928,3 @@ X
 Date
 
 Freddie Mac Form 65    7/05
-
-Page 5 of 5
-
-Fannie Mae Form 1003    7/05

@@ -2,8 +2,6 @@
 
 <!-- image -->
 
-2 / 38
-
 ## 01
 
 ## Foreword: Your journey to a GenAI future
@@ -31,11 +29,7 @@ In this report, you will learn:
 
 <!-- image -->
 
-3 / 38
-
 <!-- image -->
-
-02
 
 ## Organizations are reporting early successes
 
@@ -59,8 +53,6 @@ Our research shows that while organizations expect to have GenAI successes, they
 <!-- image -->
 
 <!-- image -->
-
-03
 
 ## Strategies for successful GenAI implementation
 
@@ -115,13 +107,9 @@ Please note that percentages on charts may not add to 100% due to rounding
 
 <!-- image -->
 
-7 / 38
-
 ## Most organizations across all industries are still developing governance frameworks for GenAI.
 
 <!-- image -->
-
-8 / 38
 
 Fewer than one in 10 organizations provide a high level of training on GenAI governance and monitoring.
 
@@ -135,13 +123,9 @@ Based on % ranking as a key concern
 
 <!-- image -->
 
-9 / 38
-
 ## Data privacy and security are key concerns across all regions.
 
 <!-- image -->
-
-10 / 38
 
 ## Ability to measure LLMs
 
@@ -242,8 +226,6 @@ detection
                     - Using GenAI but haven't yet fully implemented it
                     - Not yet using GenAI but intend to within the next 2 years
 
-11 / 38
-
 ## bias in LLMs house capabilities How would you assess your ability to measure LLM bias/privacy risk in your organization?
 
 for bias detection
@@ -267,8 +249,6 @@ Many of these organizations have not fully prepared themselves to comply with re
 Our research shows that businesses are rushing into GenAI before establishing adequate systems of governance, which could result in serious issues with quality and compliance later.
 
 <!-- image -->
-
-12 / 38
 
 %
 
@@ -324,13 +304,9 @@ Slightly prepared Not prepared 2%  encryption,  1% 3% 1% 4% These tools can prov
 
 Organizations should refer to governance and compliance policies for an essential framework within which data management tools can be applied.
 
-13 / 38
-
 ## Health care, professional services and the public sector believe they are least prepared to meet regulatory requirements.
 
 <!-- image -->
-
-14 / 38
 
 ## b. Strategic deployment: Translating implementation into measurable bene/uniFB01ts
 
@@ -352,8 +328,6 @@ Please note that percentages on charts may not add to 100% due to rounding
 
 <!-- image -->
 
-15 / 38
-
 Senior decision makers are not always completely familiar with GenAI adoption in their organizations.
 
 Please note that percentages on charts may not add to 100% due to rounding
@@ -364,8 +338,6 @@ Please note that percentages on charts may not add to 100% due to rounding
 
 <!-- image -->
 
-16 / 38
-
 APAC decision makers are most likely to have a GenAI usage policy, while LATAM respondents are least likely to have such a policy in place.
 
 <!-- image -->
@@ -375,8 +347,6 @@ Decision makers in the public sector are less con/uniFB01dent in their understan
 Please note that percentages on charts may not add to 100% due to rounding
 
 <!-- image -->
-
-17 / 38
 
 ## Insight 3:
 
@@ -426,25 +396,17 @@ Decision makers report that they do not have appropriate tools, are experiencing
 
 <!-- image -->
 
-20 / 38
-
 ## Over a third of businesses face technological challenges when they set out to implement and use GenAI.
 
 <!-- image -->
-
-21 / 38
 
 ## Professional services and telco organizations feel least challenged by technological limitations.
 
 <!-- image -->
 
-22 / 38
-
 ## The APAC region (particularly China) is con/uniFB01dent that it has the appropriate tools and expertise to implement and use GenAI.
 
 <!-- image -->
-
-23 / 38
 
 LLMs alone do not solve business problems. GenAI is nothing more than a feature that can augment your existing processes, but you need tools that enable their integration, governance and orchestration. And most importantly, you need people that can use tools to ensure the appropriate level of orchestration.' '
 
@@ -466,8 +428,6 @@ Using a decisioning work/uniFB02ow system to infuse GenAI into existing business
 
 LLMs can only execute a few tasks of a use case. Organizations still need an end-to-end process that orchestrates the AI life cycle while enhancing the transparency and governance of LLMs.
 
-24 / 38
-
 ## d. Expert guidance: Resourcing challenges with scarcity of GenAI skill sets
 
 For many organizations, it really comes down to this: In-house GenAI expertise is lacking. As HR departments encounter a scarcity of suitable hires, organizations worry that they do not have access to the necessary skills to make the most of their GenAI investment.
@@ -485,15 +445,11 @@ For many organizations, it really comes down to this: In-house GenAI expertise i
 
 <!-- image -->
 
-25 / 38
-
 ## Lack of internal expertise is a particular issue for those in health care and the public sector.
 
 <!-- image -->
 
 <!-- image -->
-
-26 / 38
 
 <!-- image -->
 
@@ -509,13 +465,9 @@ To what extent is your organization using GenAI? (% currently using)
 
 <!-- image -->
 
-27 / 38
-
 GenAI usage is above the global average in China, the UK, the US, Australia and Germany.
 
 <!-- image -->
-
-28 / 38
 
 Organizations in North America are further ahead with full implementation.
 
@@ -523,13 +475,9 @@ To what extent is your organization using GenAI?
 
 <!-- image -->
 
-29 / 38
-
 ## Those in China are most likely to be using GenAI to some extent but full implementation is most common in the US.
 
 <!-- image -->
-
-30 / 38
 
 Organizations are using - or planning to use - GenAI across multiple departments. A massive 86% of respondents have either begun to deploy GenAI across sales departments or are planning to do so.
 
@@ -543,17 +491,11 @@ As organizations adopt GenAI, they seek to understand how to use it safely and e
 
 <!-- image -->
 
-31 / 38
-
 ## Many are enlisting third parties to support GenAI integration, including through orchestration platforms.
 
 <!-- image -->
 
 <!-- image -->
-
-32 / 38
-
-05
 
 ## Blueprint for gaining a competitive advantage
 
@@ -571,8 +513,6 @@ As organizations continue to experiment with GenAI, real business value will com
 As one of the data and AI companies with the longest experience in the /uniFB01eld, SAS is equipped to be the trusted partner that helps organizations con/uniFB01dently succeed in the GenAI journey across different industries, regulatory scenarios and application areas.
 
 At SAS, we focus on identifying high-ROI, ethically applied use cases. Our goal is to enable secure adoption, boost productivity, produce trusted results, and accelerate innovation across diverse industries and regulatory landscapes.
-
-33 / 38
 
 MOCKUP - raw images on slide 1 and 2
 
@@ -608,8 +548,6 @@ Accelerate
 
 AI/Business Tasks
 
-34 / 38
-
 <!-- image -->
 
 <!-- image -->
@@ -625,8 +563,6 @@ Quality and Scarcity
 <!-- image -->
 
 GenAI orchestration: SAS Viya integrates existing GenAI models to orchestrate LLMs for enterprise use cases.
-
-35 / 38
 
 ## 07
 
@@ -646,8 +582,6 @@ SAS is a global leader in data and AI. With SAS software and industry-speci/uniF
 
 <!-- image -->
 
-36 / 38
-
 ## Geographical coverage
 
 Americas
@@ -664,14 +598,8 @@ APAC
 
 <!-- image -->
 
-37 / 38
-
 <!-- image -->
 
 To learn more, please visit sas.com/generative-ai
 
 <!-- image -->
-
-To contact your local SAS of/uniFB01ce, please visit: sas.com/contact
-
-SAS and all other SAS Institute Inc. product or service names are registered trademarks or trademarks of SAS Institute Inc. in the USA and other countries. ® indicates USA registration. Other brand and product names are trademarks of their respective companies. Copyright © 2024, SAS Institute Inc. All rights reserved. G277395\_113914\_0824

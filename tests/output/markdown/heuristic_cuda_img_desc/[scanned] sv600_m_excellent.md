@@ -1,4 +1,7 @@
 <!-- image -->
+**Image Description:** The image provided is too dark to make out any details. If you have a different image you would like to describe, please provide it, and I will be happy to assist you.
+<!-- end image description -->
+
 
 ## New customer's development and increasing the sale of product
 
@@ -23,6 +26,9 @@ The DLM solution that used received the rise of the concern to efficient managem
 Satisfaction rating to new product
 
 <!-- image -->
+**Image Description:** The image is a pie chart with four segments, each representing a different category. The largest segment is labeled "good" and occupies 26% of the pie chart. The second largest segment is labeled "very good" and occupies 47% of the pie chart. The third largest segment is labeled "bad" and occupies 7% of the pie chart. The smallest segment is labeled "usually" and occupies 20% of the pie chart. The chart is divided into four quadrants, with the "usually" segment at the top left, the "bad" segment at the top right, the "very good" segment at the bottom left, and the "good" segment at the bottom right. The chart is a visual representation of data, with the segments' sizes indicating the proportion of each category.
+<!-- end image description -->
+
 
 stances report in recent years and attracted attention.  The function of software that the inspection of data is possible by the sense that turns over the file is strengthened, and easiness to use has been improved.
 
@@ -39,3 +45,9 @@ The committee that aimed at the decrease of a variety of business risks in an in
 Satisfaction rating to new product
 
 <!-- image -->
+**Image Description:** The image is a black and white bar chart with a title that reads "1998-2004." The chart displays data points for the years 1998, 1999, 2000, 2001, 2002, 2003, and 2004. Each year has a corresponding bar that reaches up to a certain height on the vertical axis, which is labeled with numbers ranging from 0 to 100. The height of each bar indicates the value associated with that year.
+
+The bars for 1998 and 1999 are the tallest, reaching up to 80 and 70 respectively, suggesting that the values they represent are the highest among the years shown. The bars for 2000 and 2001 are also relatively high, with values of 60 and 50 respectively. The bars for 2002 and 2003 are shorter, with values of 30 and 20 respectively. The bar for 2004 is the shortest, reaching up to 10.
+
+The chart does not provide a legend or any additional context that explains the data or the units of measurement. There are no labels on the x-axis or y-axis, and the chart lacks a title that explains what the data represents. The chart is a simple representation of data over a six-year period, with the height of each bar corresponding to a numerical value.
+<!-- end image description -->
