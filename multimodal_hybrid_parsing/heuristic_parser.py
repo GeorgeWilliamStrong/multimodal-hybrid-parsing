@@ -158,7 +158,7 @@ class DocumentParser:
                 if element.annotations:
                     # Take only the first annotation for each image
                     ann = element.annotations[0]
-                    desc = f"**Image Description:** {ann.text}\n<!-- end image description -->"
+                    desc = f"**AI-Generated Image Description:** {ann.text}\n<!-- end image description -->"
                     picture_descriptions[page_no].append(desc)
 
         # Process each page
