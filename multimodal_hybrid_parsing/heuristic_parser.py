@@ -20,6 +20,7 @@ class DocumentParser:
         device: Optional[str] = None,
         num_threads: int = 8,
         picture_description: Literal["none", "smolVLM", "granite"] = "none",
+        images_scale: float = 300/72.0,
     ):
         """
         Initialize the parser
@@ -32,10 +33,12 @@ class DocumentParser:
                 - 'none': No picture description
                 - 'smolVLM': Lightweight vision-language model
                 - 'granite': Advanced vision-language model
+            images_scale: Scale factor for images (default: 300/72.0)
         """
         self.doc = None
         self.device = device or "auto"
         self.num_threads = num_threads
+        self.images_scale = images_scale
 
         # Map string device names to AcceleratorDevice enum
         device_map = {
@@ -57,7 +60,7 @@ class DocumentParser:
 
         # Configure pipeline options with picture description
         self.pipeline_options = PdfPipelineOptions()
-        self.pipeline_options.images_scale = 300 / 72.0
+        self.pipeline_options.images_scale = self.images_scale
         self.pipeline_options.generate_page_images = True
         self.pipeline_options.generate_picture_images = True
         self.pipeline_options.do_formula_enrichment = True
@@ -84,9 +87,8 @@ class DocumentParser:
                     "max_new_tokens": 800,
                     "do_sample": False,
                 }
-            
-            # Set common prompt for both models
-            self._set_description_prompt(self.pipeline_options.picture_description_options)
+                # Set custom prompt for granite
+                self._set_description_prompt(self.pipeline_options.picture_description_options)
 
     def _set_description_prompt(self, options):
         """Set the prompt for image description"""
