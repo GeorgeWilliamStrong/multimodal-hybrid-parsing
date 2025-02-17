@@ -7,7 +7,7 @@ from docling.datamodel.pipeline_options import (
     AcceleratorOptions, 
     PdfPipelineOptions,
     granite_picture_description,
-    PictureDescriptionVLMOptions,
+    PictureDescriptionVlmOptions,
     RapidOcrOptions
 )
 from docling_core.types.doc import PictureItem
@@ -78,7 +78,7 @@ class DocumentParser:
             if picture_description == "smolVLM":
                 # Configure smolVLM picture description
                 self.pipeline_options.picture_description_options = (
-                    PictureDescriptionVLMOptions()
+                    PictureDescriptionVlmOptions()
                 )
             else:  # granite
                 # Configure Granite picture description
