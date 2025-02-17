@@ -1,12 +1,14 @@
 from pathlib import Path
-from typing import Union, Optional
+from typing import Union, Optional, Literal
 from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling.datamodel.base_models import InputFormat
 from docling.datamodel.pipeline_options import (
     AcceleratorDevice,
     AcceleratorOptions, 
     PdfPipelineOptions,
-    granite_picture_description
+    granite_picture_description,
+    PictureDescriptionOptions,
+    RapidOcrOptions
 )
 from docling_core.types.doc import PictureItem
 
@@ -18,7 +20,8 @@ class DocumentParser:
         self,
         device: Optional[str] = None,
         num_threads: int = 8,
-        enable_picture_description: bool = False,
+        picture_description: Literal["none", "smolVLM", "granite"] = "none",
+        ocr_engine: Literal["easyocr", "rapidocr"] = "easyocr",
     ):
         """
         Initialize the parser
@@ -27,11 +30,16 @@ class DocumentParser:
             device: Device for processing ('cuda', 'mps', 'cpu', or 'auto'). 
                 If None, will use 'auto'.
             num_threads: Number of threads to use for processing
-            enable_picture_description: Whether to enable image description
+            picture_description: Type of picture description to use:
+                - 'none': No picture description
+                - 'smolVLM': Lightweight vision-language model
+                - 'granite': Advanced vision-language model
+            ocr_engine: OCR engine to use ('easyocr' or 'rapidocr')
         """
         self.doc = None
         self.device = device or "auto"
         self.num_threads = num_threads
+        self.ocr_engine = ocr_engine
 
         # Map string device names to AcceleratorDevice enum
         device_map = {
@@ -52,26 +60,41 @@ class DocumentParser:
         )
 
         # Configure pipeline options with picture description
-        self.pipeline_options = PdfPipelineOptions(
-            enable_remote_services=True  # Pass as constructor param
-        )
+        self.pipeline_options = PdfPipelineOptions()
         self.pipeline_options.images_scale = 300 / 72.0
         self.pipeline_options.generate_page_images = True
         self.pipeline_options.generate_picture_images = True
         self.pipeline_options.do_formula_enrichment = True
 
-        # Configure picture description if enabled
-        if enable_picture_description:
+        # Configure OCR engine
+        if self.ocr_engine == "rapidocr":
+            self.pipeline_options.ocr_options = RapidOcrOptions()
+        # EasyOCR is the default, no need to set special options
+
+        # Configure picture description based on selected mode
+        if picture_description != "none":
             self.pipeline_options.do_picture_description = True
-            self.pipeline_options.picture_description_options = granite_picture_description
-            self.pipeline_options.picture_description_options.generation_config = {
-                "max_new_tokens": 800,
-                "do_sample": False,
-            }
+            
+            if picture_description == "smolVLM":
+                # Configure smolVLM picture description
+                self.pipeline_options.picture_description_options = (
+                    PictureDescriptionOptions()
+                )
+            else:  # granite
+                # Configure Granite picture description
+                self.pipeline_options.picture_description_options = (
+                    granite_picture_description
+                )
+                self.pipeline_options.picture_description_options.generation_config = {
+                    "max_new_tokens": 800,
+                    "do_sample": False,
+                }
+            
+            # Set common prompt for both models
             self._set_description_prompt(self.pipeline_options.picture_description_options)
 
     def _set_description_prompt(self, options):
-        """Set the custom prompt for image description"""
+        """Set the prompt for image description"""
         options.prompt = """
             You are an expert at generating accurate descriptions of images in documents.
 
@@ -82,7 +105,7 @@ class DocumentParser:
             Be accurate and concise.
             Do not infer anything beyond what you can see in the image.
             If you are uncertain about something, omit it from your response.
-
+            
             Wait! Double check your answer before responding.
             """
 
