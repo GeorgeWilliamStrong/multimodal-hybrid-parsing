@@ -132,7 +132,7 @@ g of the corporate governa
 his of ering. Investing in our Clas
 
 <!-- image -->
-**Image Description:** In this image we can see a poster with some text and some images.
+**AI-Generated Image Description:** The image consists of a yellow background with black text. The text on the yellow background appears to be "WE" in large, bold letters.
 <!-- end image description -->
 
 
@@ -207,7 +207,7 @@ e HSBC UBS Investment Bank Wel s Fargo Securit es J.P Morgan
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** The word WE is inside a circle.
+**AI-Generated Image Description:** The letter "w" in a circle can be seen inside the circle.
 <!-- end image description -->
 
 
@@ -220,7 +220,7 @@ ACH OF US.
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image we can see a group of people sitting on the chairs and some are standing. We can also see a table with books and some objects on it. We can also see a plant and some objects on the table. We can also see a wall with some objects on it. We can also see a roof with some lights. We can also see some text on the image.
+**AI-Generated Image Description:** In the image we can see there are many people sitting on the chairs and there are many tables and there are many books and there are many plants and there are many lights and there are many people standing and there are many tables and there are many chairs and there are many plants and there are many lights and there are many people walking and there are many people standing and there are many people sitting and there are many people standing and there are many people walking and there are many people standing and there are many people sitting and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there are many people standing and there are many people walking and there
 <!-- end image description -->
 
 
@@ -279,7 +279,7 @@ We are a community company committed to maximum global impact. Our mission is to
 In early 2010, we opened our doors to our first member community at 154 Grand Street in New York City. In the beginning, our members consisted mostly of freelancers, start-ups and small businesses. Over the past nine years, we have rapidly scaled our business while honoring our mission. Today, our global platform integrates space, community, services and technology in over 528 locations in 111 cities across 29 countries. Our 527,000 memberships represent global enterprises across multiple industries, including 38% of the Global Fortune 500. We are committed to providing our members around the world with a better day at work for less.
 
 <!-- image -->
-**Image Description:** In this image we can see a group of people sitting on the chairs and there are tables and chairs. We can also see the floor, wall, staircase, lights, boards, windows, doors, and some objects.
+**AI-Generated Image Description:** The image is a photo of a book store. The store is a modern, open-air structure with a glass roof. Inside the store, there are many people shopping. The interior of the store is spacious and well-lit. There are several tables and chairs arranged in rows, and people are seated on them. Some people are walking around, while others are standing. The store has a modern design, with clean lines and bright colors. There are several signs and information boards on the walls, which are likely to provide information about the store.
 <!-- end image description -->
 
 
@@ -306,46 +306,7 @@ Table of Contents
 | 4,000 |        | 87,000 | 401,000 |
 
 <!-- image -->
-**Image Description:** The image is a map of the world, showing the locations of the 2010 and 2014 World Cup matches. The map is color-coded to represent different countries, with each country represented by a different color. The countries are color-coded as follows:
-- The color of the countries is green.
-- The countries are represented by dots.
-- The dots are connected by lines.
-
-The map is labeled with the names of the countries and the cities they represent. The cities are represented by dots. The dots are connected by lines.
-
-The map is labeled with the years 2010 and 2014. The years are represented by numbers in the top right corner of the map.
-
-The map is labeled with the names of the countries and the cities they represent. The countries are color-coded as follows:
-- The color of the countries is green.
-- The countries are represented by dots.
-- The dots are connected by lines.
-
-The map is labeled with the names of the countries and the cities they represent. The countries are color-coded as follows:
-- The color of the countries is green.
-- The countries are represented by dots.
-- The dots are connected by lines.
-
-The map is labeled with the names of the countries and the cities they represent. The countries are color-coded as follows:
-- The color of the countries is green.
-- The countries are represented by dots.
-- The dots are connected by lines.
-
-The map is labeled with the names of the countries and the cities they represent. The countries are color-coded as follows:
-- The color of the countries is green.
-- The countries are represented by dots.
-- The dots are connected by lines.
-
-The map is labeled with the names of the countries and the cities they represent. The countries are color-coded as follows:
-- The color of the countries is green.
-- The countries are represented by dots.
-- The dots are connected by lines.
-
-The map is labeled with the names of the countries and the cities they represent. The countries are color-coded as follows:
-- The color of the countries is green.
-- The countries are represented by dots.
-- The dots are connected by lines.
-
-The map is labeled with the names of the countries and the cities they
+**AI-Generated Image Description:** The map shows the distribution of locations with a specific year in the United States. The data is sourced from Q2 2019.
 <!-- end image description -->
 
 
@@ -364,19 +325,17 @@ Technology is at the foundation of our global platform. Our purpose-built techno
 ## Cost Per Employee: WeWork Versus Standard Lease
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Standard lease + build-out + operations" with a horizontal axis labeled "build-out" and a vertical axis labeled "operations." The x-axis represents the number of standard lease operations, while the y-axis represents the number of standard lease operations. The bars are colored in teal, and the colors are consistent across all bars.
+**AI-Generated Image Description:** The image shows a bar chart titled "Standard lease + build-out + operations" with two distinct categories: "Standard lease + build-out + operations" and "Standard lease + operations + operations." The x-axis represents the number of standard lease units, while the y-axis represents the number of standard lease operations. The bars are color-coded to represent the two categories: standard lease units and standard lease operations.
 
-The bars are of equal height, with the height of each bar corresponding to the number of standard lease operations. The bars are arranged vertically, with the height of each bar corresponding to the number of standard lease operations.
+The standard lease units are represented by a solid green bar, while the standard lease operations are represented by a solid gray bar. The bars are connected by a horizontal line, indicating that the two categories are related.
 
-The chart is titled "Standard lease + build-out + operations" and has a subtitle that reads "57% savings." The subtitle is in a smaller font size compared to the title, making it easier to read.
+The chart shows that the standard lease units are significantly larger than the standard lease operations. The standard lease units are 17,158 units, while the standard lease operations are 7,304 units. This means that the standard lease units are 17,158 more than the standard lease operations.
 
-The chart is visually simple and easy to understand. The bars are evenly spaced, and the colors are consistent, which helps to make the data points easy to see. The chart is not cluttered with any additional information, making it easy to read and interpret.
+The chart also shows that the savings for the standard lease units is 57% higher than the savings for the standard lease operations. This means that the savings for the standard lease units is 57% higher than the savings for the standard lease operations.
 
-The bar chart is effective in conveying the data clearly and concisely. The use of color and the consistent spacing of the bars helps to make the data points easy to see. The chart is effective in showing the number of standard lease operations, which is a key metric for understanding the performance of a company.
+The chart also shows that the savings for the standard lease operations is 66% higher than the savings for the standard lease units. This means that the savings for the standard lease operations is 66% higher than the savings for the standard lease units.
 
-The bar chart is a useful tool for comparing the performance of different types of operations. It can be used to identify trends and patterns in the data, such as the number of standard lease operations and the number of operations.
-
-In summary, the image is a bar chart titled "Standard lease + build-out + operations" with a horizontal axis labeled "build-out" and a vertical axis labeled "operations." The bars are of equal height, with the height of each bar corresponding to the number of standard lease operations. The bars are arranged vertically, with the height of each bar corresponding to the number of standard lease operations. The chart is titled "57% savings," and the subtitle "57% savings" is in a smaller font size compared to the title. The chart is visually simple and easy to read, making it effective in conveying the data clearly.
+Overall, the chart shows that the savings for the standard lease units are higher than the savings for the standard lease operations. This suggests that the standard lease units are more valuable than the standard lease operations.
 <!-- end image description -->
 
 
@@ -398,21 +357,17 @@ Large enterprises are increasingly recognizing the value proposition of our glob
 We monetize our platform through a variety of means, including selling memberships, providing ancillary value-added products and services to our members and extending our global platform beyond work. Today, we are signing more multi-year membership agreements for various space solutions across our global platform: the average commitment term of our membership agreements has nearly doubled from approximately eight months as of December 1, 2017 to more than 15 months as of June 1, 2019. This creates a backlog of committed revenue, which we expect will drive increasing recurring revenues and cash flows as well as increase our revenue visibility. We had committed revenue backlog of $4.0 billion as of June 30, 2019, approximately eight times the $0.5 billion as of December 31, 2017.
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled “Enterprise Membership Percentage(1)” and is sourced from the “Committed Revenue Backlog” website. The chart compares the percentage of the company’s membership to the amount of revenue generated from the company’s committed backlog. The x-axis represents the number of years, and the y-axis represents the percentage of the membership.
+**AI-Generated Image Description:** The image presents a bar chart that compares the percentage of our memberships with our enterprise memberships. The x-axis represents the number of memberships, ranging from 3/31 to 6/30. The y-axis represents the percentage of our memberships, ranging from 20% to 40%.
 
-The bar chart is titled “Committed Revenue Backlog” and is sourced from the “Committed Revenue Backlog” website. The chart compares the percentage of the company’s membership to the amount of revenue generated from the company’s committed backlog. The x-axis represents the number of years, and the y-axis represents the percentage of the membership.
+The chart shows that the percentage of our memberships with enterprise memberships is lower than the percentage of our memberships with enterprise memberships. This is evident from the bar chart, which shows that the percentage of our memberships with enterprise memberships is 20% of the total number of memberships. This means that the percentage of our memberships with enterprise memberships is 20% of the total number of memberships.
 
-The bar chart shows that the percentage of the company’s membership to the amount of revenue generated from the committed backlog is 20% of the total membership. This means that the percentage of the company’s membership to the amount of revenue generated from the committed backlog is 20% of the total membership.
+The bar chart also shows that the percentage of our memberships with enterprise memberships is higher than the percentage of our memberships with enterprise memberships. This is evident from the bar chart, which shows that the percentage of our memberships with enterprise memberships is 40% of the total number of memberships. This means that the percentage of our memberships with enterprise memberships is 40% of the total number of memberships.
 
-The bar chart also shows that the percentage of the company’s membership to the amount of revenue generated from the committed backlog is 40% of the total membership. This means that the percentage of the company’s membership to the amount of revenue generated from the committed backlog is 40% of the total membership.
+The bar chart also shows that the percentage of our memberships with enterprise memberships is higher than the percentage of our memberships with enterprise memberships. This is evident from the bar chart, which shows that the percentage of our memberships with enterprise memberships is 40% of the total number of memberships. This means that the percentage of our memberships with enterprise memberships is 40% of the total number of memberships.
 
-The bar chart also shows that the percentage of the company’s membership to the amount of revenue generated from the committed backlog is 10% of the total membership. This means that the percentage of the company’s membership to the amount of revenue generated from the committed backlog is 10% of the total membership.
+The bar chart also shows that the percentage of our memberships with enterprise memberships is higher than the percentage of our memberships with enterprise memberships. This is evident from the bar chart, which shows that the percentage of our memberships with enterprise memberships is 20% of the total number of memberships. This means that the percentage of our memberships with enterprise memberships is 20% of the total number of memberships.
 
-The bar chart also shows that the percentage of the company’s membership to the amount of revenue generated from the committed backlog is 5% of the total membership. This means that the percentage of the company’s membership to the amount of revenue generated from the committed backlog is 5% of the total membership.
-
-The bar chart also shows that the percentage of the company’s membership to the amount of revenue generated from the committed backlog is 2% of the total membership. This means that the percentage of the company’s membership to the amount of revenue generated from the committed backlog is 2% of the total membership.
-
-The bar chart also
+The bar chart also shows that the percentage of our memberships with enterprise memberships is higher than the percentage of our memberships with enterprise memberships. This is evident from the bar chart, which shows that the percentage of our memberships with enterprise memberships is 40% of the total number of memberships.
 <!-- end image description -->
 
 
@@ -421,7 +376,7 @@ The bar chart also
 We strive to operate our business so that each new location is accretive to our long-term financial performance. After an initial investment, each additional location not only adds members to our platform and revenue to our income statement, but also becomes profitable once it reaches a break-even point. As we move through the different lifecycle phases of each location, the cash flows shift from outgoing during the find and build phases, during which we invest to scale our location portfolio, to incoming during the fill and run phases, during which we seek to monetize our platform.
 
 <!-- image -->
-**Image Description:** In this image there is a graph. On the graph there is a line. On the left side of the graph there is a text.
+**AI-Generated Image Description:** In the image, there is a graph with two axes labeled "Months" and "Location maturity". The x-axis represents the months, and the y-axis represents the location maturity. There is an orange curve that starts at -24 and ends at 12, and it is increasing.
 <!-- end image description -->
 
 
@@ -451,7 +406,7 @@ We believe the following trends are enabling the re-invention of work and will a
 Individuals and organizations turn to us directly to solve their workspace needs because of the value of our integrated solution-space, community, services and technology-and the scale of our global platform. As a result, we are able to aggregate demand and match an individual or organization to the right space, at the right time, at the right price. By acting in this role of demand aggregator, we are able to choose strategically where and how fast to grow.
 
 <!-- image -->
-**Image Description:** In this image there is a diagram with some text and icons. There are some icons and there is a name.
+**AI-Generated Image Description:** In the image, we can see a diagram with different icons and names. The diagram is labeled as "Today's Fragmented Real Estate Industry". It is connected with different icons and names.
 <!-- end image description -->
 
 
@@ -466,30 +421,25 @@ When applying our average revenue per WeWork membership for the six months ended
 We are able to deliver a premium experience to our members at a lower price relative to traditional alternatives. Data from CBRE Group and Cushman &amp; Wakefield indicates that employers across 155 global cities for which data is available and in which we have existing or planned locations spend a weighted average of approximately $11,700 in occupancy costs per employee each year. By applying the average employee occupancy costs to our potential member population of 149 million people in our existing 111 cities, we estimate a total opportunity of $1.7 trillion. Among the approximately 255 million potential members across our 280 target cities globally, we estimate a total opportunity of $3.0 trillion.
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Existing 111 cities." The chart compares the number of existing 111 cities to the number of existing 280 cities. The x-axis represents the number of existing 111 cities, ranging from 0 to 111, while the y-axis represents the number of existing 280 cities, ranging from 0 to 111.
+**AI-Generated Image Description:** The image presents a comparison between two different cities, labeled "Target 280 cities" and "Addressable population." The target city is located in the United States, and the addressable population is located in the United States as well. The target city is located in the state of Texas, and the addressable population is located in the state of Texas.
 
-The chart compares the number of existing 111 cities to the number of existing 280 cities. The x-axis represents the number of existing 111 cities, ranging from 0 to 111. The y-axis represents the number of existing 280 cities, ranging from 0 to 111.
+The target city is located in the United States, and the addressable population is located in the United States as well. The target city is located in the state of Texas, and the addressable population is located in the state of Texas.
 
-The chart shows that there are 111 existing 111 cities, and there are 280 existing 280 cities. The number of existing 111 cities is greater than the number of existing 280 cities.
+The image also includes a horizontal line with the text "$0.8T" at the top left corner. This line indicates that the target city is located in the United States, and the cost savings is $0.8T.
 
-Here is the markdown representation of the chart:
+The image also includes a horizontal line with the text "$1.7T" at the top left corner. This line indicates that the target city is located in the United States, and the cost savings is $1.7T.
 
-```markdown
-| Existing 111 Cities | Existing 280 Cities |
-|---------------------|---------------------|
-| $0.9 T | $0.8 T | $1.7 T |
-| $0.8 T | $1.7 T | $1.6 T |
-| $0.7 T | $1.6 T | $1.4 T |
-| $0.6 T | $1.4 T | $1.2 T |
-| $0.5 T | $1.2 T | $1.1 T |
-| $0.4 T | $1.1 T | $1.0 T |
-| $0.3 T | $1.0 T | $0.9 T |
-| $0.2 T | $0.9 T | $0.8 T |
-| $0.1 T | $0.8 T | $0.7 T |
-| $0.0 T | $0.7 T | $0.6 T |
-| $0.0 T | $0.6 T | $0.5 T |
-| $0.0 T | $0.5 T | $0.4 T |
-|
+The image also includes a horizontal line with the text "$3.0T" at the top left corner. This line indicates that the target city is located in the United States, and the cost savings is $3.0T.
+
+The image also includes a horizontal line with the text "$1.4T" at the top left corner. This line indicates that the target city is located in the United States, and the cost savings is $1.4T.
+
+The image also includes a horizontal line with the text "$1.6T" at the top left corner. This line indicates that the target city is located in the United States, and the cost savings is $1.6T.
+
+The image also includes a horizontal line with the text "$1.4T" at the top left corner. This line indicates that the target city is located in the United States, and the cost savings is $1.4T.
+
+The image also includes a horizontal line with the text "$1.6T" at the top left corner. This line indicates that the target city is located in the United States, and the cost savings is $1.6T.
+
+The image also includes a horizontal line with the text "$1.4T" at the top left corner. This line
 <!-- end image description -->
 
 
@@ -522,21 +472,21 @@ These events are one of many ways in which we view space as a place to bring peo
 combine the traditional with the modemn.
 
 <!-- image -->
-**Image Description:** In this image we can see a building with windows and doors. There are many people sitting on the chairs and tables. There are many plants and trees. There are many lights.
+**AI-Generated Image Description:** In the image there is a building with a lot of windows and a ceiling with a lot of lights. There are many people sitting around the tables and there are many plants in the room.
 <!-- end image description -->
 
 
 our efforts t0 design spacos to reflect local cultures
 
 <!-- image -->
-**Image Description:** In this image we can see a woman sitting on a chair and a man sitting on a chair. In front of them there are tables. On the tables there are books, papers, glasses, and other objects. In the background there is a window, wall, and ceiling. At the top there are lights.
+**AI-Generated Image Description:** In the image we can see there are people sitting on the benches and there are tables and there are windows and there is a sky.
 <!-- end image description -->
 
 
 In New York City . our locations intentionally incorporate local architectural elements , artwork industnal and
 
 <!-- image -->
-**Image Description:** In this image we can see a group of people sitting on the sofas and working on laptops. There are some plants. There is a table with a flower vase and some books on it. There is a pillar. There is a wall. There is a window.
+**AI-Generated Image Description:** In the image we can see there are people sitting on the sofas and there are some objects on the table. There are plants and there is a table and on the table there are some books and there is a laptop.
 <!-- end image description -->
 
 
@@ -547,28 +497,28 @@ In New York City . our locations intentionally incorporate local architectural e
 We pioneered a 'space-as-a-service' membership model. Across our global portfolio of locations, we offer individuals and organizations the flexibility to scale workspace up and down as needed, with the ability to consume space by the minute, by the month or by the year. Our space-as-a-service offering significantly reduces the complexity of leasing real estate to a simplified membership model, while delivering a premium experience to our members at a lower price relative to traditional alternatives and moving fixed lease costs to variable costs for our members. Our membership model is transforming the way individuals and organizations consume commercial real estate.
 
 <!-- image -->
-**Image Description:** In this image we can see a calendar.
+**AI-Generated Image Description:** This is a calendar.
 <!-- end image description -->
 
 
 Flexibility
 
 <!-- image -->
-**Image Description:** The image contains a piece of paper with a design. The design consists of two horizontal lines, one on the left and one on the right. The design is made up of a curved line that appears to be a wave or a curve. The top line of the design is a circle, and the bottom line is a straight line. The design is simple and unadorned, with no additional elements or decorations. The paper appears to be made of paper or paperboard, and it is likely intended for use in a presentation or an educational setting.
+**AI-Generated Image Description:** The number 0 $ is written on a piece of paper.
 <!-- end image description -->
 
 
 Global Mobility
 
 <!-- image -->
-**Image Description:** In the center of the image there is a globe.
+**AI-Generated Image Description:** The globe has three arrows pointing to the right.
 <!-- end image description -->
 
 
 Enhanced Culture
 
 <!-- image -->
-**Image Description:** \{\circ\}^{\circ\}
+**AI-Generated Image Description:** \{\circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \circ, \
 <!-- end image description -->
 
 
@@ -579,7 +529,7 @@ Our space-as-a-service membership model offers members global, 24/7 access to ou
 Our membership offerings are designed to accommodate our members' distinct space needs. We provide standard, configured and on-demand memberships within our spaces. We also offer Powered by We, a premium solution configured to an organization's needs and deployed at the organization's location. Powered by We leverages our analysis, design and delivery capabilities to beautify and optimize an existing workplace, while also offering an organization increased efficiencies and an option to invigorate its spaces through our community offerings. The technology we deploy includes software and hardware solutions that deliver improved insights and an easier-to-use workplace experience for employees.
 
 <!-- image -->
-**Image Description:** In this image there is a diagram, and in the diagram there are three objects.
+**AI-Generated Image Description:** In this image, we can see a building and a chair. We can also see some text and numbers. We can see some buildings and some text. We can see some numbers and some text. We can see some chairs and some text. We can see some buildings and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We can see some buildings and some text. We can see some chairs and some text. We can see some numbers and some text. We
 <!-- end image description -->
 
 
@@ -594,7 +544,7 @@ The profitability profile of our business is a managed outcome driven by the mat
 As we continue to pursue rapid growth, we continue to operate in a state where the majority of our locations are non-mature and have not reached stable cash flow. As of June 1, 2019, only 30% of our open locations were mature, with the remaining 70% of our open locations having been open for 24 months or less. If we stopped investing in our growth and instead allowed our existing pipeline of locations to mature, we would no longer incur capital investments to build out new spaces or the initial expenses associated with driving member acquisition at new locations. Rather, we expect that each mature location would generate a recurring stream of revenues, contribution margin and cash flows. We believe that the flexibility to manage our growth by focusing on our existing pipeline of locations and allowing them to mature presents us with an opportunity to manage our profitability profile.
 
 <!-- image -->
-**Image Description:** In this image there is a graph.
+**AI-Generated Image Description:** In the image, there is a workstation pipeline chart. The chart is titled "Workstation Pipeline Potential: 9-18 months". It is colored in blue, orange, and red. The chart is titled "Build, Fill, Run". It is located in the top right corner of the image.
 <!-- end image description -->
 
 
@@ -624,51 +574,24 @@ We have leveraged our global platform to facilitate rewarding relationships betw
 We are committed to our vision
 
 <!-- image -->
-**Image Description:** In this image we can see a logo.
+**AI-Generated Image Description:** A logo with an "O" in a white outline.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image there is a diagram.
+**AI-Generated Image Description:** The diagram shows a line with five people at the bottom.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image I can see the globe.
+**AI-Generated Image Description:** The image depicts a globe.
 <!-- end image description -->
 
 
 Our member community is strong and growing
 
 <!-- image -->
-**Image Description:** The image depicts a line graph with four distinct bars. The graph is titled "The 4th Bar," and the x-axis is labeled "Age." The y-axis is labeled "Age." The bars are arranged in a horizontal line, with each bar representing a different age group.
-
-The first bar is positioned at the top of the graph, representing the age group of 18-24 years old. The second bar is positioned below the first bar, representing the age group of 25-34 years old. The third bar is positioned below the second bar, representing the age group of 35-44 years old. The fourth bar is positioned below the third bar, representing the age group of 45-54 years old.
-
-Each bar is colored in a gradient of light brown, with the color transitioning from light to dark brown as the age group increases. The bars are evenly spaced, with no gaps between them. The graph is simple and straightforward, with no additional information or context provided.
-
-### Analysis and Description:
-
-#### Age Group Representation:
-- The first bar represents the age group of 18-24 years old.
-- The second bar represents the age group of 25-34 years old.
-- The third bar represents the age group of 35-44 years old.
-- The fourth bar represents the age group of 45-54 years old.
-
-#### Age Group Representation:
-- The first bar represents the age group of 18-24 years old.
-- The second bar represents the age group of 25-34 years old.
-- The third bar represents the age group of 35-44 years old.
-- The fourth bar represents the age group of 45-54 years old.
-
-#### Age Group Representation:
-- The first bar represents the age group of 18-24 years old.
-- The second bar represents the age group of 25-34 years old.
-- The third bar represents the age group of 35-44 years old.
-- The fourth bar represents the age group of 45-54 years old.
-
-### Conclusion:
-The graph is a simple yet effective representation of age groups, with each bar representing a specific age group. The horizontal line
+**AI-Generated Image Description:** The image shows a line graph with four bars. The x-axis represents the years, and the y-axis represents the number of students. The graph is labeled as "500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 <!-- end image description -->
 
 
@@ -677,7 +600,7 @@ Our global platform integrates space, services and technology
 We have attractive economicsOur future impact will transform the way people work, live and grow
 
 <!-- image -->
-**Image Description:** In this image there is a hand holding a plant.
+**AI-Generated Image Description:** The image depicts a hand holding a plant. The hand is holding the plant from the bottom, with the fingers spread out. The plant has three flowers, which are the main focus of the image. The flowers are small and have multiple petals. The stem of the plant is visible, and it is green. The background is white, which helps to make the plant stand out. The hand and the plant are drawn in a simple, cartoon style, which is suitable for a digital or graphic design project.
 <!-- end image description -->
 
 
@@ -762,47 +685,34 @@ The We Company holds an indirect general partner interest and indirect limited p
 The diagram below is a simplified depiction of our organizational structure immediately following the completion of this offering:
 
 <!-- image -->
-**Image Description:** The image is a financial information document. It is a table that is structured to present financial information in a clear and organized manner. The table is divided into two main sections:
+**AI-Generated Image Description:** In the image, there is a document titled "We the Company". Below is a detailed description of the document:
 
-1. **We The Company Section**:
-   - The first section is labeled "We The Company" and contains the following information:
-     - Class A common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock (% of total voting power)
-     - Class C common stock
+1. **Main Title**: The main title of the document is "We the Company".
+2. **Main Content**: The main content of the document is a list of companies, each with a brief description and a brief description of the company.
+3. **Companies**: There are 5 companies listed in the document. The companies are:
+   - **Class A common stock**: The company is classified as a Class A common stock.
+   - **Class B common stock**: The company is classified as Class B common stock.
+   - **Class C common stock**: The company is classified as Class C common stock.
+   - **Class D common stock**: The company is classified as Class D common stock.
+   - **Class E common stock**: The company is classified as Class E common stock.
+   - **Class F common stock**: The company is classified as Class F common stock.
+   - **Class G common stock**: The company is classified as Class G common stock.
+   - **Class H common stock**: The company is classified as Class H common stock.
+   - **Class I common stock**: The company is classified as Class I common stock.
+   - **Class J common stock**: The company is classified as Class J common stock.
+   - **Class K common stock**: The company is classified as Class K common stock.
+   - **Class M common stock**: The company is classified as Class M common stock.
+   - **Class N common stock**: The company is classified as Class N common stock.
+   - **Class O common stock**: The company is classified as Class O common stock.
+   - **Class P common stock**: The company is classified as Class P common stock.
+   - **Class Q common stock**: The company is classified as Class Q common stock.
+   - **Class R common stock**: The company is classified as Class R common stock.
+   - **Class S common stock**: The company is classified as Class S common stock.
+   - **Class T common stock**: The company is classified as Class T common stock.
+   - **Class U common stock**: The company is classified as Class U common stock.
+   - **Class V common stock**: The company is classified as Class V common stock.
+   - **Class W common stock**: The company is classified as Class W common stock.
+   - **Class X common stock**: The
 <!-- end image description -->
 
 
@@ -1830,11 +1740,28 @@ We have proven that community, flexibility and cost-efficiency can benefit the w
 We have grown significantly since our inception. Our membership base has grown by over 100% every year since 2014 as we have added new members at a strong pace while also strengthening our relationships with existing members. Of the new memberships added in 2018, 35% were attributable to organizations that were already members at the end of 2017. Across our member community, we have high retention rates and expanding relationships, reflecting high member satisfaction with our platform. It took us more than seven years to achieve $1 billion of run-rate revenue, but only one additional year to reach $2 billion of run-rate revenue and just six months to reach $3 billion of run-rate revenue.
 
 <!-- image -->
-**Image Description:** The image is a line graph titled "Extended Platform." The graph is sourced from The We Are The Platform, a company that is part of the global platform industry. The graph is sourced from the United States, and it is dated from 2019.
+**AI-Generated Image Description:** The image is a line graph that shows the number of memberships in different cities worldwide from 2010 to 2020. The x-axis represents the cities, while the y-axis shows the number of memberships. The graph is labeled "Extended Platform."
 
-The graph has a title at the top, which reads "Extended Platform." Below the title, there is a subtitle that reads "Launched with D&O & Impact Report." This subtitle is in a smaller font size compared to the title.
+The following is the information provided in the graph:
 
-The graph has a horizontal axis labeled "Memberships" and a vertical axis labeled "Receipt." The x-axis is labeled "2019," and the y-axis is labeled "Receipt." The graph shows the number of memberships and the number of Received Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Reinsurance Re
+- The x-axis represents the cities, with each city listed in alphabetical order.
+- The y-axis represents the number of memberships, with increments of 1000.
+
+The graph shows that:
+
+1. **2010**: There are 450 memberships in the city of New York.
+2. **2011**: There are 400 memberships in the city of San Francisco.
+3. **2012**: There are 350 memberships in the city of Los Angeles.
+4. **2013**: There are 300 memberships in the city of Chicago.
+5. **2014**: There are 250 memberships in the city of New York.
+6. **2015**: There are 200 memberships in the city of Chicago.
+7. **2016**: There are 150 memberships in the city of Los Angeles.
+8. **2017**: There are 100 memberships in the city of New York.
+9. **2018**: There are 100 memberships in the city of Chicago.
+10. **2019**: There are 100 memberships in the city of Los Angeles.
+11. **2020**: There are 100 memberships in the city of New York.
+
+The graph shows that the number of memberships in the cities of New York, San Francisco, and Chicago has increased over time. The number of memberships in the cities of New York has increased by 1000 memberships, the number of memberships in the cities of San Francisco has increased by 1000 memberships, and the number of memberships in the cities of Chicago has increased by 1000 memberships.
 <!-- end image description -->
 
 
@@ -1853,7 +1780,7 @@ To evaluate our business, measure our performance, identify trends affecting our
 (in thousands)
 
 <!-- image -->
-**Image Description:** In this image we can see a chart. On the chart we can see numbers.
+**AI-Generated Image Description:** The image shows a horizontal bar chart with two distinct categories: 2016 and 2018. The x-axis represents the years, while the y-axis represents the number of people. The chart is titled "2018." The number of people in 2018 is 301, while the number of people in 2016 is 107.
 <!-- end image description -->
 
 
@@ -1868,7 +1795,7 @@ Workstation capacity is presented in this prospectus rounded to the nearest thou
 (in thousands)
 
 <!-- image -->
-**Image Description:** In this image we can see a chart. On the chart we can see numbers.
+**AI-Generated Image Description:** The image depicts a horizontal bar chart with two distinct categories: "2016" and "2017". The x-axis represents the years, while the y-axis represents the number of people. The chart is titled "2016" and the data points are represented by orange bars. The data points for 2016 and 2017 are 87 and 186, respectively.
 <!-- end image description -->
 
 
@@ -1883,37 +1810,21 @@ Memberships are presented in this prospectus rounded to the nearest thousand. Me
 ## Enterprise Membership Percentage
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "2016 to 2018 to 2022." The chart is divided into two segments, each representing a different year. The x-axis represents the years, and the y-axis represents the percentage of the population.
+**AI-Generated Image Description:** The image depicts a bar chart that visually represents the distribution of data over time. The x-axis is labeled "Q2 2018" and the y-axis is labeled "2017." The chart shows a gradual increase in the number of employees from 2016 to 2018, with a slight dip in 2017. The number of employees then increases again, reaching a peak in 2018. The number of employees then decreases again, with a slight increase in 2019.
 
-### Description of the Bar Chart:
-- **X-Axis (Years):**
-  - The years are labeled from 2016 to 2022.
+The chart uses a gradient color scheme to represent the data. The color gradient is from light yellow to dark yellow, with the yellow representing the highest number of employees. The gradient is consistent throughout the chart, with the highest number of employees at the top of the chart and the lowest at the bottom.
 
-- **Y-Axis (Percentage of the Population):**
-  - The years are labeled from 2016 to 2022.
+The y-axis is labeled "Q2 2018" and the x-axis is labeled "2017." The y-axis is labeled "2018," and the x-axis is labeled "2017." The chart uses a simple, straightforward design with no additional visual elements.
 
-### Analysis:
-- **2016:**
-  - The bar chart shows that the percentage of the population in 2016 is 18%.
-- **2017:**
-  - The bar chart shows that the percentage of the population in 2017 is 28%.
-- **2018:**
-  - The bar chart shows that the percentage of the population in 2018 is 30%.
-- **2022:**
-  - The bar chart shows that the percentage of the population in 2022 is 40%.
+### Analysis and Description:
 
-### Additional Observations:
-- **2016:**
-  - The percentage of the population in 2016 is 18%.
-- **2017:**
-  - The percentage of the population in 2017 is 28%.
-- **2018:**
-  - The percentage of the population in 2018 is 30%.
-- **2022:**
-  - The percentage of the population in 2022 is 40%.
+The bar chart effectively communicates the trend of employee numbers over time. The gradual increase in the number of employees from 2016 to 2018 suggests a positive growth in the company's workforce. The slight dip in 2017 could indicate a period of economic or operational challenges that impacted the company's workforce.
+
+The color gradient used in the chart helps to differentiate between the two years, making it easy to identify the growth in the first year and the decline in the second year. The color gradient also helps to differentiate between the highest and lowest numbers of employees, which is useful for quickly identifying the trend.
 
 ### Conclusion:
-The bar chart provides a clear visual representation of the percentage of the population in different years. The data indicates that the percentage of the population in 2016 is significantly higher than the percentage in 2017 and 2018, and the percentage in 2022 is the lowest among all the years. This data can be useful for understanding the population trends over time and for making informed decisions regarding population policies and demographic projections.
+
+The bar chart effectively communicates the growth in the number of employees over time. The gradual increase in the number of employees from 2016 to 2018 suggests a positive growth in the company's workforce. The slight dip in 2017 could indicate a period of economic or operational challenges that impacted the company's workforce. The color gradient helps to differentiate between the two years, making it easy to identify the growth in the first year and the decline in the second year.
 <!-- end image description -->
 
 
@@ -1928,28 +1839,7 @@ Enterprise members are strategically important for our business as they typicall
 (in billions)
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled “Growth in the United States.” The chart compares the percentage of the population that is currently in the U.S. to the percentage of the population that is currently in the U.S. for the years 2016, 2017, 2018, and 2019. The x-axis represents the years, while the y-axis represents the percentage of the population.
-
-The chart is divided into two sections: the upper section and the lower section. The upper section is labeled “Growth in the United States” and the lower section is labeled “Growth in the United States.”
-
-The chart shows the following data points:
-
-- The percentage of the population that is currently in the U.S. is shown as a horizontal bar.
-- The percentage of the population that is currently in the U.S. is shown as a vertical bar.
-- The percentage of the population that is currently in the U.S. is shown as a horizontal bar.
-- The percentage of the population that is currently in the U.S. is shown as a vertical bar.
-- The percentage of the population that is currently in the U.S. is shown as a horizontal bar.
-- The percentage of the population that is currently in the U.S. is shown as a vertical bar.
-- The percentage of the population that is currently in the U.S. is shown as a horizontal bar.
-- The percentage of the population that is currently in the U.S. is shown as a vertical bar.
-- The percentage of the population that is currently in the U.S. is shown as a horizontal bar.
-- The percentage of the population that is currently in the U.S. is shown as a vertical bar.
-- The percentage of the population that is currently in the U.S. is shown as a horizontal bar.
-- The percentage of the population that is currently in the U.S. is shown as a vertical bar.
-- The percentage of the population that is currently in the U.S. is shown as a horizontal bar.
-- The percentage of the population that is currently in the U.S. is shown as a vertical bar.
-- The percentage of the population that is currently in the U.S. is shown as a horizontal bar.
-- The percentage of the population
+**AI-Generated Image Description:** The chart shows the year-over-year growth in the value of the U.S. real gross domestic product (GDP) from 2016 to 2019. In 2019, the real GDP growth rate was 86%, compared to 1.8% in 2017.
 <!-- end image description -->
 
 
@@ -1962,7 +1852,27 @@ Given the growth we have experienced, we view run-rate revenue as a useful metri
 (in billions)
 
 <!-- image -->
-**Image Description:** In this image, we can see a chart. There is a yellow color bar.
+**AI-Generated Image Description:** The image depicts a horizontal bar chart with two distinct categories. The x-axis is labeled "Q2 2019" and the y-axis is labeled "2019." The horizontal bar chart is divided into two segments, with the first segment representing the years 2016 and 2017, and the second segment representing the years 2018 and 2019.
+
+### Description of the Bar Chart:
+1. **X-Axis**: The x-axis is labeled "Q2 2019" and is marked with a horizontal bar. The length of the bar is 0.1.
+2. **Y-Axis**: The y-axis is labeled "2019" and is marked with a horizontal bar. The length of the bar is 4.
+
+### Analysis:
+- **2016**: The bar for 2016 is approximately 0.5.
+- **2017**: The bar for 2017 is approximately 2.6.
+- **2018**: The bar for 2018 is approximately 4.
+- **2019**: The bar for 2019 is approximately 4.
+
+### Conclusion:
+The bar chart provides a clear visual representation of the years 2016 and 2017, with the 2018 and 2019 years represented by the same horizontal bar. The data is presented in a clear and straightforward manner, making it easy to compare the years.
+
+### Chain of Thought (CoT) Analysis:
+1. **Identify the categories**: The categories are 2016 and 2017.
+2. **Determine the length of the bars**: The length of the bars is 0.5.
+3. **Compare the lengths**: The length of the bars for 2016 and 2017 is 0.5, while the length for 2018 and 2019 is 4.
+4. **Compare the lengths**: The length of the bars for 2016 and 2017 is 0.5, while the length for 2018 and 2019 is 4.
+5. **Sum
 <!-- end image description -->
 
 
@@ -1987,24 +1897,7 @@ We define 'contribution margin including non-cash GAAP straight-line lease cost'
 (in millions)
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Contribution margin including non-cash GAAP straight-line lease cost." The chart is divided into two sections: the left section is labeled "Contribution margin including non-cash GAAP straight-line lease cost" and the right section is labeled "Contribution margin excluding non-cash GAAP straight-line lease cost."
-
-### Description of the Chart:
-- **Left Section:**
-  - The left section is labeled "Contribution margin including non-cash GAAP straight-line lease cost."
-  - The chart is divided into two sections: the left section is labeled "Contribution margin including non-cash GAAP straight-line lease cost" and the right section is labeled "Contribution margin excluding non-cash GAAP straight-line lease cost."
-  - The chart is divided into two horizontal rows, each containing two columns.
-  - The first column is labeled "Contribution margin including non-cash GAAP straight-line lease cost" and the second column is labeled "Contribution margin excluding non-cash GAAP straight-line lease cost."
-  - The chart is color-coded to represent the contribution margin percentage.
-  - The left section has a yellow bar, while the right section has a blue bar.
-  - The yellow bar is labeled "Contribution margin including non-cash GAAP straight-line lease cost" and the blue bar is labeled "Contribution margin excluding non-cash GAAP straight-line lease cost."
-  - The chart is divided into two sections, with the left section labeled "Contribution margin including non-cash GAAP straight-line lease cost" and the right section labeled "Contribution margin excluding non-cash GAAP straight-line lease cost."
-  - The chart is color-coded to represent the contribution margin percentage.
-  - The left section has a yellow bar, while the right section has a blue bar.
-  - The yellow bar is labeled "Contribution margin including non-cash GAAP straight-line lease cost" and the blue bar is labeled "Contribution margin excluding non-cash GAAP straight-line lease cost."
-  - The chart is color-coded to represent the contribution margin percentage.
-  - The left section has a yellow bar, while the right section has a blue bar.
-  - The yellow bar is labeled "Contribution margin including non-cash GAAP straight-line lease cost" and the blue bar is labeled "Cont
+**AI-Generated Image Description:** The new membership and service revenue has increased by $34 million in 2019 compared to 2016. The contribution margin including non-cash GAAP straight-line lease cost has increased by $467 million.
 <!-- end image description -->
 
 
@@ -2052,7 +1945,7 @@ are comparable to the six months ended June 30, 2019. Our discussion and analysi
 (in millions)
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled “Memberships & services revenue” with a legend in the bottom right corner. The chart is titled “Memberships & services revenue” and is colored in gray. The x-axis is labeled “Membership & services revenue” and the y-axis is labeled “Membership & services revenue.” The chart has two categories: “Membership & services” and “Membership & services revenue.” The categories are colored in gray. The chart has a legend in the bottom right corner that has a gray background and a gray border. The legend has two colors: gray and green. The gray color is labeled “Membership & services revenue.” The green color is labeled “Membership & services revenue.” The chart has a horizontal bar chart with two horizontal bars. The first bar is labeled “Membership & services revenue” and is colored gray. The second bar is labeled “Membership & services revenue” and is colored green. The chart has a horizontal bar chart with two horizontal bars. The first bar is labeled “Membership & services revenue” and is colored gray. The second bar is labeled “Membership & services revenue” and is colored green. The chart has a horizontal bar chart with two horizontal bars. The first bar is labeled “Membership & services revenue” and is colored gray. The second bar is labeled “Membership & services revenue” and is colored green. The chart has a horizontal bar chart with two horizontal bars. The first bar is labeled “Membership & services revenue” and is colored gray. The second bar is labeled “Membership & services revenue” and is colored green. The chart has a horizontal bar chart with two horizontal bars. The first bar is labeled “Membership & services revenue” and is colored gray. The second bar is labeled “Membership & services revenue” and is colored green. The chart has a horizontal bar chart with two horizontal bars. The first bar is labeled “Membership & services revenue” and is colored gray. The second bar is labeled “Membership & services revenue” and is colored green. The chart has a horizontal bar chart with two horizontal bars. The first bar is labeled “Membership & services revenue” and is colored gray. The second bar is labeled “Membership & services revenue” and is colored green. The chart has a horizontal bar chart with two horizontal bars. The first bar is labeled “Membership & services revenue” and is colored gray. The
+**AI-Generated Image Description:** The image is a bar chart titled “Memberships & services revenue,” with a horizontal axis labeled “($538) ($198) ($340)” and a vertical axis labeled “($1,349) ($1,349) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($198) ($340) ($
 <!-- end image description -->
 
 
@@ -2118,36 +2011,7 @@ For our mature locations, the impact of straight-lining of lease cost is typical
 (in millions)
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Contribution Margin Including Non-cash GAAP Straight-Line Lease Cost." The chart is divided into two sections, one labeled "02'17" and the other labeled "03'17." The x-axis represents the "02'17" period, and the y-axis represents the "03'17" period. The chart shows the percentage of contribution margin for each segment of the company.
-
-The chart has two distinct segments:
-1. **Contribution Margin Including Non-cash GAAP Straight-Line Lease Cost**
-   - The segment labeled "02'17" has a contribution margin of $65.
-   - The segment labeled "03'17" has a contribution margin of $100.
-
-2. **Contribution Margin Excluding Non-cash GAAP Straight-Line Lease Cost**
-   - The segment labeled "02'17" has a contribution margin of $13.
-   - The segment labeled "03'17" has a contribution margin of $100.
-
-The chart also includes a legend in the upper right corner, which indicates the values of the contribution margins for each segment. The legend is circular and has a white background.
-
-### Analysis and Description
-
-The chart is a bar chart that visually represents the contribution margins for different segments of the company. The segments are labeled "02'17" and "03'17." The x-axis represents the "02'17" period, and the y-axis represents the "03'17" period.
-
-The chart shows the following data:
-- **Contribution Margin Including Non-cash GAAP Straight-Line Lease Cost**
-   - The contribution margin for this segment is $65.
-   - The contribution margin for this segment is $13.
-
-- **Contribution Margin Excluding Non-cash GAAP Straight-Line Lease Cost**
-   - The contribution margin for this segment is $100.
-
-### Relevant Knowledge
-
-The chart is a useful tool for understanding the contribution margins of different segments of the company. The contribution margins are calculated by dividing the contribution to the company by the contribution to the company. This helps in comparing the contribution margins across different segments.
-
-### Conclusion
+**AI-Generated Image Description:** The chart shows the contribution margin for a group of companies. The contribution margin includes non-cash GAAP straight-line lease cost, non-cash GAAP straight-line lease cost, and contribution margin excluding non-cash GAAP straight-line lease cost. The contribution margin is calculated by subtracting the contribution margin excluding non-cash GAAP straight-line lease cost from the contribution margin for the group.
 <!-- end image description -->
 
 
@@ -2220,7 +2084,34 @@ The remaining 12% of total revenue during the six months ended June 30, 2019 rep
 Our business is built on a global platform of physical locations where we offer access to workstations in exchange for membership fees. Over the past several years, we have demonstrated a track record of scaling our geographic footprint and our membership base while monetizing our open locations, in particular as they reach maturity. The lifecycle of a location refers to the process by which we source, build out and operate the location through our global-local playbook. We categorize this process into five phases: find, sign, build, fill and run.
 
 <!-- image -->
-**Image Description:** In this image there is a graph. There is a title at the top of the image. There is a text at the bottom of the image. There is a graph. There is a graph with a title at the top of the image.
+**AI-Generated Image Description:** The image depicts a table with various categories and their corresponding findings. The table is titled "Pre-Opening Locations," "Open Locations," and "Invest to Scale Platform." The categories are:
+1. "Pre-Opening Locations": These are the locations where the workstations are located.
+2. "Open Locations": These are the locations where the workstations are open.
+3. "Invest to Scale Platform": This is the platform where the workstations are invested to scale.
+
+The table is structured with the following columns and rows:
+1. **Find**: This column lists the categories of workstations.
+2. **Sign**: This column lists the names of the workstations.
+3. **Sign Up**: This column lists the names of the individuals who have signed onto the workstations.
+4. **Build**: This column lists the names of the individuals who have built the workstations.
+5. **Fill**: This column lists the names of the individuals who have filled the workstations.
+6. **Run**: This column lists the names of the individuals who have run the workstations.
+7. **Run Results**: This column lists the results of the run, which are the percentage of workstations that were run.
+
+The table is structured with the following data:
+1. **Find**: The table lists the categories of workstations.
+2. **Sign**: The table lists the names of the individuals who have signed onto the workstations.
+3. **Sign Up**: The table lists the names of the individuals who have signed onto the workstations.
+4. **Build**: The table lists the names of the individuals who have built the workstations.
+5. **Fill**: The table lists the names of the individuals who have filled the workstations.
+6. **Run**: The table lists the names of the individuals who have run the workstations.
+7. **Run Results**: The table lists the results of the run, which are the percentage of workstations that were run.
+
+The table is structured with the following data:
+1. **Find**: The table lists the categories of workstations.
+2. **Sign**: The table lists the names of the individuals who have signed onto the workstations.
+3. **Sign Up**: The table lists the names of the individuals who have signed onto the workstations.
+4. **Build
 <!-- end image description -->
 
 
@@ -2231,12 +2122,12 @@ As of June 1, 2019. 'Find' phase includes locations that are the subject of eith
 Our locations have distinct revenue, expense and capital cost profiles through each phase of their lifecycle. First, we incur growth and new market development expenses associated with our real estate team that is responsible for finding new locations and negotiating lease terms. Once we take possession of a space, we incur growth and new market development expenses associated with our design and construction teams as well as capital costs related to building out our spaces. In this phase, we also begin our efforts to fill our spaces, and we incur sales and marketing expenses associated with our sales teams, advertising campaigns and fees paid to brokers who sell memberships, particularly to enterprise organizations. After a location opens, we begin generating revenue and contribution margin as we further fill and run the spaces. Once a location has been open to members for more than 24 months, occupancy is generally stable and the location typically generates a recurring stream of cash flows.
 
 <!-- image -->
-**Image Description:** In this image there is a graph. On the graph there is a line. There is a text on the graph.
+**AI-Generated Image Description:** In the image there is a graph showing the monthly investment of a platform and the monthly break. The graph shows an upward trend.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image there is a graph. On the graph there is a line. On the left side of the graph there is a text.
+**AI-Generated Image Description:** In the image, there is a graph with two axes labeled as Location and Location maturity. The x-axis is labeled as "Months" and the y-axis is labeled as "Invest to scale platform". There is a red curve on the graph, which means that the value of the graph is increasing.
 <!-- end image description -->
 
 
@@ -2285,7 +2176,24 @@ have done in India, under which the building owner funds all capital expenditure
 ## Number of Leases Signed (1)
 
 <!-- image -->
-**Image Description:** In this image, we can see a graph.
+**AI-Generated Image Description:** The image depicts a bar chart with two distinct categories. The x-axis is labeled "2016" and the y-axis is labeled "2017." The bars are colored in teal, indicating that the years 2016 and 2017 are the same. The height of each bar corresponds to the value of the corresponding year.
+
+### Description of the Bar Chart:
+- **X-Axis (Horizontal Axis)**: The x-axis is labeled "2016" and is marked from 2016 to 2017.
+- **Y-Axis (Vertical Axis)**: The y-axis is labeled "2017" and is marked from 2017 to 2018.
+
+### Analysis:
+- **2016**: The bar for 2016 is the tallest, indicating that the value for 2016 is higher than the value for 2017.
+- **2017**: The bar for 2017 is the shortest, indicating that the value for 2017 is lower than the value for 2016.
+
+### Conclusion:
+The bar chart clearly shows that the value for 2016 is higher than the value for 2017. This indicates that the year 2016 was the most significant year for the data, while the year 2017 was the least significant. This could be due to several factors, such as the year being a significant year for the company or the year being a relatively new year.
+
+### Chain of Thought (CoT) Analysis:
+1. **Identify the categories**: The categories are "2016" and "2017."
+2. **Determine the values**: The values for 2016 and 2017 are 64 and 139, respectively.
+3. **Compare the heights**: The height of the bars for 2016 and 2017 is the same, indicating that the year 2016 was the most significant year for the data.
+4. **Consider the context**: The year 2016 was the most significant year for the company, which could be due to factors such as the year being a significant year
 <!-- end image description -->
 
 
@@ -2321,45 +2229,43 @@ We incur the majority of our gross capital expenditures to build out our spaces 
 ## Average Months to Open from Possession Date
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Market" with two categories: "vs." and "Market." The x-axis represents the "Market" category, and the y-axis represents the "Market" category. The bars are colored in teal, and the height of each bar corresponds to the value of the respective category.
+**AI-Generated Image Description:** The image shows a comparison between two categories: "vs." and "Market." The "vs." category is represented by the gray rectangle, while the "Market" category is represented by the teal rectangle. The gray rectangle is positioned on the left side of the image, while the teal rectangle is positioned on the right side.
 
-### Description of the Bar Chart:
-- **Title**: "Market"
-- **X-Axis**: The x-axis is labeled "Market" and has a color of teal.
-- **Y-Axis**: The y-axis is labeled "Market" and has a color of teal.
-- **Bars**:
-  - **Left Bar**: The left bar is colored teal and has a height of 5.
-  - **Right Bar**: The right bar is colored teal and has a height of 9.
+### Description of the Image:
+1. **Left Side of the Image:**
+   - **Color:** Gray
+   - **Shape:** Rectangle
+   - **Position:** Left side of the image
+
+2. **Right Side of the Image:**
+   - **Color:** Teal
+   - **Shape:** Rectangle
+   - **Position:** Right side of the image
+
+3. **Background:**
+   - **Color:** White
+   - **Shape:** Rectangle
+
+4. **Text Elements:**
+   - **Text:** "we" is located on the left side of the gray rectangle, and "vs." is located on the right side of the teal rectangle.
+   - **Text Content:** "we" is written in a smaller font size compared to "vs."
 
 ### Analysis:
-- **Left Bar**: The left bar is colored teal and has a height of 5.
-- **Right Bar**: The right bar is colored teal and has a height of 9.
+- **Comparison:** The gray rectangle represents "vs." while the teal rectangle represents "Market."
+- **Comparison:** The gray rectangle is positioned on the left side of the image, while the teal rectangle is positioned on the right side.
+- **Comparison:** The gray rectangle is larger than the teal rectangle.
+- **Comparison:** The gray rectangle is positioned on the left side of the image, while the teal rectangle is positioned on the right side.
+- **Comparison:** The gray rectangle is positioned on the left side of the image, while the teal rectangle is positioned on the right side.
 
-### Additional Information:
-- **Left Bar**: The left bar is colored teal and has a height of 5.
-- **Right Bar**: The right bar is colored teal and has a height of 9.
-
-### Conclusion:
-The bar chart provides a clear visual representation of the market's value for the "vs." category. The left bar represents the value of the "vs." category, while the right bar represents the value of the "Market" category. The values are represented by the height of the bars, which are colored teal. The chart effectively communicates the market's value for the "vs." category.
+### Answer to the Question:
+The image is a comparison between two categories, "vs." and "Market." The gray rectangle represents "vs." while the teal rectangle represents "Market." The gray rectangle is positioned on the left side of the image, while the teal rectangle is positioned on the right side.
 <!-- end image description -->
 
 
 ## Net Capex per Workstation Added (3)
 
 <!-- image -->
-**Image Description:** The image presents a bar chart titled "Reduction." The x-axis represents the years from 2014 to 2019, while the y-axis represents the amount of money spent on the product. The chart is divided into two segments: the upper segment is labeled "$7,289" and the lower segment is labeled "$4,167."
-
-The bar chart is visually structured with two distinct segments: the upper segment and the lower segment. The upper segment is colored in a gradient of blue and green, indicating a reduction in spending. The lower segment is colored in a gradient of gray and black, indicating a reduction in spending.
-
-The x-axis is labeled "Year," and the y-axis is labeled "Amount of Money." The y-axis is marked with the number "$4,167," which is the total amount spent on the product in the years 2014, 2015, 2016, 2017, and 2018.
-
-The bar chart is visually structured with two distinct segments: the upper segment and the lower segment. The upper segment is colored in a gradient of blue and green, indicating a reduction in spending. The lower segment is colored in a gradient of gray and black, indicating a reduction in spending.
-
-The x-axis is labeled "Year," and the y-axis is labeled "Amount of Money." The y-axis is marked with the number "$4,167," which is the total amount spent on the product in the years 2014, 2015, 2016, 2017, and 2018.
-
-The bar chart is visually structured with two distinct segments: the upper segment and the lower segment. The upper segment is colored in a gradient of blue and green, indicating a reduction in spending. The lower segment is colored in a gradient of gray and black, indicating a reduction in spending.
-
-The x-axis is labeled "Year," and the y-axis is labeled "Amount of Money." The y-axis is marked with the number "$4,167," which is the total amount spent on the product in the years 2014, 2015, 2016, 2017,
+**AI-Generated Image Description:** The image depicts a line graph that shows the percentage of savings and savings rate for different years. The x-axis represents the years, while the y-axis represents the savings rate. The graph shows that the savings rate has increased from 2014 to 2019, with a slight decrease in 2019.
 <!-- end image description -->
 
 
@@ -2383,35 +2289,75 @@ During this phase, we focus on optimizing utilization of space at our locations 
 ## Enterprise Membership Percentage
 
 <!-- image -->
-**Image Description:** In this image we can see a chart. On the chart we can see numbers.
+**AI-Generated Image Description:** The image depicts a bar chart with three distinct categories. The x-axis is labeled "Q2" and is marked from 2019 to 2020. The y-axis is labeled "Q1" and is marked from 2016 to 2018. The chart shows the percentage of people who have purchased a certain item in Q1 of each year.
+
+### Description of the Bar Chart:
+1. **X-Axis (Q2)**: The x-axis is labeled "Q2" and is marked from 2016 to 2018.
+2. **Y-Axis (Q1)**: The y-axis is labeled "Q1" and is marked from 2016 to 2018.
+
+### Data Representation:
+- **2016**: 18%
+- **2017**: 28%
+- **2018**: 40%
+
+### Analysis:
+- **2016**: This year shows a significant increase in the percentage of people purchasing a certain item, from 18% to 28%.
+- **2017**: This year shows a slight decrease, from 28% to 40%.
+- **2018**: This year shows a slight increase, from 40% to 40%.
+- **2019**: This year shows a slight decrease, from 40% to 40%.
+
+### Conclusion:
+The bar chart indicates that the percentage of people purchasing a certain item increased from 2016 to 2018, with a slight decrease in 2019. This trend suggests a positive correlation between the two years, with the percentage of people purchasing a certain item increasing year by year.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "At Opening 2018, 52% of respondents said they were not sure if they would be able to get a job." The chart is divided into two sections, one labeled "At Opening 2018" and the other labeled "2016." The "2018" section is on the left side of the chart, while the "2016" section is on the right side.
+**AI-Generated Image Description:** The image depicts a bar chart that visually represents the number of people who have been diagnosed with a particular disease over a period of time. The chart is titled "At Opening," and it is sourced from a source that provides data on the number of people diagnosed with a particular disease. The chart is divided into two sections: the upper section and the lower section.
 
-### Description of the Chart:
-- **At Opening 2018:**
-  - The chart shows the percentage of respondents who are unsure if they would be able to get a job.
-  - The percentage is shown as a horizontal bar, with the "2018" section on the left and the "2016" section on the right.
-  - The percentage is 52%.
-
-- **2016:**
-  - The chart shows the percentage of respondents who are unsure if they would be able to get a job.
-  - The percentage is shown as a horizontal bar, with the "2016" section on the left and the "2016" section on the right.
-  - The percentage is 51%.
-
-### Analysis:
-- **2018:**
-  - The percentage of respondents who are unsure about getting a job is 52%.
-  - The percentage is 51%.
-
-- **2016:**
-  - The percentage of respondents who are unsure about getting a job is 51%.
-  - The percentage is 51%.
-
-### Conclusion:
-The chart shows a downward trend in the percentage of respondents who are unsure about getting a job. The percentage of respondents who are unsure about getting a job has decreased from 52% in 2018 to 51% in 2016. This trend is consistent and is likely due to a number of factors, including the COVID-19 pandemic, the impact of the pandemic on job availability, and the impact of the pandemic on job availability.
+### Upper Section:
+- **Title:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **Data Source:** "At Opening"
+- **
 <!-- end image description -->
 
 
@@ -2433,50 +2379,42 @@ At this phase, the community team, which includes a dedicated sales lead at each
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Membership Retention." The chart is segmented into different colors, each representing a different year. The x-axis represents the years, while the y-axis represents the percentage of new memberships. The chart is titled "Membership Retention" and is labeled as "Net membership retention rate."
+**AI-Generated Image Description:** The image is a bar chart titled "Membership Retention." The x-axis represents the years from 2016 to 2018, while the y-axis represents the percentage of new memberships that have been retained. The chart is divided into four distinct categories: Pre-2016, 2016, 2017, and 2018.
 
-### Description of the Bar Chart:
-- **Color Legend**:
-  - **Blue**: Pre-2016
-  - **Orange**: 2017
-  - **Red**: 2018
-  - **Yellow**: 2019
-  - **Green**: 2020
-  - **Purple**: 2021
-  - **Cyan**: 2022
-  - **Gray**: 2023
-  - **Black**: 2024
-  - **White**: 2025
-  - **Red**: 2026
-  - **Blue**: 2027
-  - **Purple**: 2028
-  - **Cyan**: 2029
-  - **Gray**: 2030
-  - **Black**: 2031
-  - **White**: 2032
-  - **Red**: 2033
-  - **Blue**: 2034
-  - **Purple**: 2035
-  - **Cyan**: 2036
-  - **Gray**: 2037
-  - **Black**: 2038
-  - **White**: 2039
-  - **Red**: 2040
-  - **Blue**: 2041
-  - **Purple**: 2042
-  - **Cyan**: 2043
-  - **Gray**: 2044
-  - **Black**: 2045
-  - **White**: 2046
-  - **Red**: 2047
-  - **Blue**: 2048
-  - **Purple**: 2049
-  - **Cyan**: 2050
-  - **Gray**: 2051
-  - **Black**: 2052
-  - **White**: 2053
-  - **Red**: 2054
-  - **Blue**: 2055
+### Categories:
+1. **Pre-2016 Membership**
+   - **2016**
+   - **2017**
+   - **2018**
+
+2. **2016 Membership**
+   - **2016**
+   - **2017**
+   - **2018**
+
+3. **2016 Membership**
+   - **2016**
+   - **2017**
+   - **2018**
+
+4. **2016 Membership**
+   - **2016**
+   - **2017**
+   - **2018**
+
+### Data Representation:
+- **2016 Membership** has the highest percentage of retained memberships, with 35%.
+- **2016 Membership** has the lowest percentage of retained memberships, with 11%.
+- **2016 Membership** has the highest percentage of retained memberships, with 35%.
+- **2016 Membership** has the lowest percentage of retained memberships, with 11%.
+- **2016 Membership** has the highest percentage of retained memberships, with 35%.
+- **2016 Membership** has the lowest percentage of retained memberships, with 11%.
+- **2016 Membership** has the highest percentage of retained memberships, with 35%.
+- **2016 Membership** has the lowest percentage of retained memberships, with 11%.
+- **2016 Membership** has the highest percentage of retained memberships, with 35%.
+- **2016 Membership** has the lowest percentage of retained memberships, with 11%.
+- **2016 Membership** has the highest percentage of retained memberships, with 35%.
+- **2016 Membership** has the lowest percentage
 <!-- end image description -->
 
 
@@ -2499,56 +2437,29 @@ The financial performance of our locations generally improves as they progress t
 ## Run-Rate Revenue
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Increase" with two sets of bars. The chart is divided into two sections, with the first section labeled "189K" and the second section labeled "182% Increase." The x-axis represents the number of years, while the y-axis represents the percentage increase.
+**AI-Generated Image Description:** The image shows a bar chart titled "Increase," with two sets of data represented by different colors: one set of data for Q2 2019 and another set for Q1 2017. The x-axis represents the years, while the y-axis represents the increase percentage. The chart is divided into two sections, with the first section labeled "189K" and the second section labeled "182%."
 
-### Description of the Chart:
-- **Title**: The title of the chart is "Increase."
-- **X-Axis**: The x-axis is labeled "1975," and the y-axis is labeled "189K."
-- **Bar Representation**: The chart has two bars. The first bar is labeled "189K" and is positioned on the left side of the chart. The second bar is labeled "182% Increase" and is positioned on the right side of the chart.
+The chart shows that the percentage increase for Q2 2019 is 182%, while the percentage increase for Q1 2017 is 67K. This indicates that the percentage increase for Q2 2019 is 182% higher than the percentage increase for Q1 2017.
 
-### Analysis:
-- **189K**: The first bar represents the number of years from 1975 to 1989. This indicates that the increase in the number of years is 189, which is a significant increase.
-- **182% Increase**: The second bar represents the number of years from 1989 to 2000. This indicates that the increase in the number of years is 182, which is a very significant increase.
+### Analysis and Description
 
-### Relevant Knowledge:
-- **Increase in Number of Years**: The increase in the number of years is a significant increase, which is a common trend in statistics.
-- **Increase in Number of Years**: The increase in the number of years is a positive change, which is a positive trend.
+The chart provides a clear visual representation of the percentage increase in the percentage increase for Q2 2019 compared to Q1 2017. The percentage increase for Q2 2019 is 182%, which is significantly higher than the percentage increase for Q1 2017, which is 67K.
 
-### Conclusion:
-The chart effectively communicates the increase in the number of years from 1975 to 1989. The increase is 189, which is a significant increase. The increase is 182, which is a very significant increase. The chart provides a clear and concise visual representation of the increase in the number of years.
+### Conclusion
+
+The chart effectively communicates the significant increase in the percentage increase for Q2 2019 compared to Q1 2017. This indicates a substantial growth in the percentage increase for Q2 2019 compared to Q1 2017. The data points for both years are clearly marked, making it easy to compare the growth rates.
+
+### Chain of Thought (CoT) Analysis
+
+- **Identify the data points**: The percentage increase for Q2 2019 is 182%, and the percentage increase for Q1 2017 is 67%.
+- **Compare the percentage increase**: The percentage increase for Q2 2019 is 182%, which is higher than the percentage increase for Q1 2017.
+- **Compare the percentage increase for Q2 2019**: The percentage increase for Q2 2019 is 182%, which is higher than the percentage increase for Q1 2017.
+- **Compare the percentage increase for Q2 2019 to Q1 2017**: The
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Millions." The chart is divided into two main sections: the horizontal axis (x-axis) and the vertical axis (y-axis). The x-axis ranges from 0 to 1,000,000, while the y-axis ranges from 1 to 100,000.
-
-### Description of the Chart:
-1. **X-Axis (Horizontal Axis)**:
-   - The x-axis is labeled "Q2 '19" and is marked from 0 to 1,000,000.
-   - The y-axis is labeled "1,000,000" and is marked from 0 to 1,000,000.
-
-2. **Y-Axis (Vertical Axis)**:
-   - The y-axis is labeled "1,000,000" and is marked from 0 to 1,000,000.
-   - The x-axis is labeled "1,000,000" and is marked from 0 to 1,000,000.
-
-### Analysis:
-- **X-Axis Range**:
-  - The x-axis ranges from 0 to 1,000,000.
-  - The y-axis ranges from 0 to 1,000,000.
-
-### Interpretation:
-- **Data Representation**:
-  - The x-axis represents the range of values, ranging from 0 to 1,000,000.
-  - The y-axis represents the values, ranging from 0 to 1,000,000.
-
-### Analysis:
-- **Data Trends**:
-  - The x-axis is incremented by 1,000,000, which indicates a gradual increase in the values.
-  - The y-axis is incremented by 1,000,000, which indicates a constant increase in the values.
-
-### Conclusion:
-- The chart effectively uses the x-axis to show the range of values and the y-axis to show the values.
-- The data is presented in increments of 1,000,000, which is a clear
+**AI-Generated Image Description:** The image shows a bar chart with two categories: Q2 and Q1. The x-axis represents the number of millions, while the y-axis represents the percentage increase. The chart is labeled as "173% Increase." The chart is visually represented with two distinct bars, one for Q2 and one for Q1. The bar for Q2 is significantly longer than the bar for Q1, indicating a larger increase in the percentage increase.
 <!-- end image description -->
 
 
@@ -3817,35 +3728,35 @@ We have availed ourselves in this prospectus of the reduced reporting requiremen
 When we are no longer deemed to be an emerging growth company, we will not be entitled to the exemptions provided in the JOBS Act discussed above.
 
 <!-- image -->
-**Image Description:** Logo which says 'drop into the world of we'
+**AI-Generated Image Description:** Drop into the world of we
 <!-- end image description -->
 
 
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image we can see a group of people standing and smiling. In the background there is a wall.
+**AI-Generated Image Description:** In the image there are four people. They are smiling.
 <!-- end image description -->
 
 
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image I can see a woman who is smiling and she is wearing red color dress. In the background I can see the buildings, trees, stairs, railing, windows, lights, boards, poles, a board, a table, a chair, a person, a person standing, a person walking, a person sitting on a chair, a person standing, a person walking, a person standing, a person sitting on a chair, a person standing, a person walking, a person standing, a person sitting on a chair, a person standing, a person walking, a person standing, a person sitting on a chair, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a person walking, a person standing, a
+**AI-Generated Image Description:** In the image we can see a woman sitting on a chair and smiling. She is holding a phone in her hand. In the background we can see buildings, trees, stairs, railings, windows, railings, pillars, a board, a table, a chair, a person, a table, a person, a building, a person, a person, a table, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a
 <!-- end image description -->
 
 
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image we can see a woman standing and holding a cup in her hand. In front of her there is a counter. On the counter there are cups, bottles, papers, and a board. In the background there is a wall. On the wall there is a board.
+**AI-Generated Image Description:** In the image we can see there are two women standing and they are holding a cup in their hands. There are some objects in the background. There is a board on the wall.
 <!-- end image description -->
 
 
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image we can see a person standing and holding a laptop. In the background we can see a table, plants, chairs, a plant, a wall, a window, a door, a chair, a table, a plant, a chair, a wall, a window, a door, a chair, a table, a plant, a chair, a wall, a window, a door, a chair, a table, a plant, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair, a table, a chair, a wall, a window, a door, a chair
+**AI-Generated Image Description:** The image contains two images side by side. The first image shows a woman standing in front of a desk, while the second image shows a man standing in front of a desk, also with a plant. Both images have text overlaid on them. The first image has a logo on the left side, which appears to be a logo for a company called "Slack." The second image has a logo on the right side, which appears to be a logo for a company called "Weizhong Zhu."
 <!-- end image description -->
 
 
@@ -3854,21 +3765,21 @@ rgy, and that warm, invit ng vibe that we would have in our home lives. Headquar
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image we can see a person sitting on a chair and holding a book. In the background we can see a group of people sitting on the sofa. We can also see a table with a few books, a laptop, a pen and a few other objects. We can also see a wall with a few posters on it. We can also see a light and a few other objects.
+**AI-Generated Image Description:** In the image we can see there is a man sitting on a chair and he is wearing a shirt. In the background there are people sitting on the sofa and there is a table and there are books on the table.
 <!-- end image description -->
 
 
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image we can see a woman sitting on a chair and smiling. In the background we can see a group of people sitting on the chairs and a table. On the table we can see a book and a lamp. On the right side we can see a book and a person. On the left side we can see a table and a chair. In the background we can see a wall and a poster.
+**AI-Generated Image Description:** The image contains two parts. The first part shows a woman sitting on a couch in a room with a green and white color scheme. The woman is wearing a white shirt and blue jeans. She is smiling and looking at the camera. The second part shows a woman sitting on a couch in a room with a green and white color scheme. The woman is wearing a white shirt and blue jeans. She is also smiling and looking at the camera. In the background, there are several people sitting in chairs and a wall with a poster on it.
 <!-- end image description -->
 
 
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image we can see a collage of images. In the first image we can see a man sitting on the chair and smiling. In the second image we can see a man standing and smiling. In the third image we can see a man standing and smiling. In the fourth image we can see a man walking and smiling. In the fifth image we can see a man standing and smiling. In the sixth image we can see a man sitting on the chair and smiling. In the seventh image we can see a man standing and smiling.
+**AI-Generated Image Description:** In the first image, there is a man sitting on a chair and smiling. In the second image, there is a man standing and smiling. In the third image, there is a man walking and smiling.
 <!-- end image description -->
 
 
@@ -3907,73 +3818,145 @@ r stories from acros
 America
 
 <!-- image -->
-**Image Description:** In this image we can see a collage of photos. In the first photo we can see a woman with a smile on her face. In the second photo we can see a group of people sitting on chairs and a man holding a mic. In the third photo we can see a group of people standing and a man holding a mic. In the fourth photo we can see a group of people sitting on chairs and a man holding a mic. In the fifth photo we can see a group of people standing and a man holding a mic. In the sixth photo we can see a group of people sitting on chairs and a man holding a mic. In the seventh photo we can see a group of people standing and a man holding a mic. In the eighth photo we can see a group of people sitting on chairs and a man holding a mic.
+**AI-Generated Image Description:** The image is a collage featuring several different sections. The top left section shows a woman with her hair tied up, wearing sunglasses, and holding a microphone. The background is blurred, focusing the viewer's attention on the woman. The woman is smiling and looking towards the camera.
+
+The top right section shows a man in a white shirt with the letter "C" on it. He is also wearing sunglasses and holding a microphone. The background is blurred, focusing the viewer's attention on the man.
+
+The bottom left section shows a woman with her hair tied up, wearing sunglasses, and holding a microphone. The background is blurred, focusing the viewer's attention on the woman.
+
+The bottom right section shows a woman with her hair tied up, wearing sunglasses, and holding a microphone. The background is blurred, focusing the viewer's attention on the woman.
+
+The bottom section also includes a logo with the text "WeWork" in large, bold letters. The logo is placed on a large screen, which is partially visible in the background. The screen has a design that includes a crowd of people, some of whom are holding up their phones to take pictures or videos.
+
+The overall composition of the image is dynamic and engaging, capturing a moment of celebration and engagement. The collage style is effective in conveying the message of unity and collaboration.
 <!-- end image description -->
 
 
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image we can see two people. One person is standing and smiling. In the background we can see a wall, a plant, a laptop and some text.
+**AI-Generated Image Description:** The image contains two pictures side by side. The left picture shows a man wearing a gray shirt and blue shorts, standing and smiling. The right picture shows a man wearing a pink shirt and blue pants, sitting at a table and smiling. Both pictures have a green and white background.
 <!-- end image description -->
 
 
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image we can see a collage of two pictures. In the first picture we can see a woman holding a brown handbag and a cup. In the second picture we can see a man holding a yellow ball and a cup. In the background we can see a wall, trees, sky and some text.
+**AI-Generated Image Description:** The image is divided into two parts. On the left side, there is a woman wearing a grey jacket and holding a brown handbag with cat-like designs. On the right side, there is a man wearing a blue shirt and holding a yellow ball. Both the woman and the man are looking at the camera. In the background, there is a building with a blue sky and a tree.
 <!-- end image description -->
 
 
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image we can see a poster with some text and images.
+**AI-Generated Image Description:** The poster has two images side by side. The left image shows a woman and the right image shows a man. Both images have text on them.
 <!-- end image description -->
 
 
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image we can see a woman and a man sitting on the couch. On the table we can see a book, a book cover, a book, a book cover, a book, a book cover, a book, a book cover, a book, a book cover, a book, a book cover, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a book, a
+**AI-Generated Image Description:** The image depicts a cozy, inviting scene in what appears to be a library or a similar setting. In the foreground, there is a woman seated on a green couch, facing the camera. She has blonde hair and is wearing a black long-sleeved top and blue jeans. She is engaged in conversation with the man seated next to her, who is also wearing a black shirt and blue jeans. The woman is looking towards the man, suggesting a friendly and approachable interaction.
+
+Behind the woman and the man, there is a large, wooden bookshelf filled with various books, arranged in rows. The bookshelf is neatly organized, with each shelf containing a different type of book. The books are arranged in a way that suggests a deliberate and organized collection, possibly for a library or a book collection.
+
+On the bookshelf, there are several books, including titles such as "New York Times," "The New York Times," and "The Economist." The books are neatly arranged, with some titles visible, indicating that the library or collection is well-organized.
+
+In the background, there is a large, wooden desk or table. On the desk, there are several books, including one titled "Vitamin Green." The desk is placed on a patterned rug, adding a touch of color and organization to the room.
+
+The room itself is well-lit, with a warm, inviting atmosphere. There are no other people or objects in the image, which focuses solely on the individuals and the bookshelves.
+
+The overall scene conveys a sense of warmth and community, as the individuals are engaged in a pleasant conversation. The bookshelves are well-organized, and the books are neatly arranged, suggesting a well-maintained library or a collection that is thoughtfully curated.
+
+In summary, the image captures a moment of interaction between two individuals in a library or a book collection, with a focus on the bookshelves and the woman's engagement in conversation. The setting is warm and inviting, with a well-organized library or collection.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a collage of pictures. In the pictures we can see a house, a table, a chair, a person sitting on the chair, a table, a laptop, a person standing, a person sitting on the chair, a person sitting on the chair, a person standing, a person sitting on the chair, a table, a chair, a person sitting on the chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair, a table, a chair, a person standing, a person sitting on the chair,
-<!-- end image description -->
-
-
-## Table of Contents
-
-<!-- image -->
-**Image Description:** In this image we can see a collage of two pictures. In the first picture we can see a woman sitting on a chair and a man sitting on a chair. In the second picture we can see a man standing and a woman sitting on a chair. In the background we can see a wall, lights, plants, books, a plant, a table, a chair, a couch, a plant, a book, a book cover, a plant, a plant, a chair, a table, a book, a book cover, a plant, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table, a book, a book cover, a chair, a table,
-<!-- end image description -->
-
-
-## Table of Contents
-
-<!-- image -->
-**Image Description:** In this image we can see a man and a woman sitting on the chairs. In front of them there is a table. On the table there is a cup. In the background there are plants.
-<!-- end image description -->
-
-
-## Table of Contents
-
-<!-- image -->
-**Image Description:** In this image we can see a collage of images. In the images we can see people sitting on the chairs, people standing, plants, buildings, trees, a fence, a building, a person holding a camera, a person holding a camera, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball, a person holding a book, a person holding a ball,
+**AI-Generated Image Description:** In the image we can see there are people sitting on chairs and there are tables and on the tables there are laptops, bottles, cups, and some other objects. In the background there is a building and there are trees.
 <!-- end image description -->
 
 
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image there are collage photos. In the top left corner there is a building. In the top right corner there is a building. In the bottom left there is a building. In the bottom right there is a building. In the middle there are trees. In the middle there is a person walking. In the middle there is a person standing. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a person walking. In the middle there is a person sitting. In the middle there is a person standing. In the middle there is a
+**AI-Generated Image Description:** The image is a collage of two images, each featuring two main characters. The first image shows two women, one on the left and the other on the right, sitting on a couch. The woman on the left is wearing a brown sweater and has blonde hair. She is looking at the camera with a slight smile. The woman on the right is wearing a green shirt and has black hair. She is also looking at the camera with a smile.
+
+The second image shows two men, one on the left and the other on the right. Both men are wearing dark shirts and have short hair. They are standing in front of a large, open book. The man on the left is holding a microphone and speaking into it. The man on the right is gesturing with his hands, possibly indicating a gesture of agreement or support.
+
+The background of the collage includes a large, open book, a potted plant, and some bookshelves. The bookshelves are filled with books, and there are some plants in front of them. The bookshelves are arranged in a way that suggests a library or a bookstore.
+
+At the bottom of the image, there is a rug with a colorful pattern, and a few other objects that are not clearly identifiable.
+
+### Analysis and Description
+
+The collage is a representation of two main characters, each with their own unique personality and background. The first image shows a woman in a brown sweater and a man in a green shirt, both with short hair. The woman is looking at the camera with a smile, while the man is looking at the camera with a serious expression.
+
+The second image shows a man in a green shirt and black hair, gesturing with his hands, possibly indicating a gesture of agreement or support. The man is standing in front of a large book, with a potted plant in front of him.
+
+The background of the collage includes a large, open book, a potted plant, and some bookshelves. The bookshelves are filled with books, and there are some plants in front of them.
+
+### Conclusion
+
+The collage is a representation of two main characters, each with their own unique personality and background. The first image shows a woman in a brown sweater and a man in a green shirt, both with short hair. The woman is looking at the camera with a smile, while the man is looking at the camera with
+<!-- end image description -->
+
+
+## Table of Contents
+
+<!-- image -->
+**AI-Generated Image Description:** In the image we can see there are two people sitting on the chairs and there is a table in front of them and there is a cup on the table.
+<!-- end image description -->
+
+
+## Table of Contents
+
+<!-- image -->
+**AI-Generated Image Description:** The image is a collage of four different scenes. The collage is divided into four sections, each featuring a different scene from Mexico City. The images are arranged in a grid format, with each scene appearing in a different color. The background of each image is blurred, giving the scene a dreamy, almost surreal quality.
+
+The top left image shows a man and a woman sitting on a couch in a park. The man is wearing a white shirt and dark pants, and the woman is wearing a light blue shirt and dark pants. They are both smiling and looking at each other. In the background, there is a building with a large clock tower. The image is taken from a slightly low angle, making the man and the woman appear larger than they actually are.
+
+The top right image shows a man and a woman sitting on a bench in front of a building. The man is wearing a red shirt and dark pants, and the woman is wearing a light blue shirt and dark pants. They are both smiling and looking at each other. In the background, there is a building with a large clock tower. The image is taken from a slightly high angle, making the man and the woman appear larger than they actually are.
+
+The bottom left image shows a man and a woman sitting on a couch in a park. The man is wearing a white shirt and dark pants, and the woman is wearing a light blue shirt and dark pants. They are both smiling and looking at each other. In the background, there is a building with a large clock tower. The image is taken from a slightly low angle, making the man and the woman appear larger than they actually are.
+
+The bottom right image shows a man and a woman sitting on a bench in front of a building. The man is wearing a red shirt and dark pants, and the woman is wearing a light blue shirt and dark pants. They are both smiling and looking at each other. In the background, there is a building with a large clock tower. The image is taken from a slightly high angle, making the man and the woman appear larger than they actually are.
+
+The collage is visually striking, with each scene featuring a different scene from Mexico City. The images are arranged in a grid format, with each scene appearing in a different color. The background is blurred, giving the scene a dreamy, almost surreal quality. The man and the woman are smiling and looking at each other, and the
+<!-- end image description -->
+
+
+## Table of Contents
+
+<!-- image -->
+**AI-Generated Image Description:** In the image there are collage photos of a road with the words "wework" on it.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a group of people standing on the floor. In the background we can see the lights, people, and some objects.
+**AI-Generated Image Description:** The image depicts a lively scene featuring several people. At the forefront, a group of people is captured, seemingly enjoying a moment of celebration. The individuals are dressed in casual attire, with some wearing jackets and others in casual clothing. They appear to be enjoying themselves, with some individuals appearing to be hugging or embracing one another, suggesting a sense of camaraderie and shared joy.
+
+In the background, there is a large, illuminated stage with a vibrant backdrop. The stage is adorned with numerous lights, creating a dazzling effect that highlights the performers and their surroundings. The stage is set up in an open area, with a reflective surface that reflects the lights and the crowd.
+
+The crowd is diverse, with a variety of individuals, including men and women, dressed in casual attire. They appear to be enjoying the event, with some individuals appearing to be enjoying themselves and others looking on, possibly enjoying the spectacle.
+
+The stage is also adorned with several banners and banners, which are likely part of the event's branding. The banners are colorful and feature various designs, possibly indicating the event's theme or the event's branding.
+
+In the bottom right corner of the image, there is a watermark that reads "Los Angeles" in a stylized font, indicating the location of the event. The watermark is small and unobtrusive, ensuring that it does not detract from the main focus of the image.
+
+### Analysis and Description
+
+The image captures a moment of celebration and joy, likely a part of a large, live event. The crowd is diverse, with individuals dressed in casual attire, and the stage is illuminated, creating a dazzling effect. The setting is open, with a reflective surface that reflects the lights and the crowd. The event is likely a concert, a festival, or a similar large-scale event.
+
+### Relevant Knowledge
+
+- **Event Context**: The image likely represents a concert or a large-scale event, given the presence of the stage, lights, and the crowd.
+- **Event Theme**: The event is likely a concert, festival, or large-scale event, given the diverse crowd and the lighting.
+- **Event Branding**: The watermark indicates the event's branding, likely indicating the location or the event's branding.
+
+### Conclusion
+
+The image captures a moment of celebration and joy, highlighting the event's vibrant atmosphere and the diverse crowd. The setting is open, with a reflective
 <!-- end image description -->
 
 
@@ -3992,33 +3975,7 @@ In early 2010, we opened our doors to our first member community at 154 Grand St
 ## Our Global Platform
 
 <!-- image -->
-**Image Description:** The image is a map of the world, which is colored in shades of gray. The map shows the locations of various countries and cities, with lines connecting these locations. The lines are connected to each other, indicating a network of connections between the countries and cities. The countries and cities are represented by different shades of gray, with darker shades representing more densely populated areas and lighter shades representing less densely populated areas.
-
-The map includes several key points:
-
-1. **Central and Southern Countries**:
-   - **South America**: The central and southern regions of the map are highlighted with dark green lines, indicating the presence of major cities and regions.
-   - **South Asia**: The central and southern regions of the map are highlighted with light green lines, indicating the presence of major cities and regions.
-
-2. **North America**:
-   - **North America**: The central and northern regions of the map are highlighted with dark green lines, indicating the presence of major cities and regions.
-   - **North America**: The central and northern regions of the map are highlighted with light green lines, indicating the presence of major cities and regions.
-
-3. **Europe**:
-   - **Europe**: The central and northern regions of the map are highlighted with dark green lines, indicating the presence of major cities and regions.
-   - **Europe**: The central and northern regions of the map are highlighted with light green lines, indicating the presence of major cities and regions.
-
-4. **Asia**:
-   - **Asia**: The central and northern regions of the map are highlighted with dark green lines, indicating the presence of major cities and regions.
-   - **Asia**: The central and northern regions of the map are highlighted with light green lines, indicating the presence of major cities and regions.
-
-### Analysis and Description
-
-The map is a useful tool for visualizing the distribution of countries and cities across the globe. The presence of dark green lines indicates that the countries and cities are densely populated, while the lighter green lines indicate that the countries and cities are less densely populated.
-
-The map also shows the major cities and regions in each country and region. For example, the central and southern regions of the map are highlighted with dark green lines, indicating the presence of major cities and regions. The central and northern regions of the map are highlighted with light green lines, indicating the presence of major cities and regions.
-
-The map also shows the distribution of countries and cities across the world. The countries and
+**AI-Generated Image Description:** The map shows the paths of the coronavirus (COVID-19) from around the world. The countries shown are China, India, Russia, the United States, and several others.
 <!-- end image description -->
 
 
@@ -4039,7 +3996,15 @@ We have proven that community, flexibility and cost-efficiency can benefit the w
 We start by looking at space differently: as a place to bring people together, build community and enhance productivity. Philosophically, we believe in bringing comfort and happiness to the workplace. We employ over 500 designers and architects who work relentlessly to create spaces that are beautiful but simple, elevated but approachable, global yet locally unique, all delivered at a high quality without the associated expense. Next, we add a team of over 2,500 trained community managers who foster human connection through collaboration and holistically support our members both personally and professionally. Lastly, with a persistent dedication to improving the member experience, we add products and services to our platform, either by building them ourselves, acquiring them or entering into partnerships. The entire member experience is powered by technology designed to enable our members to manage their own space, make connections among each other and access products and services, all with the goal of increasing our members' productivity, happiness and success.
 
 <!-- image -->
-**Image Description:** In this image we can see a group of people sitting on the sofa and there are some objects on the table. In the background there is a wall with some painting on it.
+**AI-Generated Image Description:** The image shows a living room with several people engaged in various activities. The focal point of the image is a large, colorful mural painted on the wall of the room. The mural depicts a sky with clouds, and the colors of the clouds and sky are vibrant and varied, including shades of pink, blue, orange, and yellow. The mural is painted on a large, white wall, and it is framed by a white ceiling.
+
+In the foreground of the image, there is a large, comfortable-looking couch with cushions and a few books and magazines on the coffee table. On the coffee table, there are two books and a vase with flowers. The couch is positioned in front of a large window, which allows natural light to enter the room.
+
+In the background, there are several other people sitting on chairs and relaxing. Some of them are engaged in activities such as reading, writing, or working on their laptops. One person is standing, possibly a teacher or a student, and is looking at their laptop. Another person is sitting on a chair, possibly a parent or guardian, and is engaged in a conversation.
+
+The room has a warm and inviting atmosphere, with the colors of the mural and the furnishings creating a cozy and inviting environment. The mural is a symbol of the community and the community's efforts to create a welcoming and inclusive space.
+
+The image captures a moment of social interaction and community engagement, highlighting the importance of community and collaboration in creating a welcoming and inclusive environment. The mural serves as a visual representation of the community's efforts to create a space that is welcoming and inclusive.
 <!-- end image description -->
 
 
@@ -4060,34 +4025,7 @@ Technology is at the foundation of our global platform. Our purpose-built techno
 ## Cost Per Employee: WeWork Versus Standard Lease
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Build-Out Costs." The x-axis represents the number of standard lease build-out operations, ranging from 0 to 60. The y-axis represents the number of standard lease build-out operations, ranging from 0 to 60. The bars are color-coded to represent different types of build-out operations.
-
-The bars are color-coded as follows:
-- The first bar is yellow, representing standard lease build-out operations.
-- The second bar is green, representing standard lease build-out operations.
-- The third bar is blue, representing standard lease build-out operations.
-- The fourth bar is orange, representing standard lease build-out operations.
-- The fifth bar is black, representing standard lease build-out operations.
-- The sixth bar is gray, representing standard lease build-out operations.
-
-The bars are labeled with the following values:
-- The first bar is labeled "$4,436"
-- The second bar is labeled "$17,158"
-- The third bar is labeled "$7,304"
-- The fourth bar is labeled "$7,504"
-- The fifth bar is labeled "$7,7,304"
-- The sixth bar is labeled "$7,7,304"
-
-The chart is divided into two sections, each representing a different type of build-out operation. The first section is labeled "Build-Out Costs" and the second section is labeled "Build-Out Costs + Operations."
-
-### Analysis and Description:
-
-- **Build-Out Costs**: The first bar represents the cost of building out operations, which is $4,436. This is the cost of building out operations for the standard lease build-out operations.
-- **Build-Out Costs + Operations**: The second bar represents the cost of building out operations, which is $17,158. This is the cost of building out operations for the standard lease build-out operations.
-
-### Relevant Knowledge:
-- **Build-Out Costs**: These costs are typically higher than standard lease build-out operations. They can include costs such as construction, labor, and overhead.
-- **Build-Out Operations**: These costs are typically lower than standard lease build-out operations. They can
+**AI-Generated Image Description:** The image shows a bar chart titled "Standard lease + build-out + operations" with two categories: "Build-out costs" and "Offer operations." The x-axis represents the number of standard lease leases, ranging from 17,158 to 7,304. The y-axis represents the number of standard lease operations, ranging from 17,158 to 57,704. The chart shows that the standard lease + build-out + operations category has a higher number of standard lease operations compared to the other categories.
 <!-- end image description -->
 
 
@@ -4105,29 +4043,7 @@ As we expand, we continue to add new members at a strong pace while also strengt
 ## Membership Retention
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Memberships attributable to members who joined in:". The chart is divided into four sections, each representing a different year. The years are 2018, 2017, 2016, and 2015. The x-axis represents the years, while the y-axis represents the number of memberships.
-
-### Description of the Bar Chart:
-1. **Title**: The title of the chart is "Memberships attributable to members who joined in:".
-2. **Legend**: The legend on the right side of the chart indicates the different years represented. Each year is represented by a different color, with the color corresponding to the number of memberships.
-3. **Axes**:
-   - **X-Axis**: The x-axis represents the years, starting from 2018 and ending in 2015.
-   - **Y-Axis**: The y-axis represents the number of memberships, ranging from 0 to 100.
-   - **Color Coding**: Each year is represented by a different color, with the color corresponding to the number of memberships.
-4. **Data Representation**:
-   - **2018**: The bar for 2018 is green.
-   - **2017**: The bar for 2017 is orange.
-   - **2016**: The bar for 2016 is blue.
-   - **2015**: The bar for 2015 is yellow.
-   - **2014**: The bar for 2014 is orange.
-   - **2013**: The bar for 2013 is blue.
-   - **2012**: The bar for 2012 is green.
-   - **2011**: The bar for 2011 is orange.
-   - **2010**: The bar for 2010 is blue.
-   - **2009**: The bar for 2009 is orange.
-   - **2008**: The bar for 2008 is green.
-   - **2007**: The bar for 2007 is blue.
-   - **2006**: The bar for 2006 is orange.
+**AI-Generated Image Description:** The chart shows the percentage of new memberships attributable to members who joined in 2018, 2017, and 2016. The chart also shows the net membership retention rate for 2018, 2017, and 2016.
 <!-- end image description -->
 
 
@@ -4140,7 +4056,7 @@ Large enterprises are increasingly recognizing the value proposition of our glob
 ## Enterprise Membership Percentage
 
 <!-- image -->
-**Image Description:** In this image, we can see a chart.
+**AI-Generated Image Description:** The image shows a bar chart with two distinct categories. The x-axis represents the dates, starting from 3/31/17 and ending on 6/30/19. The y-axis represents the percentage, with a range of 20% to 40%. The bars are color-coded to represent the percentage values. The color of the bars is yellow, and the color of the x-axis is gray. The bars are arranged in a horizontal line, with the 20% bar on the left and the 40% bar on the right.
 <!-- end image description -->
 
 
@@ -4151,12 +4067,12 @@ We monetize our platform through a variety of means, including selling membershi
 ## Committed Revenue Backlog
 
 <!-- image -->
-**Image Description:** In this image we can see a chart. On the chart we can see numbers.
+**AI-Generated Image Description:** The image shows a bar chart with two distinct categories. The x-axis is labeled "6/30/19" and the y-axis is labeled "$0.5B". The bar chart is titled "131". The y-axis is labeled "12/31/17", and the x-axis is labeled "6/30/19". The bar chart shows that the value on the y-axis is $4.0B, which is significantly higher than the value on the x-axis.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** 83%
+**AI-Generated Image Description:** 83%
 <!-- end image description -->
 
 
@@ -4167,7 +4083,7 @@ of enterprise members chose WeWork for its location where talent lives and wants
 We strive to operate our business so that each new location is accretive to our long-term financial performance. After an initial investment, each additional location not only adds members to our platform and revenue to our income statement, but also becomes profitable once it reaches a break-even point. As we move through the different lifecycle phases of each location, the cash flows shift from outgoing during the find and build phases, during which we invest to scale our location portfolio, to incoming during the fill and run phases, during which we seek to monetize our platform.
 
 <!-- image -->
-**Image Description:** In this image there is a graph. On the graph there is a line. On the left side of the graph there is a text. On the right side of the graph there is a text.
+**AI-Generated Image Description:** In the image, there is a graph with two axes labeled "Months" and "Location maturity". The x-axis represents the months, and the y-axis represents the location maturity. There is an orange curve that starts at -24 and ends at 12, and it is labeled "Invest to scale platform". The orange curve starts at -24 and ends at 12, and it is labeled "WeWork Lease".
 <!-- end image description -->
 
 
@@ -4201,41 +4117,24 @@ We believe the following trends are enabling the re-invention of work and will a
 Individuals and organizations turn to us directly to solve their workspace needs because of the value of our integrated solution-space, community, services and technology-and the scale of our global platform. As a result, we are able to aggregate demand and match an individual or organization to the right space, at the right time, at the right price. By acting in this role of demand aggregator, we are able to choose strategically where and how fast to grow.
 
 <!-- image -->
-**Image Description:** The image is a bar chart that shows the daily fragmented real estate industry demand and aggregate demand for services. The x-axis represents the number of tenants, while the y-axis represents the number of demand and aggregate demand. The chart is divided into two main categories: Demand and Aggregate Demand.
+**AI-Generated Image Description:** The image is a bar chart that shows the daily fragmented real estate industry demand and aggregate demand for services, space, and products. The x-axis represents the days, while the y-axis represents the daily demand and aggregate demand. The chart is divided into two main categories: Demand Aggregation and Platform.
 
-- **Demand Category:**
-  - The first row of the bar chart shows the demand for services. The demand is represented by the blue circles.
-  - The second row of the bar chart shows the demand for services. The demand is represented by the green circles.
+- **Demand Aggregation** is represented by the blue circles. These circles are connected by a line. The line connects the blue circles to the "We" circle, which is located at the top right corner of the chart.
+- **Platform** is represented by the gray circles. These circles are connected by a line. The line connects the gray circles to the "Space" circle, which is located at the bottom right corner of the chart.
 
-- **Aggregate Demand:**
-  - The third row of the bar chart shows the aggregate demand for services. The aggregate demand is represented by the orange circles.
-  - The fourth row of the bar chart shows the aggregate demand for services. The aggregate demand is represented by the blue circles.
+- **We** is represented by the green circles. These circles are connected by a line. The line connects the green circles to the "Oscar" circle, which is located at the top left corner of the chart.
 
-- **Supply Category:**
-  - The fifth row of the bar chart shows the supply of services. The supply is represented by the black circles.
-  - The sixth row of the bar chart shows the supply of services. The supply is represented by the blue circles.
+- **Demand Aggregation** is represented by the orange circles. These circles are connected by a line. The line connects the orange circles to the "Salesforce" circle, which is located at the bottom left corner of the chart.
+- **Platform** is represented by the blue circles. These circles are connected by a line. The line connects the blue circles to the "Space" circle, which is located at the bottom right corner of the chart.
 
-- **Service Category:**
-  - The seventh row of the bar chart shows the service category. The service category is represented by the green circles.
-  - The eighth row of the bar chart shows the service category. The service category is represented by the blue circles.
+- **We** is represented by the green circles. These circles are connected by a line. The line connects the green circles to the "Oscar" circle, which is located at the top left corner of the chart.
 
-- **Space Category:**
-  - The ninth row of the bar chart shows the space category. The space category is represented by the orange circles.
-  - The tenth row of the bar chart shows the space category. The space category is represented by the blue circles.
+- **Demand Aggregation** is represented by the orange circles. These circles are connected by a line. The line connects the orange circles to the "Salesforce" circle, which is located at the bottom left corner of the chart.
+- **Platform** is represented by the blue circles. These circles are connected by a line. The line connects the blue circles to the "Space" circle, which is located at the bottom right corner of the chart.
 
-- **Weaving Category:**
-  - The eleventh row of the bar chart shows the weaving category. The weaving category is represented by the green circles.
-  - The twelfth row of the bar chart shows the weaving category. The weaving category is represented by the blue circles.
+- **We** is represented by the green circles. These circles are connected by a line. The line connects the green circles to the "Space" circle, which is located at the bottom right corner of the chart.
 
-- **Weaving Category:**
-  - The twelfth row of the bar chart shows the weaving category. The weaving category is represented by the blue circles.
-
-- **Weaving Category:**
-  - The thirteenth row of the bar chart shows the weaving category. The weaving category is represented by the green circles.
-  - The fourteenth row of the bar chart shows the weaving category. The weaving category is represented by the blue circles.
-
-- **Weaving Category:**
-  - The fourteenth row of
+- **Demand Aggregation**
 <!-- end image description -->
 
 
@@ -4250,7 +4149,7 @@ We are able to deliver a premium experience to our members at a lower price rela
 Among the approximately 255 million potential members across our 280 target cities globally, we estimate a total opportunity of $3.0 trillion.
 
 <!-- image -->
-**Image Description:** In this image there is a diagram, which is a pie chart. In the pie chart there are two different categories. The first category is "Existing 111 cities" and the second category is "Target 280 cities". At the bottom of the image there is a text.
+**AI-Generated Image Description:** In this image, there is a diagram with two main components. The diagram consists of two lines and two circles. The lines represent the existing 111 cities and the circles represent the target 280 cities. The existing 111 cities are represented by the blue line, and the target 280 cities are represented by the orange circle. The diagram also includes a title at the top of the image that reads "Existing 111 cities".
 <!-- end image description -->
 
 
@@ -4262,7 +4161,7 @@ We believe these total opportunities reflect the amount employers are willing to
 ## Penetration Across Global Cities (1)
 
 <!-- image -->
-**Image Description:** It is a table with different countries and their respective percentages.
+**AI-Generated Image Description:** The numbers represent the percentage of the population in different cities.
 <!-- end image description -->
 
 
@@ -4297,7 +4196,19 @@ We built communities first in New York, then San Francisco, Los Angeles, Boston 
 As our global community grew, we realized that community, flexibility and cost efficiency can benefit the employee needs of organizations of all sizes. In 2016, we took another leap and made the strategic decision to expand our focus to meet the needs of a broader range of organizations, particularly enterprises. Enterprise organizations increasingly seek cost-efficient, flexible and scalable workplace solutions and a workplace environment that fosters strong community, promotes productivity and increases employee engagement. Our global platform directly addresses these needs for enterprise organizations, effectively and immediately.
 
 <!-- image -->
-**Image Description:** In this image we can see a group of people sitting on the chairs and there is a table in front of them and there is a plant in the middle of the image and there are some chairs and tables in the background.
+**AI-Generated Image Description:** The image depicts a cozy and inviting interior space. The room is designed with a modern and minimalist aesthetic, featuring large windows that allow natural light to flood the space. The windows are framed with white curtains, providing a clean and airy feel.
+
+In the foreground, there are several seating arrangements. Two large blue couches are placed in the center of the room, with a small table between them. The table is covered with a white tablecloth, adding a touch of elegance to the room. On the table, there is a potted plant with a few decorative elements, including a few small flowers and a decorative bowl.
+
+The room is furnished with a mix of modern and vintage furniture. The chairs are upholstered in a soft, comfortable fabric, and the sofas are upholstered in a dark, neutral color. The walls are painted in a light, neutral color, which helps to create a clean and airy feel.
+
+In the background, there are several people gathered around the room. Some are seated on the couches, while others are standing or walking around. The people are dressed in casual attire, suggesting a relaxed and comfortable atmosphere.
+
+The room is well-lit with natural light, which is coming from large windows that allow ample natural light to flood the space. The ceiling has a modern design, with large, white panels that reflect the light.
+
+The overall ambiance of the room is one of comfort and relaxation. The presence of the potted plant and the comfortable seating arrangement all contribute to a welcoming and inviting atmosphere. The presence of the people suggests that the room is designed to be a social space, where people can come together to enjoy a conversation or enjoy a meal together.
+
+Overall, the image captures a warm and inviting space that is designed to create a comfortable and relaxing environment. The use of modern furniture and the large windows with natural light create a bright and inviting atmosphere.
 <!-- end image description -->
 
 
@@ -4308,7 +4219,7 @@ As our global community grew, we realized that community, flexibility and cost e
 Our community team embodies the energy and spirit of our diverse membership base. They are not only strong operators, but also mission-driven individuals inspired by the opportunity to connect and empower others. They work each day to support our community holistically, understand our members' personal and professional goals, program local experiences and events, recommend services and make introductions among members who can help each other succeed. The commitment of our community team to our members, powered by our customized technology, differentiates us from other workspace offerings.
 
 <!-- image -->
-**Image Description:** In this image we can see a person wearing blue color t-shirt. In the background there is some text.
+**AI-Generated Image Description:** In the image we can see a person.
 <!-- end image description -->
 
 
@@ -4325,12 +4236,12 @@ This community, this company changed my life. It has given me an opportunity to 
 We integrate community technology across all of our operations to further enhance the value we deliver to our members. Our WeWork app enables our members to easily book space, connect with other members for advice or services and discover events and activities. We designed the app with a focus on personalization. As our members select space, engage with posts and rate events, we learn their preferences so we can create an experience tailored to their interests. The longer our members stay with us, the better we become at matching members and companies to highly relevant services and communities.
 
 <!-- image -->
-**Image Description:** In this image we can see a mobile phone. On the mobile phone we can see a picture of a room.
+**AI-Generated Image Description:** Screen of a mobile phone displaying the space.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a screen with some text and images.
+**AI-Generated Image Description:** In the image there is a screen displaying the time and date.
 <!-- end image description -->
 
 
@@ -4339,21 +4250,21 @@ We integrate community technology across all of our operations to further enhanc
 We believe our engaged global community is a key benefit for our members. By providing structured ways for members to connect with each other, we encourage our members to help one another grow personally and professionally. Through our 'Ask for Help' feature, members can initiate a request for help and specify assistance and skills they need to grow their businesses. Our machine learning recommendation engine matches those requests with members who have expressed proficiency in those skills and are willing to help. Approximately 30% of posts on the WeWork app are requests for help from the member community.
 
 <!-- image -->
-**Image Description:** In this image I can see a mobile phone. On the mobile phone I can see the text and a logo.
+**AI-Generated Image Description:** The image shows a mobile phone screen displaying a webpage. The page is titled "Create Post" and is written in a pink color. Below the title, there is a search icon with the text "Find help" in a white box. To the right of the search icon, there is a link "Next" in a pink box. Below the "Find help" link, there is a text that reads "Logo Designer" in a white box. To the left of the "Find help" link, there is a text that reads "We're looking for a graphic designer to create a logo for our new wellness brand." This text is in a white box. To the right of the "Find help" link, there is a text that reads "Timeline is flexible and we have a budget set aside." This text is in a white box. Below the "Timeline" text, there is a text that reads "Send examples of your work to test@test.com, and we'll reach out." This text is in a white box. To the left of the "Send examples of your work to test@test.com" text, there is a text that reads "Test@test.com, and we'll reach out." This text is in a white box. To the right of the "Test@test.com" text, there is a text that reads "1234567890." This text is in a white box.
 <!-- end image description -->
 
 
 "Ask for Help" employs machine learning to suggest relevant skills
 
 <!-- image -->
-**Image Description:** In this image we can see a mobile phone. On the mobile phone we can see some text and some icons.
+**AI-Generated Image Description:** In the image we can see a mobile with a screen. On the screen we can see some text.
 <!-- end image description -->
 
 
 Requests for help are delivered to other members with matching skills
 
 <!-- image -->
-**Image Description:** In this image we can see a mobile phone.
+**AI-Generated Image Description:** In the image there is a screen of a mobile phone. On the screen there are announcements and a logo designer.
 <!-- end image description -->
 
 
@@ -4362,21 +4273,21 @@ Requests for help are delivered to other members with matching skills
 To create the best member experience, we strive to pair human judgment and creativity with algorithms that amplify ideas quickly and globally. Our community teams provide a rich source of programming ideas, and with an average of over 2,500 events occurring per week, we can develop insights quickly on what works best for members with select interests. We then use those insights to recommend the top performing new events to relevant community teams worldwide.
 
 <!-- image -->
-**Image Description:** In this image we can see a mobile phone. On the mobile phone we can see some text.
+**AI-Generated Image Description:** In the image we can see a phone. On the phone we can see a person holding a cup and a plant.
 <!-- end image description -->
 
 
 We collect event feedback and create a quality score for new events
 
 <!-- image -->
-**Image Description:** In this image we can see a mobile phone. On the mobile phone there is a text box.
+**AI-Generated Image Description:** This is a screen with a pink and black color scheme. It has the words "Submit" on the bottom.
 <!-- end image description -->
 
 
 The best performing event types are recommended to community teams globally
 
 <!-- image -->
-**Image Description:** In this image we can see a monitor. On the monitor we can see some text and images.
+**AI-Generated Image Description:** In the picture I can see a monitor and a keyboard. On the monitor I can see some text and a picture.
 <!-- end image description -->
 
 
@@ -4395,7 +4306,43 @@ We continue to innovate and enhance space utilization with all aspects of our de
 Our locations provide us with real-time data to continually improve the effectiveness of our design and construction. For example, we monitor space utilization, and we use this information to improve our design to better facilitate human interaction and to minimize underutilized space. Workplace analytics is in its infancy, and we believe we are well positioned to influence and invent in this important new field. As we monitor items such as our environmental impact, our use of natural cleaning products and air and noise quality measures, we are collecting data in our effort to build the world's most innovative and transformational workspaces.
 
 <!-- image -->
-**Image Description:** In this image we can see a person sitting on a chair and a person standing. We can also see a table, a laptop, a chair, a plant, a bookshelf, a wall, a cupboard, a light, a roof and some objects.
+**AI-Generated Image Description:** The image depicts a modern interior space that combines elements of art, technology, and comfort. The room is designed with a minimalist aesthetic, focusing on clean lines and minimalistic furniture. The central focus is on two individuals, a man and a woman, who are engaged in a conversation.
+
+**Objects Present in the Image:**
+
+1. **Man and Woman:**
+   - **Man:** He is seated on a chair with a laptop in his hand.
+   - **Woman:** She is sitting on a couch with a laptop in her hand.
+   - **Laptop:** The laptop is placed on a table.
+
+2. **Couch:**
+   - **Couch:** The couch is upholstered in a soft, comfortable fabric.
+   - **Laptop:** The laptop is placed on the couch.
+
+3. **Table:**
+   - **Table:** The table is rectangular and made of polished wood.
+   - **Laptop:** The laptop is placed on the table.
+
+4. **Cabinets:**
+   - **Cabin:** There are several bookshelves filled with books and other objects.
+   - **Bookshelf:** The bookshelves are filled with books, some of which are open and some are closed.
+   - **Bookshelf:** The bookshelf is filled with books.
+
+5. **Furniture:**
+   - **Furniture:** The room has a modern, minimalist design with a mix of wood and metal furniture.
+   - **Furniture:** The furniture includes a couch, a chair, and a table.
+   - **Couch:** The couch is upholstered in a soft fabric.
+   - **Laptop:** The laptop is placed on the couch.
+
+6. **Lighting:**
+   - **Lighting:** There is a large, bright light positioned above the couch.
+   - **Lighting:** The lighting is focused on the man and woman, creating a warm and inviting atmosphere.
+
+**Analysis and Description:**
+
+The room is designed to be both functional and aesthetically pleasing. The minimalist design with minimalistic furniture and the use of natural materials like wood and fabric create a calming and inviting atmosphere. The presence of bookshelves and books suggests that the room is used for both reading and storage. The presence of a laptop indicates that the room is used for work or study.
+
+The room is well-lit with a bright light, which
 <!-- end image description -->
 
 
@@ -4406,21 +4353,21 @@ Our locations provide us with real-time data to continually improve the effectiv
 We pioneered a 'space-as-a-service' membership model. Across our global portfolio of locations, we offer individuals and organizations the flexibility to scale workspace up and down as needed, with the ability to consume space by the minute, by the month or by the year. Our space-as-a-service offering significantly reduces the complexity of leasing real estate to a simplified membership model, while delivering a premium experience to our members at a lower price relative to traditional alternatives and moving fixed lease costs to variable costs for our members. Our membership model is transforming the way individuals and organizations consume commercial real estate.
 
 <!-- image -->
-**Image Description:** In this image we can see a table.
+**AI-Generated Image Description:** 1
 <!-- end image description -->
 
 
 Flexibility
 
 <!-- image -->
-**Image Description:** In this image there is a globe.
+**AI-Generated Image Description:** The globe has four arrows pointing to the right.
 <!-- end image description -->
 
 
 Global MobilityEnhanced Culture
 
 <!-- image -->
-**Image Description:** \{\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\circ\
+**AI-Generated Image Description:** \{\begin{matrix}0&0\\ 0&0\\ 0&0\end{matrix}\}
 <!-- end image description -->
 
 
@@ -4439,7 +4386,7 @@ We similarly believe our scale and growing efficiencies will continue to decreas
 The rapid adoption of our space-as-a-service offering, including growth in the number of partners who offer products and services on our platform, evidences the value proposition of our space-as-a-service membership model.
 
 <!-- image -->
-**Image Description:** In the center of the image there is a line. On the line there is some text.
+**AI-Generated Image Description:** The number 0 is represented by the symbol $o$.
 <!-- end image description -->
 
 
@@ -4452,7 +4399,7 @@ We refer to our membership offerings as We Memberships. Our membership offerings
 We provide the following membership offerings:
 
 <!-- image -->
-**Image Description:** In this image we can see a diagram, there are three objects, and there is a building, and there are some text written on it.
+**AI-Generated Image Description:** We are connected with the word move-in ready workspaces or offices. This is connected with configured. This is connected with on-demand. This is connected with custom.
 <!-- end image description -->
 
 
@@ -4465,7 +4412,7 @@ On-demand. Our on-demand We Membership provides access to shared workstations or
 Each of our membership offerings provides a wide array of workplace amenities, along with valuable benefits on business services and lifestyle perks, that help members increase their productivity both in and out of the office. These workplace amenities and other benefits include:
 
 <!-- image -->
-**Image Description:** In this image, there is a menu with different icons and text.
+**AI-Generated Image Description:** In the current month, the icons represent the different services offered by the company. For example, the 'High-speed internet' icon shows that the company provides high-speed internet. The 'Micro-roasted coffee' icon shows that the company offers micro-roasted coffee. The 'Daily cleaning' icon shows that the company cleans the building. The '24/7 building access' icon shows that the company has 24/7 building access. The '24/7 building access' icon shows that the company has 24/7 building access. The '24/7 building access' icon shows that the company has 24/7 building access. The '24/7 building access' icon shows that the company has 24/7 building access. The '24/7 building access' icon shows that the company has 24/7 building access. The '24/7 building access' icon shows that the company has 24/7 building access. The '24/7 building access' icon shows that the company has 24/7 building access. The '24/7 building access' icon shows that the company has 24/7 building access. The '24/7 building access' icon shows that the company has 24/7 building access. The '24/7 building access' icon shows that the company has 24/7 building access.
 <!-- end image description -->
 
 
@@ -4499,7 +4446,7 @@ We continually seek to develop new solutions to expand the reach of our global p
 ## Enterprise Technology
 
 <!-- image -->
-**Image Description:** In this image we can see a monitor with some text on it.
+**AI-Generated Image Description:** The image is a digital monitor screen displaying various information. The screen is divided into two main sections: the upper section contains a graph and the lower section contains a table. The graph is titled "Space Utilization" and is colored blue and red. The graph shows a trend of space utilization, with a peak in the early part of the year and a decline in the late part of the year. The table on the right side of the screen contains data on the number of rooms available for use, with the number of rooms increasing from the early part of the year to the late part of the year.
 <!-- end image description -->
 
 
@@ -4508,12 +4455,33 @@ Our enterprise technology solutions enable members to make informed decisions ac
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image I can see the inside view of the room. In the room I can see the sofas, chairs, tables, plants, windows, wall, floor and the ceiling. In the background I can see the buildings and the sky.
+**AI-Generated Image Description:** The image depicts an office space with several seating areas and a large window. The room is well-lit with overhead lighting, and the ceiling is adorned with several rectangular lights. The walls are painted in a neutral color, and the floor is made of wood. The furniture is arranged in a way that suggests a comfortable and inviting atmosphere.
+
+**Objects Present in the Image:**
+
+1. **Ceiling:** The ceiling is adorned with several rectangular lights, which are likely used for lighting the space.
+2. **Windows:** There are multiple windows that allow natural light to flood the room.
+3. **Seating Area:** Several chairs and tables are arranged in the room, providing seating for employees and visitors.
+4. **Plants:** Several potted plants are placed around the room, adding a touch of greenery to the space.
+5. **Ceiling and Windows:** The ceiling and windows have large, rectangular lights, which are essential for illuminating the space.
+6. **Wall Colors:** The walls are painted in a neutral color, which helps to create a calm and professional atmosphere.
+7. **Furniture:** The seating area includes a variety of furniture, including sofas, armchairs, and coffee tables.
+8. **Lighting:** The room is well-lit with overhead lighting, which is essential for maintaining a bright and comfortable environment.
+
+**Analysis and Description:**
+
+The image captures a well-organized and professional office space. The presence of multiple windows and the large, rectangular lights indicates that the space is designed to provide ample natural light, which is crucial for productivity and work efficiency. The presence of potted plants and the presence of a large window suggest that the space is well-equipped to accommodate a large number of visitors and employees.
+
+The overall design of the room is modern and professional, with a focus on comfort and efficiency. The use of neutral colors and the large windows suggests that the space is designed to be aesthetically pleasing and welcoming to a wide range of customers.
+
+**Conclusion:**
+
+The image shows a well-organized and professional office space with a focus on comfort and efficiency. The presence of potted plants, large windows, and the large, rectangular lights indicates that the space is designed to provide ample natural light and to accommodate a large number of visitors and employees. The room is well-lit with overhead lighting, which is essential for maintaining a bright and comfortable environment.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** Salesforce
+**AI-Generated Image Description:** Salesforce
 <!-- end image description -->
 
 
@@ -4528,7 +4496,7 @@ Salesforce companies closer to their customers in the digital age. With its need
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image we can see a group of people sitting on chairs and a table. On the table we can see a few objects. In the background we can see a counter, a wall, a few objects, a few lights, a few people, a few tables, a few chairs, a few objects, a few objects on the floor, a few objects on the wall, a few objects on the table, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects on the wall, a few objects on the floor, a few objects
+**AI-Generated Image Description:** In the image we can see there are people sitting on chairs and there is a table and on the table there are some objects. There is a counter and there are some objects on the counter. There are some lights and there is a wall and there is a door.
 <!-- end image description -->
 
 
@@ -4597,12 +4565,12 @@ Beijing
 Mumbai
 
 <!-- image -->
-**Image Description:** In this image we can see three women sitting on the chairs and working on the laptops. In the background we can see a wall, a frame, a laptop, a cup, a laptop, a chair, a table, a bag, a laptop, a book, a chair and a wall.
+**AI-Generated Image Description:** In the image we can see there are three women who are sitting on the chairs and they are working on laptops. In the background there is a painting on the wall.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image there is a logo.
+**AI-Generated Image Description:** The logo is blue and white. It has the letters "gz" in a cursive font.
 <!-- end image description -->
 
 
@@ -4615,12 +4583,30 @@ Francis Van Parys, President and CEO, GE Healthcare Korea
 GE Healthcare partnered with WeWork to design, build and operate a collaborative workspace that would be cost-effective (even in a prime Seoul location) and transformational for their culture. The HR team envisioned a space that would bring their culture to the next level and democratize workspace utilization by letting employees choose where and how worked. The team wanted to minimize the number of fixed desks and include more flexible spaces for employees to collaborate, network and host events. they
 
 <!-- image -->
-**Image Description:** In this image we can see a woman standing and smiling. In the background there is a table, chairs, window, wall, curtains and a glass.
+**AI-Generated Image Description:** The image depicts a woman standing in what appears to be a living room. She is wearing a brown jacket, which is a common style for casual or semi-formal occasions. The jacket is open, revealing a black t-shirt underneath. She is also wearing a pair of dark pants, which are a common choice for casual or semi-formal wear.
+
+The woman is standing in front of a wooden coffee table, which is positioned in front of her. On the table, there is a book, which she appears to be reading. The coffee table is made of wood and has a modern design, with a sleek, minimalist look.
+
+In the background, there is a large window with white curtains. The window has a modern design, with large, curved glass panels that allow natural light to flood the room. The window also has a small, decorative element, which is a small, round lamp placed on the corner of the window.
+
+The room itself is decorated with a few pieces of furniture, including a large, wooden chair with a pink cushion, and a small, round table with a lamp on it. The walls are painted in a light color, and there are some decorative elements, such as a large, abstract painting on one wall.
+
+The overall atmosphere of the room is warm and inviting, with a touch of nature and a touch of sophistication. The woman's expression is calm and composed, and she appears to be enjoying the moment.
+
+### Analysis and Description
+
+The image captures a moment of quiet reflection, highlighting the woman's relaxed demeanor and the casual nature of her attire. The room's design and the overall ambiance suggest a comfortable and inviting space, likely intended for relaxation or social gatherings. The presence of the coffee table and the book suggests that the room is used for reading or reading material, which is a common practice in many households.
+
+The presence of the large window with white curtains and the modern design of the coffee table and chair indicates that the room is well-equipped for both casual and formal occasions. The presence of the large window and the minimalist design of the room suggests that the space is designed to be both functional and aesthetically pleasing.
+
+### Conclusion
+
+The image is a well-composed portrait of a woman in a comfortable and inviting setting. The combination of casual attire, thoughtful design, and the natural elements in the room creates a warm and inviting atmosphere. The woman's relaxed expression and the
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** On the left side of the image there is a logo.
+**AI-Generated Image Description:** The word Dropbox is on the left side of the image.
 <!-- end image description -->
 
 
@@ -4641,7 +4627,7 @@ Our strong unit economics, together with the increasing cost efficiency with whi
 The profitability profile of our business is a managed outcome driven by the maturity of our locations, or the length of time a location has been open to our members. We define locations that have been open for more than 24 months as mature. Once a location reaches maturity, occupancy is generally stable, our initial investment in build-out and sales and marketing to drive member acquisition is complete and the location typically generates a recurring stream of revenues, contribution margin and cash flow. As we continue to pursue rapid growth, we continue to operate in a state where the majority of our locations are non-mature and have not reached stable cash flow. As of June 1, 2019, only 30% of our open locations were mature, with the remaining 70% of our open locations having been open for 24 months or less. If we stopped investing in our growth and instead allowed our existing pipeline of locations to mature, we would no longer incur capital investments to build out new spaces or the initial expenses associated with driving member acquisition at new locations. Rather, we expect that each mature location would generate a recurring stream of revenues, contribution margin and cash flows. We believe that the flexibility to manage our growth by focusing on our existing pipeline of locations and allowing them to mature presents us with an opportunity to manage our profitability profile.
 
 <!-- image -->
-**Image Description:** In this image there is a chart. On the chart there is a graph. There is a text on the chart.
+**AI-Generated Image Description:** In the image, there is a workstation pipeline. The pipeline is labeled "Workstation Pipeline Potential: 9-18 months". It is a graph that shows the potential for workstations in the pipeline. The graph is colored in different colors, with the colors representing different workstations. The graph shows that there are 1.9 million workstations in the pipeline.
 <!-- end image description -->
 
 
@@ -4683,14 +4669,44 @@ Operating a growing portfolio of physical locations at scale is highly complex. 
 Find. Sourcing, underwriting and signing a new space is the starting point of the lifecycle of a location. We have invested heavily in the technologies and processes that optimize for the best space decisions. We have real estate teams located in each of our markets who form strong relationships with landlords and partner real estate companies. We empower on-the-ground teams to find locations in their markets, supported by a centralized repository of data, analytics and underwriting models that allow us to better predict member demand and the financial risks and attractiveness of a potential space. Our technology is designed to automate the flow of approvals, due diligence, budgets, negotiations and closings. We anticipate continuing to invest in technology to increase the flow of transactions, reduce friction and optimize the decisions we make for every new space we find.
 
 <!-- image -->
-**Image Description:** In this image we can see a screen of a device.
+**AI-Generated Image Description:** The image shows a monitor with a map displayed on it. The map is showing a region with various roads and points of interest. The map has a black background with white and yellow lines and markers. The map is labeled with the words "geocoder" and "local information" at the top. The map is rotated 90 degrees clockwise, meaning that the bottom right corner of the screen is currently the bottom left corner.
+
+The map has a small icon in the bottom left corner, which is a heart symbol. The heart symbol is a symbol used in maps to indicate a location or a location within a region.
+
+The map is surrounded by a black border. The bottom of the screen is a flat black surface, which is the standard background for most monitors.
+
+The monitor is powered by a Samsung Galaxy S20+ model. The screen is turned on, and the map is displaying the region with various roads and points of interest. The roads and points of interest are represented by small, colored dots, which are likely markers or indicators of the location.
+
+The map is not displaying any specific information, such as a specific name or a specific location. The map is not displaying any specific data or information, such as a specific location or a specific time.
+
+### Analysis
+
+The image shows a map displayed on a Samsung Galaxy S20+ device. The map is showing a region with various roads and points of interest. The map is rotated 90 degrees clockwise, which means that the bottom right corner is currently the bottom left corner. The map is labeled with the words "geocoder" and "local information" at the top. The map is surrounded by a black border. The bottom of the screen is a flat black surface, which is the standard background for most monitors.
+
+### Conclusion
+
+The image shows a Samsung Galaxy S20+ monitor displaying a map of a region with various roads and points of interest. The map is rotated 90 degrees clockwise, which means that the bottom right corner is currently the bottom left corner. The map is labeled with the words "geocoder" and "local information" at the top. The map is surrounded by a black border.
 <!-- end image description -->
 
 
 We use computational economics to gauge the potential of new locations based on nearby amenities and features like accessibility
 
 <!-- image -->
-**Image Description:** In this image we can see a monitor. In the monitor there are some images and some text.
+**AI-Generated Image Description:** The image displays a smart phone screen with various icons and options. The screen is displaying a map view, which includes a map of London, England. The map is divided into different sections, each representing different locations and landmarks. The map is labeled with the names of various cities and landmarks, such as "London," "London," "London," and "London."
+
+The map is surrounded by a black border, and there is a navigation bar at the top of the screen. The navigation bar contains several icons, including a search bar, a map icon, and a few other icons. The navigation bar is located at the top of the screen, and it is likely used to navigate the map.
+
+Below the navigation bar, there is a search bar, which is used to search for specific locations or landmarks. The search bar is located in the center of the screen, and it is surrounded by a black border.
+
+The map is divided into different sections, each representing different locations and landmarks. The sections are labeled with the names of different cities and landmarks, such as "London," "London," "London," and "London." The sections are also labeled with icons, such as a search icon, a map icon, and a few other icons.
+
+The map is also divided into different sections, each representing different locations and landmarks. The sections are labeled with the names of different cities and landmarks, such as "London," "London," "London," and "London." The sections are also labeled with icons, such as a search icon, a map icon, and a few other icons.
+
+The map is also divided into different sections, each representing different locations and landmarks. The sections are labeled with the names of different cities and landmarks, such as "London," "London," "London," and "London." The sections are also labeled with icons, such as a search icon, a map icon, and a few other icons.
+
+The map is also divided into different sections, each representing different locations and landmarks. The sections are labeled with the names of different cities and landmarks, such as "London," "London," "London," and "London." The sections are also labeled with icons, such as a search icon, a map icon, and a few other icons.
+
+The map is also divided into different sections, each representing different locations and landmarks. The sections are labeled with the names of different cities and landmarks, such as "London
 <!-- end image description -->
 
 
@@ -4703,14 +4719,14 @@ Build . We design each space with a specific community and neighborhood in mind 
 We integrate scanning technologies and software to automate the design and construction layout of any given space
 
 <!-- image -->
-**Image Description:** In this image we can see a screen with images of buildings and some other objects.
+**AI-Generated Image Description:** In the image there are three pictures of buildings and one of them is a photo of a car.
 <!-- end image description -->
 
 
 We use a single global master catalog to give designers the best furniture and decoration alternatives, prices and logistics options for any given building location
 
 <!-- image -->
-**Image Description:** In this image we can see a monitor with some images on it.
+**AI-Generated Image Description:** In the image we can see a monitor with some items on it.
 <!-- end image description -->
 
 
@@ -4721,14 +4737,14 @@ Fill. From as early as when a space is identified, our sales team works closely 
 We use data science to compare new buildings with similar proven locations based on historical market and pricing data
 
 <!-- image -->
-**Image Description:** In this image we can see a monitor with a screen. On the screen we can see a table with some text and numbers.
+**AI-Generated Image Description:** On a monitor, there is a web page with a table on it. The table has numbers on it.
 <!-- end image description -->
 
 
 Next, through machine learning, we forecast demand for each building to set the opening day price and optimize on a real-time basis
 
 <!-- image -->
-**Image Description:** In this image we can see a monitor. On the monitor we can see a screen. On the screen we can see a text.
+**AI-Generated Image Description:** In the image we can see a monitor. On the monitor we can see a screen and some text.
 <!-- end image description -->
 
 
@@ -4739,7 +4755,7 @@ Run. We aspire to create a welcoming, inclusive and collaborative environment at
 We use a self service workflow to automate all of the steps needed for a seamless member move in or move out day
 
 <!-- image -->
-**Image Description:** In this picture we can see a monitor with some text and icons on it.
+**AI-Generated Image Description:** In the picture I can see a monitor and on it I can see some text and images.
 <!-- end image description -->
 
 
@@ -4748,7 +4764,55 @@ A single portal is used to manage and track all of the interactions between a me
 We aim to continue to perfect our global-local playbook, and we continue to drive automation throughout the process of finding, building, filling and running spaces. We learn from the increasing amount of data we collect for every decision we make, and we continue to innovate on solutions designed to drive our members' successes. We believe our core expertise in leveraging our global-local playbook will allow us to continue to scale our business across new locations and new cities, while benefiting from the efficiencies of our global scale, process and technology infrastructure.
 
 <!-- image -->
-**Image Description:** In the image we can see a computer screen. On the screen we can see some text and some icons.
+**AI-Generated Image Description:** The image is a webpage displaying information about a city. The webpage is displayed on a computer screen. The webpage has a dark background with a light-colored grid pattern. There are several icons on the left side of the webpage, including a search bar, a menu, and a few other buttons. 
+
+The main content of the webpage is divided into two main sections. The top section contains a header with the title "City Map" and a subtitle "City Map". Below the header, there is a navigation bar with several links, including "Home", "About Us", "Contact Us", and "Contact Us". The main content of the webpage is divided into two main sections: a list of different cities and a list of information about the city.
+
+The list of cities is as follows:
+
+1. **Barcelona**
+2. **Madrid**
+3. **Seoul**
+4. **Seoul**
+5. **Seoul**
+6. **Seoul**
+7. **Seoul**
+8. **Seoul**
+9. **Seoul**
+10. **Seoul**
+11. **Seoul**
+12. **Seoul**
+13. **Seoul**
+14. **Seoul**
+15. **Seoul**
+16. **Seoul**
+17. **Seoul**
+18. **Seoul**
+19. **Seoul**
+20. **Seoul**
+21. **Seoul**
+22. **Seoul**
+23. **Seoul**
+24. **Seoul**
+25. **Seoul**
+26. **Seoul**
+27. **Seoul**
+28. **Seoul**
+29. **Seoul**
+30. **Seoul**
+31. **Seoul**
+32. **Seoul**
+33. **Seoul**
+34. **Seoul**
+35. **Seoul**
+36. **Seoul**
+37. **Seoul**
+38. **Seoul**
+39. **Seoul**
+40. **Seoul**
+41. **Seoul**
+42. **Seoul**
+43. **Seoul**
 <!-- end image description -->
 
 
@@ -4763,7 +4827,7 @@ Our members spend hundreds of millions of hours inside our locations annually. B
 PLATFORM CAPABILITIES
 
 <!-- image -->
-**Image Description:** In this image, we can see some text and some icons.
+**AI-Generated Image Description:** In this image, we can see the text.
 <!-- end image description -->
 
 
@@ -4823,42 +4887,26 @@ We are proud of the positive ripple effects that we create throughout the cities
 ## Our Strengths
 
 <!-- image -->
-**Image Description:** In this image we can see a logo.
+**AI-Generated Image Description:** A single eye has an "O" inside of it.
 <!-- end image description -->
 
 
 We are committed to our vision
 
 <!-- image -->
-**Image Description:** In this image I can see a diagram.
+**AI-Generated Image Description:** A system of people is depicted as a cross.
 <!-- end image description -->
 
 
 Our member community is strong and growing
 
 <!-- image -->
-**Image Description:** The image depicts a line graph with four distinct bars. The graph is titled "The 4th Bar," and the title is positioned at the top of the graph. The graph is composed of four horizontal bars, each representing a different category or group. The bars are arranged in a horizontal line, with the first bar on the left and the fourth bar on the right.
-
-The first bar is labeled "The 1st Bar," and it is positioned at the left end of the graph. The second bar is labeled "The 2nd Bar," and it is positioned at the middle of the graph. The third bar is labeled "The 3rd Bar," and it is positioned at the right end of the graph. The fourth bar is labeled "The 4th Bar," and it is positioned at the top of the graph.
-
-Each of the four bars is colored in a gradient of light brown, with the color gradient transitioning from light to dark brown at the top of each bar. The gradient is consistent throughout the graph, with the color transitioning from light brown at the top to dark brown at the bottom.
-
-The graph is labeled "The 4th Bar" and is positioned at the top of the graph. The title of the graph is "The 4th Bar," and it is positioned at the top of the graph. The title is in a light brown color, with the color transitioning from light to dark brown at the top of each bar.
-
-The graph is designed to show the distribution of data across different categories or groups. The first bar represents the category "The 1st Bar," the second bar represents the category "The 2nd Bar," the third bar represents the category "The 3rd Bar," and the fourth bar represents the category "The 4th Bar."
-
-The graph is visually simple and easy to understand, with a clear and concise design. The use of color and gradient transitions helps to make the data points easily readable and distinguishable.
-
-### Analysis and Description:
-
-The graph is a simple yet effective representation of data distribution. The horizontal bars are evenly spaced, and each bar is colored in a gradient of light brown, transitioning from light to dark brown at the top of each bar. This gradient helps to highlight the categories or groups represented by the bars.
-
-The title "The 4th Bar" is positioned at the top of the graph, and the title
+**AI-Generated Image Description:** The image depicts a line graph with four bars. The x-axis represents the years, and the y-axis represents the number of students. The graph is labeled as "500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a globe.
+**AI-Generated Image Description:** The image depicts a globe.
 <!-- end image description -->
 
 
@@ -4867,26 +4915,9 @@ Our global platform integrates space, services and technology
 We have attractive oconomics
 
 <!-- image -->
-**Image Description:** The image depicts a hand holding a plant. The hand is depicted in a simplified, line-drawn style, with the fingers curled and the palm facing upwards. The plant is depicted as a small, round object with multiple leaves, which are arranged in a circular pattern around the stem. The leaves are depicted as dark green, with the edges of the leaves being slightly curled. The stem is depicted as a dark blue color, with the leaves extending upwards and outwards.
+**AI-Generated Image Description:** The image depicts a hand holding a plant. The hand is depicted in a simple, line-drawn style, with the fingers curled inward. The plant is depicted as a cluster of three flowers, each with multiple petals. The flowers are arranged in a triangular formation, with the largest flower at the top and the smaller flowers below. The stem of the plant is visible, with the leaves extending downward from it. The hand is holding the plant in a way that suggests it is about to be picked or cut.
 
-The image does not contain any additional objects, text, or additional elements, making it a simple and straightforward representation of the plant.
-
-### Analysis and Description:
-
-The image is a simple representation of a plant with a hand holding it. The hand is depicted in a simplified, line-drawn style, with the fingers curled and the palm facing upwards. The plant is depicted as a small, round object with multiple leaves, which are arranged in a circular pattern around the stem. The leaves are depicted as dark green, with the edges of the leaves being slightly curled. The stem is depicted as a dark blue color, with the leaves extending upwards and outwards.
-
-### Relevant Knowledge:
-
-- **Plant Characteristics:** Plants are typically characterized by their ability to grow in a variety of environments, including soil, water, and light.
-- **Stem Characteristics:** The stem is typically a dark blue color, with the leaves extending upwards and outwards.
-- **Leaf Arrangement:** The leaves are depicted as dark green, with the edges of the leaves being slightly curled.
-- **Stem Color:** The stem is depicted as a dark blue color, with the leaves extending upwards and outwards.
-
-### Conclusion:
-
-The image is a simple representation of a plant with a hand holding it. The hand is depicted in a simplified, line-drawn style, with the fingers curled and the palm facing upwards. The plant is depicted as a small, round object with multiple leaves, which are arranged in a circular pattern around the stem. The leaves are depicted as dark green, with the edges of the leaves being slightly curled. The stem is depicted as a dark blue color, with the leaves extending upwards and outwards.
-
-This image is a simple representation of a plant with a hand holding it, and it does not contain any additional objects, text, or additional elements.
+The image does not contain any additional objects, such as additional plants, flowers, or other objects. It is a single, single-component image that focuses solely on the hand and the plant.
 <!-- end image description -->
 
 
@@ -4969,24 +5000,7 @@ The chart below depicts the structure of ARK with its three principal components
                                                                                                                                                                                                                                                                 - (3) the real estate acquisition vehicles that are managed by the general partner and manager.
 
 <!-- image -->
-**Image Description:** The image is a diagram of a company called Weo. The diagram is labeled as "Weo Lease Holding Entities" and it is connected to the Weo Group. Weo Group is represented by the letters "Weo" and it is connected to the Weo Lease Holding Entities.
-
-The diagram is structured with the following components:
-1. **Weo Group**: This is represented by the letters "Weo" and is connected to the Weo Lease Holding Entities.
-2. **Weo Lease Holding Entities**: This is represented by the letters "Weo" and is connected to the Weo Group.
-3. **Weo Lease Master GP**: This is represented by the letters "Weo" and is connected to the Weo Group.
-4. **Weo Manager**: This is represented by the letters "Weo" and is connected to the Weo Group.
-5. **Weo Lease Asset**: This is represented by the letters "Weo" and is connected to the Weo Group.
-6. **Weo Lease Fund**: This is represented by the letters "Weo" and is connected to the Weo Group.
-7. **Weo Lease Partnership**: This is represented by the letters "Weo" and is connected to the Weo Group.
-8. **Weo Lease Partnership**: This is represented by the letters "Weo" and is connected to the Weo Group.
-9. **Weo Lease Partnership**: This is represented by the letters "Weo" and is connected to the Weo Group.
-10. **Weo Lease Partnership**: This is represented by the letters "Weo" and is connected to the Weo Group.
-11. **Weo Lease Partnership**: This is represented by the letters "Weo" and is connected to the Weo Group.
-12. **Weo Lease Partnership**: This is represented by the letters "Weo" and is connected to the Weo Group.
-13. **Weo Lease Partnership**: This is represented by the letters "Weo" and is connected to the Weo Group.
-14. **Weo Lease Partnership**: This is represented by the letters "Weo" and is connected to the Weo Group.
-15. **Weo Lease Partnership**: This is
+**AI-Generated Image Description:** The image is a diagram of a company called Weo. Weo is a company that deals with real estate and leasing. It is connected to ARK Master, which is a company that deals with real estate and leasing. ARK Master is a limited partner and a limited interest in Weo. Weo is a company that deals with real estate and leasing.
 <!-- end image description -->
 
 
@@ -10175,12 +10189,26 @@ Subsequent to June 30, 2019, the Company has continued to enter into new lease c
 ## Table of Contents
 
 <!-- image -->
-**Image Description:** In this image we can see the trees and the sky.
+**AI-Generated Image Description:** The image is a poster with a green background. At the top of the image, there is a blue sky with clouds. In the middle of the image, there is a large green area with many trees. At the bottom of the image, there is a logo with the letters "WE" and "C" in a circle.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see the trees, water, grass, sky and some text.
+**AI-Generated Image Description:** The image consists of a lush green landscape with a prominent water feature. The water is depicted as a small body of water, likely a pond or a small lake, surrounded by dense greenery. The greenery appears to be lush and vibrant, suggesting a healthy ecosystem. The water is calm, with no visible waves or ripples, indicating a calm and undisturbed environment.
+
+In the background, there is a vast expanse of greenery, which includes various types of trees and plants. The trees are tall and slender, with dense foliage that covers the entire landscape. The trees appear to be healthy and thriving, with no signs of any signs of decay or damage.
+
+The sky is clear with a few scattered clouds, suggesting a bright and sunny day. The sky is a gradient of colors, transitioning from a lighter blue near the horizon to a deeper blue towards the upper part of the image. The clouds are fluffy and white, adding a touch of color to the overall scene.
+
+There is a watermark in the lower right corner of the image, which appears to be a watermark from a magazine or a book. The watermark is white and has a circular shape, with the letters "we" written in a stylized font. The watermark is placed on the right side of the image, slightly overlapping the water feature.
+
+### Analysis and Description
+
+The image is a vivid representation of a lush, green landscape with a clear, calm water feature. The greenery is dense and vibrant, indicating a healthy ecosystem. The water is calm and undisturbed, with no visible waves or ripples, suggesting a calm and undisturbed environment. The sky is clear with a few scattered clouds, indicating a bright and sunny day. The water is calm, with no visible waves or ripples, indicating a calm and undisturbed environment.
+
+### Conclusion
+
+The image is a beautiful representation of a lush, green landscape with a clear, calm water feature. The dense greenery and the calm water are indicative of a healthy ecosystem. The watermark in the lower right corner adds a touch of the magazine or book, suggesting that the image is part of a larger collection or publication.
 <!-- end image description -->
 
 

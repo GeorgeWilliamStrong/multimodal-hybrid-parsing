@@ -1,5 +1,5 @@
 <!-- image -->
-**Image Description:** In this image I can see the logo of the Missouri Department of Health and Senior Services. I can see the text on the image.
+**AI-Generated Image Description:** In the image I can see the logo of the Missouri Department of Health and Senior Services.
 <!-- end image description -->
 
 
@@ -33,7 +33,7 @@ Healthy Missourians for life.
 The Missouri Department of Health and Senior Services be the leader in promoting, protecting and partnering for health. will
 
 <!-- image -->
-**Image Description:** In this image we can see a logo.
+**AI-Generated Image Description:** In the image there is a circle with some text written on it.
 <!-- end image description -->
 
 
@@ -68,7 +68,7 @@ Ifyou have any questions; please contact the MSPHL Environmental Bacteriology Un
 Once again; thank you for your patience and understanding as we implement these changes .
 
 <!-- image -->
-**Image Description:** Patrick R Shannon.
+**AI-Generated Image Description:** Patrick R Shannon
 <!-- end image description -->
 
 
@@ -83,7 +83,7 @@ Email: Pat Shannon@health mo gov
 Web: wwwhealth mo gov/Lab
 
 <!-- image -->
-**Image Description:** In this image there is a black and white image.
+**AI-Generated Image Description:** In the image, there are vertical bars.
 <!-- end image description -->
 
 
@@ -104,7 +104,7 @@ Containers in Order: 1
 SD 062015
 
 <!-- image -->
-**Image Description:** In this image we can see a barcode.
+**AI-Generated Image Description:** In the image there is a barcode.
 <!-- end image description -->
 
 
@@ -113,12 +113,12 @@ REPORT TO:
 65
 
 <!-- image -->
-**Image Description:** In this image there is a machine.
+**AI-Generated Image Description:** In the image, there are six horizontal bars.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image there are two rows of vertical bars.
+**AI-Generated Image Description:** In this image there are 7 vertical rods.
 <!-- end image description -->
 
 
@@ -209,19 +209,43 @@ BUILD ID
 BUILD ID
 
 <!-- image -->
-**Image Description:** In this image I can see the logo of the institution.
+**AI-Generated Image Description:** The image features a logo that is circular and black in color. The logo is circular and features the word "DHS" written in a bold, white font. The letters are capitalized and the "D" is larger than the other letters. Below the word "DHS," there is a smaller, more stylized font that reads "Museum and Senior Service." This logo is circular and appears to be part of a larger structure or organization.
+
+The background of the logo is a gradient of light and dark colors, transitioning from black at the top to white at the bottom. This gradient helps to draw attention to the central and most prominent part of the logo, which is the "DHS" text.
+
+The logo is placed against a white background, which helps to make the text and the circular shape stand out clearly. The overall design of the logo is simple and straightforward, with a focus on the central text and the circular shape.
+
+The image does not contain any other objects or elements, such as people, animals, or additional text. The focus is solely on the logo and its central text.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a logo with some text and some images.
+**AI-Generated Image Description:** The image contains a circular logo with the words "Missouri SPHL" written in a large, bold font. Surrounding the text are various icons and symbols, including a bottle, a globe, and a globe. The logo is placed on a white background, and the entire design is enclosed within a circle.
 <!-- end image description -->
 
 
 ## SAMPLE COLLECTION INSTRUCTIONS PUBLIC DRINKING WATER for COLIFORM BACTERIA ANALYSIS
 
 <!-- image -->
-**Image Description:** In this image we can see a logo and some text.
+**AI-Generated Image Description:** The image contains a logo that consists of two parts. The top part of the logo features a stylized letter "Q" with a circle inside of it. The circle is filled with a pattern of small, interconnected lines. The bottom part of the logo features the word "MISSOURI" in bold, capital letters. The letters are colored in black.
+
+The logo is placed on a white background, which makes the colors of the letters and the circle stand out clearly. The background color is a light gray, which helps to make the logo stand out more.
+
+The logo is simple and straightforward, with no additional decorations or embellishments. The use of a stylized letter "Q" with a circle inside of it is a common design element in many logos, often used to represent a company or organization.
+
+The text "MISSOURI" is written in a bold, capitalized font, which is a common style for logos. The use of a large font size makes the text stand out and easy to read.
+
+The logo is simple and straightforward, with no additional imagery or decorations. The use of a stylized letter "Q" with a circle inside of it is a common design element in many logos, often used to represent a company or organization.
+
+The logo is likely intended to be used in a business setting, such as in a company's website or in a business card. The use of a stylized letter "Q" with a circle inside of it is a common design element in many logos, often used to represent a company or organization.
+
+The logo is simple and straightforward, with no additional decorations or embellishments. The use of a stylized letter "Q" with a circle inside of it is a common design element in many logos, often used to represent a company or organization.
+
+The logo is simple and straightforward, with no additional imagery or decorations. The use of a stylized letter "Q" with a circle inside of it is a common design element in many logos, often used to represent a company or organization.
+
+The logo is simple and straightforward, with no additional imagery or decorations. The use of a stylized letter "Q" with a circle inside of it is a common design element in many logos, often used to represent a company or organization.
+
+The logo is simple and straightforward, with no additional imagery or decorations. The use of a stylized letter "Q" with a circle inside of it is
 <!-- end image description -->
 
 
@@ -248,7 +272,20 @@ If the bottle is overfilled past the 120 mL line, pour off water until the sampl
 There is no longer a label to record sample information on the bottle. DO NOT WRITE ON complete a sample information form for each sample submitted for testing. DATE AND TIME OF SAMPLE COLLECTION and the BOTTLE NUMBER (from sticker on bottle) ARE REQUIRED. A form for each bottle is included in this sample kit.
 
 <!-- image -->
-**Image Description:** In this image we can see a glass jar with a lid.
+**AI-Generated Image Description:** The image depicts a glass jar with a lid that is partially open. The jar is filled to the brim with a clear liquid, which appears to be a solution or a solution mixture. The jar is cylindrical, with a flat top and a lid that is white with a slight sheen. The lid is positioned at the top of the jar, and it is open, allowing the liquid to be seen inside. The liquid inside the jar is clear, and it appears to be a solution or a solution mixture. The jar is placed on a black surface, which might be a table or a countertop.
+
+### Analysis and Description:
+1. **Shape and Structure**: The jar is cylindrical, with a flat top and a lid. The lid is white with a slight sheen, indicating it might be made of a plastic material.
+2. **Contents**: The contents inside the jar are clear, suggesting that the solution or solution mixture is being poured into the jar.
+3. **Lid**: The lid is white with a slight sheen, indicating it is made of a plastic material.
+4. **Surface**: The jar is placed on a black surface, which might be a table or a countertop.
+
+### Relevant Knowledge:
+- **Lid**: The lid is a common feature in many glass jars, often used to keep the contents contained. It is typically white and made of a plastic material, which is commonly used in glass jars for their durability and ease of cleaning.
+- **Container**: The jar is a common container for liquids, such as solutions or solutions mixtures. It is typically filled to the brim with a clear liquid, which is the main ingredient in the solution.
+
+### Conclusion:
+The image shows a clear glass jar with a white lid that is open, allowing a clear liquid to be seen inside. The jar is placed on a black surface, which could be a table or a countertop. The jar is cylindrical, with a flat top and a lid, and it is filled to the brim with a clear liquid.
 <!-- end image description -->
 
 
@@ -281,91 +318,34 @@ Website:
 wwwhealth mo govLab
 
 <!-- image -->
-**Image Description:** The image contains a black and white diagram of a faucet. The faucet is depicted with a handle that is positioned horizontally. The handle is positioned at the top of the image, and the faucet is depicted with a circular circular object that is attached to the handle. The circular object has a hole in the center, and the handle is connected to the circular object. The image is labeled with the letter "I" at the bottom right corner.
+**AI-Generated Image Description:** In the image, there is a drawing of a tap. The tap has a handle on the right side.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image depicts a simple electrical circuit diagram. Here is a detailed description of the components present in the image:
-
-1. **Power Source**:
-   - There is a power source connected to the left side of the image. This is a battery or a similar device that is connected to the power source.
-
-2. **Battery**:
-   - The battery is connected to the power source. It is a cylindrical object with a cylindrical shape and a small, circular opening at the top.
-
-3. **Battery Connector**:
-   - A connector is attached to the battery. This connector is likely a standard connector for connecting the battery to a device or system.
-
-4. **Battery Charger**:
-   - A battery charger is connected to the battery. It is a device that can charge or discharge the battery.
-
-5. **Battery Charger Connector**:
-   - A connector is attached to the battery charger. This connector is likely a standard connector for connecting the battery to a device or system.
-
-### Analysis and Description:
-
-The image is a simple yet functional representation of a basic electrical circuit. The components are clearly labeled, and the overall layout is straightforward. The battery is the primary source of power, as it is connected to the power source. The battery charger is connected to the battery, and the battery charger connector is connected to the battery charger.
-
-### Relevant Knowledge:
-
-- **Battery Charger**: A device that can charge or discharge a battery.
-- **Battery**: A cylindrical object that stores electrical energy.
-- **Battery Charger**: A device that can charge or discharge a battery.
-
-### Chain of Thought (CoT) Analysis:
-
-- **Power Source**: The power source is the primary source of electricity.
-- **Battery**: The battery is the primary source of electricity.
-- **Battery Charger**: The battery charger is the primary source of electricity.
-- **Battery Charger Connector**: The connector is the primary source of electricity.
-
-### Conclusion:
-
-The image is a simple yet functional representation of a basic electrical circuit. The components are clearly labeled, and the overall layout is straightforward. The battery is the primary source of electricity, and the battery charger is the primary source of electricity. The battery charger is connected to the battery, and the battery charger connector is connected to the battery charger.
-
-This detailed description should enable
+**AI-Generated Image Description:** There is a water tap on the left side of the image.
 <!-- end image description -->
 
 
 Bottle is clcan and sterile ready for sample (Remove and discard plastic scal)
 
 <!-- image -->
-**Image Description:** The image depicts a simple household faucet. The faucet is mounted on a wall, and it is designed to be installed in a bathroom or kitchen. The faucet is a simple, rectangular design with a single handle at the top. The handle is positioned horizontally and is attached to the faucet. The faucet is mounted on a wall, and the wall is painted in a light color, possibly beige or off-white.
-
-The faucet is labeled with the number "3" in the lower right corner. This number is likely a reference to the number of feet or feet-long pipes that the faucet is mounted on.
-
-### Analysis and Description:
-
-#### Function of the Faucet:
-The faucet is designed to be used for water and is likely used for washing dishes, cleaning, or other household tasks. The handle is used to turn the faucet on and off, and the faucet is mounted on a wall to prevent it from moving or moving.
-
-#### Design and Material:
-The faucet is made of metal, likely stainless steel or stainless steel with a brushed finish. The handle is made of a metal material, likely aluminum, which is a common choice for faucets for durability and ease of cleaning. The faucet is mounted on a wall, which is a common feature in bathrooms and kitchens.
-
-#### Additional Information:
-- **Faucet Design:** The faucet is rectangular with a single handle, which is a common design for faucets.
-- **Material:** The faucet is made of stainless steel, which is a durable and corrosion-resistant material.
-- **Handle Design:** The handle is simple and straightforward, with a straight design that is easy to install.
-- **Material:** The faucet is made of stainless steel, which is a durable and corrosion-resistant material.
-
-### Conclusion:
-The image depicts a simple, functional, and practical faucet that is designed for use in a bathroom or kitchen. The faucet is mounted on a wall, and it is likely used for washing dishes, cleaning, or other household tasks. The stainless steel handle and the brushed finish of the faucet make it a durable and reliable option for such tasks.
+**AI-Generated Image Description:** Figure 1: A wash basin with a handle.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image there is a diagram, in the diagram there is a bottle, there is a hand holding the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label on the bottle, there is a label
+**AI-Generated Image Description:** In the diagram, there is a bottle with a cap. The bottle is held by a person's hand.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a sketch of a hand holding a bottle.
+**AI-Generated Image Description:** In this image, there is a hand holding a cup.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a bottle in a hand.
+**AI-Generated Image Description:** In the image, there is a bottle held in a person's hand.
 <!-- end image description -->
 
 
@@ -386,26 +366,26 @@ Assemble all of the sampling supplies.   Before you begin; wash your hands thoro
 Fill sample botle on the bottle lines
 
 <!-- image -->
-**Image Description:** In this image there is a diagram. In the middle of the image there is a bottle. There is a person holding the bottle.
+**AI-Generated Image Description:** In the image, there is a bottle with a pump. The pump is attached to the bottle. There are two hands holding the bottle.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a person holding a bottle.
+**AI-Generated Image Description:** The diagram shows a bottle held in a person's hand.
 <!-- end image description -->
 
 
 FROST-PROOF HYDRANT
 
 <!-- image -->
-**Image Description:** In this image, there is a diagram with a person holding a gun. The person is wearing a uniform. There is a weapon with a handle. The weapon is pointing towards the right side of the image. There is a person standing on the ground.
+**AI-Generated Image Description:** In the image, there is a black-and-white symbol that resembles a cross. The symbol is accompanied by two arrows that are not used. The symbol is placed on the ground.
 <!-- end image description -->
 
 
 Do JOT USE
 
 <!-- image -->
-**Image Description:** In this image we can see a drawing of a knife and a pair of scissors.
+**AI-Generated Image Description:** The symbol X crosses two swords.
 <!-- end image description -->
 
 

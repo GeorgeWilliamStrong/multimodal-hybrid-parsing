@@ -23,7 +23,7 @@ The strategy in this section can be used to derive a lower bound estimator (a st
 Figure 1: The type of directed graphical model under consideration. Solid lines denote the generative model p θ ( z ) p θ ( x z | ) , dashed lines denote the variational approximation q φ ( z x | ) to the intractable posterior p θ ( z x | ) . The variational parameters φ are learned jointly with the generative model parameters θ .
 
 <!-- image -->
-**Image Description:** In this image, we can see a diagram with some text and a diagram with some lines.
+**AI-Generated Image Description:** In the diagram, there is a rectangular object with a circle in the middle. The circle has an arrow pointing from the left side to the right side. The arrow is labeled as Z. The object is connected to two other objects. One object is labeled as N and the other is labeled as X.
 <!-- end image description -->
 
 
@@ -166,7 +166,7 @@ The generative model (encoder) and variational approximation (decoder) from sect
 Figure 2: Comparison of our AEVB method to the wake-sleep algorithm, in terms of optimizing the lower bound, for different dimensionality of latent space ( N z ). Our method converged considerably faster and reached a better solution in all experiments. Interestingly enough, more latent variables does not result in more overfitting, which is explained by the regularizing effect of the lower bound. Vertical axis: the estimated average variational lower bound per datapoint. The estimator variance was small ( &lt; 1 ) and omitted. Horizontal axis: amount of training points evaluated. Computation took around 20-40 minutes per million training samples with a Intel Xeon CPU running at an effective 40 GFLOPS.
 
 <!-- image -->
-**Image Description:** This is a graph, which is titled as "MNIST, LEVEL 3". There are two graphs, one labeled as "MNIST, LEVEL 3" and the other labeled as "Frey Face, LEVEL 3". There are two sets of data points, one labeled as "Frey Face, LEVEL 3" and the other labeled as "Frey Face, LEVEL 2". There are two sets of data points, one labeled as "Frey Face, LEVEL 2" and the other labeled as "Frey Face, LEVEL 1". There are two sets of data points, one labeled as "Frey Face, LEVEL 1" and the other labeled as "Frey Face, LEVEL 2". There are two sets of data points, one labeled as "Frey Face, LEVEL 2" and the other labeled as "Frey Face, LEVEL 1". There are two sets of data points, one labeled as "Frey Face, LEVEL 1" and the other labeled as "Frey Face, LEVEL 2". There are two sets of data points, one labeled as "Frey Face, LEVEL 1" and the other labeled as "Frey Face, LEVEL 2". There are two sets of data points, one labeled as "Frey Face, LEVEL 1" and the other labeled as "Frey Face, LEVEL 2". There are two sets of data points, one labeled as "Frey Face, LEVEL 1" and the other labeled as "Frey Face, LEVEL 2". There are two sets of data points, one labeled as "Frey Face, LEVEL 1" and the other labeled as "Frey Face, LEVEL 2". There are two sets of data points, one labeled as "Frey Face, LEVEL 1" and the other labeled as "Frey Face, LEVEL 2". There are two sets of data points, one labeled as "Frey Face, LEVEL 1" and the other labeled as "Frey Face, LEVEL 2". There are two sets of data points, one labeled as "Frey Face, LEVEL 1" and the other labeled as "F
+**AI-Generated Image Description:** The chart shows the training samples evaluated by the MNIST algorithm.
 <!-- end image description -->
 
 
@@ -183,19 +183,7 @@ Marginal likelihood For very low-dimensional latent space it is possible to esti
 Figure 3: Comparison of AEVB to the wake-sleep algorithm and Monte Carlo EM, in terms of the estimated marginal likelihood, for a different number of training points. Monte Carlo EM is not an on-line algorithm, and (unlike AEVB and the wake-sleep method) can't be applied efficiently for the full MNIST dataset.
 
 <!-- image -->
-**Image Description:** The image is a line graph that shows the number of training samples evaluated over time. The x-axis represents the number of training samples evaluated, ranging from 0 to 60 million. The y-axis represents the number of training samples evaluated, ranging from 0 to 100 million. The graph has three lines: a green line, a blue line, and a red line.
-
-The green line is labeled "Wake-Sleep (train) and MCMC (train) training samples evaluated (millions)." This line shows the number of training samples evaluated for each of the three methods. The green line is the most consistent over the time period, indicating that the training samples evaluated are the most important factors in determining the number of training samples evaluated.
-
-The blue line is labeled "Wake-Sleep (test) and MCMC (train) training samples evaluated (millions)." This line shows the number of training samples evaluated for each of the three methods. The blue line is the least consistent over the time period, indicating that the training samples evaluated are the least important factors in determining the number of training samples evaluated.
-
-The red line is labeled "AEVB (train) and MCMC (train) training samples evaluated (millions)." This line shows the number of training samples evaluated for each of the three methods. The red line is the least consistent over the time period, indicating that the training samples evaluated are the least important factors in determining the number of training samples evaluated.
-
-The graph also includes a legend that explains the different lines. The legend is labeled "Wake-Sleep (train) and MCMC (train) training samples evaluated (millions)." This legend provides additional information about the different lines in the graph.
-
-The graph is sourced from a source that provides data on the number of training samples evaluated over time. The data is sourced from a source that provides data on the number of training samples evaluated over time. The data is sourced from a source that provides data on the number of training samples evaluated over time.
-
-The graph is a line graph, which means that the x-axis and y-axis are linear scales. The green line is the most consistent over the time period, indicating that the training samples evaluated are the most important factors in determining the number of training samples evaluated. The blue line is the least consistent over the time period, indicating that the training samples evaluated
+**AI-Generated Image Description:** The image is a line graph that shows the number of training samples evaluated (MCS) for a machine learning model. The x-axis represents the number of training samples evaluated, ranging from 0 to 60,000. The y-axis represents the number of training samples evaluated, ranging from 0 to 100,000. The graph has three lines: a green line, a blue line, and a red line. The green line is labeled "MCS (train)" and shows the number of training samples evaluated for the MCMC (machine learning model) model. The blue line is labeled "AEVB (train)" and shows the number of training samples evaluated for the AEVB (train) model. The red line is labeled "AEVB (test)" and shows the number of training samples evaluated for the AEVB (test) model. The graph also includes a legend that indicates the colors of the lines, with green representing the MCS (train) and blue representing the AEVB (train) models.
 <!-- end image description -->
 
 
@@ -237,31 +225,14 @@ See figures 4 and 5 for visualisations of latent space and corresponding observe
 Figure 4: Visualisations of learned data manifold for generative models with two-dimensional latent space, learned with AEVB. Since the prior of the latent space is Gaussian, linearly spaced coordinates on the unit square were transformed through the inverse CDF of the Gaussian to produce values of the latent variables z . For each of these values z , we plotted the corresponding generative p θ ( x z | ) with the learned parameters θ .
 
 <!-- image -->
-**Image Description:** In this image there are numbers arranged in a sequence.
+**AI-Generated Image Description:** In the image there are multiple numbers arranged in a grid pattern.
 <!-- end image description -->
 
 
 Figure 5: Random samples from learned generative models of MNIST for different dimensionalities of latent space.
 
 <!-- image -->
-**Image Description:** The image is a table with 10 rows and 10 columns. The table is filled with numbers and letters. The numbers and letters are arranged in a sequential order, starting from the top left and ending at the bottom right. The table is structured in a way that it appears to be a mathematical or computational table.
-
-Here is a detailed description of the table:
-
-```
-| 2-D latent space (a)  | 5-D latent space (b)  | 10-D latent space (c)  |
-| ---- | ---- | ---- | ---- |
-| 2-D latent space (a)  | 5-D latent space (b)  | 10-D latent space (c)  |
-| 2-D latent space (a)  | 5-D latent space (b)  | 10-D latent space (c)  |
-| 2-D latent space (a)  | 5-D latent space (b)  | 10-D latent space (c)  |
-| 2-D latent space (a)  | 5-D latent space (b)  | 10-D latent space (c)  |
-| 2-D latent space (a)  | 5-D latent space (b)  | 10-D latent space (c)  |
-| 2-D latent space (a)  | 5-D latent space (b)  | 10-D latent space (c)  |
-| 2-D latent space (a)  | 5-D latent space (b)  | 10-D latent space (c)  |
-| 2-D latent space (a)  | 5-D latent space (b)  | 10-D latent space (c)  |
-| 2-D latent space (a)  | 5-D latent space (b)  | 10-D latent space (c)  |
-| 2-D latent space (a)  | 5-D latent space (b)  | 10-D latent space (c)  |
-| 2-D latent space (a
+**AI-Generated Image Description:** The image contains a table with 10 rows and 10 columns. The table has a header row with the following columns: (a) 2-D latent space, (b) 5-D latent space, and (c) 10-D latent space. The table is filled with numbers and letters, and there are no images or other visual elements in the table.
 <!-- end image description -->
 
 

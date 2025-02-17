@@ -23,40 +23,46 @@ AI
 dea of india
 
 <!-- image -->
-**Image Description:** In this image we can see a zoomed in picture of a flower.
+**AI-Generated Image Description:** The image contains a zoomed-in picture of a flower. The flower has a circular shape with a central point and radiating out from it. The petals of the flower are a mix of colors, including yellow, orange, and brown. The petals are arranged in a radial pattern, with the central point being the most prominent. The edges of the petals are slightly curled, giving the flower a somewhat organic appearance.
+
+The background of the image is dark, which helps to highlight the flower and its details. The image is set against a dark background, which makes the flower stand out more prominently. The overall composition of the image is symmetrical, with the central flower and its petals forming the shape of a circle.
+
+The text at the top of the image reads "PAGE 04" in large, white letters. The text is in a sans-serif font, which is easy to read against the dark background. The text is centered and placed above the flower, making it the focal point of the image.
+
+The image does not contain any other objects, people, or animals. There are no other elements that could be present in the image, such as a person, a plant, or a different type of flower. The focus is entirely on the central flower and its intricate details.
 <!-- end image description -->
 
 
 Foreword
 
 <!-- image -->
-**Image Description:** In this image we can see a poster with some text and numbers.
+**AI-Generated Image Description:** The image contains a dark background with numerous buildings lit up with bright lights, and the text "PAGE 06" is prominently displayed at the bottom.
 <!-- end image description -->
 
 
 Executive Summary
 
 <!-- image -->
-**Image Description:** In this image I can see a person standing and wearing a cap. I can see the text on the image.
+**AI-Generated Image Description:** The image contains a book cover. The cover prominently displays a person standing in front of a metal structure. The structure appears to be a part of a complex or a laboratory, with numerous glowing, orange-yellow tubes hanging from it. The person is wearing a dark-colored jacket and a hat, and they are looking towards the structure. The background of the image is dark, with a combination of light and shadow, suggesting that the image was taken in a darkened room or environment. The text "PAGE 12" is visible at the bottom of the cover, indicating the page number.
 <!-- end image description -->
 
 
 Chapter 1 Three Steps to the Future
 
 <!-- image -->
-**Image Description:** In this image we can see coins, table, objects and some text.
+**AI-Generated Image Description:** A page with the number 20 on it. There are coins on the table.
 <!-- end image description -->
 
 
 Chapter 2 Rethinking the Enterprise Agenda
 
 <!-- image -->
-**Image Description:** In this image we can see a picture of a road with vehicles on it. We can also see a person standing on the road. We can also see some text on the image.
+**AI-Generated Image Description:** A lot of vehicles on a road with a large number 36 in the bottom right.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a building with pillars and windows. We can also see some lights. We can see the text on the image.
+**AI-Generated Image Description:** A picture of a building with columns and a large window in the background. At the bottom, it says "Page 54" in white letters.
 <!-- end image description -->
 
 
@@ -73,7 +79,7 @@ AI
 dea of india
 
 <!-- image -->
-**Image Description:** In this image I can see a peacock and the background is in white color.
+**AI-Generated Image Description:** In the center of the image is a peacock. The peacock is blue and black. It is standing on a rock. In the background, there are trees. At the bottom, it says "PAGE 42".
 <!-- end image description -->
 
 
@@ -106,17 +112,17 @@ Today, India has the economic and political heft to set the agenda from the ince
 Rajiv Memani Chairman and CEO, EY India
 
 <!-- image -->
-**Image Description:** In this image we can see a person wearing a suit and a tie.
+**AI-Generated Image Description:** In the image there is a person with grey hair wearing a black suit and a white shirt.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color circle.
+**AI-Generated Image Description:** The image contains a circle.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a poster with some text and a logo.
+**AI-Generated Image Description:** The image is a poster with a dark background that features a cityscape with lights and streaks of light. The title of the poster is "Executive Summary" and is in yellow, bold, and large font.
 <!-- end image description -->
 
 
@@ -137,50 +143,36 @@ Machine Learning (ML), the same is not true for Gen AI. Enterprises must be vigi
 In the short term, enterprises will grapple with a shortage of individuals possessing AI skills, a challenge that is expected to persist. Despite India's commendable standing in AI skill penetration and talent concentration, the advent of Gen AI exacerbates this shortage. The widening gap between skills that companies demand and the existing workforce necessitates strategic talent acquisition, particularly for successful initiation and scalable implementation of prioritized use cases. Gen AI implementation demands a diverse skill set within Gen AI Centers of Excellence or Pods, encompassing AI engineering, data science, and expertise in foundation models, LLMs, AI orchestration, prompt engineering, Retrieval Augmented Generation (RAG), fine-tuning and model deployment.
 
 <!-- image -->
-**Image Description:** The image is a diagram showing a series of interconnected nodes and arrows. The nodes are labeled with numbers and the arrows indicate the direction of the flow of information. The nodes are connected by arrows, which point from one node to another.
+**AI-Generated Image Description:** The image depicts a series of interconnected icons and text boxes, each representing different types of digital interfaces. The icons are arranged in a logical and coherent manner, with each interface represented by a distinct icon.
 
-The diagram is divided into three main sections:
+The first icon, located at the top left corner, is labeled "01" and represents a low-friction mode of digital engagement. This interface is characterized by a focus on low friction, which is a key aspect of digital engagement. The icon is simple and straightforward, with a focus on the concept of low friction.
 
-1. **Top Section**:
-   - The top section contains the nodes labeled with numbers:
-     - 01
-     - 02
-     - 03
+The second icon, located at the top right corner, is labeled "02" and represents an AI agent. This interface is characterized by a high level of intelligence and the ability to learn and adapt. The AI agent icon is more complex than the low-friction mode, indicating that it is capable of learning and adapting to new situations.
 
-2. **Middle Section**:
-   - The middle section contains the nodes labeled with numbers:
-     - Low friction modes of digital engagement
-     - Knowledge bases drive unprecedented automation
-     - A new computing paradigm
+The third icon, located at the bottom left corner, is labeled "03" and represents a new computing paradigm. This interface is characterized by a focus on the ability to build and test new systems. The new computing paradigm icon is more complex than the low-friction mode, indicating that it is capable of creating and testing new systems.
 
-3. **Bottom Section**:
-   - The bottom section contains the nodes labeled with numbers:
-     - 01
-     - 02
-     - 03
+The background of the image is a dark, industrial setting, which helps to highlight the icons and their respective meanings. The overall design of the image is clean and professional, with a focus on clarity and readability.
 
-The diagram is visually structured with a blue background and white text. The text is in a clear, sans-serif font, making it easy to read. The arrows are simple and concise, indicating the direction of the flow of information.
+### Analysis and Description
 
-### Analysis and Description:
+The image is a series of icons representing different types of digital interfaces. The icons are arranged in a logical and coherent manner, with each interface represented by a distinct icon. The icons are labeled with their respective meanings, which are as follows:
 
-The diagram is a logical representation of a complex network of interconnected nodes. The nodes are labeled with numbers, which are likely the names of different components or entities. The arrows indicate the direction of information flow, from one node to another.
+- **01**: Low friction mode of digital engagement.
+- **02**: AI agent.
+- **03**: New computing paradigm.
 
-The nodes are connected by arrows, which point from one node to another. The arrows are simple and concise, indicating the direction of information flow.
+The icons are used to represent different types of digital interfaces, each with its own unique purpose and function. The low-friction mode of digital engagement is characterized by a focus on low friction, which is a key aspect of digital engagement. The AI agent is characterized by a high level of intelligence and the ability to learn and adapt to new situations. The new computing paradigm is characterized by a focus on the ability to build and test new systems.
 
-The diagram is structured in a logical and coherent manner, with each node representing a different aspect of the network. The nodes are connected by arrows, which point from one node to another. The arrows are simple and concise, indicating the direction of information flow.
+### Conclusion
 
-### Relevant Knowledge:
-
-- **Low friction modes of digital engagement**: These nodes are likely to be used in areas where low friction is a key factor in user engagement. For example, in digital engagement, low friction means that users can easily navigate through content and engage with the content in a way that is easy to understand and navigate.
-- **Knowledge bases drive unprecedented automation**: These nodes are likely to be used in areas where knowledge bases drive unprecedented automation. Knowledge bases are critical for enabling automation in digital engagement, as they provide a foundation for understanding and applying knowledge to solve problems.
-- **A new computing paradigm**: These nodes are likely to be used in areas where new computing paradigms are being
+The image is a clear and logical representation of different types of digital interfaces. The icons are used to
 <!-- end image description -->
 
 
 Amidst rapid evolution of Gen AI across various dimensions, it is by no means certain what specific path this ecosystem will take going forward. Despite this uncertainty, specific trends are emerging - cognitive interfaces are reshaping the application landscape, AI agents are transforming the nature of work, and a new general computing paradigm is emerging, signifying a fundamental shift in computational processes and capabilities.
 
 <!-- image -->
-**Image Description:** In this image we can see a building with pillars and lights.
+**AI-Generated Image Description:** In the image we can see a building and there are balls around it.
 <!-- end image description -->
 
 
@@ -209,7 +201,7 @@ Besides data, the government could ensure access to critical digital infrastruct
 ## The agenda for enterprises
 
 <!-- image -->
-**Image Description:** In this image there is a black background with some text and images.
+**AI-Generated Image Description:** In this image, there is a diagram with some text and an icon.
 <!-- end image description -->
 
 
@@ -218,42 +210,54 @@ The agenda for enterprises is clearly cut out. In the face of imminent digital t
 ## Sector-wise impact of Gen AI on GVA (2029-30)
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "New addition to 2029 - GVA due to Gen-AI." The chart is divided into five different categories: Business Services, Financial Services, Retail, Post and Telecommunication, and Media. Each category is represented by a different color and a scale of range from 0 to 100.
+**AI-Generated Image Description:** The image is a diagrammatic representation of various economic sectors and their respective values on a linear scale of range 0 to 120. The diagram is divided into five quadrants, each representing a different sector. The sectors are:
 
-### Categories:
-1. **Business Services:**
-   - **10%:** This category represents the most significant impact of the new addition to 2029.
-   - **20%:** This category represents the second-most significant impact.
-   - **15%:** This category represents the third-most significant impact.
-   - **10%:** This category represents the fourth-most significant impact.
-   - **5%:** This category represents the fifth-most significant impact.
+1. **Business Services**
+   - **Scale**: 100 billion
+   - **Value**: $100 billion
+   - **Impact**: $10 billion
+   - **Impact on GVA**: $10 billion
 
-2. **Financial Services:**
-   - **10%:** This category represents the second-most significant impact.
-   - **20%:** This category represents the third-most significant impact.
-   - **15%:** This category represents the fourth-most significant impact.
-   - **10%:** This category represents the fifth-most significant impact.
+2. **Financial Services**
+   - **Scale**: 100 billion
+   - **Value**: $100 billion
+   - **Impact**: $10 billion
+   - **Impact on GVA**: $10 billion
 
-3. **Retail:**
-   - **10%:** This category represents the second-most significant impact.
-   - **20%:** This category represents the third-most significant impact.
-   - **15%:** This category represents the fourth-most significant impact.
-   - **10%:** This category represents the fifth-most significant impact.
+3. **Health and Social Work**
+   - **Scale**: 100 billion
+   - **Value**: $100 billion
+   - **Impact**: $10 billion
+   - **Impact on GVA**: $10 billion
 
-4. **Post and Telecommunication:**
-   - **10%:** This category represents the second-most significant impact.
-   - **20%:** This category represents the third-most significant impact.
-   - **15%:** This category represents the fourth-most significant impact.
-   - **10%:** This category represents the fifth-most significant impact.
+4. **Media**
+   - **Scale**: 100 billion
+   - **Value**: $100 billion
+   - **Impact**: $10 billion
+   - **Impact on GVA**: $10 billion
 
-5. **Media:**
-   - **10%:** This category represents the second-most significant impact.
-   - **20%:** This category represents the third-most significant impact.
-   - **15%:** This category represents the fourth-most significant impact.
-   - **10%:** This category represents the fifth-most significant impact.
+5. **Healthcare**
+   - **Scale**: 100 billion
+   - **Value**: $100 billion
+   - **Impact**: $10 billion
+   - **Impact on GVA**: $10 billion
 
-### Analysis:
-The chart visually represents the impact of the new addition to 2029 on
+The diagram is visually represented with a blue background and a white grid, which helps in making the data points easily readable. The scale of the diagram is labeled with a black circle, indicating that the values are in US dollars.
+
+### Analysis and Description:
+
+The diagram provides a clear visual representation of the various economic sectors and their respective values. The sectors are categorized into five quadrants based on their value:
+
+- **Business Services** (100 billion)
+- **Financial Services** (100 billion)
+- **Health and Social Work** (100 billion)
+- **Media** (100 billion)
+- **Healthcare** (100 billion)
+
+### Relevant Knowledge:
+
+- **Business Services** (100 billion) is the largest sector, accounting for 50% of the total value.
+- **Financial Services** (100 billion) is the second largest sector, accounting for 50% of the total value
 <!-- end image description -->
 
 
@@ -266,42 +270,42 @@ The approach will have to facilitate innovation while managing potential risks. 
 ## An agenda for the government
 
 <!-- image -->
-**Image Description:** In this image, we can see a yellow shape.
+**AI-Generated Image Description:** The image contains an object that appears to be a hexagon. The hexagon is colored in yellow.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In the center of the image there is a yellow shape.
+**AI-Generated Image Description:** If the image contains a hexagon, then the image is a hexagon.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see an object.
+**AI-Generated Image Description:** The image depicts an object that appears to be a geometric shape. The shape is a hexagon, which is a four-sided polygon with six equal sides. The color of the hexagon is yellow, and the outline is a solid gray color. The hexagon is enclosed in a solid gray background, which makes it stand out clearly.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see an object.
+**AI-Generated Image Description:** The word "hexagon" is present in the image.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image, we can see an object.
+**AI-Generated Image Description:** A yellow shape.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a logo.
+**AI-Generated Image Description:** The image contains a geometric shape. The shape is an octagon, which is a four-sided polygon with six equal sides. The color of the shape is yellow, and the outline is a solid color. The shape is enclosed within a solid gray line.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** The image consists of a geometric shape. It is a yellow hexagon.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** In the image there is a yellow shape.
 <!-- end image description -->
 
 
@@ -324,139 +328,176 @@ We conducted an in-depth Gen AI survey covering ~200 C-suite executives across I
 Three in five respondents see Gen AI having a significant impact on their business
 
 <!-- image -->
-**Image Description:** The image depicts three circles, each representing a different type of data. The circles are arranged in a horizontal line, with the top circle being green and the bottom circle being red. The colors of the circles are distinct:
+**AI-Generated Image Description:** The image shows three circles, each with a different percentage. The circles are labeled "High," "Medium," and "Low." The percentages are 56%, 26%, and 18%, respectively. The circles are arranged in a circle, with the "High" circle on the left and the "Low" circle on the right.
 
-- The green circle represents "High" data, which is represented by a percentage of 56%.
-- The red circle represents "Medium" data, represented by a percentage of 26%.
-- The orange circle represents "Low" data, represented by a percentage of 18%.
+The "High" circle is the largest and is located on the left side of the image. It has a green circle with a diameter of 100% and a color of gray. The percentage of the "High" circle is 56%.
 
-The circles are arranged in a horizontal line, with the top circle being green and the bottom circle being red. The colors of the circles are distinct:
+The "Medium" circle is the second largest and is located on the right side of the image. It has a green circle with a diameter of 100% and a color of gray. The percentage of the "Medium" circle is 26%.
 
-- The green circle represents "High" data, which is represented by a percentage of 56%.
-- The red circle represents "Medium" data, represented by a percentage of 26%.
-- The orange circle represents "Low" data, represented by a percentage of 18%.
+The "Low" circle is the smallest and is located on the left side of the image. It has a green circle with a diameter of 100% and a color of gray. The percentage of the "Low" circle is 18%.
 
-The background of the image is white, and there are no other objects or elements present. The circles are not interacting with each other, and there are no other visual cues or patterns present.
+The circles are arranged in a circle, with the "High" circle on the left and the "Low" circle on the right.
 
-### Analysis and Description
+The circles are all circular, with a diameter of 100%. The circles are evenly spaced, with no gaps between them.
 
-The image is a simple, straightforward representation of data, likely used for educational purposes or for data visualization purposes. The use of colors and percentages helps to clearly differentiate between different types of data.
+The circles are not filled with any objects, such as text, images, or other shapes. The circles are not touching each other, and there are no other objects in the image.
 
-- **High Data**: Represented by a green circle, this data represents the highest percentage of data.
-- **Medium Data**: Represented by a red circle, this data represents the middle percentage of data.
-- **Low Data**: Represented by an orange circle, this data represents the lowest percentage of data.
+### Analysis
 
-### Chain of Thought (CoT) Analysis
+The image is a simple, circular arrangement of three circles, each with a different percentage of the number 56%. The circles are arranged in a circle, with the "High" circle on the left and the "Low" circle on the right. The percentages are 56%, 26%, and 18%.
 
-- **Identify the data type**: The green circle represents "High" data, which is the highest percentage of data.
-- **Identify the data type**: The red circle represents "Medium" data, which is the middle percentage of data.
-- **Identify the data type**: The orange circle represents "Low" data, which is the lowest percentage of data.
+### Relevant Knowledge
 
-### Conclusion
+- **High**: The "High" circle is the largest and is located on the left side of the image.
+- **Medium**: The "Medium" circle is the second largest and is located on the right side of the image.
+- **Low**: The "Low" circle is the smallest and is located on the left side of the image.
 
-The image is a simple, straightforward representation of data, likely used for educational purposes or for data visualization purposes. The use of colors and percentages helps to clearly differentiate between different data types, making it easy to identify and understand the data.
+### Chain of Thought (CoT)
 <!-- end image description -->
 
 
 Skills gap and unclear use cases are two of the biggest challenges that organizations currently face
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Skills gap." The chart compares the percentage of people who use skills in different areas. The x-axis represents the skills, while the y-axis lists the areas of use. The chart shows that there are two categories of skills: "Skills gap" and "Skills in Use Cases."
-
-### Description of the Chart:
-- **Skills Gap** is represented by a horizontal bar chart.
-- **Skills in Use Cases** is represented by a vertical bar chart.
-- The x-axis lists the skills, while the y-axis lists the areas of use.
-- The chart shows that there are two categories of skills: "Skills gap" and "Skills in Use Cases."
-- The "Skills gap" category has a higher percentage of people using skills in the areas of "Skills in Use Cases."
-- The "Skills in Use Cases" category has a lower percentage of people using skills in the areas of "Skills in Use Cases."
-- The "Skills gap" category has a higher percentage of people using skills in the areas of "Skills in Use Cases."
-- The "Skills in Use Cases" category has a lower percentage of people using skills in the areas of "Skills in Use Cases."
-- The "Skills gap" category has a higher percentage of people using skills in the areas of "Skills in Use Cases."
-- The "Skills in Use Cases" category has a lower percentage of people using skills in the areas of "Skills in Use Cases."
-- The "Skills gap" category has a higher percentage of people using skills in the areas of "Skills in Use Cases."
-- The "Skills in Use Cases" category has a lower percentage of people using skills in the areas of "Skills in Use Cases."
-- The "Skills gap" category has a higher percentage of people using skills in the areas of "Skills in Use Cases."
-- The "Skills in Use Cases" category has a lower percentage of people using skills in the areas of "Skills in Use Cases."
-- The "Skills in Use Cases" category has a higher percentage of people using skills in the areas of "Skills in Use Cases."
-- The "Skills in Use Cases" category has a lower percentage of people using skills in the areas of "
+**AI-Generated Image Description:** The image shows a bar chart titled "Skills gap." The x-axis represents the "Skills gap" while the y-axis represents the "Skills." The chart compares the percentage of people with different skills in the "Skills gap" to the percentage of people with the same skills in the "Inadequate Use Cases" category. The chart shows that the "Skills gap" has a higher percentage of people with the "Inadequate Use Cases" category compared to the "Skills gap" category.
 <!-- end image description -->
 
 
 Three-fourth of the respondents indicate a low to moderate level of readiness in benefiting from Gen AI
 
 <!-- image -->
-**Image Description:** In this image we can see a chess board and a person wearing a suit.
+**AI-Generated Image Description:** The image is a circular diagram that represents a chess board. The board is divided into four quadrants, each representing a different color: High, Medium, Low, and Low. The colors are arranged in a clockwise direction, starting from the top left quadrant and moving clockwise clockwise.
+
+- The top-left quadrant is red, representing High.
+- The top-right quadrant is medium, representing Medium.
+- The bottom-left quadrant is low, representing Low.
+- The bottom-right quadrant is low, representing Low.
+
+The chess board is divided into four rows and four columns. Each row represents a different color, and each column represents a different quadrant. The colors are arranged in a clockwise order, starting from the top left quadrant and moving clockwise clockwise.
+
+- The top-left quadrant is red, representing High.
+- The top-right quadrant is medium, representing Medium.
+- The bottom-left quadrant is low, representing Low.
+- The bottom-right quadrant is low, representing Low.
+
+The diagram is circular, with the center of the board being the center of the circle. The colors are evenly distributed around the center, with no gaps or overlaps.
+
+- The image does not contain any text, numbers, or other visual elements.
+- There are no objects or people in the image, which keeps the focus on the chess board and its colors.
+
+### Analysis and Description
+
+The image is a circular diagram representing a chess board. The colors used are red, medium, low, and low. The colors are arranged in a clockwise order, starting from the top left quadrant and moving clockwise clockwise. The top-left quadrant is red, the top-right quadrant is medium, the bottom-left quadrant is low, and the bottom-right quadrant is low.
+
+- The top-left quadrant is red, representing High.
+- The top-right quadrant is medium, representing Medium.
+- The bottom-left quadrant is low, representing Low.
+- The bottom-right quadrant is low, representing Low.
+
+The chess board is divided into four rows and four columns. Each row represents a different color, and each column represents a different quadrant. The colors are evenly distributed around the center, with no gaps or overlaps.
+
+- The top-left quadrant is red, representing High.
+- The top-right quadrant is medium, representing Medium.
+- The
 <!-- end image description -->
 
 
 Customer experience is the single most important facet that Gen AI is expected to impact
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Customer Experience." The chart compares the percentage of customers who have visited a particular company, with the x-axis representing the number of customers and the y-axis representing the percentage of customers. The chart is divided into four categories: "Customer," "Driving," "Innovation," and "Acceleration."
+**AI-Generated Image Description:** The image depicts a bar chart with six categories, each represented by a different color. The categories are: "Customer," "Driving," "Innovation," "Cost," "Reduction," and "Acceleration." The x-axis represents the categories, while the y-axis represents the percentage value.
 
-### Description of the Chart:
-- **Customer**: The chart shows the percentage of customers who have visited a particular company. The x-axis represents the number of customers, while the y-axis represents the percentage of customers.
-- **Driving**: The chart shows the percentage of customers who have visited a particular company. The x-axis represents the number of customers, while the y-axis represents the percentage of customers.
-- **Innovation**: The chart shows the percentage of customers who have visited a particular company. The x-axis represents the number of customers, while the y-axis represents the percentage of customers.
-- **Acceleration**: The chart shows the percentage of customers who have visited a particular company. The x-axis represents the number of customers, while the y-axis represents the percentage of customers.
+### Description of the Bar Chart:
+- **Customer**: The bar for "Customer" is blue.
+- **Driving**: The bar for "Driving" is blue.
+- **Innovation**: The bar for "Innovation" is blue.
+- **Cost**: The bar for "Cost" is blue.
+- **Reduction**: The bar for "Reduction" is blue.
+- **Acceleration**: The bar for "Acceleration" is blue.
+- **Others**: The bar for "Others" is blue.
 
 ### Analysis:
-- **Customer**: The chart shows that 75% of customers have visited a particular company. This indicates that the company is highly-rated or highly-attached to its customers.
-- **Driving**: The chart shows that 68% of customers have visited a particular company. This suggests that the company is highly-attached to its customers.
-- **Innovation**: The chart shows that 51% of customers have visited a particular company. This indicates that the company is highly-attached to its innovative products or services.
-- **Acceleration**: The chart shows that 40% of customers have visited a particular company. This indicates that the company is highly-attached to its acceleration efforts.
+- **Customer**: The "Customer" category has the highest percentage value, at 75%.
+- **Driving**: The "Driving" category has the highest percentage value, at 68%.
+- **Innovation**: The "Innovation" category has the highest percentage value, at 68%.
+- **Cost**: The "Cost" category has the highest percentage value, at 51%.
+- **Reduction**: The "Reduction" category has the highest percentage value, at 40%.
+- **Acceleration**: The "Acceleration" category has the highest percentage value, at 14%.
+- **Others**: The "Others" category has the lowest percentage value, at 1/4.
 
 ### Conclusion:
-The chart provides a clear comparison of the customer experience of different companies. The chart shows that the company with the highest percentage of customers is highly-attached to its customers, with 75% of customers having visited the company. The company with the lowest percentage of customers is highly-attached to its customers, with 40% of customers having visited the company. This indicates that the company with the highest customer experience is highly-attached to its customers
+The bar chart effectively communicates the distribution of values across the six categories. The "Customer" category has the highest percentage value, followed by "Driving" and "Innovation." The "Others" category has the lowest percentage value, indicating that the "Others" category has the least value among the six categories. This chart provides a clear visual representation of the distribution of values across the six categories, which can be useful for understanding the relative importance of each category in the overall market.
 <!-- end image description -->
 
 
 Organizations see data privacy as the single most important risk of Gen AI
 
 <!-- image -->
-**Image Description:** In this image we can see a chart. On the chart we can see the numbers.
+**AI-Generated Image Description:** The image depicts a horizontal bar chart with two vertical bars. The horizontal bar on the left side represents "Data privacy" and the vertical bar on the right side represents "Other." The horizontal bar on the left side is colored dark green, while the vertical bar on the right side is colored teal. The bars are labeled "Data privacy" and "Other," respectively.
+
+The horizontal bar on the left side is colored dark green, while the vertical bar on the right side is colored teal. The bars are labeled "Data privacy" and "Other," respectively.
+
+The horizontal bar on the left side is colored dark green, while the vertical bar on the right side is colored teal. The bars are labeled "Data privacy" and "Other," respectively.
+
+The horizontal bar on the left side is colored dark green, while the vertical bar on the right side is colored teal. The bars are labeled "Data privacy" and "Other," respectively.
+
+The horizontal bar on the left side is colored dark green, while the vertical bar on the right side is colored teal. The bars are labeled "Data privacy" and "Other," respectively.
+
+The horizontal bar on the left side is colored dark green, while the vertical bar on the right side is colored teal. The bars are labeled "Data privacy" and "Other," respectively.
+
+The horizontal bar on the left side is colored dark green, while the vertical bar on the right side is colored teal. The bars are labeled "Data privacy" and "Other," respectively.
+
+The horizontal bar on the left side is colored dark green, while the vertical bar on the right side is colored teal. The bars are labeled "Data privacy" and "Other," respectively.
+
+The horizontal bar on the left side is colored dark green, while the vertical bar on the right side is colored teal. The bars are labeled "Data privacy" and "Other," respectively.
+
+The horizontal bar on the left side is colored dark green, while the vertical bar on the right side is colored teal. The bars are labeled "Data privacy" and "Other," respectively.
+
+The horizontal bar on the left side is colored dark green, while the vertical bar on the right side is colored teal. The bars are labeled "Data privacy" and "Other," respectively.
+
+The horizontal bar on the left side is colored dark green, while
 <!-- end image description -->
 
 
 The preferred mode for Gen AI implementation is by partnering with external tech providers
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Partner with Technical Services." The chart is divided into three distinct categories: "Partner with Technical Services," "Developers," and "Strategic Associates." Each category is represented by a different color, with the "Partner with Technical Services" category being colored purple, the "Developers" category being colored blue, and the "Strategic Associates" category being colored white.
+**AI-Generated Image Description:** The image depicts a bar chart that visually represents the distribution of different companies in a company called "Partner with Technology." The chart is divided into two main categories: "Partner with" and "Partner with." 
 
 ### Description of the Bar Chart:
-- **Purple Bar**: The "Partner with Technical Services" category is represented by a purple bar.
-- **Blue Bar**: The "Developers" category is represented by a blue bar.
-- **White Bar**: The "Strategic Associates" category is represented by a white bar.
-
-### Analysis:
-- **Purple Bar**: The "Partner with Technical Services" category is represented by a purple bar.
-- **Blue Bar**: The "Developers" category is represented by a blue bar.
-- **White Bar**: The "Strategic Associates" category is represented by a white bar.
-
-### Additional Observations:
-- **Purple Bar**: The "Partner with Technical Services" category is represented by a purple bar.
-- **Blue Bar**: The "Developers" category is represented by a blue bar.
-- **White Bar**: The "Strategic Associates" category is represented by a white bar.
-
-### Conclusion:
-The bar chart provides a clear visual representation of the different types of services provided by the "Partner with Technical Services" category. The "Developers" category is represented by a blue bar, indicating that the services provided by this category are likely to be related to the development of technical services. The "Strategic Associates" category is represented by a white bar, suggesting that the services provided by this category are likely to be related to the strategic aspects of the services.
-
-### Chain of Thought (CoT) Analysis:
-1. **Identifying the Categories**: The chart categorizes the services into two main groups: "Partner with Technical Services" and "Developers."
-2. **Understanding the Bar Heights**: The "Partner with Technical Services" category has a purple bar, indicating that it is the most common category.
-3. **Understanding the Bar Heights**: The "Developers" category has a blue bar, indicating that it is the second most common category.
-4. **
+- **Title**: "Partner with Technology"
+- **X-Axis**: Labeled as "Partner with" and ranges from 73% to 57%.
+- **Y-Axis**: Labeled as "Partner with" and ranges from 57% to 7%.
+- **Data Points**:
+  - **Partner with Technology**: The bar extends from 73% to 57%.
+  - **Partner with Technology**: The bar extends from 57% to 7%.
+  - **Partner with Technology**: The bar extends from 7% to 8%.
+  - **Partner with Technology**: The bar extends from 8% to 9%.
+  - **Partner with Technology**: The bar extends from 9% to 10%.
+  - **Partner with Technology**: The bar extends from 10% to 11%.
+  - **Partner with Technology**: The bar extends from 11% to 12%.
+  - **Partner with Technology**: The bar extends from 12% to 13%.
+  - **Partner with Technology**: The bar extends from 13% to 14%.
+  - **Partner with Technology**: The bar extends from 14% to 15%.
+  - **Partner with Technology**: The bar extends from 15% to 16%.
+  - **Partner with Technology**: The bar extends from 16% to 17%.
+  - **Partner with Technology**: The bar extends from 17% to 18%.
+  - **Partner with Technology**: The bar extends from 18% to 19%.
+  - **Partner with Technology**: The bar extends from 19% to 20%.
+  - **Partner with Technology**: The bar extends from 20% to 21%.
+  - **Partner with Technology**: The bar extends from 21% to 22%.
+  - **Partner with Technology**: The bar extends from 22% to 23%.
+  - **Partner
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image there is a yellow color circle.
+**AI-Generated Image Description:** The image consists of a bright yellow circle.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image is a circle. It is a bright yellow color.
+**AI-Generated Image Description:** The image contains a single yellow circle.
 <!-- end image description -->
 
 
@@ -469,17 +510,17 @@ Chapter 1
 ## Three Steps to the Future
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** A yellow geometric shape.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** A yellow shape is in the foreground of the image.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** A.
 <!-- end image description -->
 
 
@@ -504,7 +545,14 @@ However, there are still many open questions regarding the seeming omnipotence a
 ## A short history of the world since ChatGPT
 
 <!-- image -->
-**Image Description:** In this image we can see a table with some data.
+**AI-Generated Image Description:** The image shows a timeline of different events and projects. The timeline is divided into two columns: "Projects" and "Year." The "Projects" column lists the dates from February 2023 to December 2023, and the "Year" column lists the years from 2023 to 2023. Each row in the "Projects" column corresponds to a specific project or event.
+
+The "Projects" column lists the following events:
+1. Google launches Google's Google Apps
+2. Microsoft launches Bing Chat
+3. Databrics buys Mosaic for SUS1.3
+4. Metacom buys Falcon 40B model
+5. Google launches Gemini AI - multi-modal Foundation Model
 <!-- end image description -->
 
 
@@ -513,14 +561,14 @@ foundation models are a necessary but not sufficient step forward.
 There is no doubt that many more fundamental advances are needed till we can claim to achieve anything close to human-level intelligence. But the pace of innovation is rapid and the potential, even with the rudimentary tools in front of us, is immense. There is little doubt that we are at the precipice of fundamental change in how we use technology in our lives.
 
 <!-- image -->
-**Image Description:** A yellow quotation is shown.
+**AI-Generated Image Description:** 66
 <!-- end image description -->
 
 
 The future is already here - it's just not evenly distributed.
 
 <!-- image -->
-**Image Description:** Quotes
+**AI-Generated Image Description:** The question mark.
 <!-- end image description -->
 
 
@@ -535,32 +583,7 @@ interfaces will enable a whole new level of customer intimacy and challenge the 
 ## A firehose of innovation
 
 <!-- image -->
-**Image Description:** The image is a square-shaped graphic with a yellow border. The graphic is made up of a single, continuous line that stretches across the image. The line is black and the background is white. The color of the line is bright yellow, which stands out against the white background.
-
-### Description of the Graphic:
-1. **Shape and Structure**: The graphic is a square shape.
-2. **Color and Design**: The color of the line is bright yellow, which stands out against the white background.
-3. **Text and Texture**: The text is black and placed on the right side of the graphic. The text is in a sans-serif font, which is bold and easy to read.
-4. **Background**: The background is white, which makes the yellow line stand out.
-5. **Design Elements**: The graphic is simple and straightforward, with no additional decorative elements.
-
-### Analysis:
-The image is a simple yet effective graphic that uses a single, continuous line to create a visually striking and modern design. The use of a bright yellow line against a white background makes the graphic stand out and draws attention to the text. The black text on the right side of the graphic is bold and easy to read, making it stand out against the white background.
-
-### Answer to Potential Questions:
-1. **What is the primary color of the graphic?**
-   The primary color of the graphic is bright yellow.
-
-2. **What is the primary color of the background?**
-   The primary color of the background is white.
-
-3. **What is the primary text in the graphic?**
-   The primary text in the graphic is black and placed on the right side.
-
-4. **What is the primary color of the background?**
-   The primary color of the background is white.
-
-By analyzing the image, we can infer that the primary color is bright yellow, which stands out against the white background, making the graphic visually appealing and easy to read. The use of a single, continuous line against a white background is effective in creating a modern and clean design.
+**AI-Generated Image Description:** The image consists of a square-shaped text box. The text box is yellow and has a solid yellow border. The text inside the box is black and has a bold, sans-serif font.
 <!-- end image description -->
 
 
@@ -569,7 +592,7 @@ The pace of innovation over the last few quarters has been stunning. Every day w
 There has been a significant advancement in the capabilities of foundation models. Today we take the basic capabilities of foundation models for granted. These include conversations with long running context on abstract topics, summarizing web search results, condensing text and even querying structured datastores. We think it natural to point chat bots at PDF documents, websites and
 
 <!-- image -->
-**Image Description:** In this image we can see a tower with lights. In the background there are mountains and the sky is in dark color.
+**AI-Generated Image Description:** In the image we can see a tower with lights and in the background there are mountains and the sky is dark.
 <!-- end image description -->
 
 
@@ -590,14 +613,14 @@ digital interfaces - imagine smart glasses that can see what you see by feeding 
 Open source models are available for commercial use; they can be downloaded and used. This is distinct from the application programming interface (API) model initiated by Open AI. Companies can download and fine tune open source models for specific purposes. In fact, this is a key trigger for specialized industry or even company specific foundation models. They have improved significantly in performance over the last few months.
 
 <!-- image -->
-**Image Description:** A yellow quotation is shown.
+**AI-Generated Image Description:** 66
 <!-- end image description -->
 
 
 Creativity is intelligence having fun.
 
 <!-- image -->
-**Image Description:** Quotes
+**AI-Generated Image Description:** Quotes are two curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved, curved,
 <!-- end image description -->
 
 
@@ -630,42 +653,12 @@ AI is no longer a preserve of large companies with terabytes of data and access 
 Google is aiming to make Bard the personal assistant on your phone, handling tasks like planning a trip, sending texts, searching messages, etc. and is available through your workspace. Pixel phones with AI allow image editing to completely alter entire photos. Meta is adding Gen AI into its ad platform to help brands manage their creative campaigns - from editing images of products to writing copy. Microsoft is adding co-pilots into all its offerings - Bing, Edge, Windows and Azure. This allows image editing in all photo apps, chat with documents, assistants across all assets, and write emails like you. Google has Duet - an LLM-powered chatbot inside Google Cloud. Amazon Bedrock helps companies fine tune their own models. It has invested in Anthropic and made its powerful LLMs, including Claude and Claude 2, available on AWS.
 
 <!-- image -->
-**Image Description:** In this image we can see a table on which there are many glasses, bottles, and other objects. In the background there are many objects and we can see a laptop, a bowl, a table and a few other objects.
+**AI-Generated Image Description:** In the image we can see there are many glass objects and there is a table in front of the table there is a laptop and there is a bowl and there are many objects on the table.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image is a graphical representation of a series of interconnected nodes and edges. The nodes and edges are connected by lines, and the background is a dark blue color. The image is divided into three main sections:
-
-1. **Top Section**:
-   - The top section contains a large yellow box with the text "Cognitive Interfaces" in white font.
-   - Below the text, there is a smaller yellow box with the text "Low Frictionmodes" in white font.
-   - The bottom left corner of the image contains a blue box with the text "Al agents" in white font.
-   - The bottom right corner of the image contains a yellow box with the text "A new computing paradigm" in white font.
-
-2. **Middle Section**:
-   - The middle section contains a large yellow box with the text "Cognitive Interfaces" in white font.
-   - Below the text, there is a smaller yellow box with the text "Low Frictionmodes" in white font.
-   - The bottom left corner of the image contains a blue box with the text "Al agents" in white font.
-   - The bottom right corner of the image contains a yellow box with the text "A new computing paradigm" in white font.
-
-3. **Bottom Section**:
-   - The bottom section contains a large yellow box with the text "Knowledge bases drive unprecedented automation" in white font.
-   - Below the text, there is a blue box with the text "A new way to build tech" in white font.
-
-### Analysis and Description:
-
-The image is a graphical representation of a series of interconnected nodes and edges. The nodes and edges are connected by lines, and the background is a dark blue color. The image is divided into three main sections:
-
-- The top section contains a large yellow box with the text "Cognitive Interfaces" in white font.
-- Below the text, there is a smaller yellow box with the text "Low Frictionmodes" in white font.
-- The bottom left corner of the image contains a blue box with the text "Al agents" in white font.
-- The bottom right corner of the image contains a yellow box with the text "A new computing paradigm" in white font.
-
-### Relevant Knowledge:
-
-- **Cognitive Interfaces**: These are interfaces that allow users to interact with digital systems. They are often used in fields such as healthcare, education, and business.
-- **
+**AI-Generated Image Description:** In this image there is a logo and text.
 <!-- end image description -->
 
 
@@ -710,17 +703,17 @@ Humans are innately creative. We constantly reimagine and shape our world using 
 Yet, ironically, many of us struggle with creativity in several aspects of our life. Writing and visual
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color circle.
+**AI-Generated Image Description:** The image contains a single yellow circle.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image there is a yellow color circle.
+**AI-Generated Image Description:** The image is a circle.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image is a circle. It is a bright yellow color.
+**AI-Generated Image Description:** The image contains a single yellow circle.
 <!-- end image description -->
 
 
@@ -731,7 +724,7 @@ Now imagine these tools enabled at scale in an enterprise. A relationship manage
 Here hallucination is a feature, not a bug. Generative technologies will unleash innovation at an unprecedented scale.
 
 <!-- image -->
-**Image Description:** In this image, we can see a picture of a person.
+**AI-Generated Image Description:** In the image there is a squiggly line.
 <!-- end image description -->
 
 
@@ -740,7 +733,7 @@ Here hallucination is a feature, not a bug. Generative technologies will unleash
 Foundation models are not apps by themselves. They are foundational components of the next generation of application architecture. Gen AI will fundamentally transform our approach to building apps. The front end moves from mobile apps to conversational interfaces. A significant part of the functionality of business rule engines will move to knowledge bases and vector stores. Process logic will be orchestrated via agent frameworks that integrate intelligent front ends with knowledge bases and enterprise applications. Integrations are accomplished via plug in architecture linked to foundation models. As we rethink our data architecture and move to more elegant data fabric- oriented architectures, we will need to integrate this with foundation models. This entire architecture will make use of fit-for-purpose cloud platforms which will increasingly be specialized to industries and functions. And then Gen AI also speeds up software coding by converting natural language instructions to complex code. This helps significant reduction in cost of digital apps and increase in velocity of new build &amp; innovation.
 
 <!-- image -->
-**Image Description:** The image is a circular yellow color. The color is bright and has a smooth, glossy texture. The entire image is a perfect circle, with no visible shadows or highlights. The color is bright and vibrant, making it stand out against the white background.
+**AI-Generated Image Description:** The image contains a bright yellow circle.
 <!-- end image description -->
 
 
@@ -759,17 +752,17 @@ Agenda
 ## Rethinking the Enterprise Agenda
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** In the image there is a yellow geometric shape.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image, we can see a yellow color object.
+**AI-Generated Image Description:** The image contains a yellow and gray geometric shape.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image, we can see a yellow color object.
+**AI-Generated Image Description:** A yellow geometric shape is shown in the image.
 <!-- end image description -->
 
 
@@ -795,73 +788,12 @@ CEOs globally recognize the potential of AI, but most are encountering significa
 ## Key survey highlights
 
 <!-- image -->
-**Image Description:** The image consists of a globe. The globe is in the center of the image. The globe is in the color yellow. The background of the globe is in the color dark blue.
+**AI-Generated Image Description:** The image shows a globe that is mostly dark with only the yellow and blue continents visible. The globe is positioned against a dark background, which makes the yellow and blue continents stand out prominently.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image is a map of South America. The map is colored in a gradient of yellow and dark blue, with the yellow color being the darkest shade and the dark blue the lightest shade. The map includes several countries, each colored in a different color. The countries are outlined in black, and the colors of the countries are as follows:
-
-- **South America**: Dark blue
-- **Argentina**: Yellow
-- **Ecuador**: Yellow
-- **Bolivia**: Yellow
-- **Peru**: Yellow
-- **Chile**: Yellow
-- **Brazil**: Yellow
-- **Argentina**: Yellow
-- **Ecuador**: Yellow
-- **Chile**: Yellow
-- **Peru**: Yellow
-- **Bolivia**: Yellow
-- **Argentina**: Yellow
-- **Ecuador**: Yellow
-- **Chile**: Yellow
-- **Peru**: Yellow
-- **Bolivia**: Yellow
-- **Argentina**: Yellow
-- **Ecuador**: Yellow
-- **Chile**: Yellow
-- **Peru**: Yellow
-- **Bolivia**: Yellow
-- **Argentina**: Yellow
-- **Ecuador**: Yellow
-- **Chile**: Yellow
-- **Peru**: Yellow
-- **Bolivia**: Yellow
-- **Argentina**: Yellow
-- **Ecuador**: Yellow
-- **Chile**: Yellow
-- **Peru**: Yellow
-- **Bolivia**: Yellow
-- **Argentina**: Yellow
-- **Ecuador**: Yellow
-- **Chile**: Yellow
-- **Peru**: Yellow
-- **Bolivia**: Yellow
-- **Argentina**: Yellow
-- **Ecuador**: Yellow
-- **Chile**: Yellow
-- **Peru**: Yellow
-- **Bolivia**: Yellow
-- **Argentina**: Yellow
-- **Ecuador**: Yellow
-- **Chile**: Yellow
-- **Peru**: Yellow
-- **Bolivia**: Yellow
-- **Argentina**: Yellow
-- **Ecuador**: Yellow
-- **Chile**: Yellow
-- **Peru**: Yellow
-- **Bolivia**: Yellow
-- **Argentina**: Yellow
-- **Ecuador**: Yellow
-- **Chile**: Yellow
-- **Peru**: Yellow
-- **Bolivia**: Yellow
-- **Argentina**: Yellow
-- **Ecuador**: Yellow
-- **Chile
+**AI-Generated Image Description:** The image consists of a map of South America. The map is colored in yellow and features the country of Venezuela.
 <!-- end image description -->
 
 
@@ -892,7 +824,34 @@ As we look to address these questions, we lay out a comprehensive enterprise tra
 ## The agenda for enterprises
 
 <!-- image -->
-**Image Description:** In this image, we can see a diagram with some text.
+**AI-Generated Image Description:** The image is a slide from a presentation titled "Reimagining digital-AI first". It is divided into four main sections, each with a different action or goal. The slide is written in a professional and structured manner, with a dark background and yellow text.
+
+### Action Steps:
+
+1. **Reimagining digital-AI first**:
+   - **Icon**: A yellow hexagon with a red circle inside it.
+   - **Description**: Reimagining the digital-AI first is a goal that involves the following actions:
+     - **Reimagine business journeys, products, and services**: This involves rethinking how businesses approach their digital transformation.
+     - **Rebuild the tech stack**: This involves reassembling the critical components of the digital-AI system.
+     - **Enabling the AI workforce**: This involves empowering employees to take on the role of the AI system.
+     - **Shielding with Responsible AI**: This involves ensuring that the AI system is used ethically and responsibly.
+
+2. **Rebuilding the tech stack**:
+   - **Icon**: A yellow hexagon with a red circle inside it.
+   - **Description**: Rebuilding the tech stack is a goal that involves the following actions:
+     - **Rebuild the infrastructure**: This involves reconfiguring the existing digital-AI system to meet the new requirements.
+     - **Enabling the AI workforce**: This involves empowering employees to take on the role of the AI system.
+     - **Shielding with Responsible AI**: This involves ensuring that the AI system is used ethically and responsibly.
+
+3. **Equipping the AI workforce**:
+   - **Icon**: A yellow hexagon with a red circle inside it.
+   - **Description**: Equipping the AI workforce is a goal that involves the following actions:
+     - **Enabling the AI workforce**: This involves empowering employees to take on the role of the AI system.
+     - **Shielding with Responsible AI**: This involves ensuring that the AI system is used ethically and responsibly.
+
+### Conclusion:
+
+The slide is a clear and structured guide to the actions and goals of reimagining the digital-AI first. It emphasizes the importance of rethinking business processes, reconfiguring the existing system, empowering employees, and ensuring that the AI system is used ethically and responsibly. The slide is designed to be both informative and actionable, providing a roadmap for the future of digital-AI systems.
 <!-- end image description -->
 
 
@@ -907,84 +866,24 @@ This will facilitate the emergence of novel business models, enable widespread p
 ## Elements of Enterprise AI Strategy
 
 <!-- image -->
-**Image Description:** In this image I can see a hexagon.
+**AI-Generated Image Description:** The image contains an octagon with the number "01" written in the center. The background of the octagon is a gradient of gray transitioning from light gray at the top to white at the bottom.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image is a diagram of a mathematical formula. The diagram consists of a hexagon with a label "02" at the top center. The hexagon is colored in gray, and the label is written in black. The hexagon is enclosed in a circle, which is colored in gray. The circle is connected to the hexagon by a line.
-
-The diagram is labeled as follows:
-
-- **Label**: 02
-- **Shape**: Hexagon
-- **Color**: Gray
-- **Label**: 02
-
-The hexagon is a regular hexagon, which means it has six equal sides. The hexagon is enclosed in a circle, which is colored in gray. The circle is connected to the hexagon by a line.
-
-The diagram is simple and straightforward, with no additional objects or decorations. The hexagon is the main focus, and the circle is the secondary element. The hexagon is the central object, and the circle is the background.
-
-### Analysis and Description:
-
-The hexagon is a fundamental shape in geometry, and it is used in various mathematical formulas and theorems. The label "02" is a common notation for the number 02, which is a positive integer. The circle is a circle, which is a fundamental shape in geometry.
-
-### Relevant Knowledge:
-
-- **Geometric Shapes**: Hexagons are a fundamental shape in geometry, and they are used in various mathematical formulas and theorems.
-- **Mathematical Notation**: The label "02" is a standard notation for the number 02, which is a positive integer.
-- **Symmetry**: The hexagon is a regular shape, which means it has equal sides.
-- **Geometric Properties**: The circle is a circle, which is a fundamental shape in geometry.
-
-### Conclusion:
-
-The diagram is a simple yet effective representation of a hexagon, with a circle as the background. The hexagon is the central object, and the circle is the secondary element. The diagram is clear and easy to understand, with no additional objects or decorations.
+**AI-Generated Image Description:** In the center of the image there is a hexagon.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image is a graphical representation of a mathematical equation. The equation is written in a mathematical notation, which is likely to be in a standard mathematical notation. The equation is represented by a hexagon with a light gray background. The hexagon is divided into four smaller sections, each containing a different mathematical operation.
-
-Here is the mathematical equation represented by the hexagon:
-
-```
-04
-```
-
-The hexagon is divided into four smaller sections, each containing a different mathematical operation. The operations are:
-
-1. **Add**: The hexagon is filled with a light gray color.
-2. **Subtract**: The hexagon is filled with a light gray color.
-3. **Multiply**: The hexagon is filled with a light gray color.
-4. **Divide**: The hexagon is filled with a light gray color.
-
-The hexagon is connected to the equation by a horizontal line. The line is colored in a light gray color.
-
-### Analysis and Description:
-
-The hexagon is a simple geometric shape with four equal sides. It is a common representation in mathematics and computer graphics to represent mathematical operations. The operations are:
-
-- **Add**: The hexagon is filled with a light gray color.
-- **Subtract**: The hexagon is filled with a light gray color.
-- **Multiply**: The hexagon is filled with a light gray color.
-- **Divide**: The hexagon is filled with a light gray color.
-
-### Relevant Knowledge:
-
-- **Mathematical Operations**: Hexagons are often used in mathematics to represent operations such as addition, subtraction, multiplication, and division.
-- **Geometric Properties**: Hexagons are often used in geometry to represent angles, sides, and other geometric properties.
-- **Mathematical Notation**: The hexagon is written in standard mathematical notation, which is a combination of letters and numbers.
-
-### Conclusion:
-
-The image represents a mathematical equation, specifically a hexagon with four operations. The hexagon is filled with a light gray color, which is a common color used in mathematical and computer graphics to represent mathematical operations. The equation is written in standard mathematical notation, which is a combination of letters and numbers.
+**AI-Generated Image Description:** In the center of the image there is a word "04".
 <!-- end image description -->
 
 
 Align AI priorities with overall business strategy
 
 <!-- image -->
-**Image Description:** In this image we can see a diagram.
+**AI-Generated Image Description:** The image consists of a hexagon with the number 06 written on it.
 <!-- end image description -->
 
 
@@ -995,19 +894,19 @@ Create investment plan, get board approval and allocate
 Identify owners and policy for Responsible AI, AI Governance and ethics
 
 <!-- image -->
-**Image Description:** In this image we can see a logo.
+**AI-Generated Image Description:** The image contains a hexagon with the number 03 written in a dark gray color.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a logo.
+**AI-Generated Image Description:** The word "05" is in a dark blue color.
 <!-- end image description -->
 
 
 Identify AI business sponsor and Transformation Lead and define KPIs
 
 <!-- image -->
-**Image Description:** In this image we can see a number which is in gray color.
+**AI-Generated Image Description:** The number 07 is depicted in a hexagon.
 <!-- end image description -->
 
 
@@ -1032,7 +931,36 @@ Three-fourth of the respondents indicate a low to moderate level of readiness in
 How would you rate your organization's readiness to benefit from Gen AI?
 
 <!-- image -->
-**Image Description:** In this image, we can see a graph.
+**AI-Generated Image Description:** The image is a pie chart that represents data from a survey. The pie chart is divided into three sections: High, Medium, and Low. Each section represents a different percentage of the population. The pie chart is color-coded to indicate the percentage of each category.
+
+The colors used in the pie chart are red, white, and black. The red section is labeled "High," the white section is labeled "Medium," and the black section is labeled "Low."
+
+The pie chart is divided into three sections:
+1. **High**: This section represents the largest percentage of the population.
+2. **Medium**: This section represents the second-largest percentage of the population.
+3. **Low**: This section represents the smallest percentage of the population.
+
+### Analysis and Description
+
+The pie chart is a visual representation of the distribution of a population. The colors used in the pie chart help to distinguish between the three categories:
+
+- **High**: This category represents the largest percentage of the population.
+- **Medium**: This category represents the second-largest percentage of the population.
+- **Low**: This category represents the smallest percentage of the population.
+
+### Interpretation
+
+The pie chart is useful for visualizing the distribution of a population. It can be used to compare the proportions of different groups or to understand the relative size of each group.
+
+### Additional Information
+
+- **High**: This category represents the largest percentage of the population.
+- **Medium**: This category represents the second-largest percentage of the population.
+- **Low**: This category represents the smallest percentage of the population.
+
+### Conclusion
+
+The pie chart provides a clear visual representation of the distribution of a population. It can be used to compare the proportions of different groups or to understand the relative size of each group.
 <!-- end image description -->
 
 
@@ -1049,7 +977,7 @@ EY India conducted an in-depth Gen AI survey covering ~200 C-suite executives ac
 Three in five respondents see Gen AI having a significant impact on their business.
 
 <!-- image -->
-**Image Description:** In this image there is a diagram.
+**AI-Generated Image Description:** The circle represents High and Medium. Low represents the other circle.
 <!-- end image description -->
 
 
@@ -1062,28 +990,7 @@ Q
 What are the challenges to Gen AI adoption in your organization? (Mark all that apply)
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Skill-gap." The chart compares the percentage of people who are in the "Under Use" and "Out of Use" categories. The x-axis represents the percentage of people in each category, while the y-axis shows the percentage of people in each category. The chart is titled "Skill-gap" and has a red flag at the top.
-
-The chart shows the following data:
-- **Under Use** category: 52%
-- **Out of Use** category: 47%
-- **Inadequate Use** category: 33%
-- **Generating Initiative** category: 18%
-- **Inadequate Benefits** category: 18%
-- **Challenge Point** category: 1%
-- **Others** category: 10%
-
-The chart also includes a note that the data is "10% reduced" and the chart is "1% reduced."
-
-### Analysis
-
-The chart provides a clear visual representation of the "Under Use" and "Out of Use" categories. The "Under Use" category has the highest percentage of people in this category, with 52%. This suggests that the "Under Use" category is the most common, followed by the "Out of Use" category. The "Generating Initiative" category has the lowest percentage of people in this category, with 33%. This indicates that the "Generating Initiative" category is the least common, with only 1% of people in this category. The "Challenge Point" category has the lowest percentage of people in this category, with 1%. This suggests that the "Challenge Point" category is the least common, with only 1% of people in this category.
-
-### Conclusion
-
-The chart provides a clear visual representation of the "Under Use" and "Out of Use" categories. The "Under Use" category has the highest percentage of people in this category, with 52%. The "Out of Use" category has the lowest percentage of people in this category, with 33%. The "Generating Initiative" category has the highest percentage of people in this category, with 18%. The "Challenge Point" category has the lowest percentage of people in this category, with 1%.
-
-This chart can be used to understand the distribution of people in different
+**AI-Generated Image Description:** The image shows a bar chart titled "Skill-gap." The x-axis represents the percentage of people who are in the "Skill-gap" category, ranging from 52% to 18%. The y-axis represents the percentage of people who are in the "Unclear Use Cases" category, ranging from 47% to 71%. The chart shows that 33% of the people in the "Unclear Use Cases" category are in the "Genie Initiatives" category.
 <!-- end image description -->
 
 
@@ -1096,72 +1003,105 @@ What facets of your business would Gen AI impact? (Mark all that apply)
 Q
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Customer Experience." It shows the percentage of customers who have visited a particular company, with the x-axis representing the number of customers and the y-axis representing the percentage of customers. The chart is divided into six categories: "Customer," "Experience," "Innovation," "Cost," "Reduction," and "Acceleration."
+**AI-Generated Image Description:** The image depicts a bar chart titled "Customer Experience." The chart compares the percentage of customers who have visited various features of a company, categorized by three distinct categories: "Experience," "Driving," and "Cost." The x-axis represents the percentage of customers, ranging from 1% to 14%. The y-axis lists the features, with "Driving" at the top and "Cost" at the bottom.
 
-### Description of the Bar Chart:
-- **Customer**: The chart shows the percentage of customers who have visited the company.
-- **Experience**: The chart shows the percentage of customers who have visited the company.
-- **Innovation**: The chart shows the percentage of customers who have visited the company.
-- **Cost**: The chart shows the percentage of customers who have visited the company.
-- **Reduction**: The chart shows the percentage of customers who have visited the company.
-- **Acceleration**: The chart shows the percentage of customers who have visited the company.
+### Detailed Breakdown of Features:
+1. **Customer Experience**:
+   - **Experience**: 75%
+   - **Driving**: 68%
+   - **Cost**: 51%
 
-### Analysis:
-- **Customer**: The chart shows the percentage of customers who have visited the company.
-- **Experience**: The chart shows the percentage of customers who have visited the company.
-- **Innovation**: The chart shows the percentage of customers who have visited the company.
-- **Cost**: The chart shows the percentage of customers who have visited the company.
-- **Reduction**: The chart shows the percentage of customers who have visited the company.
-- **Acceleration**: The chart shows the percentage of customers who have visited the company.
+2. **Driving**:
+   - **Experience**: 75%
+   - **Driving**: 68%
+   - **Cost**: 51%
 
-### Additional Information:
-- **Others**: There are no other categories listed on the chart.
-- **Others**: There are no other categories listed on the chart.
-- **Others**: There are no other categories listed on the chart.
-- **Others**: There are no other categories listed on the chart.
+3. **Driving**:
+   - **Experience**: 75%
+   - **Driving**: 68%
+   - **Cost**: 51%
 
-### Conclusion:
-The bar chart provides a clear visual representation of the percentage of customers who have visited the company. The chart shows that the majority of customers (75%) have visited the company, indicating a high level of customer satisfaction. The other categories (Experience, Innovation, Cost, Reduction, Acceleration) show a smaller percentage of customers, suggesting that the company may have faced challenges or difficulties in attracting and retaining customers. The chart also shows that the percentage of customers who have visited the company is relatively low, indicating that the company may not have had enough success
+4. **Driving**:
+   - **Experience**: 75%
+   - **Driving**: 68%
+   - **Cost**: 51%
+
+5. **Driving**:
+   - **Experience**: 75%
+   - **Driving**: 68%
+   - **Cost**: 51%
+
+6. **Driving**:
+   - **Experience**: 75%
+   - **Driving**: 68%
+   - **Cost**: 51%
+
+7. **Driving**:
+   - **Experience**: 75%
+   - **Driving**: 68%
+   - **Cost**: 51%
+
+8. **Driving**:
+   - **Experience**: 75%
+   - **Driving**: 68%
+   - **Cost**: 51%
+
+9. **Driving**:
+   - **Experience**: 75%
+   - **Driving**: 68%
+   - **Cost**: 51%
+
+10. **Driving**:
+   - **Experience**: 75%
+   - **Driving**: 68%
+   - **Cost**: 51%
+
+11. **Driving**:
+   - **Experience**: 75%
+   - **Driving**: 68%
+   - **Cost**: 51%
+
+12.
 <!-- end image description -->
 
 
 ## Takeaways for enterprises
 
 <!-- image -->
-**Image Description:** In this image there is a yellow shape.
+**AI-Generated Image Description:** The image contains a yellow and blue geometric shape.
 <!-- end image description -->
 
 
         - · Understand the potential of Gen AI across your organization value chain
 
 <!-- image -->
-**Image Description:** In this image there is a yellow object.
+**AI-Generated Image Description:** The image contains a yellow and blue geometric shape.
 <!-- end image description -->
 
 
         - · Identify relevant use cases for early implementation and create a roadmap for sustainable scale
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow shape.
+**AI-Generated Image Description:** The image contains a yellow hexagon.
 <!-- end image description -->
 
 
         - · Focus on functional transformations aimed at revenue enhancement, productivity increase and agile digital capability release
 
 <!-- image -->
-**Image Description:** In this image there is a yellow shape.
+**AI-Generated Image Description:** The image contains a yellow and blue geometric shape.
 <!-- end image description -->
 
 
         - · Identify the AI sponsor and owner for the program. Define where the capability will sit i.e., a Gen AI CoE at the hub in addition to spokes within business teams of early AI champions
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** The image contains a yellow hexagon.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image there is a yellow object.
+**AI-Generated Image Description:** The image contains a yellow hexagon.
 <!-- end image description -->
 
 
@@ -1182,17 +1122,17 @@ Enterprises need to make strategic decisions on the utilization of data, priorit
 Six key questions for enterprises to empower effective decisionmaking regarding Gen AI
 
 <!-- image -->
-**Image Description:** In this image I can see a yellow color circle. In the center of the circle I can see the number "1".
+**AI-Generated Image Description:** The circle in the image has the number "01" written on it.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow circle.
+**AI-Generated Image Description:** The circle in the image contains the number 02.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image I can see a yellow circle. In the yellow circle I can see the number 03.
+**AI-Generated Image Description:** The circle you see has the number 03 on it.
 <!-- end image description -->
 
 
@@ -1203,17 +1143,17 @@ Which cloud platform can the enterprise invest in?
         - 03 How can the LLMs be made more contextual with the enterprise's proprietary data?
 
 <!-- image -->
-**Image Description:** In this image we can see a circle. In the circle there is a number 04.
+**AI-Generated Image Description:** The circle has the number 04 on it.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow circle. In the yellow circle there is a number 05 written on it.
+**AI-Generated Image Description:** The circle in the image has the number 05 on it.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In the image there is a circle with the number 06 on it.
+**AI-Generated Image Description:** The number 06 is displayed on a yellow circle.
 <!-- end image description -->
 
 
@@ -1223,7 +1163,7 @@ Which cloud platform can the enterprise invest in?
 What are the key considerations impacting Gen AI implementation cost?
 
 <!-- image -->
-**Image Description:** ?
+**AI-Generated Image Description:** The question is unclear.
 <!-- end image description -->
 
 
@@ -1232,7 +1172,32 @@ What are the key considerations impacting Gen AI implementation cost?
 ## Based on business priorities, enterprises need to design the right architecture across different technology components
 
 <!-- image -->
-**Image Description:** In this image, we can see a table with some text and some icons.
+**AI-Generated Image Description:** The image is a screenshot of a slide, which is titled "Tools to create Gen AI agents." The slide is divided into three main sections: "Data Platform," "Data Pipeline," and "Governance."
+
+**Data Platform:**
+- The first section is labeled "Data Platform," and it is described as "Data Platform, Data Pipeline, Data Governance."
+- The second section is labeled "Public Cloud," and it is described as "Public Cloud."
+- The third section is labeled "Advanced Prompt Engineering," and it is described as "Advanced Prompt Engineering."
+
+**Data Pipeline:**
+- The third section is labeled "Data Pipeline," and it is described as "Data Pipeline, Data Governance."
+- The fourth section is labeled "Open Source," and it is described as "Open Source."
+- The fifth section is labeled "Multi Cloud," and it is described as "Multi Cloud."
+- The sixth section is labeled "Model Fine Tuning," and it is described as "Model Fine Tuning."
+- The seventh section is labeled "Model Ops," and it is described as "Model Ops."
+- The eighth section is labeled "Infrastructure," and it is described as "Infrastructure."
+- The ninth section is labeled "Infrastructure," and it is described as "Infrastructure."
+
+**Governance:**
+- The ninth section is labeled "Making LLM contextual on enterprise's proprietary data," and it is described as "Making LLM contextual on enterprise's proprietary data."
+
+**Relevant Knowledge:**
+- The slide is part of a presentation titled "Tools to create Gen AI agents," which is a topic in artificial intelligence and machine learning.
+- The slide is part of a larger presentation that discusses the role of AI agents in various domains, such as data science, data science, and data science.
+- The slide is part of a series of slides that discuss different aspects of AI, including data science, data science, and AI in the context of governance.
+
+**Answer to the Question:**
+The slide is part of a presentation titled "Tools to create Gen AI agents," which is a topic in artificial intelligence and machine learning. The slide is part of a series of slides that discuss different aspects of AI, including data science, data science, and AI in the context of governance.
 <!-- end image description -->
 
 
@@ -1269,7 +1234,7 @@ See Annexure C for a detailed comparative analysis.
 Open Source LLMs are best leveraged for use cases at scale where the 'token' volumes are high. A 'token' is the basic unit of text that a
 
 <!-- image -->
-**Image Description:** In this image we can see a machine. There are many machines. There are many lights. There is a person standing.
+**AI-Generated Image Description:** In the image we can see there is a man standing and he is holding a trolley. There are machines, boxes, lights, and other objects in the image.
 <!-- end image description -->
 
 
@@ -1296,45 +1261,59 @@ Q
 How do you envision executing your organization's Gen AI strategy? (Mark all that apply)
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "External Partners." The chart is divided into two main sections, each representing a different category of external partners. The x-axis represents the number of external partners, ranging from 1 to 10, while the y-axis represents the percentage of each partner's revenue.
-
-The chart is divided into two main sections:
+**AI-Generated Image Description:** The image depicts a bar chart titled "External Partners." The chart is divided into six sub-sections, each representing a different type of partner. The chart is color-coded to indicate the percentage of each partner's involvement in the project.
 
 1. **External Partners**:
-   - **Partner with external providers**: This section includes the following partners:
-     - **External providers**: This section includes the following partners:
-         - **Tech providers**: This section includes the following partners:
-         - **Developers**: This section includes the following partners:
-         - **Strategic alliances**: This section includes the following partners:
-         - **Acquisitions**: This section includes the following partners:
-         - **Unsure**: This section includes the following partners:
-         - **Situational experts**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section includes the following partners:
-         - **Others**: This section
+   - **Partner with external providers**: 73%
+   - **Developers**: 57%
+   - **In-house providers**: 46%
+   - **Strategic alliances**: 8%
+   - **Acquisitions**: 2%
+   - **Others**: 1%
+
+2. **External Partners**:
+   - **Partner with external providers**: 73%
+   - **Developers**: 57%
+   - **In-house providers**: 46%
+   - **Strategic alliances**: 8%
+   - **Acquisitions**: 2%
+   - **Others**: 1%
+
+3. **External Partners**:
+   - **Partner with external providers**: 73%
+   - **Developers**: 57%
+   - **In-house providers**: 46%
+   - **Strategic alliances**: 8%
+   - **Acquisitions**: 2%
+   - **Others**: 1%
+
+4. **External Partners**:
+   - **Partner with external providers**: 73%
+   - **Developers**: 57%
+   - **In-house providers**: 46%
+   - **Strategic alliances**: 8%
+   - **Acquisitions**: 2%
+   - **Others**: 1%
+
+5. **External Partners**:
+   - **Partner with external providers**: 73%
+   - **Developers**: 57%
+   - **In-house providers**: 46%
+   - **Strategic alliances**: 8%
+   - **Acquisitions**: 2%
+   - **Others**: 1%
+
+6. **External Partners**:
+   - **Partner with external providers**: 73%
+   - **Developers**: 57%
+   - **In-house providers**: 46%
+   - **Strategic alliances**: 8%
+   - **Acquisitions**: 2%
+   - **Others**: 1%
+
+### Analysis and Description
+
+The chart provides a clear visual representation of the distribution of partners in the project. The top three partners, external providers,
 <!-- end image description -->
 
 
@@ -1361,7 +1340,7 @@ The implementation of the strategy involves constructing the technology platform
 Drawing on the learnings from Phase 2, enterprises can scale use cases to achieve 100% deployment following A/B Testing. This aims to drive both productivity and revenue growth. Rigorous monitoring of ROI for each use case is essential, guiding decisions on Open Source versus Closed Source LLM deployment based on token volumes and model accuracy.
 
 <!-- image -->
-**Image Description:** In this image there is a diagram, and in the diagram there is a table, and in the table there is a graph, and in the graph there is a text.
+**AI-Generated Image Description:** The image depicts a graphical representation of a cost optimization process involving two main components: closed source llm and open source llm. The diagram illustrates a linear cost optimization process, where the cost of a product is represented by the cost of the product itself, and the cost of the product is represented by the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself plus the cost of the product itself
 <!-- end image description -->
 
 
@@ -1370,7 +1349,40 @@ Drawing on the learnings from Phase 2, enterprises can scale use cases to achiev
 3
 
 <!-- image -->
-**Image Description:** In this image there is a blue background with yellow text.
+**AI-Generated Image Description:** The image contains a title in yellow and black font. The title reads: "Takeaways for enterprises". Below the title, there are three bullet points:
+
+1. "Rethink architecture in the context of new to firm components - take key decisions on foundation models, orchestration stacks, plug in architectures"
+2. "Finalize cloud and partner strategy"
+3. "Rethink digital and data platform maps"
+
+The text is written in a clear, sans-serif font, making it easy to read and understand. The bullet points are aligned in a vertical column, with the first bullet point on the left and the third bullet point on the right.
+
+### Analysis and Description:
+
+The image is a visual representation of a series of takeaways for enterprises, which are key decisions made by the organization to improve their business. The takeaways are presented in a clear, concise manner, making them easy to follow and understand.
+
+### Relevant Knowledge:
+
+Rethink architecture is a strategic approach to architecture that involves identifying and addressing the root causes of issues in an organization. This approach is often used to improve the overall design and functionality of an organization's infrastructure, systems, and processes.
+
+### Example Use Case:
+
+If a company were to undertake a rethink of its architecture, they would likely focus on the following steps:
+
+1. Identify the root causes of issues in the organization.
+2. Identify the key components of the architecture.
+3. Identify the key decisions to be made to address these root causes.
+4. Identify the key decisions to be made to address these key components.
+5. Identify the key decisions to be made to address these key components.
+6. Identify the key decisions to be made to address these key components.
+7. Identify the key decisions to be made to address these key components.
+8. Identify the key decisions to be made to address these key components.
+9. Identify the key decisions to be made to address these key components.
+10. Identify the key decisions to be made to address these key components.
+11. Identify the key decisions to be made to address these key components.
+12. Identify the key decisions to be made to address these key components.
+13. Identify the key decisions to be made to address these key components.
+14. Identify the key decisions to be made to address these key
 <!-- end image description -->
 
 
@@ -1383,7 +1395,7 @@ See Annexure D for a reference architecture for hybrid LLM deployment and Annexu
 ## Equipping the AI workforce
 
 <!-- image -->
-**Image Description:** In this image, we can see a logo.
+**AI-Generated Image Description:** In the image there is a logo with a white background.
 <!-- end image description -->
 
 
@@ -1394,17 +1406,17 @@ In the near term, businesses grapple with a shortage of individuals possessing A
 ## Key questions to help enterprises formulate a comprehensive talent strategy
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow circle. Inside the yellow circle there is a black number "1".
+**AI-Generated Image Description:** The circle is yellow. Inside the circle, the number "1" is written in black.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow circle. In the circle there is black text.
+**AI-Generated Image Description:** The circle has the number 02 on it.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In the center of the image there is a yellow circle. Inside the yellow circle there is a number "03".
+**AI-Generated Image Description:** The number 03 is displayed on a yellow circle.
 <!-- end image description -->
 
 
@@ -1415,12 +1427,12 @@ Who from the C-suite can serve as the primary sponsor for driving AI transformat
 03 Where will the Gen AI CoE and AI Transformation Lead sit? Should the enterprise hire or identify a Chief AI Officer? Should the CAO report to the Chief Technology Officer, Chief Digital Officer , or the CFO?
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow circle. In the circle we can see the number "4".
+**AI-Generated Image Description:** The circle on the left side of the image has the number "04" written on it.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow circle. In the center of the yellow circle we can see the number "05".
+**AI-Generated Image Description:** The circle in the image has the number "05" written on it.
 <!-- end image description -->
 
 
@@ -1429,22 +1441,22 @@ What constitutes the optimal talent mix to achieve scalable Gen AI deployment su
                                                         - 05 How can we strategically acquire top Gen AI talent through hiring, training, or strategic partnerships?
 
 <!-- image -->
-**Image Description:** In the center of the image there is a circle. Inside the circle there is a number "6".
+**AI-Generated Image Description:** The number 06 is displayed on a yellow circle.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow circle.
+**AI-Generated Image Description:** In the center of the image there is a yellow circle. Inside the yellow circle there is the number 07.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image I can see a yellow circle. In the yellow circle I can see the number 08.
+**AI-Generated Image Description:** This circle has the number 08 on it.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow circle. In the circle there is a black number "09".
+**AI-Generated Image Description:** The yellow circle has the number 09 on it.
 <!-- end image description -->
 
 
@@ -1457,34 +1469,109 @@ What strategies will motivate senior leaders to champion Gen AI adoption, and ho
 How can we engage external AI experts while promoting internal collaboration for holistic AI solutions?
 
 <!-- image -->
-**Image Description:** In this image there is a yellow color circle.
+**AI-Generated Image Description:** The image consists of a bright yellow circle.
 <!-- end image description -->
 
 
 ?
 
 <!-- image -->
-**Image Description:** In this image there is a yellow object.
+**AI-Generated Image Description:** The image features a yellow object that appears to be a hexagon. The hexagon is made up of four equal sides, each of which is a solid yellow color. The edges of the hexagon are straight and appear to be straight lines, without any curves or bends. The background of the image is a solid gray color, which helps to make the yellow object stand out more prominently.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image, we can see a black and white image.
+**AI-Generated Image Description:** The image contains a dark blue, rectangular shape.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image I can see the black and white color.
+**AI-Generated Image Description:** The image consists of a geometric shape that resembles a hexagon. The hexagon is a classic shape that is often used in geometry to represent various mathematical concepts. Here are some details about the image:
+
+1. **Shape Description**: The hexagon is a regular polygon with 6 sides.
+2. **Color and Design**: The hexagon is gray with a white outline.
+3. **Shape and Structure**: The hexagon is a regular polygon with 6 sides.
+4. **Symmetry**: The hexagon is symmetrical, meaning that it is equal in shape to itself.
+5. **Color and Design**: The hexagon is gray with a white outline.
+6. **Shape and Structure**: The hexagon is a regular polygon with 6 sides.
+7. **Symmetry**: The hexagon is symmetrical, meaning that it is equal in shape to itself.
+8. **Color and Design**: The hexagon is gray with a white outline.
+9. **Shape and Structure**: The hexagon is a regular polygon with 6 sides.
+10. **Symmetry**: The hexagon is symmetrical, meaning that it is equal in shape to itself.
+11. **Color and Design**: The hexagon is gray with a white outline.
+12. **Shape and Structure**: The hexagon is a regular polygon with 6 sides.
+13. **Symmetry**: The hexagon is symmetrical, meaning that it is equal in shape to itself.
+14. **Color and Design**: The hexagon is gray with a white outline.
+15. **Shape and Structure**: The hexagon is a regular polygon with 6 sides.
+16. **Symmetry**: The hexagon is symmetrical, meaning that it is equal in shape to itself.
+17. **Color and Design**: The hexagon is gray with a white outline.
+18. **Shape and Structure**: The hexagon is a regular polygon with 6 sides.
+19. **Symmetry**: The hexagon is symmetrical, meaning that it is equal in shape to itself.
+20. **Color and Design**: The hexagon is gray with a white outline.
+21. **Shape and Structure**: The hexagon is a regular polygon with 6 sides.
+22. **Symmetry**: The hexagon is symmetrical, meaning that it is equal in shape to itself.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image, there are two main sections. The first section is a table with two columns and two rows. The first column is labeled "Keywords" and the second column is labeled "Keywords". The table is titled "Existing resources across departments will continue to be an integral part of building and scaling enterprise AI but their roles will transform".
+**AI-Generated Image Description:** The image is a table with a title at the top that reads "existing resources across departments will continue to be an integral part of building and scaling enterprise AI but their roles will transform." There are 4 columns in the table, each with a different heading. The headings are:
+1. Data Scientist
+2. Software Developer
+3. Solutions Architect
+4. Model Fine Tuning, RAG
+5. Development, Software Testing
+6. Systems, Software Architecture
+7. AI, Data, Cloud, Distributed
+8. Development, Software Testing
+9. Systems, Software Architecture
+10. AI, Data, Cloud, Distributed
+11. Development, Software Testing
+12. Systems, Software Architecture
+13. AI, Data, Cloud, Distributed
+14. Development, Software Testing
+15. Systems, Software Architecture
+16. AI, Data, Cloud, Distributed
+17. Development, Software Testing
+18. Systems, Software Architecture
+19. AI, Data, Cloud, Distributed
+20. Development, Software Testing
+21. Systems, Software Architecture
+22. AI, Data, Cloud, Distributed
+23. Development, Software Testing
+24. Systems, Software Architecture
+25. AI, Data, Cloud, Distributed
+26. Development, Software Testing
+27. Systems, Software Architecture
+28. AI, Data, Cloud, Distributed
+29. Development, Software Testing
+30. Systems, Software Architecture
+31. AI, Data, Cloud, Distributed
+32. Development, Software Testing
+33. Systems, Software Architecture
+34. AI, Data, Cloud, Distributed
+35. Development, Software Testing
+36. Systems, Software Architecture
+37. AI, Data, Cloud, Distributed
+38. Development, Software Testing
+39. Systems, Software Architecture
+40. AI, Data, Cloud, Distributed
+41. Development, Software Testing
+42. Systems, Software Architecture
+43. AI, Data, Cloud, Distributed
+44. Development, Software Testing
+45. Systems, Software Architecture
+46. AI, Data, Cloud, Distributed
+47. Development, Software Testing
+48. Systems, Software Architecture
+49. AI, Data, Cloud, Distributed
+50. Development, Software Testing
+51. Systems, Software Architecture
+52
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image, there is a table with some text and a few icons.
+**AI-Generated Image Description:** The image is a table with two columns and three rows. The first column is labeled "Gen AI Engineer" and the second column is labeled "LLM Ops". The first row contains the keywords "LMM, Fine Tuning, Al Agents, AI apps, AI orchestration, LLMOps", and the second row contains the keywords "Model monitoring and benchmarking, Prompt Store". The third row contains the keywords "Text Inputs, Syntax, User Design, Prompt Quality".
 <!-- end image description -->
 
 
@@ -1493,7 +1580,7 @@ Successful Gen AI implementation necessitates a diverse skill set embedded in ei
 enterprises may need to recruit individuals with NLP and traditional AI/ML backgrounds, providing them with targeted training to rapidly develop Gen AIspecific skills. This approach extends to cultivating talent within existing AI and analytics teams, leveraging their foundational expertise and fostering continuous learning.
 
 <!-- image -->
-**Image Description:** In this image there is a blue color background with some text written on it.
+**AI-Generated Image Description:** The image contains a dark blue background with yellow text. The text reads: "Takeaways for enterprises: re-envision the jobs of the future in your organization, enable all employees with AI assistants, put in place a skill agenda - from the boardroom downwards".
 <!-- end image description -->
 
 
@@ -1504,26 +1591,7 @@ enterprises may need to recruit individuals with NLP and traditional AI/ML backg
 ## Shielding with Responsible AI
 
 <!-- image -->
-**Image Description:** The image contains a logo or a logo design. The logo is a simple, yet effective design that uses a combination of colors and shapes. The design is simple and straightforward, with a focus on the use of a single color, which is likely a light or neutral color, such as white or gray. The logo is enclosed in a circle, which is a common symbol in design and often used to represent a company or organization.
-
-The logo is composed of several key elements:
-
-1. **Shape**: The logo is a circle, which is a common symbol in design.
-2. **Color**: The color of the logo is white, which is a neutral and easily recognizable color.
-3. **Shape**: The circle is a simple, flat shape, which is a common design element in logos.
-4. **Shape and Shape**: The circle is a simple, flat shape, which is a common design element in logos.
-5. **Color**: The color of the circle is white, which is a neutral and easily recognizable color.
-6. **Shape and Shape**: The circle is a simple, flat shape, which is a common design element in logos.
-7. **Shape and Shape**: The circle is a simple, flat shape, which is a common design element in logos.
-8. **Color**: The color of the circle is white, which is a neutral and easily recognizable color.
-9. **Shape and Shape**: The circle is a simple, flat shape, which is a common design element in logos.
-10. **Shape and Shape**: The circle is a simple, flat shape, which is a common design element in logos.
-11. **Shape and Shape**: The circle is a simple, flat shape, which is a common design element in logos.
-12. **Color**: The color of the circle is white, which is a neutral and easily recognizable color.
-13. **Shape and Shape**: The circle is a simple, flat shape, which is a common design element in logos.
-14. **Shape and Shape**: The circle is a simple, flat shape, which is a common design element in logos.
-15. **Shape and Shape**: The circle is a simple, flat shape, which is a common design element in logos.
-16. **Shape and Shape**: The circle is a simple, flat shape, which is a common design element in logos.
+**AI-Generated Image Description:** The word "o" is written in a large, bold, and white font.
 <!-- end image description -->
 
 
@@ -1549,7 +1617,27 @@ At present, organizations see data privacy as the single most important risk of 
 What risk worries you the most in Gen AI adoption? (Mark all that apply)
 
 <!-- image -->
-**Image Description:** In this image, we can see a chart. On the chart, we can see some numbers.
+**AI-Generated Image Description:** The image depicts a horizontal bar chart with three categories: privacy, data, and others. The y-axis represents privacy, while the x-axis represents the categories. The categories are: data privacy, data, and others.
+
+- **Data Privacy**: This category is represented by a green bar. The bar is 36% longer than the other categories.
+- **Data**: This category is represented by a blue bar. The bar is 24% longer than the other categories.
+- **Others**: This category is represented by a white bar. The bar is 10% longer than the other categories.
+
+### Analysis and Description:
+
+- **Data Privacy**: This category is represented by a green bar. The bar is 36% longer than the other categories.
+- **Data**: This category is represented by a blue bar. The bar is 24% longer than the other categories.
+- **Others**: This category is represented by a white bar. The bar is 10% longer than the other categories.
+
+### Relevant Knowledge:
+
+- **Privacy**: Privacy refers to the ability of an individual to control and manage their own personal information and communications.
+- **Data**: Data refers to the collection, processing, and analysis of data.
+- **Others**: Others refer to individuals who are not part of the data collection process.
+
+### Conclusion:
+
+The bar chart provides a clear visual representation of the differences in privacy between data and others categories. The green bar for data privacy indicates a significant increase in privacy compared to the other categories. The blue bar for others indicates a substantial increase in privacy compared to the other categories. This data can be useful for understanding privacy practices and policies in different contexts.
 <!-- end image description -->
 
 
@@ -1558,118 +1646,37 @@ Q
 ## Comparing classical ML and Gen AI products
 
 <!-- image -->
-**Image Description:** In this image we can see a few objects.
+**AI-Generated Image Description:** The image consists of a rectangular shape with two distinct colors: dark blue and gray. The blue portion is on the left side and the gray portion is on the right side.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image, we can see a poster.
+**AI-Generated Image Description:** The image consists of a rectangular shape with two additional rectangular shapes on the top and bottom. The top rectangle is dark blue, and the bottom rectangle is dark gray.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image consists of a rectangular shape with three distinct colors: dark blue, gray, and light gray. The background is a gradient of gray to white, with the gradient transitioning from light gray at the top to white at the bottom. The shape is a solid rectangle, with no visible edges or corners.
-
-The color scheme of the rectangle is dominated by dark blue, which is the dominant color, and gray, which is the dominant color. The gradient of the background is a gradient from light gray at the top to white at the bottom.
-
-The image does not contain any text, images, or other objects, making it a simple and straightforward representation of the colors and shapes.
-
-### Analysis and Description:
-
-The image is a simple, geometric shape with three distinct colors: dark blue, gray, and light gray. The shape is rectangular, with a solid color that is dark blue, gray, and light gray. The background is a gradient of gray to white, transitioning from light gray at the top to white at the bottom. The shape is a solid rectangle, with no visible edges or corners.
-
-### Relevant Knowledge:
-
-- **Color Gradient**: The gradient of the background is a gradient of gray to white, transitioning from light gray at the top to white at the bottom. This gradient is used to create a sense of depth and dimension in the image.
-- **Shape**: The shape is a rectangle, with no visible edges or corners.
-- **Color**: The color is dark blue, gray, and light gray.
-
-### Answer to the Question:
-
-**Question**: What color is the shape in the image?
-
-**Answer**: The shape in the image is a rectangle with a dark blue, gray, and light gray color.
+**AI-Generated Image Description:** In the image there is a logo with three rectangles.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a few objects.
+**AI-Generated Image Description:** The image contains a rectangular shape with three distinct colors: dark blue, gray, and yellow.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a poster.
+**AI-Generated Image Description:** The image consists of a rectangular shape with two additional rectangular shapes on the left and right sides. These shapes are dark blue and gray in color.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image consists of a rectangular shape with a dark blue and gray background. The shape is divided into two main sections: the top and the bottom. The top section is divided into two parts, each containing a dark blue rectangle and a gray rectangle. The bottom section is divided into two parts, each containing a dark blue rectangle and a gray rectangle.
-
-The top section is divided into two parts, each containing a dark blue rectangle and a gray rectangle. The bottom section is divided into two parts, each containing a dark blue rectangle and a gray rectangle.
-
-The image is a simple geometric shape, likely representing a rectangle or a square. The colors used in the image are dark blue and gray, which are commonly used in various design elements. The shapes are simple and straightforward, with no additional details or additional colors.
-
-### Analysis and Description:
-
-#### Rectangle Shape:
-1. **Shape Description**: The shape is a rectangle.
-2. **Color**: The top section is dark blue, and the bottom section is gray.
-3. **Color Scheme**: The top section is dark blue, and the bottom section is gray.
-
-#### Rectangle Shape:
-1. **Shape Description**: The shape is a rectangle.
-2. **Color**: The top section is dark blue, and the bottom section is gray.
-3. **Color Scheme**: The top section is dark blue, and the bottom section is gray.
-
-#### Rectangle Shape:
-1. **Shape Description**: The shape is a rectangle.
-2. **Color**: The top section is dark blue, and the bottom section is gray.
-3. **Color Scheme**: The top section is dark blue, and the bottom section is gray.
-
-#### Rectangle Shape:
-1. **Shape Description**: The shape is a rectangle.
-2. **Color**: The top section is dark blue, and the bottom section is gray.
-3. **Color Scheme**: The top section is dark blue, and the bottom section is gray.
-
-#### Rectangle Shape:
-1. **Shape Description**: The shape is a rectangle.
-2. **Color**: The top section is dark blue, and the bottom section is gray.
-3. **Color Scheme**: The top section is dark blue, and the bottom section is gray.
-
-### Answer to the Question:
-
-**Question**: What is the color scheme of the image?
+**AI-Generated Image Description:** The image consists of a rectangular shape with three distinct colors: dark blue, gray, and yellow.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image is a simple, flat, two-dimensional graphic consisting of two rectangles, each colored in a different color. The rectangles are arranged in a horizontal line, with the top rectangle being dark blue and the bottom rectangle being gray. The color scheme of the rectangles is consistent, with the blue rectangle being the top rectangle and the gray rectangle being the bottom rectangle.
-
-The image does not contain any text, numbers, or other graphical elements, making it a simple and straightforward representation of a graphic.
-
-### Analysis and Description:
-
-#### Rectangle Color:
-- The top rectangle is dark blue, while the bottom rectangle is gray.
-- The color scheme is consistent, with the blue rectangle being the top rectangle and the gray rectangle being the bottom rectangle.
-
-#### Rectangle Shape:
-- The rectangles are rectangular, with equal sides.
-- The top rectangle is larger than the bottom rectangle.
-
-#### Text and Symbols:
-- There is a yellow triangle at the bottom left corner of the image.
-- There is no text or symbols present in the image.
-
-### Relevant Knowledge:
-
-- **Rectangles in Design**: Rectangles are a fundamental shape in design, often used to represent a single element or a group of elements. They are commonly used in logos, logos, and other forms of branding.
-- **Color Scheme**: The color scheme of the rectangles is consistent, with the blue rectangle being the top rectangle and the gray rectangle being the bottom rectangle.
-- **Color Contrast**: The color contrast between the top and bottom rectangles is minimal, with the blue rectangle being the top rectangle and the gray rectangle being the bottom rectangle.
-
-### Conclusion:
-
-The image is a simple yet effective graphic representation of two rectangles, each colored in a different color. The use of a consistent color scheme and the minimalistic design elements make it easy to understand and interpret. The use of a yellow triangle at the bottom left suggests a focus on aesthetics and simplicity. The absence of text or symbols in the image does not detract from the overall message of the graphic.
+**AI-Generated Image Description:** The image contains two rectangles, one blue and one gray.
 <!-- end image description -->
 
 
@@ -1686,254 +1693,54 @@ To implement responsible AI effectively, it is imperative to establish a robust 
 | Access to  data   | Access to pre-defined set  of variables                                                                     | Access to unstructured data that is  difficult to control                                                                                                               |                      |
 
 <!-- image -->
-**Image Description:** The image depicts a simple, yet effective, geometric design consisting of two rectangular shapes arranged side by side. The primary colors used are dark blue and gray.
-
-### Description:
-1. **Rectangular Shapes**:
-   - The first rectangular shape is a dark blue rectangle.
-   - The second rectangular shape is a gray rectangle.
-
-2. **Color Scheme**:
-   - The dark blue rectangle is positioned on the left side of the image, while the gray rectangle is positioned on the right side.
-
-3. **Color Gradient**:
-   - The dark blue rectangle has a gradient from light to dark blue, transitioning from a darker shade at the top to a lighter shade at the bottom.
-   - The gray rectangle has a gradient from light to dark gray, transitioning from a lighter shade at the top to a darker shade at the bottom.
-
-### Analysis:
-- **Color Gradient**: The dark blue and gray rectangles have a gradient effect, transitioning from a darker to a lighter shade. This gradient helps in creating a visually appealing and dynamic design.
-- **Color Scheme**: The dark blue and gray rectangles are predominantly dark blue, while the gray rectangle has a lighter gray color. This contrast helps in distinguishing between the two shapes.
-- **Color Gradient**: The gradient effect in the dark blue and gray rectangles creates a visually appealing contrast. This contrast helps in making the shapes stand out more prominently.
-
-### Conclusion:
-The image is a simple yet effective geometric design that uses color to create a visually appealing and dynamic composition. The use of dark blue and gray rectangles with a gradient effect creates a visually striking and harmonious design. The contrast between the two shapes helps in distinguishing between the two colors, making the design visually appealing.
+**AI-Generated Image Description:** The image contains two rectangles, one in dark blue and the other in gray.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image displays a simple, flat, rectangular shape with two distinct colors, a dark blue and a light gray. The background is a solid color, likely white or a light gray, which helps to make the colors stand out clearly.
-
-In the center of the image, there is a small yellow triangle. The triangle is positioned slightly to the right of the center of the image. The color of the triangle is a solid yellow, which contrasts sharply with the dark blue and gray background.
-
-The image is a simple, flat, and minimalist design, likely intended to be used for educational purposes or as a logo or graphic element. The use of a single, small yellow triangle suggests a focus on simplicity and clarity, which is often associated with a minimalist design.
-
-### Analysis and Description:
-
-#### Color Scheme:
-- **Dark Blue**: The dominant color in the image, used for both the dark blue and gray rectangles.
-- **Light Gray**: The lighter gray background, used for the light blue and gray rectangles.
-
-#### Shape:
-- **Left Triangle**: A small yellow triangle positioned to the left of the center.
-- **Right Triangle**: A small yellow triangle positioned to the right of the center.
-
-#### Text:
-- **Title**: The title of the image is "Color Scheme," which is written in a clear, sans-serif font.
-- **Color**: The color used for the title is dark blue, which is a shade of blue that is often used to represent a sense of calm or tranquility.
-
-#### Design Elements:
-- **Small Yellow Triangle**: A small yellow triangle is positioned to the right of the center.
-- **Large Yellow Triangle**: A large yellow triangle is positioned to the right of the center.
-
-### Answer to the Question:
-
-**Question**: What is the primary color used for the title of the image?
-
-**Answer**: The primary color used for the title of the image is dark blue.
-
-**Explanation**:
-- The title is written in a sans-serif font, which is a common design choice for simplicity and clarity.
-- The dark blue color is often used to represent calmness or tranquility, which aligns with the title's theme.
-
-By using the color of the title, the image effectively communicates its message without overwhelming the viewer with too much detail. The simplicity of the design ensures that the primary color
+**AI-Generated Image Description:** The image contains two rectangles, one in dark blue and the other in gray.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image consists of two rectangles, one in dark blue and the other in gray. The rectangles are aligned horizontally and have a white border. The color of the rectangles is dark blue and gray.
-
-### Description:
-
-#### Rectangle in Dark Blue and Gray:
-- **Color**: Dark blue and gray
-- **Position**: Located in the upper left corner of the image.
-- **Size**: The rectangle is larger than the rectangle in gray.
-- **Color**: Dark blue and gray
-
-#### Rectangle in Gray:
-- **Color**: Gray
-- **Position**: Located in the upper right corner of the image.
-- **Size**: The rectangle is smaller than the dark blue and gray rectangle.
-- **Color**: Gray
-
-### Analysis:
-
-#### Rectangle in Dark Blue and Gray:
-- **Color**: Dark blue and gray
-- **Position**: Located in the upper left corner of the image.
-- **Size**: The rectangle is larger than the gray rectangle.
-- **Color**: Dark blue and gray
-
-#### Rectangle in Gray:
-- **Color**: Gray
-- **Position**: Located in the upper right corner of the image.
-- **Size**: The rectangle is smaller than the dark blue and gray rectangle.
-- **Color**: Gray
-
-### Answer:
-
-Based on the description, the image consists of two rectangles, one in dark blue and gray, and one in gray. The rectangles are aligned horizontally and have a white border. The color of the rectangles is dark blue and gray, while the position and size of the rectangles are smaller than the dark blue and gray rectangle.
+**AI-Generated Image Description:** The image consists of two rectangles, one in dark blue and the other in gray. The rectangles are aligned horizontally and have a white border.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image is a simple grid-based layout consisting of two horizontal rows and two vertical columns. The grid is composed of two squares, each containing a different color. The squares are arranged in a horizontal and vertical manner, with the top left square being a dark blue and the bottom right square being a light gray.
-
-Here is a detailed description of the image:
-
-### Description:
-
-- **Grid Layout**: The image is a simple grid-based layout with two horizontal rows and two vertical columns. The grid is composed of two squares, each containing a different color. The squares are arranged in a horizontal and vertical manner, with the top left square being a dark blue and the bottom right square being a light gray.
-
-- **Color Scheme**: The color scheme of the grid is dark blue and light gray. The dark blue squares are on the left side and the light gray squares are on the right side.
-
-- **Grid Elements**: The grid elements are rectangular, with each square containing a different color. The colors of the squares are dark blue and light gray.
-
-- **Grid Elements**: The grid elements are arranged in a horizontal and vertical manner. The top left square is dark blue, the top right square is light gray, and the bottom left square is dark blue.
-
-- **Grid Elements**: The grid elements are rectangular, with each square containing a different color. The colors of the squares are dark blue and light gray.
-
-- **Grid Elements**: The grid elements are arranged in a horizontal and vertical manner. The top left square is dark blue, the top right square is light gray, and the bottom left square is dark blue.
-
-- **Grid Elements**: The grid elements are rectangular, with each square containing a different color. The colors of the squares are dark blue and light gray.
-
-- **Grid Elements**: The grid elements are rectangular, with each square containing a different color. The colors of the squares are dark blue and light gray.
-
-- **Grid Elements**: The grid elements are rectangular, with each square containing a different color. The colors of the squares are dark blue and light gray.
-
-- **Grid Elements**: The grid elements are rectangular, with each square containing a different color. The colors of the squares are dark blue and light gray.
-
-- **Grid Elements**: The grid elements are rectangular, with each square containing a different color. The colors of the squares
+**AI-Generated Image Description:** 1
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a few objects.
+**AI-Generated Image Description:** The image consists of two rectangles, one in dark blue and the other in gray.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image depicts a rectangular shape with two equal sections, each occupying half of the rectangle. The background of the rectangle is a solid dark blue color, while the top and bottom sections are a lighter shade of blue. The top section is a solid dark blue, while the bottom section is a lighter shade of blue.
-
-The image is a simple, flat, and minimalist design, likely intended to be used for educational purposes or as a visual aid. The use of a single, rectangular shape with two equal sections is a common design element in many educational materials, such as posters, charts, and educational posters.
-
-### Analysis and Description:
-
-#### Rectangular Shape:
-- **Color**: Dark blue (blue)
-- **Shape**: Rectangle
-- **Position**: Center
-- **Background**: Solid dark blue
-- **Top Section**: A solid dark blue
-- **Bottom Section**: A lighter blue
-
-#### Two Equal Sections:
-- **Color**: Dark Blue
-- **Shape**: Rectangle
-- **Position**: Center
-- **Background**: Solid dark blue
-- **Top Section**: A solid dark blue
-- **Bottom Section**: A lighter blue
-
-#### Equal Sections:
-- **Color**: Dark Blue
-- **Shape**: Rectangle
-- **Position**: Center
-- **Background**: Solid dark blue
-- **Top Section**: A solid dark blue
-- **Bottom Section**: A lighter blue
-
-### Relevant Knowledge:
-- **Rectangular Shapes**: Rectangles are commonly used in educational materials to represent concepts such as multiplication, division, and fractions.
-- **Equal Sections**: Rectangles are used to illustrate proportional relationships between different parts of a larger object.
-- **Color**: The use of dark blue and lighter blue in the rectangles helps to make the shapes stand out and visually distinguish between them.
-
-### Conclusion:
-The image is a simple, flat, and minimalist design that uses a rectangular shape with two equal sections to represent concepts such as multiplication, division, and fractions. The use of dark blue and lighter blue in the rectangles helps to make the shapes stand out and visually distinguish between them.
+**AI-Generated Image Description:** 1
 <!-- end image description -->
 
 
 Known - Familiar - Unknown
 
 <!-- image -->
-**Image Description:** The image is a simple, flat, two-paneled design. The design consists of two vertical panels, each with a dark and a light color. The background of the panels is a solid color, which is a solid gray. The panels are aligned horizontally, with the top panel being darker and the bottom panel being lighter.
-
-### Description of Objects in the Image:
-1. **Left Panel**:
-   - **Color**: Dark gray.
-   - **Pattern**: A dark gray square with a pattern of horizontal lines.
-   - **Color**: Dark gray.
-   - **Position**: Located on the left side of the image.
-
-2. **Right Panel**:
-   - **Color**: Light gray.
-   - **Pattern**: A light gray square with a pattern of horizontal lines.
-   - **Color**: Light gray.
-   - **Position**: Located on the right side of the image.
-
-### Analysis:
-The design is simple and straightforward, with a focus on the use of contrasting colors. The dark gray panels create a stark contrast with the light gray panels, making the design visually striking. The horizontal lines in the dark gray panels add a sense of depth and dimension to the design. The light gray panels are evenly spaced, creating a balanced and visually appealing composition.
-
-### Answer to Potential Questions:
-1. **What is the primary color scheme of the design?**
-   - The primary color scheme of the design is dark gray with a light gray background.
-
-2. **What is the pattern used in the design?**
-   - The pattern in the design is a dark gray square with a pattern of horizontal lines.
-
-3. **What is the color scheme of the left panel?**
-   - The left panel is dark gray with a pattern of horizontal lines.
-
-4. **What is the color scheme of the right panel?**
-   - The right panel is light gray with a pattern of horizontal lines.
-
-By analyzing the design, we can infer that the design is intended to be visually striking and has a strong contrast between the dark and light colors. The use of contrasting colors and a balanced layout is a common design principle in both graphic and graphic design.
+**AI-Generated Image Description:** 1
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image there is a text written on the image.
+**AI-Generated Image Description:** The image is a list of takeaways for enterprises. The list is numbered from 1 to 3, and each takeaway is numbered from 1 to 3. The takeaways are as follows:
+1. Redesign AI policies and design standards
+2. Implement a new risk and governance framework
+3. Clearly define ownership of risk mitigation and controls including model risk management
+4. Put in place a new data privacy and security architecture
+5. Creation of AI Ethics Board and adoption of AI Ethics Framework
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image is a black-and-white photograph of a rectangular object. The object appears to be a rectangular prism, which is a three-dimensional object with a flat surface. The object is rectangular in shape and has a smooth, even surface. The surface of the object is smooth and has no visible imperfections.
-
-The object is positioned such that its top and bottom faces are visible, and the left and right faces are not clearly visible. The object is oriented such that the top face is towards the left side of the image and the bottom face is towards the right side.
-
-The object has a smooth, even surface with no visible imperfections. There are no visible markings or markings on the surface. The object is not perfectly flat, but rather has a slightly curved surface.
-
-The object is not perfectly symmetrical, as it has two opposite faces that are not symmetrical. The left and right faces are not symmetrical, but the left face is slightly more curved than the right face.
-
-The object is not perfectly flat, but rather has a slightly curved surface. The surface of the object is smooth and has no visible imperfections.
-
-The object is not perfectly flat, but rather has a slightly curved surface. The surface of the object is smooth and has no visible imperfections.
-
-The object is not perfectly flat, but rather has a slightly curved surface. The surface of the object is smooth and has no visible imperfections.
-
-The object is not perfectly flat, but rather has a slightly curved surface. The surface of the object is smooth and has no visible imperfections.
-
-The object is not perfectly flat, but rather has a slightly curved surface. The surface of the object is smooth and has no visible imperfections.
-
-The object is not perfectly flat, but rather has a slightly curved surface. The surface of the object is smooth and has no visible imperfections.
-
-The object is not perfectly flat, but rather has a slightly curved surface. The surface of the object is smooth and has no visible imperfections.
-
-The object is not perfectly flat, but rather has a slightly curved surface. The surface of the object is smooth and has no visible imperfections.
-
-The object is not perfectly flat, but rather has a slightly curved surface. The surface of the object is smooth and has no visible imperfections.
-
-The object is not perfectly flat, but rather has a slightly curved surface. The surface of the object is smooth and has no visible imperfections.
+**AI-Generated Image Description:** The image contains a single black letter "P" on a white background.
 <!-- end image description -->
 
 
@@ -1944,17 +1751,23 @@ Developing a strategic blueprint for Gen AI involves navigating a challenging la
 This strategic guide aims not only to distil the complexities inherent in planning for Gen AI but also to provide a nuanced understanding of the myriad factors that influence decision-making in this rapidly evolving technology.
 
 <!-- image -->
-**Image Description:** The image is a table that lists different types of AI strategy reconsomer. The table has two columns: "Architecture" and "Digital Leadership." The "Architecture" column lists the types of AI strategy reconsomer, while the "Digital Leadership" column lists the leadership roles of the AI strategy reconsomer.
+**AI-Generated Image Description:** The image is a table with a title at the top that reads "Gen AI strategy reconker." Below the title, there are three columns, each with a different category: "Architecture," "Digital Leadership," and "Emerging Digital."
+
+The first column is labeled "Architecture," and it lists the following categories: "Digital First," "Digital Leadership," and "Emerging Digital."
+
+The second column is labeled "Digital Leadership," and it lists the following categories: "Digital First," "Digital Leadership," and "Emerging Digital."
+
+The third column is labeled "Emerging Digital," and it lists the following categories: "Data and Analytics," "Data in silos," "Prioritization," "Early stages," "Very limited application of analytics and AI," "Healthcare Industrial products," "Industrial products," "Resources, energy, oil and gas," "Utilities," "Waist and watch / Experimentation," "Customer Service," "Knowledge Management," "Intelligent Automation," "Functional Transformation of core processes," "Gen AI," "Gen AI CoE," "Gen AI pilot," "Gen AI CoE to," "Gen AI pilot," "Gen AI CoE to," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot," "Gen AI pilot,"
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color circle.
+**AI-Generated Image Description:** The image contains a single yellow circle.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image is a circle. It is a bright yellow color.
+**AI-Generated Image Description:** The image contains a single yellow circle.
 <!-- end image description -->
 
 
@@ -1977,22 +1790,22 @@ India
 ## The Economic Opportunity of Gen AI in India
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** A yellow geometric shape.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** A yellow geometric shape with a gray outline.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** A yellow geometric shape.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** A yellow geometric shape.
 <!-- end image description -->
 
 
@@ -2018,37 +1831,48 @@ A report from EY, titled 'India@100: Realizing the Potential of a US$26 Trillion
 ## Sector-wise impact of Gen AI on GVA (2029-30)
 
 <!-- image -->
-**Image Description:** The image is a bar chart titled "Impact on sectoral GVA (X-axis) and scale: US$ 200 billion (USD)." The x-axis represents the scale, and the y-axis represents the value. The chart is divided into five different categories: Business Services, Retail, Education, Post and Telecommunication, Health and Social Work, and Media.
+**AI-Generated Image Description:** The image is a graph that shows the impact of various sectors on the global GVA. The x-axis represents the scale, while the y-axis shows the value. The graph is divided into five different categories: Business Services, Retail, Education, Post and Telecommunication, Health and Social Work, and Media.
 
 ### Breakdown of the Categories:
 
 1. **Business Services**:
-   - **Scale**: US$ 200 billion
-   - **Y-axis**: The scale ranges from 0% to 100%
+   - **Scale**: 120 billion
+   - **Value**: 120 billion
+   - **Source**: GVA from business services is shown as a blue circle.
 
 2. **Retail**:
-   - **Scale**: US$ 200 billion
-   - **Y-axis**: The scale ranges from 0% to 100%
+   - **Scale**: 50 billion
+   - **Value**: 50 billion
+   - **Source**: GVA from retail is shown as a green circle.
 
 3. **Education**:
-   - **Scale**: US$ 200 billion
-   - **Y-axis**: The scale ranges from 0% to 100%
+   - **Scale**: 20 billion
+   - **Value**: 20 billion
+   - **Source**: GVA from education is shown as a blue circle.
 
 4. **Post and Telecommunication**:
-   - **Scale**: US$ 200 billion
-   - **Y-axis**: The scale ranges from 0% to 100%
+   - **Scale**: 10 billion
+   - **Value**: 10 billion
+   - **Source**: GVA from post and telecommunication is shown as a green circle.
 
 5. **Health and Social Work**:
-   - **Scale**: US$ 200 billion
-   - **Y-axis**: The scale ranges from 0% to 100%
+   - **Scale**: 10%
+   - **Value**: 10%
+   - **Source**: GVA from health and social work is shown as a blue circle.
 
 ### Analysis:
 
-The chart provides a clear visual representation of the impact of various sectors on the GVA. The business services category shows the highest impact, with a value of 200 billion USD. This suggests that the business services sector is the most significant contributor to the GVA. The education sector, with a value of 200 billion USD, is also a significant contributor. The post and telecommunication sector, with a value of 200 billion USD, is the second-highest contributor. The health and social work sector, with a value of 200 billion USD, is the third-highest contributor. The media sector, with a value of 200 billion USD, is the least-contributing sector.
+The graph shows that the GVA from business services is the largest, followed by the GVA from education and post and telecommunication. The GVA from health and social work is the second largest, and the GVA from post and telecommunication is the smallest.
 
 ### Conclusion:
 
-The bar chart effectively communicates the impact of different sectors on the GVA. The business services sector has the highest impact, indicating a strong contribution to the GVA. The education sector, with a value of 200 billion USD, is the second-
+The graph shows that the GVA from business services is the largest, followed by the GVA from education and post and telecommunication. The GVA from health and social work is the second largest, and the GVA from post and telecommunication is the smallest.
+
+### Chain of Thought (CoT) Analysis:
+
+- **Business Services**: The GVA from business services is the largest, followed by the GVA from education and post and telecommunication.
+- **Retail**: The GVA from retail is the second largest, followed by the GVA from post and telecommunication.
+- **Education**: The GVA from education is the second largest, followed by the GVA from
 <!-- end image description -->
 
 
@@ -2079,52 +1903,54 @@ See Annexure G for technical analysis
 ## Gen AI's boost to sectors
 
 <!-- image -->
-**Image Description:** In this image we can see a building.
+**AI-Generated Image Description:** The image consists of a building icon.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a hand holding a currency note.
+**AI-Generated Image Description:** The image consists of a logo and some text. The logo is a stylized drawing of a letter "S" inside a circle. Below the logo, the text reads "Financial Services" in uppercase letters. The background is dark blue, and the text is in white.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a truck.
+**AI-Generated Image Description:** The image consists of a truck. The truck is depicted in a simple, white outline. Below the truck, there is text that reads "Transport and Storage".
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image, we can see a book.
+**AI-Generated Image Description:** The image consists of a book icon on the top. Below the book icon, the text "Education" is written in white. The background of the text is dark blue.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a laptop and a shopping cart icon.
+**AI-Generated Image Description:** The image consists of a dark blue background with a graphic of a computer and a shopping icon. The graphic is of a stylized shopping icon with a shopping cart icon, which is placed above the word "Retail" in white. Below the word "Retail," there is a yellow horizontal line. The text below the line reads "Retail Trade" in white.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image, we can see a box with a logo.
+**AI-Generated Image Description:** In the image there is a dark blue matte background with a white and grey box in the center. Inside the box there is a white circle with a white plus sign inside it.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a logo.
+**AI-Generated Image Description:** The image consists of a logo and text. The logo is placed on the left side of the image. It features a square with a line under it. The text below the logo is in white and reads "Construction".
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** Bottom left side of the image there is a laptop.
+**AI-Generated Image Description:** Media
+- icon: a laptop
+- screen: showing a grid of numbers
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a poster with some text and a logo.
+**AI-Generated Image Description:** The image contains a logo and text. The logo is a simple design with a headset icon and the words "Post and Telecommunication" written in white. The background is dark blue, and the logo is placed in the center of the image.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a bottle and a medical instrument.
+**AI-Generated Image Description:** The image is an infographic titled "Pharma." The background of the infographic is dark blue, and the main text is in white. There is an icon of a pill bottle in the upper left corner. Below the pill bottle icon, there is a yellow horizontal line.
 <!-- end image description -->
 
 
@@ -2182,42 +2008,17 @@ Generative AI survey report
 41|
 
 <!-- image -->
-**Image Description:** The image is a circle of yellow color. The circle is smooth and has a uniform color. The background is white, which makes the yellow color stand out prominently. The circle is perfectly round and has no visible imperfections or distortions.
-
-### Analysis and Description:
-1. **Color and Composition**: The yellow circle is the most prominent feature in the image. It is a solid, smooth color that stands out against the white background. The circle is perfectly round, with no visible imperfections or distortions.
-2. **Surface and Texture**: The surface of the circle is smooth and smooth, with no visible texture or imperfections. The color is bright and bright, with a high level of contrast.
-3. **Background**: The background is white, which makes the yellow circle stand out. The white background is simple and does not distract from the main subject.
-4. **Surface and Texture**: The surface of the circle is smooth and smooth, with no visible imperfections or distortions. The color is bright and bright, with a high level of contrast.
-
-### Answer to the Question:
-The image is a circle of yellow color. The circle is smooth and smooth, with no visible imperfections or distortions. The color is bright and bright, with a high level of contrast. The background is white, which does not distract from the main subject.
+**AI-Generated Image Description:** The image is a circle of yellow color.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image is a simple, flat, yellow circle. It has a smooth, smooth surface, and no shadows or highlights. The color is bright and vibrant, with a gradient effect that gives it a warm and inviting appearance. The circle is centered and does not have any shadows or highlights, making it the focal point of the image.
-
-### Description of Objects in the Image:
-1. **Circle**: The central object in the image is a solid yellow circle.
-2. **Color**: The color of the circle is bright and vibrant, with a gradient effect that gives it a warm and inviting appearance.
-3. **Surface**: The circle is smooth and smooth, with no visible shadows or highlights.
-4. **Background**: The background is white, which helps to make the yellow circle stand out.
-5. **Surface**: The circle is the only object in the image, and it is the only object that is visible.
-
-### Analysis:
-1. **Color and Contrast**: The yellow circle is the most prominent color in the image, making it stand out.
-2. **Surface and Shadow**: The gradient effect on the circle gives it a warm and inviting appearance.
-3. **Surface and Shadow**: The white background helps to make the yellow circle stand out.
-4. **Surface and Shadow**: The white background helps to make the yellow circle stand out.
-
-### Conclusion:
-The image is a simple, flat, yellow circle with a warm and inviting color scheme. The gradient effect on the circle gives it a warm and inviting appearance, making it the focal point of the image. The white background helps to make the circle stand out, and the gradient effect on the circle helps to create a sense of warmth and comfort.
+**AI-Generated Image Description:** The image contains a single yellow circle.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color circle.
+**AI-Generated Image Description:** The image contains a single yellow circle.
 <!-- end image description -->
 
 
@@ -2232,22 +2033,22 @@ Generative AI survey report
 ## A Gen AI Policy Agenda for India
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** A yellow geometric shape is in the foreground of the image.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** A yellow geometric shape is shown in the image.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** A yellow shape is in the image.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** In the image there is a yellow geometric shape.
 <!-- end image description -->
 
 
@@ -2298,7 +2099,7 @@ Generative AI survey report
                                                                                     - · Various US government agencies  to formulate wide range of time-bound interventions relating to: safety, security, transparency, citizen/ consumer protections, effective government usage, innovation, competition, global leadership, etc.
 
 <!-- image -->
-**Image Description:** In this image I can see the land. I can see the water. I can see the sky.
+**AI-Generated Image Description:** The image is a map of the world. The map is dark blue with lighter shades, and it shows the countries and territories. The countries are colored in a gradient of light blue to dark blue, with the light blue representing the countries in the north and the dark blue representing the countries in the south. The map also shows the borders of the countries, which are colored in a light gray. The borders of the countries are not clearly defined, but they are generally visible. The map also shows the names of the countries, which are colored in a light gray. The names of the countries are not clearly visible, but they are consistent with the names of the countries on the map.
 <!-- end image description -->
 
 
@@ -2319,7 +2120,7 @@ Generative AI survey report
 ## China
 
 <!-- image -->
-**Image Description:** In this image I can see the map of the world.
+**AI-Generated Image Description:** The map shows different countries. The yellow area is in India.
 <!-- end image description -->
 
 
@@ -2342,7 +2143,7 @@ Generative AI survey report
 There have been several Government initiatives that have laid out the foundation for approach to promote and develop AI in India.  Some of the key initiatives are as follows:
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** A yellow geometric shape.
 <!-- end image description -->
 
 
@@ -2353,7 +2154,7 @@ NITI Aayog released the National Strategy for Artificial Intelligence 3 (NSAI 20
 Suggested in this strategy paper , AIRAWAT (AI Research, Analytics and Knowledge Assimilation platform) was also launched. This platform guides the research and development of AI and other emerging technologies in India.
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** In the image there is a yellow object.
 <!-- end image description -->
 
 
@@ -2362,7 +2163,7 @@ Suggested in this strategy paper , AIRAWAT (AI Research, Analytics and Knowledge
 NITI Aayog released the Principles of Responsible AI, which were finalized in 2021 4 . These principles were designed to provide a framework that would serve as an enabling environment for promoting a responsible AI ecosystem in India. These include the Principles of Safety and Reliability, Equality, Inclusivity and Nondiscrimination, Privacy and Security, Transparency, Accountability, and Protection and Reinforcement of Positive Human Values.
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** The image contains a yellow geometric shape.
 <!-- end image description -->
 
 
@@ -2375,7 +2176,7 @@ National AI Mission in 2022 with a strong R&amp;D focus. It aims to bring togeth
                                                                                                         - · India's National Artificial Intelligence Portal 'INDIAai' was also launched as a one-stop digital platform for AI-related developments in India . 5 This is a common infrastructure for developers to share tools, data and resources.
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** In the image there is a yellow object which is in the shape of a hexagon.
 <!-- end image description -->
 
 
@@ -2407,7 +2208,7 @@ Some of the challenges to realize the full potential of AI as identified in the 
 The relevance of the challenges remain despite all the foundational efforts made by the government. India's policy agenda pertaining to AI and Gen AI will have to account for these challenges, to effectively promote Gen AI adoption and to create an enabling regulatory environment.
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** In the foreground of the image, there is a yellow and gray logo.
 <!-- end image description -->
 
 
@@ -2430,50 +2231,36 @@ The following recommendations are centered around having a 'light touch' regulat
 ## Promoting AI in India
 
 <!-- image -->
-**Image Description:** The image is a flowchart that is structured to depict a series of actions. The flowchart is divided into five main steps, each represented by a different color. The colors are yellow, gray, blue, black, and white.
+**AI-Generated Image Description:** The image depicts a series of actions that are connected by a flowchart. The flowchart is structured with five steps: Access to training data and marketplaces, Deployment of Gen Al systems as Public Goods, Securing critical digital infrastructure, Access to talent and public funding of R&D, and Access to talent and public funding of R&D. Each step is connected by a line, and the flowchart visually represents the sequence of actions.
 
 ### Chain of Thought (CoT) Analysis:
 
-1. **First Step**:
-   - The first step is labeled "Access to training data and marketplaces."
-   - This step is represented by a yellow box.
+1. **Access to Training Data and Marketspace**: This step involves the user clicking on an icon that represents the access to training data and marketspace.
 
-2. **Second Step**:
-   - The second step is labeled "Deployment of Gen Al systems as Public Goods."
-   - This step is represented by a gray box.
+2. **Deployment of Gen Al systems as Public Goods**: The user then clicks on the icon that represents the deployment of Gen Al systems as public goods.
 
-3. **Third Step**:
-   - The third step is labeled "Securing critical digital infrastructure."
-   - This step is represented by a blue box.
+3. **Securing Critical Digital Infrastructure**: The user then clicks on the icon that represents securing critical digital infrastructure.
 
-4. **Fourth Step**:
-   - The fourth step is labeled "Access to talent and public funding of R&D."
-   - This step is represented by a yellow box.
+4. **Access to Talent and Public Funding of R&D**: The user then clicks on the icon that represents accessing talent and public funding of R&D.
 
-5. **Fifth Step**:
-   - The fifth step is labeled "Access to talent and public funding of R&D."
-   - This step is represented by a blue box.
-
-### Detailed Description:
-
-The flowchart is structured to illustrate the process of accessing, deploying, securing, and accessing critical digital infrastructure. Each step is represented by a different color, which helps in distinguishing between the different actions.
+5. **Access to Talent and Public Funding of R&D**: The user then clicks on the icon that represents accessing talent and public funding of R&D.
 
 ### Chain of Thought (CoT) Analysis:
 
-- **First Step**: Access to training data and marketplaces.
-- **Second Step**: Deployment of Gen Al systems as Public Goods.
-- **Third Step**: Securing critical digital infrastructure.
-- **Fourth Step**: Access to talent and public funding of R&D.
-- **Fifth Step**: Access to talent and public funding of R&D.
+- **Access to Training Data and Marketspace**: This step involves the user clicking on an icon that represents the access to training data and marketspace.
+- **Deployment of Gen Al systems as Public Goods**: The user then clicks on the icon that represents the deployment of Gen Al systems as public goods.
+- **Securing Critical Digital Infrastructure**: The user then clicks on the icon that represents securing critical digital infrastructure.
+- **Access to Talent and Public Funding of R&D**: The user then clicks on the icon that represents accessing talent and public funding of R&D.
+- **Access to Talent and Public Funding of R&D**: The user then clicks on the icon that represents accessing talent and public funding of R&D.
 
 ### Conclusion:
 
-The flowchart provides a clear and structured way to understand the process of accessing, deploying, securing, and accessing critical digital infrastructure. Each step is represented by a different color, which helps in distinguishing between the actions. This structured approach ensures that the information is easily understood and can be easily followed.
+The image is a flowchart that illustrates the steps involved in accessing and securing critical digital infrastructure. Each step is connected by a line, and the flowchart visually represents the sequence of actions. The user's actions, such as clicking on the icons, are connected by a line, which helps in understanding the flow of information. The
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image I can see a yellow color object.
+**AI-Generated Image Description:** This is a yellow box. In the box, there is a calculator.
 <!-- end image description -->
 
 
@@ -2490,7 +2277,7 @@ Generative AI survey report
                                                                                                                         - · Bilateral arrangements: This will allow reciprocal access to wider datasets for training.
 
 <!-- image -->
-**Image Description:** In this image we can see a pyramid.
+**AI-Generated Image Description:** In the image there is a yellow box with a few cubes inside it.
 <!-- end image description -->
 
 
@@ -2504,7 +2291,7 @@ India has a history of developing successful Digital Public Goods (DPGs) such as
                                                                                                                         - · Support for Open-Source ecosystem: Development of an open-source ecosystem for basic algorithms and training datasets can help Indian entities and start-ups develop their own Gen AI products and fast-track indigenous innovation. A similar approach is being followed in jurisdictions such as the UAE and EU.
 
 <!-- image -->
-**Image Description:** In this image there is a yellow color background. In the center of the image there is a line drawing of a person's head.
+**AI-Generated Image Description:** In the picture I can see a head in yellow color. In the head I can see the number 1011100000.
 <!-- end image description -->
 
 
@@ -2516,7 +2303,7 @@ India has a history of developing successful Digital Public Goods (DPGs) such as
 the AIRAWAT supercomputer, focused on AI computing, was established at C-DAC 10 . Such efforts can democratize access to AI compute infrastructure. The technical requirements from a compute infrastructure/Gen AI point of view will still need regular review and additional infrastructure can be established. Like in Japan, domestic start-ups may be provided subsidized access to publicly funded compute resources 11 .
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** The image contains a yellow rectangle. Inside the yellow rectangle, there is a symbol that resembles a gear.
 <!-- end image description -->
 
 
@@ -2526,55 +2313,62 @@ the AIRAWAT supercomputer, focused on AI computing, was established at C-DAC 10 
                                                                                                                                     - · Boost public funding for R&amp;D: The US and Chinese governments have been earmarking public funds for investments in R&amp;D, especially in areas where private funding may not be available such as for basic research. The Indian government could consider consistently allocating higher levels of public funds towards R&amp;D.
 
 <!-- image -->
-**Image Description:** In this image we can see a group of vehicles moving on the road. We can also see some buildings and the sky.
+**AI-Generated Image Description:** The image captures a busy street scene at night, with multiple vehicles moving at high speed. The background features a modern urban setting with tall buildings and a few lights, indicating that this is likely a city street or a busy intersection. The street appears to be lit with ambient lights, possibly from streetlights or streetlights themselves, contributing to the overall illumination.
+
+The image is slightly blurred, which is typical for capturing motion in a photograph. The focus is on the vehicles, which are clearly visible and moving at high speed. The background is somewhat blurred, but the focus remains on the vehicles, which are clearly distinguishable.
+
+There are no people or other objects in the image, which keeps the focus on the vehicles and the motion. The lighting is bright, with the lights being visible from the top and bottom of the image, creating a dynamic and energetic atmosphere.
+
+To summarize, the image captures a busy street scene at night, with multiple vehicles moving at high speed, with a modern urban setting and a focus on the motion of the vehicles. The background is blurred, but the focus remains on the vehicles, which are clearly distinguishable. The image is slightly blurred, but the focus remains on the vehicles, which are clearly visible and moving at high speed.
 <!-- end image description -->
 
 
 ## Regulating Gen AI in India
 
 <!-- image -->
-**Image Description:** The image is a flowchart that depicts the steps involved in the process of regulatory compliance. The flowchart is structured with four main steps: Clarity on regulatory framework, Deployment of regulatory sandboxes, Watermarking Al-generated products/media, and Accuracy, accountability and liability. Each step is represented by a different color and is connected by a dashed line.
+**AI-Generated Image Description:** This is an image depicting a chain of thought process. The image is structured in a way that it is easy to follow and understand. Here is a detailed description of the image:
 
-### Clarity on regulatory framework
-- The first step is represented by a yellow box with a checkmark.
-- The second step is represented by a blue box with a checkmark.
-- The third step is represented by a green box with a checkmark.
-- The fourth step is represented by a red box with a checkmark.
+1. **Top Left Section**:
+   - The top left section contains a yellow box with the word "Clarity on regulatory framework" written in a white font.
+   - Below this, there is a yellow box with the word "Deployment of regulatory sandboxes" written in a white font.
 
-### Deployment of regulatory sandboxes
-- The first step is represented by a yellow box with a checkmark.
-- The second step is represented by a blue box with a checkmark.
-- The third step is represented by a green box with a checkmark.
-- The fourth step is represented by a red box with a checkmark.
+2. **Top Right Section**:
+   - This section is labeled "Watermarking Al-generated products/media" and is written in a white font.
+   - Below this, there is a yellow box with the word "Watermarking Al-generated products/media" written in a white font.
 
-### Watermarking Al-generated products/media
-- The first step is represented by a yellow box with a checkmark.
-- The second step is represented by a blue box with a checkmark.
-- The third step is represented by a green box with a checkmark.
-- The fourth step is represented by a red box with a checkmark.
+3. **Bottom Left Section**:
+   - This section is labeled "Accuracy, accountability and liability" and is written in a white font.
+   - Below this, there is a yellow box with the word "Watermarking Al-generated products/media" written in a white font.
 
-### Accuracy, accountability and liability
-- The first step is represented by a yellow box with a checkmark.
-- The second step is represented by a blue box with a checkmark.
-- The third step is represented by a red box with a checkmark.
-- The fourth step is represented by a green box with a checkmark.
+4. **Bottom Right Section**:
+   - This section is labeled "Watermarking Al-generated products/media" and is written in a white font.
+   - Below this, there is a yellow box with the word "Watermarking Al-generated products/media" written in a white font.
 
-### Clarity on regulatory framework
-- The first step is represented by a yellow box with a checkmark.
-- The second step is represented by a blue box with a checkmark.
-- The third step is represented by a green box with a checkmark.
-- The fourth step is represented by a red box with a checkmark.
+5. **Bottom Center Section**:
+   - This section is labeled "Accuracy, accountability and liability" and is written in a white font.
+   - Below this, there is a yellow box with the word "Watermarking Al-generated products/media" written in a white font.
 
-### Watermarking Al-generated products/media
-- The first step is represented by a yellow box with a checkmark.
-- The second step is represented by a blue box with a checkmark.
-- The third step is represented by a green box with a checkmark.
-- The fourth
+### Chain of Thought (CoT) Analysis
+
+- **Step 1**: Identify the main components of the image.
+- **Step 2**: Break down the components into smaller, more manageable parts.
+- **Step 3**: Analyze the relationships between the components.
+- **Step 4**: Determine the logical flow of the image.
+- **Step 5**: Draw conclusions based on the logical flow.
+
+### Conclusion
+
+The image is a sequence of steps that illustrate the process of watermarking, which is a process of identifying and removing marks or text from digital content. The steps are:
+
+1. **Top Left Section**:
+   - "Clarity on regulatory framework"
+   - "Deployment of regulatory sandboxes"
+   - "Watermarking Al-
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color box. In this box we can see a person's face.
+**AI-Generated Image Description:** This image contains a yellow square with a person's face in the center.
 <!-- end image description -->
 
 
@@ -2592,7 +2386,7 @@ Generative AI survey report
 and private entities understand and manage emergent risks while preparing for the future. The government will have to issue standardized guidelines (for data use, processing etc.) for developers to mitigate instances of bias and other risks that arise out of deployment and use of Gen AI systems.
 
 <!-- image -->
-**Image Description:** In the center of the image there is a yellow color clipboard. On the clipboard there is a pen.
+**AI-Generated Image Description:** Yellow clipboard with a pen.
 <!-- end image description -->
 
 
@@ -2605,7 +2399,7 @@ Regulatory sandboxes could identify policy and regulatory gaps that are needed f
                                                                                                                                             - · Cybersecurity and testing infrastructure: Cybersecurity frameworks are constantly evolving in response to emergent security threats. The sandboxes can also be used to determine the standards and approach to security testing. Gen AI systems will also have to address unforeseen vulnerabilities in the future. Robust security testing and auditing infrastructure will be needed for the protection
 
 <!-- image -->
-**Image Description:** In this image I can see a person wearing white color dress and holding a camera. In the background I can see the machines, lights, a table, a chair, a person and a wall.
+**AI-Generated Image Description:** In the image we can see there are people standing and they are wearing white color clothes. There are machines and there is a table and there are objects on the table.
 <!-- end image description -->
 
 
@@ -2615,7 +2409,7 @@ of all involved stakeholders (citizens, businesses, governments). Government cap
                                                                                                                                                 - · AI algorithms, tools and technologies to comply with existing laws and regulations: The regulatory sandboxes may be made available for AI developers wherein the emerging legal implications may be studied in context of existing laws and regulations. Modifications or additional interventions may be required to ensure that the development and use of Gen AI are compliant with the existing regulatory/legal framework. Legal experts may also be included in the review and evaluation of the Gen AI sandboxes.
 
 <!-- image -->
-**Image Description:** In the image there is a yellow background with a cartoon image of a laptop on it.
+**AI-Generated Image Description:** icon on a laptop showing a video clip.
 <!-- end image description -->
 
 
@@ -2626,7 +2420,7 @@ of all involved stakeholders (citizens, businesses, governments). Government cap
                                                                                                                                                 - · Gen AI systems have the capability to produce images, texts, and videos that are at par with content created by humans. Watermarking of AI products can safeguard human creativity and also address some of the concerns related to 'derived' or 'generated' content including fake news, deep fakes, etc. Since these are global tools used across different geographies and jurisdictions, a global framework/standard for watermarking technology could be considered. Different watermarking technologies can be piloted and tested.
 
 <!-- image -->
-**Image Description:** In this image, there is a yellow background with a lock icon.
+**AI-Generated Image Description:** I can see a yellow lock.
 <!-- end image description -->
 
 
@@ -2637,12 +2431,12 @@ of all involved stakeholders (citizens, businesses, governments). Government cap
                                                                                                                                                 - · o ensure that there is trust in the AI systems in T the longer term, a clear liability framework for Gen AI may be required. Such a framework would require extensive stakeholder consultations as the technology is evolving and the full impact of the risks are not fully known/understood.
 
 <!-- image -->
-**Image Description:** In this image there is a person standing and holding a camera. In the background there is a machine and a person standing. There is a light.
+**AI-Generated Image Description:** In the image we can see a person wearing a white dress is standing and holding a camera. In the background we can see a machine, lights, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall, a window, a light, a camera, a person, a table, a chair, a wall
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a poster with some text and some images.
+**AI-Generated Image Description:** The image is an edited photo with a blue and yellow color scheme. The photo appears to be from an entertainment or media production, possibly a movie or TV show. The background includes a series of buildings with columns and arches, suggesting a classical architectural style. The image is divided into two main sections: the top section contains the title "Annexures" and the bottom section contains the word "Annexures."
 <!-- end image description -->
 
 
@@ -2661,7 +2455,7 @@ the knowledge base. This proprietary data is then used to generate the response 
 Fine tuning: LLMs are built using data sourced from different sources such as websites, research papers, journals, forums etc. LLM model parameters that help generate LLM responses are trained on this massive repository. Fine tuning an LLM by adding
 
 <!-- image -->
-**Image Description:** In this image, there is a table with different sections. The table has a title at the top, which is "Ways of Making LLM Contextual on Enterprise's Proprietary Data". There are 4 different sections in the table. The first section is titled "Zero-Shot", "Few-Shot", "Prompt versioning", and "Prompt management". The second section is titled "Model Fine Tuning", "Accuracy", "Instrument tuned", and "Model Training". The third section is titled "Model Evaluation", "Hyperspeed Search", "Model Architecture", and "Model Training". The fourth section is titled "Hyperspeed Search", "Model Architecture", "Model Training", and "Model Evaluation".
+**AI-Generated Image Description:** The image is a table that lists various techniques involved in making a model. The table is divided into two main sections: "Techniques Involved" and "Methods." The "Techniques Involved" section lists the following techniques: "Zero-Shot," "Few-Shot," "Prompt versioning," "Chain of Thought," "Chain of Thought Optimization," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low," "Low,"
 <!-- end image description -->
 
 
@@ -2672,7 +2466,7 @@ enterprise's own data means changing the underlying model parameters by training
 Today, you can fine tune select Closed Source LLMs and most Open Source LLMs. As Open Source LLMs are smaller in size, resulting in lower compute cost
 
 <!-- image -->
-**Image Description:** A logo with a pink letter B on the left.
+**AI-Generated Image Description:** Key Data Considerations for Gen AI
 <!-- end image description -->
 
 
@@ -2681,7 +2475,7 @@ AI is only as good as the underlying data. So, for a successful AI-led transform
 Data Foundation in place, which involves modernizing the Data Platform. See key pointers below.
 
 <!-- image -->
-**Image Description:** In this image, we can see some icons and text.
+**AI-Generated Image Description:** Key data considerations for gen al.
 <!-- end image description -->
 
 
@@ -2710,7 +2504,7 @@ Prompt: This is the input for LLMs. Techniques like Prompt Engineering and Optim
 ## Open source LLMs with fine tuning
 
 <!-- image -->
-**Image Description:** In this image, we can see a diagram. There are some icons and text.
+**AI-Generated Image Description:** In the image, there is a table with different sections. The table has a title at the top, which is "Training". Below the title, there are three sections: "Open Source LLM Model", "Interpreting LLM", and "Customers Service Data and Instructions". Each section has a different label and a corresponding icon. The "Open Source LLM Model" section has an icon of a laptop and a checkmark, while the "Interpreting LLM" section has an icon of a magnifying glass and a question mark, and the "Customers Service Data and Instructions" section has an icon of a magnifying glass and a question mark.
 <!-- end image description -->
 
 
@@ -2728,44 +2522,40 @@ Prompt: This is the input for LLMs. Techniques like Prompt Engineering and Optim
 ## Closed source LLM with enterprise's data embeddings
 
 <!-- image -->
-**Image Description:** The image is a flowchart that describes the LLM Inference process. The flowchart is divided into two main sections: "Embedding Model" and "Semantic Search".
+**AI-Generated Image Description:** The image is a flowchart titled "LMM Inference" which is part of a larger flowchart titled "Embedding Model". The flowchart is divided into two main sections: "LMM Language" and "Embedding Model".
 
-### Embedding Model
+**LMM Language**
+- This section is connected to the Embedding Model.
+- In this section, the user is connected to the Embedding Model.
+- The user is connected to the Embedding Model through a "Natural Language" query.
+- The user is connected to the Embedding Model through a "LMM Response" query.
+- The user is connected to the Embedding Model through a "Advanced Prompt" by data type.
+- The user is connected to the Embedding Model through a "Nearest Chunks" query.
+- The user is connected to the Embedding Model through a "Live Data" query.
 
-#### Step 1:
-- **Embedding Model**:
-  - The first step is to use Vector DB based on the Entity's Knowledge Base (EB) to understand the query.
-  - The EB is used to understand the query and the Entity's Knowledge Base (EB) is used to understand the query and the Entity's Knowledge Base (EB).
+**Embedding Model**
+- This section is connected to the Embedding Model.
+- In this section, the user is connected to the Embedding Model.
+- The user is connected to the Embedding Model through a "LMM Response" query.
+- The user is connected to the Embedding Model through a "LMM Response" query.
+- The user is connected to the Embedding Model through a "Advanced Prompt" by data type.
+- The user is connected to the Embedding Model through a "Nearest Chunks" query.
+- The user is connected to the Embedding Model through a "Live Data" query.
 
-#### Step 2:
-- **Embedding Model**:
-  - The second step is to use the Embedding Model to understand the query.
-  - The Embedding Model is used to understand the query and the Entity's Knowledge Base (EB) is used to understand the query and the Entity's Knowledge Base (EB).
+**Link to Semantic Search**
+- This section is connected to the Semantic Search.
+- In this section, the user is connected to the Semantic Search.
+- The user is connected to the Semantic Search through a "Advanced Prompt" by data type.
+- The user is connected to the Semantic Search through a "Nearest Chunks" query.
+- The user is connected to the Semantic Search through a "Live Data" query.
 
-#### Step 3:
-- **Embedding Model**:
-  - The third step is to use the Embedding Model to understand the query.
-  - The Embedding Model is used to understand the query and the Entity's Knowledge Base (EB) is used to understand the query and the Entity's Knowledge Base (EB).
+**Link to Live Data from Enterprise Applications**
+- This section is connected to the Live Data from Enterprise Applications.
+- In this section, the user is connected to the Live Data from Enterprise Applications.
+- The user is connected to the Live Data from Enterprise Applications through a "Live Data from Applications" query.
 
-#### Step 4:
-- **Embedding Model**:
-  - The fourth step is to use the Embedding Model to understand the query.
-  - The Embedding Model is used to understand the query and the Entity's Knowledge Base (EB) is used to understand the query and the Entity's Knowledge Base (EB).
-
-#### Step 5:
-- **Embedding Model**:
-  - The fifth step is to use the Embedding Model to understand the query.
-  - The Embedding Model is used to understand the query and the Entity's Knowledge Base (EB) is used to understand the query and the Entity's Knowledge Base (EB).
-
-#### Step 6:
-- **Embedding Model**:
-  - The sixth step is to use the Embedding Model to understand the query.
-  - The Embedding Model is used to understand the query and the Entity's Knowledge Base (EB) is used to understand the query and the Entity's Knowledge Base (EB).
-
-#### Step 7:
-- **Embedding Model**:
-  - The seventh step is to use the Embedding Model to understand the query.
-  - The Embedding Model
+**Link to External Data**
+- This section is connected to the External
 <!-- end image description -->
 
 
@@ -2805,54 +2595,7 @@ D
 ## Reference Architecture for hybrid LLM deployment for an integrated Gen AI, AI, analytics and data platform
 
 <!-- image -->
-**Image Description:** The image is a table that lists different types of data services. The table is structured with columns and rows, and each column represents a different type of data service. The table is titled "Data Services" and is located at the top of the image.
-
-The table has the following columns:
-1. **Columns**:
-    - **Column Name**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **Column Type**: "Data Services"
-    - **
+**AI-Generated Image Description:** The image is a table that lists different data sources and their respective roles. The table is structured with columns for "AI Apps," "Agent," "Customer Service," "Recruitment," "Procurement," "Other Domain Specific Apps/Agents," "Enterprise Apps (Salesforce, Adobe etc.)," "Other Domain Specific Apps/Agents," "Other Platform," "Other Domain Specific Apps/Agents," "Other Platform," "Other Domain Specific Apps/Agents," "Other Platform," "Other Domain Specific Apps/Agents," "Other Platform," "Other Domain Specific Apps/Agents," "Other Platform," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents," "Other Domain Specific Apps/Agents,"
 <!-- end image description -->
 
 
@@ -2877,7 +2620,7 @@ Rate limiting and throttling: Managing requests and API volume for better user e
                                                                                                                                                                                         - Use efficient model architectures: Choose balanced, lightweight models for performance and cost- efficiency
 
 <!-- image -->
-**Image Description:** In this image there is a logo.
+**AI-Generated Image Description:** The logo represents a company named "F" responsible AI.
 <!-- end image description -->
 
 
@@ -2886,38 +2629,7 @@ F
 ## EY's approach to Responsible AI
 
 <!-- image -->
-**Image Description:** The image is a circular diagram with a central circle and eight sub-circles. Each sub-circle contains a different type of data or information. The data is represented by different colors and is arranged in a circular pattern. The data is labeled with letters and numbers, and it is likely that the data is related to a specific topic or field.
-
-The data is organized into the following categories:
-
-1. **Data Preparation**:
-   - **Data Preparation**: This sub-circle contains data that is prepared for analysis. The data is likely related to data preparation, such as data cleaning, data transformation, or data cleaning.
-
-2. **Data Management**:
-   - **Data Management**: This sub-circle contains data that is managed or managed for analysis. The data is likely related to data management, such as data management, data management, or data management.
-
-3. **Data Quality**:
-   - **Data Quality**: This sub-circle contains data that is quality-related. The data is likely related to data quality, such as data quality, data quality, or data quality.
-
-4. **Data Analysis**:
-   - **Data Analysis**: This sub-circle contains data that is analyzed. The data is likely related to data analysis, such as data analysis, data analysis, or data analysis.
-
-5. **Data Visualization**:
-   - **Data Visualization**: This sub-circle contains data that is visualized. The data is likely related to data visualization, such as data visualization, data visualization, or data visualization.
-
-6. **Data Quality**:
-   - **Data Quality**: This sub-circle contains data that is quality-related. The data is likely related to data quality, such as data quality, data quality, or data quality.
-
-7. **Data Management**:
-   - **Data Management**: This sub-circle contains data that is managed or managed for analysis. The data is likely related to data management, such as data management, data management, or data management.
-
-8. **Data Quality**:
-   - **Data Quality**: This sub-circle contains data that is quality-related. The data is likely related to data quality, such as data quality, data quality, or data quality.
-
-The data is organized into the following categories:
-- **Data Preparation**: This sub-circle contains data that is prepared for analysis.
-- **Data Management**: This sub-circle contains data that is managed or managed for analysis.
--
+**AI-Generated Image Description:** In the center of the image there is a circle with a yellow circle in the middle. There are texts written on the circle. There are texts written on the top and bottom of the image. There are texts written on the left and right sides of the image.
 <!-- end image description -->
 
 
@@ -2926,7 +2638,7 @@ Generative AI survey report
 61|
 
 <!-- image -->
-**Image Description:** In this image I can see a person wearing a hat and holding a camera. In the background I can see few plants and few trees.
+**AI-Generated Image Description:** In the image we can see there is a robot and a person is sitting on the robot.
 <!-- end image description -->
 
 
@@ -3147,7 +2859,7 @@ One side of the debate is conferring a separate legal status to AI systems deter
 It requires clear regulations that can address the issue of accountability of AI systems. This issue may
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color circle.
+**AI-Generated Image Description:** The image consists of a bright yellow circle.
 <!-- end image description -->
 
 
@@ -3162,7 +2874,7 @@ In the absence of encoded laws, regulations, statutory rules, or guidelines pert
 ## Clarity needed over IP rights
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color circle.
+**AI-Generated Image Description:** The image consists of a bright yellow circle.
 <!-- end image description -->
 
 
@@ -3179,34 +2891,34 @@ Generative AI survey report
 69|
 
 <!-- image -->
-**Image Description:** The image is a circle. It is a bright yellow color.
+**AI-Generated Image Description:** The image contains a single yellow circle.
 <!-- end image description -->
 
 
 Acknowledgements
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow object.
+**AI-Generated Image Description:** The image contains a dark blue hexagon.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** The image contains a dark blue hexagon.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** The image contains a yellow hexagon.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** The image contains a yellow hexagon.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** The image contains a yellow hexagon.
 <!-- end image description -->
 
 
@@ -3263,22 +2975,22 @@ Acknowledgements
                                                                                                                                                                                                                                                     - · Nisha Sharma
 
 <!-- image -->
-**Image Description:** In this image, we can see a logo.
+**AI-Generated Image Description:** In the image there is a yellow object.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** The image contains a yellow hexagon.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow color object.
+**AI-Generated Image Description:** The image contains a yellow and gray geometric shape.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a yellow shape.
+**AI-Generated Image Description:** The image contains a yellow hexagon.
 <!-- end image description -->
 
 
@@ -3367,64 +3079,32 @@ ED None
 This publication contains information in summary form and is therefore intended for general guidance only. It is not intended to be a substitute for detailed research or the exercise of professional judgment. Neither EYGM Limited nor any other member of the global Ernst &amp; Young organization can accept any responsibility for loss occasioned to any person acting or refraining from action as a result of any material in this publication. On any specific matter , reference should be made to the appropriate advisor.
 
 <!-- image -->
-**Image Description:** The image is a mathematical expression written in a white font. The text is written in a sans-serif font, which makes it easy to read. The expression is:
-
-```
-e.y.com/en-in
-```
-
-The text is written in a standard font, which is easy to read and understand. The background of the text is dark, which helps to make the text stand out. The text is centered, which makes it easy to see the exact meaning of the expression.
-
-### Analysis and Description:
-
-#### **Mathematical Expression:**
-
-The expression "e.y.com/en-in" is a mathematical expression that represents the number e. The expression is written in a standard font, which is easy to read and understand. The text is centered, which makes it easy to see the exact meaning of the expression.
-
-#### **Expression Context:**
-
-The expression "e.y.com/en-in" is a common mathematical expression used in various fields such as finance, economics, and computer science. It is often used to represent the number e, which is the base 2 logarithm of 2. In other words, it represents the number of ways to choose an integer from a set of n integers.
-
-#### **Mathematical Context:**
-
-The expression "e.y.com/en-in" is a well-known example of a mathematical expression. It is often used in finance, economics, and computer science to represent the number of ways to choose an integer from a set of n integers.
-
-#### **Mathematical Context:**
-
-The expression "e.y.com/en-in" is a well-known example of a mathematical expression. It is often used in finance, economics, and computer science to represent the number of ways to choose an integer from a set of n integers.
-
-#### **Mathematical Context:**
-
-The expression "e.y.com/en-in" is a well-known example of a mathematical expression. It is often used in finance, economics, and computer science to represent the number of ways to choose an integer from a set of n integers.
-
-#### **Mathematical Context:**
-
-The expression "e.y.com/en-in" is a well-known example of a mathematical expression. It is often used in finance, economics, and computer science to
+**AI-Generated Image Description:** The text on the image is "e.com/en-in" and it is written in white color.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a logo.
+**AI-Generated Image Description:** In the middle of the image, there is a logo with the letters "X" and "@EY_INDIA" written on it.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In the image there is a logo with the letters "in" written on it.
+**AI-Generated Image Description:** The image consists of two logos. The first logo is on the left side of the image and is blue with the letters "in" in white. The second logo is on the right side of the image and is black with the letters "EY" in white.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** In this image we can see a logo.
+**AI-Generated Image Description:** The image consists of a logo and text. The logo is placed on the left side of the image. It is a red square with the text "YouTube" written in white. The background of the logo is black.
 <!-- end image description -->
 
 
 <!-- image -->
-**Image Description:** The image consists of a blue background with a white "f" in the center. The "f" is in a bold, sans-serif font.
+**AI-Generated Image Description:** The blue background has the white letter "f" which is in a bold font.
 <!-- end image description -->
 
 
 EY Careers India
 
 <!-- image -->
-**Image Description:** In this image we can see a logo and some text.
+**AI-Generated Image Description:** In the image, there is a logo with the letters "O" and "@" on it. The logo is placed on the left side of the image.
 <!-- end image description -->

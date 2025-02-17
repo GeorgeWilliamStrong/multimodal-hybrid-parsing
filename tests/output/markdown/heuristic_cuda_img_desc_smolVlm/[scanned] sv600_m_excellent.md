@@ -1,5 +1,5 @@
 <!-- image -->
-**Image Description:** This image consists of a black rectangle.
+**AI-Generated Image Description:** This is a black rectangle.
 <!-- end image description -->
 
 
@@ -26,36 +26,7 @@ The DLM solution that used received the rise of the concern to efficient managem
 Satisfaction rating to new product
 
 <!-- image -->
-**Image Description:** The image is a bar chart that shows the results of a survey asking people to rate the quality of a product. The chart is divided into three sections, each representing a different category: usually, bad, and very good. The categories are represented by different colored bars, with the majority of the bars in each category being black.
-
-Here is a detailed description of the chart:
-
-1. **Title**: The chart is titled "Usually" and is written in a bold, sans-serif font.
-
-2. **Axes**:
-   - The x-axis is labeled "usually" and is labeled in a horizontal format.
-   - The y-axis is labeled "good" and is labeled in a vertical format.
-
-3. **Bars**:
-   - The horizontal bar chart is divided into three sections:
-     - The black bar represents "usually" and is labeled "usually" in a bold, sans-serif font.
-     - The black bar is labeled "bad" and is labeled "bad" in a bold, sans-serif font.
-     - The black bar is labeled "very good" and is labeled "very good" in a bold, sans-serif font.
-
-4. **Bars**:
-   - The horizontal bar chart is divided into three sections:
-     - The black bar represents "usually" and is labeled "usually" in a bold, sans-serif font.
-     - The black bar is labeled "bad" and is labeled "bad" in a bold, sans-serif font.
-     - The black bar is labeled "very good" and is labeled "very good" in a bold, sans-serif font.
-
-5. **Data Representation**:
-   - The majority of the bars in the "usually" section are black, indicating that the respondents rate the product as "usually" or "bad."
-   - The majority of the bars in the "bad" section are black, indicating that the respondents rate the product as "bad."
-   - The majority of the bars in the "very good" section are black, indicating that the respondents rate the product as "very good."
-
-### Analysis and Description:
-
-The bar chart is designed to show the results of a survey asking people to rate the quality of a product. The chart is divided into three sections: "usually," "bad," and "very good." The horizontal bar chart is
+**AI-Generated Image Description:** The image shows a pie chart with three categories: usually, bad, and very good. The categories are represented by different colors and are arranged in a circular pattern. The majority of the pie chart is occupied by the category "usually," with a percentage of 20%. This category is represented by a smaller circle, which is colored black. The remaining categories are represented by smaller circles, each colored in a different color: 7% is represented by a red circle, 47% is represented by a green circle, and 26% is represented by a blue circle. The pie chart is titled "usually" and is labeled as "good."
 <!-- end image description -->
 
 
@@ -74,26 +45,5 @@ The committee that aimed at the decrease of a variety of business risks in an in
 Satisfaction rating to new product
 
 <!-- image -->
-**Image Description:** The image is a bar chart. The chart is titled "1998 - 2004." The x-axis represents the years, starting from 1998 and ending at 2004. The y-axis represents the values, ranging from 0 to 100. The chart has two categories: "1998" and "2004."
-
-The x-axis is labeled "1998 - 2004." The y-axis is labeled "0 - 100." The chart has two sets of bars, one for each year. The bars are color-coded to represent the years. The color of the bars is black, indicating the years 1998 and 2004.
-
-The chart shows the following data:
-- The years 1998 and 2004 have the same value.
-- The years 2000 and 2004 have the same value.
-- The years 2001 and 2004 have the same value.
-- The years 2002 and 2004 have the same value.
-- The years 2003 and 2004 have the same value.
-- The years 2004 and 2005 have the same value.
-- The years 2006 and 2007 have the same value.
-- The years 2008 and 2009 have the same value.
-- The years 2010 and 2011 have the same value.
-- The years 2012 and 2013 have the same value.
-- The years 2014 and 2015 have the same value.
-- The years 2016 and 2017 have the same value.
-- The years 2018 and 2019 have the same value.
-- The years 2020 and 2021 have the same value.
-- The years 2022 and 2023 have the same value.
-- The years 2024 and 2025 have the same value.
-- The years 2
+**AI-Generated Image Description:** The chart shows data for the years 1998, 2000, and 2003. The x-axis represents the years while the y-axis shows the number of people. The number of people in the chart is increasing.
 <!-- end image description -->

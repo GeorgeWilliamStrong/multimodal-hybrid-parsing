@@ -21,7 +21,7 @@ Commission File Number:
 001-36743
 
 <!-- image -->
-**Image Description:** Apple.
+**AI-Generated Image Description:** Apple
 <!-- end image description -->
 
 
