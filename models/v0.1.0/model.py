@@ -32,7 +32,7 @@ class DocumentProcessor:
             device=AcceleratorDevice.CUDA
         )
         self.pipeline_options.do_picture_description = False
-        prompt = "Describe what you can see in this image. Focus only on what is visually present. Be concise and accurate in three sentences maximum."
+        prompt = "Describe what you can see in the image. Do not make anything up that is not in the image. Respond with three sentences."
         self.pipeline_options.picture_description_options = smolvlm_picture_description
         self.pipeline_options.picture_description_options.prompt = prompt
         self.pipeline_options.picture_description_options.generation_config = {

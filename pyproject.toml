@@ -12,7 +12,7 @@ authors = [
 license = {text = "MIT"}
 requires-python = ">=3.10"
 dependencies = [
-    "docling==2.15.1",
+    "docling==2.23.0",
     "pytest==7.0.0",
     "pdf2image==1.16.0",
     "reportlab==4.2.5",
