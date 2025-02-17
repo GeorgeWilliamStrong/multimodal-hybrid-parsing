@@ -14,18 +14,18 @@ def test_pdf_parsing():
     # Create a parser instance with image description enabled
     parser = DocumentParser(
         device="cuda",
-        enable_picture_description=True
+        picture_description="granite"
     )
 
     # Get all files from samples directory
     samples_dir = Path("tests/samples")
-    output_dir = Path("tests/output/markdown/heuristic_cuda_img_desc")
+    output_dir = Path("tests/output/markdown/heuristic_cuda_img_desc_granite")
     output_dir.mkdir(parents=True, exist_ok=True)
 
     # Create timing stats directory
     stats_dir = Path("tests/stats")
     stats_dir.mkdir(parents=True, exist_ok=True)
-    benchmark_file = stats_dir / "heuristic_parsing_cuda_img_desc_stats.json"
+    benchmark_file = stats_dir / "heuristic_parsing_cuda_img_desc_granite_stats.json"
 
     # Load existing timing data if available
     benchmark_data = {}
