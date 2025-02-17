@@ -1,13 +1,12 @@
 from pathlib import Path
-from typing import Union, Optional, Literal
+from typing import Union, Optional
 from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling.datamodel.base_models import InputFormat
 from docling.datamodel.pipeline_options import (
     AcceleratorDevice,
     AcceleratorOptions, 
     PdfPipelineOptions,
-    granite_picture_description,
-    PictureDescriptionApiOptions
+    granite_picture_description
 )
 from docling_core.types.doc import PictureItem
 
@@ -20,8 +19,6 @@ class DocumentParser:
         device: Optional[str] = None,
         num_threads: int = 8,
         enable_picture_description: bool = False,
-        description_model: Literal["granite", "gpt4v"] = "granite",
-        openai_api_key: Optional[str] = None
     ):
         """
         Initialize the parser
@@ -31,8 +28,6 @@ class DocumentParser:
                 If None, will use 'auto'.
             num_threads: Number of threads to use for processing
             enable_picture_description: Whether to enable image description
-            description_model: Which model to use for descriptions ('granite' or 'gpt4v')
-            openai_api_key: OpenAI API key (required if using gpt4v)
         """
         self.doc = None
         self.device = device or "auto"
@@ -47,9 +42,8 @@ class DocumentParser:
         }
 
         if self.device not in device_map:
-            raise ValueError(
-                f"Invalid device '{device}'. Must be one of: {list(device_map.keys())}"
-            )
+            msg = f"Invalid device '{device}'. Must be one of: {list(device_map.keys())}"
+            raise ValueError(msg)
 
         # Configure accelerator options
         self.accelerator_options = AcceleratorOptions(
@@ -58,7 +52,9 @@ class DocumentParser:
         )
 
         # Configure pipeline options with picture description
-        self.pipeline_options = PdfPipelineOptions()
+        self.pipeline_options = PdfPipelineOptions(
+            enable_remote_services=True  # Pass as constructor param
+        )
         self.pipeline_options.images_scale = 300 / 72.0
         self.pipeline_options.generate_page_images = True
         self.pipeline_options.generate_picture_images = True
@@ -67,35 +63,12 @@ class DocumentParser:
         # Configure picture description if enabled
         if enable_picture_description:
             self.pipeline_options.do_picture_description = True
-            self.pipeline_options.enable_remote_services = description_model == "gpt4v"
-
-            if description_model == "granite":
-                self.pipeline_options.picture_description_options = granite_picture_description
-                self.pipeline_options.picture_description_options.generation_config = {
-                    "max_new_tokens": 800,
-                    "do_sample": False,
-                }
-                self._set_description_prompt(self.pipeline_options.picture_description_options)
-
-            elif description_model == "gpt4v":
-                if not openai_api_key:
-                    raise ValueError("OpenAI API key required when using gpt4v model")
-                
-                self.pipeline_options.picture_description_options = PictureDescriptionApiOptions(
-                    url="https://api.openai.com/v1/chat/completions",
-                    headers={
-                        "Authorization": f"Bearer {openai_api_key}",
-                        "Content-Type": "application/json"
-                    },
-                    params={
-                        "model": "gpt-4-vision-preview",
-                        "max_tokens": 800,
-                        "temperature": 0,
-                    },
-                    timeout=30,
-                    prompt="Describe the image in detail, focusing on key visual elements and any text or data present."
-                )
-                self.pipeline_options.enable_remote_services = True  # This needs to be set after options
+            self.pipeline_options.picture_description_options = granite_picture_description
+            self.pipeline_options.picture_description_options.generation_config = {
+                "max_new_tokens": 800,
+                "do_sample": False,
+            }
+            self._set_description_prompt(self.pipeline_options.picture_description_options)
 
     def _set_description_prompt(self, options):
         """Set the custom prompt for image description"""
@@ -152,7 +125,8 @@ class DocumentParser:
             raise ValueError("No document loaded. Call load_document() first.")
 
         # First collect all picture descriptions by page and position
-        picture_descriptions = {}  # page_no -> list of descriptions in order of appearance
+        # page_no -> list of descriptions in order of appearance
+        picture_descriptions = {}  
         for element, _level in self.doc.document.iterate_items():
             if isinstance(element, PictureItem):
                 page_no = element.prov[0].page_no
@@ -164,8 +138,8 @@ class DocumentParser:
                 if element.annotations:
                     # Take only the first annotation for each image
                     ann = element.annotations[0]
-                    description = f"**Image Description:** {ann.text}\n<!-- end image description -->"
-                picture_descriptions[page_no].append(description)
+                    desc = f"**Image Description:** {ann.text}\n<!-- end image description -->"
+                    picture_descriptions[page_no].append(desc)
 
         # Process each page
         markdown_pages = []
@@ -184,7 +158,9 @@ class DocumentParser:
                     if idx < len(picture_descriptions[page_no]):
                         description = picture_descriptions[page_no][idx]
                         if description:
-                            new_page_md += f"<!-- image -->\n{description}\n{part}"
+                            new_page_md += (
+                                f"<!-- image -->\n{description}\n{part}"
+                            )
                         else:
                             new_page_md += f"<!-- image -->{part}"
                     else:

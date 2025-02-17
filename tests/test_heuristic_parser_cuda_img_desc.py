@@ -4,6 +4,7 @@ from pathlib import Path
 import psutil
 import torch
 from multimodal_hybrid_parsing import DocumentParser
+import os
 
 
 # Constants
@@ -12,7 +13,10 @@ BYTES_TO_MB = 1024 * 1024  # Conversion factor from bytes to MB
 
 def test_pdf_parsing():
     # Create a parser instance with image description enabled
-    parser = DocumentParser(device="cuda", enable_picture_description=True)
+    parser = DocumentParser(
+        device="cuda",
+        enable_picture_description=True
+    )
 
     # Get all files from samples directory
     samples_dir = Path("tests/samples")
