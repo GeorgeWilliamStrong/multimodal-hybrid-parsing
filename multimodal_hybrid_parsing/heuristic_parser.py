@@ -93,17 +93,19 @@ class DocumentParser:
     def _set_description_prompt(self, options):
         """Set the prompt for image description"""
         options.prompt = """
-            You are an expert at generating accurate descriptions of images in documents.
+            Describe this image accurately and concisely. Focus on:
+            1. The main visual elements and their arrangement
+            2. Any text, numbers, or data that is clearly visible
+            3. The type of visualization (if it's a chart, graph, diagram etc.)
 
-            Analyse the contents of the image.
-            Describe the image in a few sentences.
-            Focus on observations rather than interpretations.
-            Extract key statistics where possible.
-            Be accurate and concise.
-            Do not infer anything beyond what you can see in the image.
-            If you are uncertain about something, omit it from your response.
-            
-            Wait! Double check your answer before responding.
+            Important guidelines:
+            - Use clear, direct language
+            - Avoid repetition
+            - Only describe what is visually present
+            - For charts/graphs, state the key data points
+            - For diagrams, describe the key components and their relationships
+            - If text is present, include the most relevant text
+            - Limit to 2-3 focused sentences
             """
 
     def load_document(self, file_path: Union[str, Path]) -> None:
