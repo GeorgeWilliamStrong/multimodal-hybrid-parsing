@@ -87,26 +87,12 @@ class DocumentParser:
                     "max_new_tokens": 800,
                     "do_sample": False,
                 }
-                # Set custom prompt for granite
-                self._set_description_prompt(self.pipeline_options.picture_description_options)
+            # Set custom prompt for granite
+            self._set_description_prompt(self.pipeline_options.picture_description_options)
 
     def _set_description_prompt(self, options):
         """Set the prompt for image description"""
-        options.prompt = """
-            Describe this image accurately and concisely. Focus on:
-            1. The main visual elements and their arrangement
-            2. Any text, numbers, or data that is clearly visible
-            3. The type of visualization (if it's a chart, graph, diagram etc.)
-
-            Important guidelines:
-            - Use clear, direct language
-            - Avoid repetition
-            - Only describe what is visually present
-            - For charts/graphs, state the key data points
-            - For diagrams, describe the key components and their relationships
-            - If text is present, include the most relevant text
-            - Limit to 2-3 focused sentences
-            """
+        options.prompt = "Describe what you can see in the image. Do not make anything up that is not in the image. Respond with three sentences."
 
     def load_document(self, file_path: Union[str, Path]) -> None:
         """
