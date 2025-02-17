@@ -4,7 +4,6 @@ from pathlib import Path
 import psutil
 import torch
 from multimodal_hybrid_parsing import DocumentParser
-import os
 
 
 # Constants
