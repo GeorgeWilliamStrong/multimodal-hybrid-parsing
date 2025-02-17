@@ -1,0 +1,223 @@
+{
+  "[maths-and-diagrams] ey-gen-ai-report.pdf": [
+    {
+      "timestamp": "2025-02-17 11:21:37",
+      "processing_time": 280.65569710731506,
+      "file_size": 9701634,
+      "success": true,
+      "memory_metrics": {
+        "initial_gpu_memory_mb": 0.0,
+        "peak_gpu_memory_mb": 4270.05,
+        "final_gpu_memory_mb": 174.92,
+        "gpu_memory_increase_mb": 174.92,
+        "initial_cpu_memory_mb": 717.72,
+        "final_cpu_memory_mb": 5611.97,
+        "cpu_memory_increase_mb": 4894.25
+      }
+    }
+  ],
+  "[research-paper] 1312.6114v11.pdf": [
+    {
+      "timestamp": "2025-02-17 11:22:12",
+      "processing_time": 34.36235427856445,
+      "file_size": 3926758,
+      "success": true,
+      "memory_metrics": {
+        "initial_gpu_memory_mb": 174.92,
+        "peak_gpu_memory_mb": 12052.83,
+        "final_gpu_memory_mb": 174.76,
+        "gpu_memory_increase_mb": -0.16,
+        "initial_cpu_memory_mb": 5611.97,
+        "final_cpu_memory_mb": 6108.68,
+        "cpu_memory_increase_mb": 496.71
+      }
+    }
+  ],
+  "[handwritten] Deloitte.pdf": [
+    {
+      "timestamp": "2025-02-17 11:22:18",
+      "processing_time": 6.369415283203125,
+      "file_size": 300295,
+      "success": true,
+      "memory_metrics": {
+        "initial_gpu_memory_mb": 174.76,
+        "peak_gpu_memory_mb": 12052.83,
+        "final_gpu_memory_mb": 340.33,
+        "gpu_memory_increase_mb": 165.56,
+        "initial_cpu_memory_mb": 6108.68,
+        "final_cpu_memory_mb": 6091.8,
+        "cpu_memory_increase_mb": -16.89
+      }
+    }
+  ],
+  "[red-line-doc] Dummy employee contract.pdf": [
+    {
+      "timestamp": "2025-02-17 11:22:24",
+      "processing_time": 5.953550100326538,
+      "file_size": 112065,
+      "success": true,
+      "memory_metrics": {
+        "initial_gpu_memory_mb": 340.33,
+        "peak_gpu_memory_mb": 12052.83,
+        "final_gpu_memory_mb": 507.1,
+        "gpu_memory_increase_mb": 166.78,
+        "initial_cpu_memory_mb": 6091.8,
+        "final_cpu_memory_mb": 6091.5,
+        "cpu_memory_increase_mb": -0.3
+      }
+    }
+  ],
+  "[low-quality-scan]cia-rdp74-00005r000200080057-3 (dragged).pdf": [
+    {
+      "timestamp": "2025-02-17 11:22:31",
+      "processing_time": 6.961968660354614,
+      "file_size": 748149,
+      "success": true,
+      "memory_metrics": {
+        "initial_gpu_memory_mb": 507.1,
+        "peak_gpu_memory_mb": 12052.83,
+        "final_gpu_memory_mb": 674.15,
+        "gpu_memory_increase_mb": 167.05,
+        "initial_cpu_memory_mb": 6091.5,
+        "final_cpu_memory_mb": 6091.54,
+        "cpu_memory_increase_mb": 0.04
+      }
+    }
+  ],
+  "[scanned] sv600_m_excellent.pdf": [
+    {
+      "timestamp": "2025-02-17 11:22:48",
+      "processing_time": 17.32563352584839,
+      "file_size": 641447,
+      "success": true,
+      "memory_metrics": {
+        "initial_gpu_memory_mb": 674.15,
+        "peak_gpu_memory_mb": 12052.83,
+        "final_gpu_memory_mb": 841.18,
+        "gpu_memory_increase_mb": 167.03,
+        "initial_cpu_memory_mb": 6091.54,
+        "final_cpu_memory_mb": 6091.93,
+        "cpu_memory_increase_mb": 0.39
+      }
+    }
+  ],
+  "[quarterly-release] aapl-20240629.pdf": [
+    {
+      "timestamp": "2025-02-17 11:23:08",
+      "processing_time": 19.6896014213562,
+      "file_size": 1370585,
+      "success": true,
+      "memory_metrics": {
+        "initial_gpu_memory_mb": 841.18,
+        "peak_gpu_memory_mb": 12052.83,
+        "final_gpu_memory_mb": 177.0,
+        "gpu_memory_increase_mb": -664.18,
+        "initial_cpu_memory_mb": 6091.93,
+        "final_cpu_memory_mb": 6069.36,
+        "cpu_memory_increase_mb": -22.57
+      }
+    }
+  ],
+  "[complex-chart] generative-ai-global-research-report-113914.pdf": [
+    {
+      "timestamp": "2025-02-17 11:26:04",
+      "processing_time": 176.12838554382324,
+      "file_size": 4047699,
+      "success": true,
+      "memory_metrics": {
+        "initial_gpu_memory_mb": 177.0,
+        "peak_gpu_memory_mb": 12052.83,
+        "final_gpu_memory_mb": 174.19,
+        "gpu_memory_increase_mb": -2.81,
+        "initial_cpu_memory_mb": 6069.36,
+        "final_cpu_memory_mb": 10072.7,
+        "cpu_memory_increase_mb": 4003.34
+      }
+    }
+  ],
+  "[s1-form-large-file] wework-s1.pdf": [
+    {
+      "timestamp": "2025-02-17 11:33:42",
+      "processing_time": 457.25595235824585,
+      "file_size": 45528099,
+      "success": true,
+      "memory_metrics": {
+        "initial_gpu_memory_mb": 174.19,
+        "peak_gpu_memory_mb": 12052.83,
+        "final_gpu_memory_mb": 174.17,
+        "gpu_memory_increase_mb": -0.02,
+        "initial_cpu_memory_mb": 10072.7,
+        "final_cpu_memory_mb": 24696.76,
+        "cpu_memory_increase_mb": 14624.07
+      }
+    }
+  ],
+  "[2-page-table] Understanding RAG.pdf": [
+    {
+      "timestamp": "2025-02-17 11:33:49",
+      "processing_time": 7.5312371253967285,
+      "file_size": 170738,
+      "success": true,
+      "memory_metrics": {
+        "initial_gpu_memory_mb": 174.17,
+        "peak_gpu_memory_mb": 12052.83,
+        "final_gpu_memory_mb": 340.43,
+        "gpu_memory_increase_mb": 166.26,
+        "initial_cpu_memory_mb": 24696.76,
+        "final_cpu_memory_mb": 24578.9,
+        "cpu_memory_increase_mb": -117.86
+      }
+    }
+  ],
+  "[scanned] PublicWaterMassMailing.pdf": [
+    {
+      "timestamp": "2025-02-17 11:34:35",
+      "processing_time": 46.10175275802612,
+      "file_size": 2681358,
+      "success": true,
+      "memory_metrics": {
+        "initial_gpu_memory_mb": 340.43,
+        "peak_gpu_memory_mb": 12052.83,
+        "final_gpu_memory_mb": 508.18,
+        "gpu_memory_increase_mb": 167.75,
+        "initial_cpu_memory_mb": 24578.9,
+        "final_cpu_memory_mb": 24576.79,
+        "cpu_memory_increase_mb": -2.12
+      }
+    }
+  ],
+  "[form-data] uniform_residential_loan_application.pdf": [
+    {
+      "timestamp": "2025-02-17 11:34:48",
+      "processing_time": 13.02706265449524,
+      "file_size": 506407,
+      "success": true,
+      "memory_metrics": {
+        "initial_gpu_memory_mb": 508.18,
+        "peak_gpu_memory_mb": 12052.83,
+        "final_gpu_memory_mb": 674.98,
+        "gpu_memory_increase_mb": 166.8,
+        "initial_cpu_memory_mb": 24576.79,
+        "final_cpu_memory_mb": 24576.74,
+        "cpu_memory_increase_mb": -0.05
+      }
+    }
+  ],
+  "[table] Black White Minimalist Simple Creative Freelancer Invoice (1).pdf": [
+    {
+      "timestamp": "2025-02-17 11:34:53",
+      "processing_time": 5.192376375198364,
+      "file_size": 34413,
+      "success": true,
+      "memory_metrics": {
+        "initial_gpu_memory_mb": 674.98,
+        "peak_gpu_memory_mb": 12052.83,
+        "final_gpu_memory_mb": 175.15,
+        "gpu_memory_increase_mb": -499.82,
+        "initial_cpu_memory_mb": 24576.74,
+        "final_cpu_memory_mb": 24339.57,
+        "cpu_memory_increase_mb": -237.17
+      }
+    }
+  ]
+}
