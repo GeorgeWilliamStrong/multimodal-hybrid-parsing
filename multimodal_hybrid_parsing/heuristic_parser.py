@@ -7,7 +7,7 @@ from docling.datamodel.pipeline_options import (
     AcceleratorOptions, 
     PdfPipelineOptions,
     granite_picture_description,
-    PictureDescriptionVlmOptions,
+    smolvlm_picture_description
 )
 from docling_core.types.doc import PictureItem
 
@@ -69,8 +69,12 @@ class DocumentParser:
             if picture_description == "smolVLM":
                 # Configure smolVLM picture description
                 self.pipeline_options.picture_description_options = (
-                    PictureDescriptionVlmOptions()
+                    smolvlm_picture_description
                 )
+                self.pipeline_options.picture_description_options.generation_config = {
+                    "max_new_tokens": 500,
+                    "do_sample": False,
+                }
             else:  # granite
                 # Configure Granite picture description
                 self.pipeline_options.picture_description_options = (
