@@ -1,5 +1,6 @@
 from pathlib import Path
 from typing import Union, Optional, Literal
+from docling.pipeline.standard_pdf_pipeline import StandardPdfPipeline
 from docling.document_converter import (
     DocumentConverter, 
     PdfFormatOption,
@@ -111,11 +112,20 @@ class DocumentParser:
         # Update pipeline options with accelerator
         self.pipeline_options.accelerator_options = self.accelerator_options
 
-        # Configure format options for all supported formats
+        # Configure format options for all supported formats using StandardPdfPipeline
         format_options = {
-            InputFormat.PDF: PdfFormatOption(pipeline_options=self.pipeline_options),
-            InputFormat.DOCX: WordFormatOption(pipeline_options=self.pipeline_options),
-            InputFormat.PPTX: PowerpointFormatOption(pipeline_options=self.pipeline_options)
+            InputFormat.PDF: PdfFormatOption(
+                pipeline_cls=StandardPdfPipeline,
+                pipeline_options=self.pipeline_options
+            ),
+            InputFormat.DOCX: WordFormatOption(
+                pipeline_cls=StandardPdfPipeline,
+                pipeline_options=self.pipeline_options
+            ),
+            InputFormat.PPTX: PowerpointFormatOption(
+                pipeline_cls=StandardPdfPipeline,
+                pipeline_options=self.pipeline_options
+            )
         }
 
         converter = DocumentConverter(
