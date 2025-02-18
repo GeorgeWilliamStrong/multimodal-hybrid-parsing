@@ -10,8 +10,15 @@ with open('tests/stats/heuristic_parsing_cuda_stats.json', 'r') as f:
 with open('tests/stats/heuristic_parsing_cpu_stats.json', 'r') as f:
     cpu_stats = json.load(f)
 
-with open('tests/stats/heuristic_parsing_cuda_img_desc_stats.json', 'r') as f:
-    cuda_img_desc_stats = json.load(f)
+granite_path = ('tests/stats/heuristic_parsing_cuda_img_desc_'
+                'granite_stats.json')
+with open(granite_path, 'r') as f:
+    cuda_img_desc_granite_stats = json.load(f)
+
+smolVlm_path = ('tests/stats/heuristic_parsing_cuda_img_desc_'
+                'smolVlm_stats.json')
+with open(smolVlm_path, 'r') as f:
+    cuda_img_desc_smolVlm_stats = json.load(f)
 
 with open('tests/stats/pdf_plumber_stats.json', 'r') as f:
     pdf_plumber_stats = json.load(f)
@@ -54,13 +61,19 @@ def process_stats(stats_dict, version):
 # Create DataFrames
 cuda_df = process_stats(cuda_stats, 'Docling CUDA')
 cpu_df = process_stats(cpu_stats, 'Docling CPU')
-cuda_img_desc_df = process_stats(cuda_img_desc_stats, 'Docling CUDA+ImgDesc')
+cuda_img_desc_granite_df = process_stats(
+    cuda_img_desc_granite_stats, 'Docling CUDA+Granite'
+)
+cuda_img_desc_smolVlm_df = process_stats(
+    cuda_img_desc_smolVlm_stats, 'Docling CUDA+SmolVLM'
+)
 pdf_plumber_df = process_stats(pdf_plumber_stats, 'PDF Plumber')
 instill_df = process_stats(instill_stats, 'Instill Hybrid')
 
 # Combine all DataFrames
 combined_df = pd.concat([
-    cuda_df, cpu_df, cuda_img_desc_df, pdf_plumber_df, instill_df
+    cuda_df, cpu_df, cuda_img_desc_granite_df, cuda_img_desc_smolVlm_df,
+    pdf_plumber_df, instill_df
 ])
 
 # Set style
@@ -102,8 +115,8 @@ plt.savefig(
 # Print some summary statistics
 print("\nSummary Statistics (excluding WeWork S1):")
 print("-" * 50)
-versions = ['Docling CUDA', 'Docling CPU', 'Docling CUDA+ImgDesc', 
-            'PDF Plumber', 'Instill Hybrid']
+versions = ['Docling CUDA', 'Docling CPU', 'Docling CUDA+Granite', 
+            'Docling CUDA+SmolVLM', 'PDF Plumber', 'Instill Hybrid']
 
 for version in versions:
     df = combined_df[
