@@ -1,17 +1,15 @@
 from pathlib import Path
 from typing import Union, Optional, Literal
-from docling.document_converter import DocumentConverter, PdfFormatOption, FormatOption
+from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling.datamodel.base_models import InputFormat
 from docling.datamodel.pipeline_options import (
     AcceleratorDevice,
     AcceleratorOptions, 
     PdfPipelineOptions,
-    PictureDescriptionVlmOptions,
     granite_picture_description,
     smolvlm_picture_description
 )
 from docling_core.types.doc import PictureItem
-from docling.models.picture_description_vlm_model import PictureDescriptionVlmModel
 
 
 class DocumentParser:
@@ -67,29 +65,34 @@ class DocumentParser:
         self.pipeline_options.generate_picture_images = True
         self.pipeline_options.do_formula_enrichment = True
 
-        self.vlm_model = None
+        # Configure picture description based on selected mode
         if picture_description != "none":
-            # Initialize VLM model for retrospective processing
-            vlm_options = (
-                smolvlm_picture_description if picture_description == "smolVLM"
-                else granite_picture_description
-            )
+            self.pipeline_options.do_picture_description = True
             
-            # Set custom prompt
-            vlm_options.prompt = "Describe what you can see in the image. Do not make anything up that is not in the image. Respond with three sentences."
-            
-            # Configure generation parameters
-            vlm_options.generation_config = {
-                "max_new_tokens": 500 if picture_description == "smolVLM" else 800,
-                "do_sample": False,
-            }
-            
-            self.vlm_model = PictureDescriptionVlmModel(
-                enabled=True,
-                artifacts_path=None,
-                options=vlm_options,
-                accelerator_options=self.accelerator_options
-            )
+            if picture_description == "smolVLM":
+                # Configure smolVLM picture description
+                self.pipeline_options.picture_description_options = (
+                    smolvlm_picture_description
+                )
+                self.pipeline_options.picture_description_options.generation_config = {
+                    "max_new_tokens": 500,
+                    "do_sample": False,
+                }
+            else:  # granite
+                # Configure Granite picture description
+                self.pipeline_options.picture_description_options = (
+                    granite_picture_description
+                )
+                self.pipeline_options.picture_description_options.generation_config = {
+                    "max_new_tokens": 800,
+                    "do_sample": False,
+                }
+            # Set custom prompt for granite
+            self._set_description_prompt(self.pipeline_options.picture_description_options)
+
+    def _set_description_prompt(self, options):
+        """Set the prompt for image description"""
+        options.prompt = "Describe what you can see in the image. Do not make anything up that is not in the image. Respond with three sentences."
 
     def load_document(self, file_path: Union[str, Path]) -> None:
         """
@@ -98,44 +101,21 @@ class DocumentParser:
         Args:
             file_path: Path to the document file
         """
-        file_path = Path(file_path) if isinstance(file_path, str) else file_path
-        
-        # Determine input format from file extension
-        format_map = {
-            ".pdf": InputFormat.PDF,
-            ".docx": InputFormat.DOCX,
-            ".pptx": InputFormat.PPTX
-        }
-        input_format = format_map.get(file_path.suffix.lower())
-        if not input_format:
-            raise ValueError(f"Unsupported file format: {file_path.suffix}")
+        file_path = (
+            Path(file_path) if isinstance(file_path, str) else file_path
+        )
 
-        format_options = {}
-        if input_format == InputFormat.PDF:
-            # Use pipeline options for PDF
-            self.pipeline_options.accelerator_options = self.accelerator_options
-            format_options[input_format] = PdfFormatOption(
-                pipeline_options=self.pipeline_options
-            )
-        else:
-            # Use simple format option for DOCX/PPTX
-            format_options[input_format] = FormatOption()
+        # Update pipeline options with accelerator
+        self.pipeline_options.accelerator_options = self.accelerator_options
 
-        converter = DocumentConverter(format_options=format_options)
+        converter = DocumentConverter(
+            format_options={
+                    InputFormat.PDF: PdfFormatOption(
+                        pipeline_options=self.pipeline_options
+                    )
+            }
+        )
         self.doc = converter.convert(file_path)
-
-        # For DOCX/PPTX, process images retrospectively if VLM model is enabled
-        if input_format in (InputFormat.DOCX, InputFormat.PPTX) and self.vlm_model:
-            for element, _level in self.doc.document.iterate_items():
-                if isinstance(element, PictureItem):
-                    image = element.get_image(self.doc.document)
-                    if image:
-                        descriptions = list(self.vlm_model._annotate_images([image]))
-                        if descriptions:
-                            element.annotations.append({
-                                "text": descriptions[0],
-                                "provenance": self.vlm_model.provenance
-                            })
 
     def to_markdown(
         self, output_path: Optional[Union[str, Path]] = None
