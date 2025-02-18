@@ -109,17 +109,33 @@ class DocumentParser:
             "Respond with three sentences."
         )
 
-    def _convert_to_pdf(self, file_path: Path) -> Path:
+    def _convert_to_pdf(
+        self, 
+        file_path: Path,
+        save_pdf: bool = False,
+        output_dir: Optional[Union[str, Path]] = None
+    ) -> Path:
         """
         Convert Office documents to PDF using LibreOffice
 
         Args:
             file_path: Path to the Office document
+            save_pdf: Whether to save the PDF permanently (default: False)
+            output_dir: Directory to save the PDF in if save_pdf is True.
+                       If None, saves in same directory as input file.
 
         Returns:
             Path: Path to the converted PDF file
         """
-        # Create a temporary directory for the output
+        # Determine output directory
+        if save_pdf:
+            if output_dir is None:
+                output_dir = file_path.parent
+            else:
+                output_dir = Path(output_dir)
+                output_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Create a temporary directory for the conversion
         with tempfile.TemporaryDirectory() as temp_dir:
             temp_dir_path = Path(temp_dir)
             
@@ -138,9 +154,15 @@ class DocumentParser:
                 if not pdf_path.exists():
                     raise RuntimeError("PDF conversion failed")
                 
-                # Create a new temporary file that persists outside the temp directory
-                final_pdf = Path(tempfile.mktemp(suffix='.pdf'))
-                final_pdf.write_bytes(pdf_path.read_bytes())
+                if save_pdf:
+                    # Save permanently in the specified location
+                    final_pdf = output_dir / f"{file_path.stem}.pdf"
+                    final_pdf.write_bytes(pdf_path.read_bytes())
+                else:
+                    # Create a temporary file that persists outside temp dir
+                    final_pdf = Path(tempfile.mktemp(suffix='.pdf'))
+                    final_pdf.write_bytes(pdf_path.read_bytes())
+                    
                 return final_pdf
                 
             except subprocess.CalledProcessError as e:
@@ -152,19 +174,31 @@ class DocumentParser:
             except Exception as e:
                 raise RuntimeError(f"Conversion failed: {str(e)}") from e
 
-    def load_document(self, file_path: Union[str, Path]) -> None:
+    def load_document(
+        self,
+        file_path: Union[str, Path],
+        save_converted_pdf: bool = False,
+        pdf_output_dir: Optional[Union[str, Path]] = None
+    ) -> None:
         """
         Load a document from a file path
 
         Args:
             file_path: Path to the document file (PDF or Office document)
+            save_converted_pdf: Whether to save converted PDFs permanently
+            pdf_output_dir: Directory to save converted PDFs in.
+                          If None, saves in same directory as input file.
         """
         file_path = Path(file_path) if isinstance(file_path, str) else file_path
         
         # Convert Office documents to PDF if needed
         pdf_path = file_path
         if file_path.suffix.lower() in self.OFFICE_EXTENSIONS:
-            pdf_path = self._convert_to_pdf(file_path)
+            pdf_path = self._convert_to_pdf(
+                file_path,
+                save_pdf=save_converted_pdf,
+                output_dir=pdf_output_dir
+            )
         
         try:
             # Update pipeline options with accelerator
@@ -179,8 +213,8 @@ class DocumentParser:
             )
             self.doc = converter.convert(pdf_path)
         finally:
-            # Clean up temporary PDF if we created one
-            if pdf_path != file_path:
+            # Clean up temporary PDF if we created one and it's not being saved
+            if pdf_path != file_path and not save_converted_pdf:
                 try:
                     pdf_path.unlink()
                 except OSError:
