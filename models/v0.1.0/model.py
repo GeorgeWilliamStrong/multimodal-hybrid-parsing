@@ -27,6 +27,7 @@ class DocumentProcessor:
         self.pipeline_options.images_scale = 300/72.0
         self.pipeline_options.generate_page_images = True
         self.pipeline_options.generate_picture_images = True
+        self.pipeline_options.do_formula_enrichment = True
         self.pipeline_options.accelerator_options = AcceleratorOptions(
             num_threads=8,
             device=AcceleratorDevice.CUDA
