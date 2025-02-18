@@ -1,4 +1,6 @@
 from pathlib import Path
+import subprocess
+import tempfile
 from typing import Union, Optional, Literal
 from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling.datamodel.base_models import InputFormat
@@ -14,6 +16,8 @@ from docling_core.types.doc import PictureItem
 
 class DocumentParser:
     """Parser class to convert documents to markdown using docling"""
+
+    OFFICE_EXTENSIONS = {'.doc', '.docx', '.ppt', '.pptx'}
 
     def __init__(
         self,
@@ -49,7 +53,10 @@ class DocumentParser:
         }
 
         if self.device not in device_map:
-            msg = f"Invalid device '{device}'. Must be one of: {list(device_map.keys())}"
+            msg = (
+                f"Invalid device '{device}'. "
+                f"Must be one of: {list(device_map.keys())}"
+            )
             raise ValueError(msg)
 
         # Configure accelerator options
@@ -74,48 +81,110 @@ class DocumentParser:
                 self.pipeline_options.picture_description_options = (
                     smolvlm_picture_description
                 )
-                self.pipeline_options.picture_description_options.generation_config = {
-                    "max_new_tokens": 500,
-                    "do_sample": False,
-                }
+                self.pipeline_options.picture_description_options.\
+                    generation_config = {
+                        "max_new_tokens": 500,
+                        "do_sample": False,
+                    }
             else:  # granite
                 # Configure Granite picture description
                 self.pipeline_options.picture_description_options = (
                     granite_picture_description
                 )
-                self.pipeline_options.picture_description_options.generation_config = {
-                    "max_new_tokens": 800,
-                    "do_sample": False,
-                }
+                self.pipeline_options.picture_description_options.\
+                    generation_config = {
+                        "max_new_tokens": 800,
+                        "do_sample": False,
+                    }
             # Set custom prompt for granite
-            self._set_description_prompt(self.pipeline_options.picture_description_options)
+            self._set_description_prompt(
+                self.pipeline_options.picture_description_options
+            )
 
     def _set_description_prompt(self, options):
         """Set the prompt for image description"""
-        options.prompt = "Describe what you can see in the image. Do not make anything up that is not in the image. Respond with three sentences."
+        options.prompt = (
+            "Describe what you can see in the image. "
+            "Do not make anything up that is not in the image. "
+            "Respond with three sentences."
+        )
+
+    def _convert_to_pdf(self, file_path: Path) -> Path:
+        """
+        Convert Office documents to PDF using LibreOffice
+
+        Args:
+            file_path: Path to the Office document
+
+        Returns:
+            Path: Path to the converted PDF file
+        """
+        # Create a temporary directory for the output
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_dir_path = Path(temp_dir)
+            
+            # Run LibreOffice conversion
+            try:
+                subprocess.run([
+                    'soffice',
+                    '--headless',
+                    '--convert-to', 'pdf',
+                    '--outdir', str(temp_dir_path),
+                    str(file_path)
+                ], check=True, capture_output=True)
+                
+                # Get the output PDF path
+                pdf_path = temp_dir_path / f"{file_path.stem}.pdf"
+                if not pdf_path.exists():
+                    raise RuntimeError("PDF conversion failed")
+                
+                # Create a new temporary file that persists outside the temp directory
+                final_pdf = Path(tempfile.mktemp(suffix='.pdf'))
+                final_pdf.write_bytes(pdf_path.read_bytes())
+                return final_pdf
+                
+            except subprocess.CalledProcessError as e:
+                raise RuntimeError(
+                    "LibreOffice conversion failed: {}".format(
+                        e.stderr.decode()
+                    )
+                ) from e
+            except Exception as e:
+                raise RuntimeError(f"Conversion failed: {str(e)}") from e
 
     def load_document(self, file_path: Union[str, Path]) -> None:
         """
         Load a document from a file path
 
         Args:
-            file_path: Path to the document file
+            file_path: Path to the document file (PDF or Office document)
         """
-        file_path = (
-            Path(file_path) if isinstance(file_path, str) else file_path
-        )
+        file_path = Path(file_path) if isinstance(file_path, str) else file_path
+        
+        # Convert Office documents to PDF if needed
+        pdf_path = file_path
+        if file_path.suffix.lower() in self.OFFICE_EXTENSIONS:
+            pdf_path = self._convert_to_pdf(file_path)
+        
+        try:
+            # Update pipeline options with accelerator
+            self.pipeline_options.accelerator_options = self.accelerator_options
 
-        # Update pipeline options with accelerator
-        self.pipeline_options.accelerator_options = self.accelerator_options
-
-        converter = DocumentConverter(
-            format_options={
+            converter = DocumentConverter(
+                format_options={
                     InputFormat.PDF: PdfFormatOption(
                         pipeline_options=self.pipeline_options
                     )
-            }
-        )
-        self.doc = converter.convert(file_path)
+                }
+            )
+            self.doc = converter.convert(pdf_path)
+        finally:
+            # Clean up temporary PDF if we created one
+            if pdf_path != file_path:
+                try:
+                    pdf_path.unlink()
+                except OSError:
+                    pass  # Best effort cleanup
 
     def to_markdown(
         self, output_path: Optional[Union[str, Path]] = None
@@ -146,7 +215,10 @@ class DocumentParser:
                 if element.annotations:
                     # Take only the first annotation for each image
                     ann = element.annotations[0]
-                    desc = f"**AI-Generated Image Description:** {ann.text}\n<!-- end image description -->"
+                    desc = (
+                        f"**AI-Generated Image Description:** {ann.text}\n"
+                        "<!-- end image description -->"
+                    )
                     picture_descriptions[page_no].append(desc)
 
         # Process each page
@@ -160,8 +232,9 @@ class DocumentParser:
                 parts = page_md.split("<!-- image -->")
                 
                 # Reconstruct the page with descriptions
-                new_page_md = parts[0]  # Start with the first part
-                for idx, part in enumerate(parts[1:]):  # Process remaining parts
+                new_page_md = parts[0]  # Start with first part
+                # Process remaining parts
+                for idx, part in enumerate(parts[1:]):
                     # Add image tag and description (if available)
                     if idx < len(picture_descriptions[page_no]):
                         description = picture_descriptions[page_no][idx]
