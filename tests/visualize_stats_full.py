@@ -26,6 +26,7 @@ with open('tests/stats/pdf_plumber_stats.json', 'r') as f:
 with open('tests/stats/instill_hybrid_pipeline_stats.json', 'r') as f:
     instill_stats = json.load(f)
 
+
 # Process data into pandas DataFrames
 def process_stats(stats_dict, version):
     data = []
