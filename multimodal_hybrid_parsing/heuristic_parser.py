@@ -1,23 +1,21 @@
 from pathlib import Path
-import subprocess
-import tempfile
 from typing import Union, Optional, Literal
-from docling.document_converter import DocumentConverter, PdfFormatOption
+from docling.document_converter import DocumentConverter, PdfFormatOption, FormatOption
 from docling.datamodel.base_models import InputFormat
 from docling.datamodel.pipeline_options import (
     AcceleratorDevice,
     AcceleratorOptions, 
     PdfPipelineOptions,
+    PictureDescriptionVlmOptions,
     granite_picture_description,
     smolvlm_picture_description
 )
 from docling_core.types.doc import PictureItem
+from docling.models.picture_description_vlm_model import PictureDescriptionVlmModel
 
 
 class DocumentParser:
     """Parser class to convert documents to markdown using docling"""
-
-    OFFICE_EXTENSIONS = {'.doc', '.docx', '.ppt', '.pptx'}
 
     def __init__(
         self,
@@ -53,10 +51,7 @@ class DocumentParser:
         }
 
         if self.device not in device_map:
-            msg = (
-                f"Invalid device '{device}'. "
-                f"Must be one of: {list(device_map.keys())}"
-            )
+            msg = f"Invalid device '{device}'. Must be one of: {list(device_map.keys())}"
             raise ValueError(msg)
 
         # Configure accelerator options
@@ -72,153 +67,75 @@ class DocumentParser:
         self.pipeline_options.generate_picture_images = True
         self.pipeline_options.do_formula_enrichment = True
 
-        # Configure picture description based on selected mode
+        self.vlm_model = None
         if picture_description != "none":
-            self.pipeline_options.do_picture_description = True
+            # Initialize VLM model for retrospective processing
+            vlm_options = (
+                smolvlm_picture_description if picture_description == "smolVLM"
+                else granite_picture_description
+            )
             
-            if picture_description == "smolVLM":
-                # Configure smolVLM picture description
-                self.pipeline_options.picture_description_options = (
-                    smolvlm_picture_description
-                )
-                self.pipeline_options.picture_description_options.\
-                    generation_config = {
-                        "max_new_tokens": 500,
-                        "do_sample": False,
-                    }
-            else:  # granite
-                # Configure Granite picture description
-                self.pipeline_options.picture_description_options = (
-                    granite_picture_description
-                )
-                self.pipeline_options.picture_description_options.\
-                    generation_config = {
-                        "max_new_tokens": 800,
-                        "do_sample": False,
-                    }
-            # Set custom prompt for granite
-            self._set_description_prompt(
-                self.pipeline_options.picture_description_options
+            # Set custom prompt
+            vlm_options.prompt = "Describe what you can see in the image. Do not make anything up that is not in the image. Respond with three sentences."
+            
+            # Configure generation parameters
+            vlm_options.generation_config = {
+                "max_new_tokens": 500 if picture_description == "smolVLM" else 800,
+                "do_sample": False,
+            }
+            
+            self.vlm_model = PictureDescriptionVlmModel(
+                enabled=True,
+                artifacts_path=None,
+                options=vlm_options,
+                accelerator_options=self.accelerator_options
             )
 
-    def _set_description_prompt(self, options):
-        """Set the prompt for image description"""
-        options.prompt = (
-            "Describe what you can see in the image. "
-            "Do not make anything up that is not in the image. "
-            "Respond with three sentences."
-        )
-
-    def _convert_to_pdf(
-        self, 
-        file_path: Path,
-        save_pdf: bool = False,
-        output_dir: Optional[Union[str, Path]] = None
-    ) -> Path:
-        """
-        Convert Office documents to PDF using LibreOffice
-
-        Args:
-            file_path: Path to the Office document
-            save_pdf: Whether to save the PDF permanently (default: False)
-            output_dir: Directory to save the PDF in if save_pdf is True.
-                       If None, saves in same directory as input file.
-
-        Returns:
-            Path: Path to the converted PDF file
-        """
-        # Determine output directory
-        if save_pdf:
-            if output_dir is None:
-                output_dir = file_path.parent
-            else:
-                output_dir = Path(output_dir)
-                output_dir.mkdir(parents=True, exist_ok=True)
-        
-        # Create a temporary directory for the conversion
-        with tempfile.TemporaryDirectory() as temp_dir:
-            temp_dir_path = Path(temp_dir)
-            
-            # Run LibreOffice conversion
-            try:
-                subprocess.run([
-                    'soffice',
-                    '--headless',
-                    '--convert-to', 'pdf',
-                    '--outdir', str(temp_dir_path),
-                    str(file_path)
-                ], check=True, capture_output=True)
-                
-                # Get the output PDF path
-                pdf_path = temp_dir_path / f"{file_path.stem}.pdf"
-                if not pdf_path.exists():
-                    raise RuntimeError("PDF conversion failed")
-                
-                if save_pdf:
-                    # Save permanently in the specified location
-                    final_pdf = output_dir / f"{file_path.stem}.pdf"
-                    final_pdf.write_bytes(pdf_path.read_bytes())
-                else:
-                    # Create a temporary file that persists outside temp dir
-                    final_pdf = Path(tempfile.mktemp(suffix='.pdf'))
-                    final_pdf.write_bytes(pdf_path.read_bytes())
-                    
-                return final_pdf
-                
-            except subprocess.CalledProcessError as e:
-                raise RuntimeError(
-                    "LibreOffice conversion failed: {}".format(
-                        e.stderr.decode()
-                    )
-                ) from e
-            except Exception as e:
-                raise RuntimeError(f"Conversion failed: {str(e)}") from e
-
-    def load_document(
-        self,
-        file_path: Union[str, Path],
-        save_converted_pdf: bool = False,
-        pdf_output_dir: Optional[Union[str, Path]] = None
-    ) -> None:
+    def load_document(self, file_path: Union[str, Path]) -> None:
         """
         Load a document from a file path
 
         Args:
-            file_path: Path to the document file (PDF or Office document)
-            save_converted_pdf: Whether to save converted PDFs permanently
-            pdf_output_dir: Directory to save converted PDFs in.
-                          If None, saves in same directory as input file.
+            file_path: Path to the document file
         """
         file_path = Path(file_path) if isinstance(file_path, str) else file_path
         
-        # Convert Office documents to PDF if needed
-        pdf_path = file_path
-        if file_path.suffix.lower() in self.OFFICE_EXTENSIONS:
-            pdf_path = self._convert_to_pdf(
-                file_path,
-                save_pdf=save_converted_pdf,
-                output_dir=pdf_output_dir
-            )
-        
-        try:
-            # Update pipeline options with accelerator
-            self.pipeline_options.accelerator_options = self.accelerator_options
+        # Determine input format from file extension
+        format_map = {
+            ".pdf": InputFormat.PDF,
+            ".docx": InputFormat.DOCX,
+            ".pptx": InputFormat.PPTX
+        }
+        input_format = format_map.get(file_path.suffix.lower())
+        if not input_format:
+            raise ValueError(f"Unsupported file format: {file_path.suffix}")
 
-            converter = DocumentConverter(
-                format_options={
-                    InputFormat.PDF: PdfFormatOption(
-                        pipeline_options=self.pipeline_options
-                    )
-                }
+        format_options = {}
+        if input_format == InputFormat.PDF:
+            # Use pipeline options for PDF
+            self.pipeline_options.accelerator_options = self.accelerator_options
+            format_options[input_format] = PdfFormatOption(
+                pipeline_options=self.pipeline_options
             )
-            self.doc = converter.convert(pdf_path)
-        finally:
-            # Clean up temporary PDF if we created one and it's not being saved
-            if pdf_path != file_path and not save_converted_pdf:
-                try:
-                    pdf_path.unlink()
-                except OSError:
-                    pass  # Best effort cleanup
+        else:
+            # Use simple format option for DOCX/PPTX
+            format_options[input_format] = FormatOption()
+
+        converter = DocumentConverter(format_options=format_options)
+        self.doc = converter.convert(file_path)
+
+        # For DOCX/PPTX, process images retrospectively if VLM model is enabled
+        if input_format in (InputFormat.DOCX, InputFormat.PPTX) and self.vlm_model:
+            for element, _level in self.doc.document.iterate_items():
+                if isinstance(element, PictureItem):
+                    image = element.get_image(self.doc.document)
+                    if image:
+                        descriptions = list(self.vlm_model._annotate_images([image]))
+                        if descriptions:
+                            element.annotations.append({
+                                "text": descriptions[0],
+                                "provenance": self.vlm_model.provenance
+                            })
 
     def to_markdown(
         self, output_path: Optional[Union[str, Path]] = None
@@ -249,10 +166,7 @@ class DocumentParser:
                 if element.annotations:
                     # Take only the first annotation for each image
                     ann = element.annotations[0]
-                    desc = (
-                        f"**AI-Generated Image Description:** {ann.text}\n"
-                        "<!-- end image description -->"
-                    )
+                    desc = f"**AI-Generated Image Description:** {ann.text}\n<!-- end image description -->"
                     picture_descriptions[page_no].append(desc)
 
         # Process each page
@@ -266,9 +180,8 @@ class DocumentParser:
                 parts = page_md.split("<!-- image -->")
                 
                 # Reconstruct the page with descriptions
-                new_page_md = parts[0]  # Start with first part
-                # Process remaining parts
-                for idx, part in enumerate(parts[1:]):
+                new_page_md = parts[0]  # Start with the first part
+                for idx, part in enumerate(parts[1:]):  # Process remaining parts
                     # Add image tag and description (if available)
                     if idx < len(picture_descriptions[page_no]):
                         description = picture_descriptions[page_no][idx]
