@@ -1,12 +1,6 @@
 from pathlib import Path
 from typing import Union, Optional, Literal
-from docling.pipeline.standard_pdf_pipeline import StandardPdfPipeline
-from docling.document_converter import (
-    DocumentConverter, 
-    PdfFormatOption,
-    WordFormatOption,
-    PowerpointFormatOption
-)
+from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling.datamodel.base_models import InputFormat
 from docling.datamodel.pipeline_options import (
     AcceleratorDevice,
@@ -16,7 +10,6 @@ from docling.datamodel.pipeline_options import (
     smolvlm_picture_description
 )
 from docling_core.types.doc import PictureItem
-from docling.pipeline.simple_pipeline import SimplePipeline
 
 
 class DocumentParser:
@@ -108,32 +101,19 @@ class DocumentParser:
         Args:
             file_path: Path to the document file
         """
-        file_path = Path(file_path) if isinstance(file_path, str) else file_path
+        file_path = (
+            Path(file_path) if isinstance(file_path, str) else file_path
+        )
 
         # Update pipeline options with accelerator
         self.pipeline_options.accelerator_options = self.accelerator_options
 
-        # Configure format options for different formats
-        format_options = {
-            # PDF uses StandardPdfPipeline
-            InputFormat.PDF: PdfFormatOption(
-                pipeline_options=self.pipeline_options,
-                pipeline_cls=StandardPdfPipeline
-            ),
-            # DOCX and PPTX use SimplePipeline
-            InputFormat.DOCX: WordFormatOption(
-                pipeline_options=self.pipeline_options,
-                pipeline_cls=SimplePipeline
-            ),
-            InputFormat.PPTX: PowerpointFormatOption(
-                pipeline_options=self.pipeline_options,
-                pipeline_cls=SimplePipeline
-            )
-        }
-
         converter = DocumentConverter(
-            allowed_formats=[InputFormat.PDF, InputFormat.DOCX, InputFormat.PPTX],
-            format_options=format_options
+            format_options={
+                    InputFormat.PDF: PdfFormatOption(
+                        pipeline_options=self.pipeline_options
+                    )
+            }
         )
         self.doc = converter.convert(file_path)
 
