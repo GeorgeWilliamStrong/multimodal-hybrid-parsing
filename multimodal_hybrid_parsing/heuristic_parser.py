@@ -16,6 +16,7 @@ from docling.datamodel.pipeline_options import (
     smolvlm_picture_description
 )
 from docling_core.types.doc import PictureItem
+from docling.pipeline.simple_pipeline import SimplePipeline
 
 
 class DocumentParser:
@@ -112,19 +113,21 @@ class DocumentParser:
         # Update pipeline options with accelerator
         self.pipeline_options.accelerator_options = self.accelerator_options
 
-        # Configure format options for all supported formats using StandardPdfPipeline
+        # Configure format options for different formats
         format_options = {
+            # PDF uses StandardPdfPipeline
             InputFormat.PDF: PdfFormatOption(
-                pipeline_cls=StandardPdfPipeline,
-                pipeline_options=self.pipeline_options
+                pipeline_options=self.pipeline_options,
+                pipeline_cls=StandardPdfPipeline
             ),
+            # DOCX and PPTX use SimplePipeline
             InputFormat.DOCX: WordFormatOption(
-                pipeline_cls=StandardPdfPipeline,
-                pipeline_options=self.pipeline_options
+                pipeline_options=self.pipeline_options,
+                pipeline_cls=SimplePipeline
             ),
             InputFormat.PPTX: PowerpointFormatOption(
-                pipeline_cls=StandardPdfPipeline,
-                pipeline_options=self.pipeline_options
+                pipeline_options=self.pipeline_options,
+                pipeline_cls=SimplePipeline
             )
         }
 
