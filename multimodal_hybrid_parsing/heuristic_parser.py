@@ -1,6 +1,11 @@
 from pathlib import Path
 from typing import Union, Optional, Literal
-from docling.document_converter import DocumentConverter, PdfFormatOption
+from docling.document_converter import (
+    DocumentConverter, 
+    PdfFormatOption,
+    WordFormatOption,
+    PowerpointFormatOption
+)
 from docling.datamodel.base_models import InputFormat
 from docling.datamodel.pipeline_options import (
     AcceleratorDevice,
@@ -101,19 +106,21 @@ class DocumentParser:
         Args:
             file_path: Path to the document file
         """
-        file_path = (
-            Path(file_path) if isinstance(file_path, str) else file_path
-        )
+        file_path = Path(file_path) if isinstance(file_path, str) else file_path
 
         # Update pipeline options with accelerator
         self.pipeline_options.accelerator_options = self.accelerator_options
 
+        # Configure format options for all supported formats
+        format_options = {
+            InputFormat.PDF: PdfFormatOption(pipeline_options=self.pipeline_options),
+            InputFormat.DOCX: WordFormatOption(pipeline_options=self.pipeline_options),
+            InputFormat.PPTX: PowerpointFormatOption(pipeline_options=self.pipeline_options)
+        }
+
         converter = DocumentConverter(
-            format_options={
-                    InputFormat.PDF: PdfFormatOption(
-                        pipeline_options=self.pipeline_options
-                    )
-            }
+            allowed_formats=[InputFormat.PDF, InputFormat.DOCX, InputFormat.PPTX],
+            format_options=format_options
         )
         self.doc = converter.convert(file_path)
 
