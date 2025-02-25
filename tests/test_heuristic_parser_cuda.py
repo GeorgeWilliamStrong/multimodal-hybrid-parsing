@@ -26,7 +26,7 @@ def test_pdf_parsing():
         benchmark_data = json.loads(benchmark_file.read_text())
 
     # Get all PDF files
-    supported_extensions = [".pdf"]
+    supported_extensions = [".pdf", ".docx", ".pptx"]
     sample_files = [
         f for f in samples_dir.iterdir() 
         if f.is_file() and f.suffix.lower() in supported_extensions
@@ -45,22 +45,34 @@ def test_pdf_parsing():
             start_time = time.time()
             
             # Record initial memory states
-            initial_gpu_memory = torch.cuda.memory_allocated() / (1024 * 1024)  # Convert to MB
-            initial_cpu_memory = psutil.Process().memory_info().rss / (1024 * 1024)  # Convert to MB
+            initial_gpu_memory = (
+                torch.cuda.memory_allocated() / (1024 * 1024)  # MB
+            )
+            initial_cpu_memory = (
+                psutil.Process().memory_info().rss / (1024 * 1024)  # MB
+            )
 
-            # Load and convert the document
-            parser.load_document(sample_file)
+            # Process the document
+            parser.process_document(sample_file)
             
             # Create output path with same name but .md extension
             output_path = output_dir / f"{sample_file.stem}.md"
 
-            # Convert to markdown
-            markdown_content = parser.to_markdown(output_path)
+            # Get markdown content and save to file
+            markdown_pages = parser.get_page_markdown()
+            markdown_content = "\n\n".join(markdown_pages)
+            output_path.write_text(markdown_content)
 
             # Calculate memory usage
-            peak_gpu_memory = torch.cuda.max_memory_allocated() / (1024 * 1024)  # Convert to MB
-            final_gpu_memory = torch.cuda.memory_allocated() / (1024 * 1024)  # Convert to MB
-            final_cpu_memory = psutil.Process().memory_info().rss / (1024 * 1024)  # Convert to MB
+            peak_gpu_memory = (
+                torch.cuda.max_memory_allocated() / (1024 * 1024)  # MB
+            )
+            final_gpu_memory = (
+                torch.cuda.memory_allocated() / (1024 * 1024)  # MB
+            )
+            final_cpu_memory = (
+                psutil.Process().memory_info().rss / (1024 * 1024)  # MB
+            )
             
             # Calculate processing time
             processing_time = time.time() - start_time
@@ -77,20 +89,30 @@ def test_pdf_parsing():
                     'initial_gpu_memory_mb': round(initial_gpu_memory, 2),
                     'peak_gpu_memory_mb': round(peak_gpu_memory, 2),
                     'final_gpu_memory_mb': round(final_gpu_memory, 2),
-                    'gpu_memory_increase_mb': round(final_gpu_memory - initial_gpu_memory, 2),
+                    'gpu_memory_increase_mb': round(
+                        final_gpu_memory - initial_gpu_memory, 2
+                    ),
                     'initial_cpu_memory_mb': round(initial_cpu_memory, 2),
                     'final_cpu_memory_mb': round(final_cpu_memory, 2),
-                    'cpu_memory_increase_mb': round(final_cpu_memory - initial_cpu_memory, 2)
+                    'cpu_memory_increase_mb': round(
+                        final_cpu_memory - initial_cpu_memory, 2
+                    )
                 }
             })
 
             print(f"✓ Successfully converted {sample_file.name}")
             print(f"  Processing time: {processing_time:.2f} seconds")
-            print(f"  GPU Memory: {final_gpu_memory - initial_gpu_memory:.2f}MB increase (Peak: {peak_gpu_memory:.2f}MB)")
-            print(f"  CPU Memory: {final_cpu_memory - initial_cpu_memory:.2f}MB increase")
+            print(
+                f"  GPU Memory: {final_gpu_memory - initial_gpu_memory:.2f}MB "
+                f"increase (Peak: {peak_gpu_memory:.2f}MB)"
+            )
+            print(
+                f"  CPU Memory: "
+                f"{final_cpu_memory - initial_cpu_memory:.2f}MB increase"
+            )
             print(f"  Output saved to {output_path}")
-            print(f"  Preview (first 200 chars):")
-            #print(f"  {markdown_content[:200]}...")
+            print("  Preview (first 100 chars):")
+            print(f"  {markdown_content[:100]}...")
             print("-" * 50)
 
         except Exception as e:

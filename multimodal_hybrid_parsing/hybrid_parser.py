@@ -5,9 +5,13 @@ from typing import List, Optional, Union
 import io
 from openai import OpenAI
 from aiohttp import ClientSession
-from tenacity import retry, wait_exponential, stop_after_attempt, RetryError
+from tenacity import (
+    retry,
+    wait_exponential,
+    stop_after_attempt,
+    RetryError
+)
 from .heuristic_parser import DocumentParser
-from .page_images import PageImageConverter
 from tqdm.asyncio import tqdm
 
 
@@ -32,10 +36,12 @@ class HybridParser:
         self.batch_size = batch_size
         self.model = model
         self.heuristic_parser = DocumentParser()
-        self.image_converter = PageImageConverter()
         self.client = OpenAI(api_key=openai_api_key)
 
-    @retry(wait=wait_exponential(min=1, max=60), stop=stop_after_attempt(5))
+    @retry(
+        wait=wait_exponential(min=1, max=60),
+        stop=stop_after_attempt(5)
+    )
     async def _refine_batch_async(
         self,
         markdown_texts: List[str],
@@ -154,7 +160,9 @@ class HybridParser:
             return data['choices'][0]['message']['content']
 
     async def _process_batch_concurrently(
-        self, markdown_pages: List[str], image_bytes: List[bytes]
+        self,
+        markdown_pages: List[str],
+        image_bytes: List[bytes]
     ) -> List[str]:
         """
         Process batches concurrently.
@@ -178,7 +186,13 @@ class HybridParser:
                 batch_markdown = markdown_pages[start_idx:end_idx]
                 batch_images = image_bytes[start_idx:end_idx]
 
-                tasks.append(self._refine_batch_async(batch_markdown, batch_images, session))
+                tasks.append(
+                    self._refine_batch_async(
+                        batch_markdown,
+                        batch_images,
+                        session
+                    )
+                )
 
             # Await all tasks concurrently with progress bar
             refined_batches = await tqdm.gather(
@@ -190,38 +204,28 @@ class HybridParser:
 
     async def parse_document(
         self,
-        file_path: Union[str, Path],
-        output_path: Optional[Union[str, Path]] = None,
-        temp_image_dir: Optional[Union[str, Path]] = None
+        file_path: Union[str, Path]
     ) -> str:
         """
         Parse a document using the hybrid approach
 
         Args:
             file_path: Path to the document file
-            output_path: Optional path to save the final markdown output
-            temp_image_dir: Optional directory to save temporary page images
 
         Returns:
             str: Final refined markdown text
         """
         # Convert paths
         file_path = Path(file_path)
-        if output_path:
-            output_path = Path(output_path)
-        if temp_image_dir:
-            temp_image_dir = Path(temp_image_dir)
 
-        # Extract markdown and images
-        self.heuristic_parser.load_document(file_path)
-        markdown_pages = self.heuristic_parser.to_markdown()
-        images = self.image_converter.convert_to_images(
-            file_path, temp_image_dir
-        )
+        # Process document and extract markdown and images
+        self.heuristic_parser.process_document(file_path)
+        markdown_pages = self.heuristic_parser.get_page_markdown()
+        page_images = self.heuristic_parser.get_page_images()
 
         # Convert images to base64 encoded JPEGs
         image_bytes = []
-        for img in images:
+        for img in page_images:
             img_byte_arr = io.BytesIO()
             if img.mode == 'RGBA':
                 img = img.convert('RGB')
@@ -231,7 +235,10 @@ class HybridParser:
 
         # Process batches concurrently using await
         try:
-            refined_batches = await self._process_batch_concurrently(markdown_pages, image_bytes)
+            refined_batches = await self._process_batch_concurrently(
+                markdown_pages,
+                image_bytes
+            )
         except RetryError as e:
             # Handle failure after retries are exhausted
             print(f"Failed to process document after retries: {e}")
@@ -239,9 +246,5 @@ class HybridParser:
 
         # Combine refined batches
         final_markdown = "\n\n".join(refined_batches)
-
-        # Save output if path provided
-        if output_path:
-            output_path.write_text(final_markdown)
 
         return final_markdown

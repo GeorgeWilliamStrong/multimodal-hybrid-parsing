@@ -14,15 +14,11 @@ requires-python = ">=3.10"
 dependencies = [
     "docling==2.23.0",
     "pytest==7.0.0",
-    "pdf2image==1.16.0",
     "reportlab==4.2.5",
     "Pillow==10.4.0",
     "openai==1.59.7",
     "aiohttp==3.11.11",
     "tenacity==9.0.0",
-    "transformers @ git+https://github.com/huggingface/transformers",
-    "accelerate>=0.26.0",
-    "qwen-vl-utils==0.0.10",
     "torch==2.5.1",
     "torchvision==0.20.1"
 ]

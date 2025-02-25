@@ -28,7 +28,7 @@ async def test_hybrid_pdf_parsing():
         timing_data = json.loads(timing_file.read_text())
 
     # Get all PDF files
-    supported_extensions = [".pdf"]
+    supported_extensions = [".pdf", ".docx", ".pptx"]
     sample_files = [
         f for f in samples_dir.iterdir() 
         if f.is_file() and f.suffix.lower() in supported_extensions
@@ -49,11 +49,11 @@ async def test_hybrid_pdf_parsing():
             # Create output path with same name but .md extension
             output_path = output_dir / f"{sample_file.stem}.md"
 
-            # Parse document
-            markdown_content = await parser.parse_document(
-                sample_file,
-                output_path
-            )
+            # Parse document and get markdown content
+            markdown_content = await parser.parse_document(sample_file)
+            
+            # Save markdown content to file
+            output_path.write_text(markdown_content)
 
             # Calculate processing time
             processing_time = time.time() - start_time
@@ -71,8 +71,8 @@ async def test_hybrid_pdf_parsing():
             print("✓ Successfully converted", sample_file.name)
             print(f"  Processing time: {processing_time:.2f} seconds")
             print("  Output saved to", output_path)
-            print("  Preview (first 200 chars):")
-            print("  " + markdown_content[:200] + "...")
+            print("  Preview (first 100 chars):")
+            print("  " + markdown_content[:100] + "...")
             print("-" * 50)
 
         except Exception as e:
