@@ -44,6 +44,7 @@ async def test_hybrid_pdf_parsing():
     # Process each file
     for sample_file in sample_files:
         try:
+            print(f"Processing {sample_file.name}")
             start_time = time.time()
             
             # Create output path with same name but .md extension
